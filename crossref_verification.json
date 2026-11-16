@@ -1,0 +1,649 @@
+[
+  {
+    "query": "Braidotti The Posthuman 2013",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Braidotti Posthuman Knowledge 2019",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Haraway Situated Knowledges The Science Question in Feminism and the Privilege of Partial Perspective",
+    "results": [
+      {
+        "doi": "10.4324/9781315680675-68",
+        "title": "Donna Haraway, “Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective”",
+        "authors": "",
+        "year": 2016,
+        "journal": "Feminist Theory Reader",
+        "volume": null,
+        "issue": null,
+        "page": "452-463",
+        "type": "book-chapter",
+        "publisher": "Routledge"
+      },
+      {
+        "doi": "10.2307/3178066",
+        "title": "Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective",
+        "authors": "Haraway Donna",
+        "year": 1988,
+        "journal": "Feminist Studies",
+        "volume": "14",
+        "issue": "3",
+        "page": "575",
+        "type": "journal-article",
+        "publisher": "JSTOR"
+      }
+    ]
+  },
+  {
+    "query": "Haraway Staying with the Trouble Making Kin in the Chthulucene",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Haraway Anthropocene Capitalocene Plantationocene Chthulucene Making Kin",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Barad Posthumanist Performativity Toward an Understanding of How Matter Comes to Matter",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Barad Meeting the Universe Halfway Quantum Physics and the Entanglement of Matter and Meaning",
+    "results": [
+      {
+        "doi": "10.1215/9780822388128",
+        "title": "Meeting the Universe Halfway",
+        "authors": "Barad Karen",
+        "year": 2006,
+        "journal": "",
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "type": "edited-book",
+        "publisher": "Duke University Press"
+      },
+      {
+        "doi": "10.1515/9780822388128-003",
+        "title": "One. Meeting the Universe Halfway",
+        "authors": "",
+        "year": 2020,
+        "journal": "Meeting the Universe Halfway",
+        "volume": null,
+        "issue": null,
+        "page": "39-70",
+        "type": "book-chapter",
+        "publisher": "Duke University Press"
+      }
+    ]
+  },
+  {
+    "query": "Hayles How We Became Posthuman Virtual Bodies in Cybernetics Literature and Informatics",
+    "results": [
+      {
+        "doi": "10.7208/chicago/9780226321394.001.0001",
+        "title": "How We Became Posthuman",
+        "authors": "Hayles N. Katherine",
+        "year": 1999,
+        "journal": "",
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "type": "monograph",
+        "publisher": "University of Chicago Press"
+      },
+      {
+        "doi": "10.3202/caa.reviews.1999.20",
+        "title": "David Michalski. Review of  \"How We Became Posthuman:  Virtual Bodies in Cybernetics, Literature, and Informatics\"  by N. Katherine Hayles.",
+        "authors": "Michalski David",
+        "year": 1999,
+        "journal": "caa.reviews",
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "type": "journal-article",
+        "publisher": "College Art Association"
+      }
+    ]
+  },
+  {
+    "query": "Wolfe What Is Posthumanism",
+    "results": [
+      {
+        "doi": "10.1086/670305",
+        "title": "<i>Cary Wolfe</i> What Is Posthumanism?<i>What Is Posthumanism?</i> Cary Wolfe. Minneapolis: University of Minnesota Press, 2010. Pp. xxxiv+357.",
+        "authors": "Chute Hillary",
+        "year": 2013,
+        "journal": "Modern Philology",
+        "volume": "111",
+        "issue": "1",
+        "page": "E136-E140",
+        "type": "journal-article",
+        "publisher": "University of Chicago Press"
+      },
+      {
+        "doi": "10.52537/humanimalia.9975",
+        "title": "Cary Wolfe. What is Posthumanism?",
+        "authors": "Geroux Robert",
+        "year": 2013,
+        "journal": "Humanimalia",
+        "volume": "5",
+        "issue": "1",
+        "page": "191-194",
+        "type": "journal-article",
+        "publisher": "Humanimalia, Utrecht University"
+      }
+    ]
+  },
+  {
+    "query": "Forlano Posthumanism and Design",
+    "results": [
+      {
+        "doi": "10.1016/j.sheji.2017.08.001",
+        "title": "Posthumanism and Design",
+        "authors": "Forlano Laura",
+        "year": 2017,
+        "journal": "She Ji: The Journal of Design, Economics, and Innovation",
+        "volume": "3",
+        "issue": "1",
+        "page": "16-29",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.33182/joph.v4i3.3433",
+        "title": "Forlano, L., &amp; Glabau, D. (2024). Cyborg. The MIT Press Essential Knowledge Series.",
+        "authors": "Khobra Ujjwal, Gaur Rashmi",
+        "year": 2024,
+        "journal": "Journal of Posthumanism",
+        "volume": "4",
+        "issue": "3",
+        "page": "279-282",
+        "type": "journal-article",
+        "publisher": "Nobel Press Resources"
+      }
+    ]
+  },
+  {
+    "query": "Ulmer Posthumanism as research methodology education in the Anthropocene",
+    "results": [
+      {
+        "doi": "10.1080/09518398.2017.1336806",
+        "title": "Posthumanism as research methodology: inquiry in the Anthropocene",
+        "authors": "Ulmer Jasmine B.",
+        "year": 2017,
+        "journal": "International Journal of Qualitative Studies in Education",
+        "volume": "30",
+        "issue": "9",
+        "page": "832-848",
+        "type": "journal-article",
+        "publisher": "Informa UK Limited"
+      },
+      {
+        "doi": "10.4324/9781315769165-20",
+        "title": "Dark Posthumanism, Unthinking Education, and Ecology at the End of the Anthropocene",
+        "authors": "",
+        "year": 2014,
+        "journal": "Posthumanism and Educational Research",
+        "volume": null,
+        "issue": null,
+        "page": "148-162",
+        "type": "book-chapter",
+        "publisher": "Routledge"
+      }
+    ]
+  },
+  {
+    "query": "Grant Osanloo Understanding selecting and integrating a theoretical framework in dissertation research",
+    "results": [
+      {
+        "doi": "10.5929/2014.4.2.9",
+        "title": "Understanding, Selecting, and Integrating a Theoretical Framework in Dissertation Research: Creating the Blueprint for Your “House”",
+        "authors": ", Grant Cynthia, Osanloo Azadeh, ",
+        "year": 2014,
+        "journal": "Administrative Issues Journal Education Practice and Research",
+        "volume": "4",
+        "issue": "2",
+        "page": null,
+        "type": "journal-article",
+        "publisher": "Administrative Issues Journal: Education, Practice and Research"
+      },
+      {
+        "doi": "10.4324/9780203720561-8",
+        "title": "Selecting a topic and writing the dissertation proposal",
+        "authors": "",
+        "year": 2012,
+        "journal": "Dissertation Research and Writing for Construction Students",
+        "volume": null,
+        "issue": null,
+        "page": "18-25",
+        "type": "book-chapter",
+        "publisher": "Routledge"
+      }
+    ]
+  },
+  {
+    "query": "Sandberg Alvesson Ways of constructing research questions gap-spotting or problematization",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Geels Technological transitions as evolutionary reconfiguration processes a multi-level perspective and a case-study",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Geels The multi-level perspective on sustainability transitions responses to seven criticisms",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Sovacool Dworkin Energy justice conceptual insights and practical applications",
+    "results": [
+      {
+        "doi": "10.1016/j.apenergy.2015.01.002",
+        "title": "Energy justice: Conceptual insights and practical applications",
+        "authors": "Sovacool Benjamin K., Dworkin Michael H.",
+        "year": 2015,
+        "journal": "Applied Energy",
+        "volume": "142",
+        "issue": null,
+        "page": "435-444",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.1017/cbo9781107323605",
+        "title": "Global Energy Justice",
+        "authors": "Sovacool Benjamin K., Dworkin Michael H.",
+        "year": 2014,
+        "journal": "",
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "type": "monograph",
+        "publisher": "Cambridge University Press"
+      }
+    ]
+  },
+  {
+    "query": "Jenkins McCauley Heffron Stephan Rehner Energy justice a conceptual review",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Walker Day Fuel poverty as injustice integrating distribution recognition and procedure",
+    "results": [
+      {
+        "doi": "10.1016/j.enpol.2012.01.044",
+        "title": "Fuel poverty as injustice: Integrating distribution, recognition and procedure in the struggle for affordable warmth",
+        "authors": "Walker Gordon, Day Rosie",
+        "year": 2012,
+        "journal": "Energy Policy",
+        "volume": "49",
+        "issue": null,
+        "page": "69-75",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.3351/ppp.0010.0001.0003",
+        "title": "Fuel poverty in the UK: beyond heating?",
+        "authors": "Simcock Neil, Walker Gordon, Day Rosie",
+        "year": 2016,
+        "journal": "People Place and Policy Online",
+        "volume": "10",
+        "issue": "1",
+        "page": "25-41",
+        "type": "journal-article",
+        "publisher": "Sheffield Hallam University"
+      }
+    ]
+  },
+  {
+    "query": "Heffron McCauley The concept of energy justice across the disciplines",
+    "results": [
+      {
+        "doi": "10.1016/j.enpol.2017.03.018",
+        "title": "The concept of energy justice across the disciplines",
+        "authors": "Heffron Raphael J., McCauley Darren",
+        "year": 2017,
+        "journal": "Energy Policy",
+        "volume": "105",
+        "issue": null,
+        "page": "658-667",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.1007/978-3-030-80097-0_2",
+        "title": "The Concept of Energy Justice Across the Disciplines",
+        "authors": "Heffron Raphael J",
+        "year": 2021,
+        "journal": "The Challenge for Energy Justice",
+        "volume": null,
+        "issue": null,
+        "page": "13-34",
+        "type": "book-chapter",
+        "publisher": "Springer International Publishing"
+      }
+    ]
+  },
+  {
+    "query": "Newell Mulvaney The political economy of the just transition",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Winkler Towards a theory of just transition energy justice and the future of work",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Arnstein A ladder of citizen participation",
+    "results": [
+      {
+        "doi": "10.4324/9780429261732-36",
+        "title": "“A Ladder of Citizen Participation”",
+        "authors": "Arnstein Sherry",
+        "year": 2020,
+        "journal": "The City Reader",
+        "volume": null,
+        "issue": null,
+        "page": "290-302",
+        "type": "book-chapter",
+        "publisher": "Routledge"
+      },
+      {
+        "doi": "10.4324/9781003519508-36",
+        "title": "“A Ladder of Citizen Participation”",
+        "authors": "Arnstein Sherry",
+        "year": 2025,
+        "journal": "The City Reader",
+        "volume": null,
+        "issue": null,
+        "page": "306-321",
+        "type": "book-chapter",
+        "publisher": "Routledge"
+      }
+    ]
+  },
+  {
+    "query": "Davis Perceived usefulness perceived ease of use and user acceptance of information technology",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Venkatesh Morris Davis Davis User acceptance of information technology toward a unified view",
+    "results": [
+      {
+        "doi": "10.2307/30036540",
+        "title": "User Acceptance of Information Technology: Toward A Unified View1",
+        "authors": "Venkatesh Viswanath, Morris Michael G., Davis Gordon B., Davis Fred D.",
+        "year": 2003,
+        "journal": "MIS Quarterly",
+        "volume": "27",
+        "issue": "3",
+        "page": "425-478",
+        "type": "journal-article",
+        "publisher": "MIS Quarterly"
+      },
+      {
+        "doi": "10.1037/t57185-000",
+        "title": "Unified Theory of Acceptance and Use of Technology",
+        "authors": "Venkatesh Viswanath, Morris Michael G., Davis Gordon B., Davis Fred D.",
+        "year": 2003,
+        "journal": "PsycTESTS Dataset",
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "type": "dataset",
+        "publisher": "American Psychological Association (APA)"
+      }
+    ]
+  },
+  {
+    "query": "Wustenhagen Wolsink Burer Social acceptance of renewable energy innovation an introduction to the concept",
+    "results": [
+      {
+        "doi": "10.1016/j.enpol.2006.12.001",
+        "title": "Social acceptance of renewable energy innovation: An introduction to the concept",
+        "authors": "Wüstenhagen Rolf, Wolsink Maarten, Bürer Mary Jean",
+        "year": 2007,
+        "journal": "Energy Policy",
+        "volume": "35",
+        "issue": "5",
+        "page": "2683-2691",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.1007/978-1-4614-5820-3_88",
+        "title": "Wind Power: Basic Challenge Concerning Social Acceptance",
+        "authors": "Wolsink Maarten",
+        "year": 2013,
+        "journal": "Renewable Energy Systems",
+        "volume": null,
+        "issue": null,
+        "page": "1785-1821",
+        "type": "book-chapter",
+        "publisher": "Springer New York"
+      }
+    ]
+  },
+  {
+    "query": "Sanders Stappers Co-creation and the new landscapes of design",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Stephenson Barton-Johnson Energy cultures a framework for understanding energy behaviours",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Leminen Westerlund Nystrom Living Labs as open-innovation networks",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Hossain Leminen Westerlund A systematic review of living lab literature",
+    "results": [
+      {
+        "doi": "10.2139/ssrn.3307055",
+        "title": "A Systematic Review of Living Lab Literature",
+        "authors": "Hossain Mokter, Leminen Seppo, Westerlund Mika",
+        "year": 2018,
+        "journal": "SSRN Electronic Journal",
+        "volume": null,
+        "issue": null,
+        "page": null,
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.1016/j.jclepro.2018.12.257",
+        "title": "A systematic review of living lab literature",
+        "authors": "Hossain Mokter, Leminen Seppo, Westerlund Mika",
+        "year": 2019,
+        "journal": "Journal of Cleaner Production",
+        "volume": "213",
+        "issue": null,
+        "page": "976-988",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      }
+    ]
+  },
+  {
+    "query": "DellEra Landoni Living Lab a methodology between user-centred design and participatory design",
+    "results": [
+      {
+        "doi": "10.1111/caim.12061",
+        "title": "Living Lab: A Methodology between User‐Centred Design and Participatory Design",
+        "authors": "Dell'Era Claudio, Landoni Paolo",
+        "year": 2014,
+        "journal": "Creativity and Innovation Management",
+        "volume": "23",
+        "issue": "2",
+        "page": "137-154",
+        "type": "journal-article",
+        "publisher": "Wiley"
+      },
+      {
+        "doi": "10.1016/b978-1-84334-359-2.50004-4",
+        "title": "Designing the website – participatory design",
+        "authors": "George Carole A.",
+        "year": 2008,
+        "journal": "User-Centred Library Websites",
+        "volume": null,
+        "issue": null,
+        "page": "97-126",
+        "type": "book-chapter",
+        "publisher": "Elsevier"
+      }
+    ]
+  },
+  {
+    "query": "von Wirth Fuenfschilling Frantzeskaki Coenen Impacts of urban living labs on sustainability transitions mechanisms and strategies",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Sovacool What are we doing here Analyzing fifteen years of energy scholarship and proposing a social science research agenda",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Musango Smit Ceschin Ambole Batinge Anditi Petrulaityte Mukama Mainstreaming gender to achieve security of energy services in poor urban environments",
+    "results": [
+      {
+        "doi": "10.1016/j.erss.2020.101715",
+        "title": "Mainstreaming gender to achieve security of energy services in poor urban environments",
+        "authors": "Musango Josephine Kaviti, Smit Suzanne, Ceschin Fabrizio, Ambole Amollo, Batinge Benjamin, Anditi Christer, Petrulaityte Aine, Mukama Matia",
+        "year": 2020,
+        "journal": "Energy Research &amp; Social Science",
+        "volume": "70",
+        "issue": null,
+        "page": "101715",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.1002/sres.2793",
+        "title": "Modelling gendered innovation for the security of energy services in poor urban environments",
+        "authors": "Batinge Benjamin, Musango Josephine Kaviti, Ceschin Fabrizio, Ambole Amollo, Smit Suzanne, Petrulaityte Aine",
+        "year": 2021,
+        "journal": "Systems Research and Behavioral Science",
+        "volume": "39",
+        "issue": "2",
+        "page": "287-304",
+        "type": "journal-article",
+        "publisher": "Wiley"
+      }
+    ]
+  },
+  {
+    "query": "Mukama Musango Smit Ceschin Petrulaityte Development of living labs to support gendered energy technology innovation in poor urban environments",
+    "results": [
+      {
+        "doi": "10.1016/j.techsoc.2021.101850",
+        "title": "Development of living labs to support gendered energy technology innovation in poor urban environments",
+        "authors": "Mukama Matia, Musango Josephine Kaviti, Smit Suzanne, Ceschin Fabrizio, Petrulaityte Aine",
+        "year": 2022,
+        "journal": "Technology in Society",
+        "volume": "68",
+        "issue": null,
+        "page": "101850",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.7166/33-2-2469",
+        "title": "FROM ENERGY SECURITY TO SECURITY OF ENERGY SERVICES: THE ROLE OF GENDERED INNOVATIONS IN LIVING LABS",
+        "authors": "Batinge Benjamin, Musango Josephine Kaviti, Ceschin Fabrizio, Ambole Amollo, Smit Suzanne, Mukama Matia, Petrulaityte Aine",
+        "year": 2022,
+        "journal": "South African Journal of Industrial Engineering",
+        "volume": "32",
+        "issue": "2",
+        "page": null,
+        "type": "journal-article",
+        "publisher": "Stellenbosch University"
+      }
+    ]
+  },
+  {
+    "query": "Petrulaityte Ceschin Musango Mwiti Anditi Njoroge Supporting the development of gendered energy innovations for informal urban settlements GENS codesign toolkit",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Anditi Musango Smit Ceschin Addressing gender dimensions in energy innovations a gender analysis framework for informal urban settlements in Africa",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Batinge Musango Ceschin Ambole Smit Petrulaityte Modelling gendered innovation for the security of energy services in poor urban environments",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Oosthuizen de Kock Musango Exploring factors that influence the mainstreaming of gendered energy interventions in poor urban environments",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Musango Assessing gender and energy in urban household energy transitions in South Africa quantitative storytelling Groenheuwel",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Molepo Aboalez Mathaba Analysis of barriers to South Africa's energy transition perspectives from industry experts",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "query": "Aboalez A posthumanist social approach to energy transition",
+    "results": [
+      {
+        "doi": "10.1016/j.procir.2025.01.042",
+        "title": "A Posthumanist Social Approach to Energy Transition",
+        "authors": "Aboalez Khaled",
+        "year": 2025,
+        "journal": "Procedia CIRP",
+        "volume": "135",
+        "issue": null,
+        "page": "8-13",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      },
+      {
+        "doi": "10.1016/j.esd.2025.101777",
+        "title": "Analysis of Barriers to South Africa’s Energy Transition: Perspectives from industry experts",
+        "authors": "Molepo Pheladi Morufa, Aboalez Khaled, Mathaba Tebello Ntsiki Don",
+        "year": 2025,
+        "journal": "Energy for Sustainable Development",
+        "volume": "88",
+        "issue": null,
+        "page": "101777",
+        "type": "journal-article",
+        "publisher": "Elsevier BV"
+      }
+    ]
+  },
+  {
+    "query": "Systematic Review Application of the Living Lab Concept and Role of Stakeholders in the Energy Sector",
+    "results": [
+      {
+        "doi": "10.3390/su142114009",
+        "title": "A Systematic Review on the Application of the Living Lab Concept and Role of Stakeholders in the Energy Sector",
+        "authors": "Mbatha Sphokazi Phelokazi, Musango Josephine Kaviti",
+        "year": 2022,
+        "journal": "Sustainability",
+        "volume": "14",
+        "issue": "21",
+        "page": "14009",
+        "type": "journal-article",
+        "publisher": "MDPI AG"
+      },
+      {
+        "doi": "10.3390/su17062727",
+        "title": "Application of Living Lab Concept: Where, How and for What Is Being Used in Europe to Support Energy, Social and Environmental Transition",
+        "authors": "Arias Alba, Pennese Claudia, Grijalba Olatz, Sidqi Yousra",
+        "year": 2025,
+        "journal": "Sustainability",
+        "volume": "17",
+        "issue": "6",
+        "page": "2727",
+        "type": "journal-article",
+        "publisher": "MDPI AG"
+      }
+    ]
+  },
+  {
+    "query": "Ricci Co-creating justice in housing energy transitions through energy living labs",
+    "error": "HTTP Error 429: Too Many Requests"
+  }
+]

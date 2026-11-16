@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <marker id="a" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#1F3864"/>
+    </marker>
+    <marker id="g" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#548235"/>
+    </marker>
+    <style>
+      .t { font-family: Arial, Helvetica, sans-serif; font-size: 22px; font-weight: bold; fill: #1F3864; }
+      .s { font-family: Arial, Helvetica, sans-serif; font-size: 13px; fill: #404040; }
+      .b { font-family: Arial, Helvetica, sans-serif; font-size: 14px; font-weight: bold; fill: #111111; }
+      .bx { font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: #111111; }
+      .l { font-family: Arial, Helvetica, sans-serif; font-size: 12px; fill: #1F3864; }
+      .n { font-family: Arial, Helvetica, sans-serif; font-size: 11px; fill: #595959; }
+    </style>
+  </defs>
+
+  <rect x="0" y="0" width="1200" height="760" fill="#FFFFFF"/>
+  <text x="600" y="38" text-anchor="middle" class="t">Figure 4.2: Proposed feedback loops in the SETILL model</text>
+  <text x="600" y="60" text-anchor="middle" class="s">Loops are hypotheses about the dynamics of the configuration, not observed causal paths.</text>
+
+  <!-- Learning loop (top) -->
+  <rect x="100" y="130" width="240" height="90" rx="10" fill="#FFF2CC" stroke="#BF9000" stroke-width="2"/>
+  <text x="220" y="162" text-anchor="middle" class="b">LL9 Reflexive monitoring</text>
+  <text x="220" y="184" text-anchor="middle" class="bx">What is learned, what is excluded,</text>
+  <text x="220" y="202" text-anchor="middle" class="bx">how cuts are recorded</text>
+
+  <rect x="480" y="130" width="240" height="90" rx="10" fill="#FFF2CC" stroke="#BF9000" stroke-width="2"/>
+  <text x="600" y="162" text-anchor="middle" class="b">LL4 Configuration design</text>
+  <text x="600" y="184" text-anchor="middle" class="bx">Artefact, service, dwelling, water,</text>
+  <text x="600" y="202" text-anchor="middle" class="bx">maintenance, rules of use</text>
+
+  <rect x="860" y="130" width="240" height="90" rx="10" fill="#FFF2CC" stroke="#BF9000" stroke-width="2"/>
+  <text x="980" y="162" text-anchor="middle" class="b">LL3 Participation</text>
+  <text x="980" y="184" text-anchor="middle" class="bx">Decision-making, co-design,</text>
+  <text x="980" y="202" text-anchor="middle" class="bx">prototyping, testing</text>
+
+  <!-- Learning loop arrows -->
+  <path d="M340,175 L480,175" fill="none" stroke="#548235" stroke-width="2.5" marker-end="url(#g)"/>
+  <path d="M720,175 L860,175" fill="none" stroke="#548235" stroke-width="2.5" marker-end="url(#g)"/>
+  <path d="M980,220 C980,280 220,280 220,220" fill="none" stroke="#548235" stroke-width="2.5" marker-end="url(#g)"/>
+  <text x="600" y="268" text-anchor="middle" class="l">Learning loop (reinforcing)</text>
+
+  <!-- Justice loop (bottom) -->
+  <rect x="100" y="430" width="240" height="96" rx="10" fill="#FBE5D6" stroke="#C55A11" stroke-width="2"/>
+  <text x="220" y="462" text-anchor="middle" class="b">LL8 Justice evaluation</text>
+  <text x="220" y="484" text-anchor="middle" class="bx">Distribution, procedure,</text>
+  <text x="220" y="502" text-anchor="middle" class="bx">recognition, material relations</text>
+
+  <rect x="480" y="430" width="240" height="96" rx="10" fill="#FBE5D6" stroke="#C55A11" stroke-width="2"/>
+  <text x="600" y="462" text-anchor="middle" class="b">LL6 Cost incidence</text>
+  <text x="600" y="484" text-anchor="middle" class="bx">Who pays, when, and with</text>
+  <text x="600" y="502" text-anchor="middle" class="bx">what consequence for cash flow</text>
+
+  <rect x="860" y="430" width="240" height="96" rx="10" fill="#FBE5D6" stroke="#C55A11" stroke-width="2"/>
+  <text x="980" y="462" text-anchor="middle" class="b">LL5 Governance and ownership</text>
+  <text x="980" y="484" text-anchor="middle" class="bx">Who decides, owns, maintains</text>
+  <text x="980" y="502" text-anchor="middle" class="bx">and can change the arrangement</text>
+
+  <!-- Justice loop arrows -->
+  <path d="M340,478 L480,478" fill="none" stroke="#C55A11" stroke-width="2.5" marker-end="url(#a)"/>
+  <path d="M720,478 L860,478" fill="none" stroke="#C55A11" stroke-width="2.5" marker-end="url(#a)"/>
+  <path d="M980,526 C980,586 220,586 220,526" fill="none" stroke="#C55A11" stroke-width="2.5" marker-end="url(#a)"/>
+  <text x="600" y="574" text-anchor="middle" class="l">Justice loop (balancing)</text>
+
+  <!-- Link between loops -->
+  <path d="M220,430 L220,220" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#a)"/>
+  <text x="180" y="325" text-anchor="middle" class="n" transform="rotate(-90 180 325)">R6 feedback</text>
+  <path d="M980,220 L980,430" fill="none" stroke="#7F7F7F" stroke-width="2" stroke-dasharray="6 5" marker-end="url(#a)"/>
+  <text x="1020" y="325" text-anchor="middle" class="n" transform="rotate(90 1020 325)">R6 feedback</text>
+
+  <!-- Notes -->
+  <rect x="100" y="620" width="1000" height="100" rx="8" fill="#F2F2F2" stroke="#BFBFBF"/>
+  <text x="120" y="646" class="s">Reading the figure:</text>
+  <text x="120" y="668" class="n">A reinforcing loop amplifies change; a balancing loop counteracts it. The learning loop is proposed to amplify</text>
+  <text x="120" y="686" class="n">improvements when monitoring feeds back into design. The justice loop is proposed to counteract cost-shifting when</text>
+  <text x="120" y="704" class="n">evaluation feeds back into cost incidence and governance. Both loops are expected to be examined and revised empirically.</text>
+
+  <text x="600" y="748" text-anchor="middle" class="n">Source: researcher's construction, derived from Chapter 3. Figure is editable (SVG).</text>
+</svg>

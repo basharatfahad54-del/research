@@ -1,0 +1,240 @@
+CHAPTER 3: THEORETICAL FRAMEWORK
+
+3.1 INTRODUCTION
+
+This chapter establishes the theoretical framework that guides the study. It explains why a theoretical framework matters in doctoral research, presents the theories and models that underpin the study, shows how they relate to the research problem, and justifies each selection by showing what it contributes to the five research questions and to the expected findings. Critical posthumanism is the primary theory. Systems thinking, socio-technical transitions, energy justice and Living Lab theory are retained as supporting perspectives. The chapter is argumentative rather than encyclopaedic: each section states what the concept does for this study, and the chapter closes with five theoretical propositions that link the framework to the conceptual model in Chapter 4.
+
+3.2 WHY A THEORETICAL FRAMEWORK MATTERS IN DOCTORAL RESEARCH
+
+A theoretical framework is a set of assumptions and concepts, connected by an argument, that determines what a study observes, how it interprets what it observes, and what it will accept as an explanation. It specifies an ontology (what is assumed to exist), an epistemology (how knowledge of those things can be produced) and an axiology (whose interests the research serves). Grant and Osanloo {Grant, 2014 #15} describe the framework as the blueprint of a dissertation, because it determines which rooms can be built and how they connect. Ravitch and Riggan {Ravitch, 2017 #16} go further: a framework is not a diagram appended to a literature review but the researcher's reasoned account of why the study is designed as it is.
+
+Four functions follow. A framework prevents description from passing as analysis, since a study that reports what participants said without a theory of why they said it produces data rather than knowledge. It makes assumptions contestable: if a study assumes that households are rational choosers, that assumption can be examined; if it remains implicit, it cannot. It connects the study to a tradition, so that the reader can see which conversation is being joined and what would count as a contribution. And it disciplines interpretation, because a researcher who has committed to a theory can be held to its implications, whereas one who has not can explain any finding after the event. Maxwell {Maxwell, 2013 #47} adds that the framework keeps goals, questions, methods and validity in a defensible relationship.
+
+Theory and empirical work shape each other. Theory guides the questions, the design and the interpretation, and empirical material can revise the theory. Sandberg and Alvesson {Sandberg, 2011 #17} show that constructing a research question is already a theoretical act, because the question assumes a way of dividing the world. Alvesson and Kärreman {Alvesson, 2007 #18} describe theorising as a movement between a frame and a surprising observation; the surprise is the point at which a study has something to say. This is the logic of abduction, and it is the logic used here.
+
+A theoretical framework is not a conceptual framework. The theoretical framework is the general body of theory the study adopts, with the justification for adopting it; it is abstract and portable. The conceptual framework is the researcher's own model of the specific problem, derived from theory, literature and context; it is concrete and local. Chapter 3 establishes the theory and Chapter 4 builds the model. Applied research often collapses the two, presenting a model as if it were a theory and never testing the theory against anything.
+
+The consequences of a weak framework are predictable. Variables are chosen ad hoc, claims cannot be falsified, findings cannot be generalised because there is no theory to say what they are a case of, and recommendations follow from preference rather than analysis. In engineering management, where the pressure to be useful is strong, a framework is sometimes treated as an ornament that delays the real work. The argument here is the reverse: without a framework, the practical work has no way of knowing what it is looking at.
+
+3.3 THEORETICAL FRAMEWORKS IN ENGINEERING MANAGEMENT RESEARCH
+
+Engineering management sits at the intersection of technical systems, organisational behaviour, innovation studies, economics and public policy. Its problems are rarely confined to one level: a decision about a technology is also a decision about skills, contracts, maintenance, regulation and trust. A project that is technically sound can fail because the organisation expected to operate it lacks capacity, because the tariff makes the service unaffordable, or because the community has learned from earlier projects that promises are not kept.
+
+The field has borrowed from several disciplines: the Technology Acceptance Model and its successors from psychology and information systems; Lean Thinking and the resource-based view from operations; complexity theory and systems thinking from complexity science; and socio-technical systems theory and the multi-level perspective from sociology and innovation studies. Each has been productive in the settings for which it was developed. Difficulty arises when a theory developed for a firm, an individual or a market is applied to an infrastructural problem in a low-income settlement. The theory does not merely lose precision; it mis-specifies the object.
+
+Three mis-specifications recur. The first is level confusion, where a theory of individual intention explains a collective outcome, or a theory of firm strategy explains a household practice. The second is the black-boxing of technology, where the artefact is treated as a fixed input whose properties are known, when those properties are part of what must be explained. The third is the treatment of context as background: context becomes what the model controls for rather than what the model is about. In a study of energy in an informal settlement, tenure, density, infrastructure, income and municipal capacity are not variables to be held constant. They are the conditions that make a technology work or fail.
+
+A framework adequate to this problem therefore has to be relational and multi-level, holding human and non-human elements in one frame without reducing one to the other. It has to be normative, because the problem concerns justice and not only efficiency. And it has to be empirically tractable, because the study must produce findings that can be defended. These requirements are the criteria used in Sections 3.6 and 3.7.
+
+3.4 CRITICAL POSTHUMANISM: PHILOSOPHICAL FOUNDATIONS
+
+3.4.1 HUMANISM AND ITS LIMITS
+
+Humanism is a family of commitments rather than a single doctrine. It treats the human being as the central subject of knowledge and value; it separates culture from nature, mind from body, and subject from object; and it assumes a universal human essence against which other beings are judged. These commitments made possible important achievements, including universal rights, scientific inquiry and the critique of arbitrary authority. They also produced exclusions. The universal human was in practice a particular kind of human, and those who did not fit were treated as less than fully human, or as nature rather than culture, or as objects of study rather than participants in knowledge.
+
+Posthumanism begins from this diagnosis without rejecting the achievements of humanism. It rejects the pretence that the human is a self-contained, universal subject, and it asks what becomes visible when that pretence is dropped. The question is not what comes after the human, but how the human has been produced and what else is involved in that production.
+
+3.4.2 CRITICAL POSTHUMANISM, TRANSHUMANISM AND TECHNOLOGICAL DETERMINISM
+
+The term posthumanism covers several projects, and the differences matter. Posthumanism as a historical condition describes the increasing entanglement of humans with technologies, data, infrastructures and ecological systems, so that boundaries between body and machine, and between nature and culture, become harder to draw {Hayles, 1999 #7}. Critical posthumanism is a normative and philosophical project drawing on anti-humanism, feminism, postcolonial thought and science and technology studies. It affirms difference rather than universalism and treats knowledge as situated. Braidotti {Braidotti, 2013 #1; Braidotti, 2019 #2} is its most systematic contemporary exponent, and Wolfe {Wolfe, 2010 #8} distinguishes it carefully from the third formation.
+
+Transhumanism seeks to enhance human capacities through technology: longer life, greater intelligence, control over the body. It is often described as posthuman, but its values remain humanist, since it celebrates perfectibility, mastery and transcendence and treats the body as a limitation to overcome rather than a condition of knowledge. This study rejects transhumanism, and the rejection is not a matter of taste. Transhumanism would direct attention toward the enhancement of individual capacities and away from the collective, material and institutional arrangements that are the subject of this study.
+
+Technological determinism is also rejected. Determinism holds that technology drives social change according to its own logic. The alternative adopted here is not that society is autonomous, but that technology and society are co-constituted. A prepaid meter does not cause a particular relation between landlord and tenant; it materialises a relation that is already being negotiated, and in doing so changes the terms of the negotiation.
+
+3.4.3 RELATIONAL ONTOLOGY AND INTRA-ACTION
+
+The central ontological claim of critical posthumanism is that entities do not precede their relations. Barad {Barad, 2007 #3} states this most rigorously. In agential realism the primary unit is the phenomenon, not the object. A phenomenon is an entanglement of matter and meaning in which boundaries are enacted. The entities that appear within a phenomenon, which Barad calls relata, acquire their properties through intra-action; they do not exist first and then interact. Intra-action is the relation through which relata emerge.
+
+A biogas digester is not a thing with fixed properties that is then introduced into a household. What the digester is in practice depends on the feedstock available, the water that can be spared, the space allocated, the stove used, the person who maintains it and the agreements that govern it. Change the water supply and the digester becomes a different object: it may become a burden rather than a service. The properties that matter are not intrinsic to the vessel; they are produced in the relation.
+
+3.4.4 DISTRIBUTED AGENCY AND MATERIALITY
+
+If entities emerge through relations, agency cannot be a property that belongs to humans alone. Barad {Barad, 2007 #3} describes agency as an enactment rather than an attribute. Agency is distributed across the apparatus through which a phenomenon is observed and across the materials that participate in it. The agential cut is the boundary drawn within a phenomenon between subject and object, or between what is observed and what observes. The cut is not arbitrary, but it is a cut: it includes some things and excludes others, and it has consequences.
+
+Latour {Latour, 2005 #9} treats humans and non-humans symmetrically as actants and traces the networks through which action is assembled. He shows how a technology enrols allies and how it can be undone, but he is deliberately indifferent to the justice of the network he describes, so this study borrows his sensibility without adopting his ontology wholesale. Bennett {Bennett, 2010 #10} adds thing-power: matter has a vitality of its own and can resist, surprise and exceed human intention. A digester that produces too little gas, a pipe that clogs, a stove that will not sit flat on a pot are not merely technical failures. They are moments in which the material world asserts its agency and changes what the household can do.
+
+The consequence for research is significant. If agency is distributed, a study that asks only what people think has already excluded most of what is going on. It has excluded the meter, the fuel, the dwelling, the water supply and the maintenance arrangement. Those are not context; they are participants.
+
+3.4.5 SITUATED KNOWLEDGE
+
+Haraway {Haraway, 1988 #5} argues that knowledge is always from somewhere. The idea of a view from nowhere is not a description of objectivity but a concealment of a particular position. Situated knowledge is not less objective; it is objective in a different way, because it can be located and therefore checked. For this study the implication is direct: the knowledge of a household member about how a stove behaves in a small kitchen is not anecdote to be validated by an expert. It is knowledge produced at a particular site, and it is indispensable to a design that has to work at that site. Haraway's later work {Haraway, 2016 #6} extends this to response-ability: research is answerable to the relations it helps to compose.
+
+3.4.6 POWER AND ETHICS: POTESTAS AND POTENTIA
+
+Braidotti {Braidotti, 2006 #48} distinguishes power as potestas, which hinders, from power as potentia, which enables. Potestas appears as inequality, discrimination and colonisation; potentia appears as community engagement, social and environmental justice and decolonisation. Aboalez {Aboalez, 2025 #13} develops this distinction into a posthumanist cartography that maps power relations and socio-material factors over time. The cartography works on two fronts: an analytic front that accounts for the structural paradoxes of an era by focusing on the relationships and power relations in an assemblage, and a normative front that proposes empowering alternatives and examines how they fit or contradict established viewpoints. This is directly useful here. It gives the researcher a way to trace, across time, how a settlement's energy arrangements came to be as they are, which actors and materials were included or excluded, and where enabling power might be strengthened. It also supplies the normative orientation of the Living Lab: the Lab is not neutral experimentation but an attempt to shift the balance from potestas toward potentia.
+
+3.5 POSTHUMANISM AND SOCIO-TECHNICAL ENERGY SYSTEMS
+
+Energy systems are assemblages. Generation, transmission, distribution, metering, tariffs, appliances, fuels, dwellings, practices and institutions are held together in relations that make some actions easy and others difficult. Energy access and energy vulnerability are therefore relational achievements, not individual attributes: a household is not poor in energy in the abstract, but in relation to a particular grid, tariff, dwelling and set of appliances.
+
+The material turn in energy social science supports this view. Infrastructures and artefacts participate in social life rather than forming its backdrop {Hughes, 1983 #45; Sovacool, 2014 #46}. Socio-technical transitions research shows that configurations change through the alignment of niches, regimes and landscapes, and that substituting a technology without reconfiguring the regime usually fails {Geels, 2002 #25; Geels, 2011 #26}. Molepo, Aboalez and Mathaba {Molepo, 2025 #14} provide recent South African evidence that transition barriers are multi-dimensional, interacting and social as well as technical; their expert respondents rated agreement, social and technological barriers as most significant. Their study concerns wind and solar independent power producers, not informal settlements, but it establishes a point taken seriously here: barriers arrive together and are not only technical.
+
+A worked illustration shows what the framework adds. A prepaid meter is not a neutral device for measuring consumption. It requires a purchase before use, it can disconnect a household automatically, and it shifts the management of cash flow onto the household. It enacts a particular relation between household, utility and money. A Technology Acceptance Model analysis would ask whether the meter is perceived as useful and easy to use; a posthumanist analysis asks what the meter does to the household's relation to the utility, to time, to budgeting and to the dwelling. The second question explains why the same meter can be welcomed in one street and resented in the next.
+
+3.6 POSTHUMANISM, SOCIAL JUSTICE AND JUST ENERGY TRANSITION
+
+Just transition has its origins in labour and environmental movements and now includes distributive, procedural and recognition dimensions. In South Africa the debate is shaped by the coal phase-down, independent power production and municipal capacity. Energy justice scholarship supplies a vocabulary for these debates. Sovacool and Dworkin {Sovacool, 2015 #34} set out distributive, procedural and recognition principles; Jenkins and colleagues {Jenkins, 2016 #35} review the concept; McCauley and colleagues {McCauley, 2013 #36} propose a triumvirate of tenets; Walker and Day {Walker, 2012 #37} connect fuel poverty to distribution, recognition and procedure; and Heffron and McCauley {Heffron, 2017 #38} argue for cross-disciplinary relevance. These accounts are anthropocentric: they ask who gets what, who is heard and who is recognised as a legitimate participant.
+
+Posthumanism adds four things. It extends the moral community beyond humans to materials, ecologies and future generations. It reframes justice as a property of how an assemblage is composed rather than only as an allocation of goods. It makes visible forms of exclusion that human-centred recognition does not capture, such as a dwelling that cannot accommodate a technology or an infrastructure that excludes by design. And it supplies a critique of the technocratic view from nowhere that treats technical optimisation as neutral. Aboalez {Aboalez, 2025 #13} makes this argument in an engineering education context, drawing on Gewirtz {Gewirtz, 1998 #41} and Rawls {Rawls, 1971 #42} for the distributional and relational dimensions of justice, and on Bozalek and Carolissen {Bozalek, 2012 #43} for a conception of justice as the ability to participate as equals and full partners in social interaction. Aboalez's paper concerns engineering education and social life cycle assessment, not informal settlements, and it reports no fieldwork in such settlements. Its contribution here is theoretical: it shows how posthumanism can be operationalised as a cartographic and normative tool for energy projects.
+
+Posthumanism cannot do everything. It does not specify distributive criteria, generate policy instruments or supply a theory of institutions, and it can obscure human suffering if applied without a human-centred justice vocabulary. Energy justice theory is therefore retained as a normative-operational complement rather than a rival. Posthumanism provides the ontology and the ethical orientation; energy justice provides the criteria by which outcomes can be judged.
+
+3.7 ENGINEERING MANAGEMENT THEORIES: ACCEPT OR REJECT
+
+Three of engineering management's most common default theories are assessed here: the Technology Acceptance Model, Lean Thinking and complexity theory.
+
+3.7.1 THE TECHNOLOGY ACCEPTANCE MODEL
+
+The Technology Acceptance Model holds that perceived usefulness and perceived ease of use predict an individual's intention to use a technology, and that intention predicts use {Davis, 1989 #19}. The unified model of Venkatesh and colleagues {Venkatesh, 2003 #20} adds performance expectancy, effort expectancy, social influence and facilitating conditions. The model has been productive, and it is the default in much engineering management research on energy technologies.
+
+It is rejected as the core theory for three reasons. Its unit of analysis is the individual chooser, whereas the problem here concerns a configuration of people, infrastructures, institutions and materials. Its artefact is taken as given, whereas its properties are part of what must be explained. And its dependent variable is intention, whereas the study is concerned with practice, with acceptance as an emergent and contested achievement, and with justice. Used as the explanatory frame, the model would reduce participation and acceptance to attitudinal factors. It is retained only as a contrast and a reminder that individual perceptions matter: what end-users say about a technology will be treated as one element of an assemblage, not as the cause of acceptance.
+
+3.7.2 LEAN THINKING
+
+Lean Thinking organises production around value as defined by the customer, the elimination of waste, the flow of work, pull and continuous improvement, and it has been extended from manufacturing to services, healthcare and public administration. Its strengths are diagnostic: it makes visible non-value-adding activity and insists on measuring from the point of view of the person who receives the service.
+
+It is rejected as a core theory because it assumes a relatively stable process, a definable customer and an organisation with authority to redesign the process. In an informal settlement none of these assumptions holds reliably. The customer is a household whose needs are contested and changing; the process crosses municipal, private and informal arrangements; and the organisation with authority to redesign is often absent. Applied without care, Lean translates a justice problem into an efficiency problem, so that the waste to be eliminated becomes the household's time rather than the utility's failure. It is retained as a design heuristic: the study will ask where effort is wasted and where value is created for end-users, but it will not treat those questions as a theory of change.
+
+3.7.3 COMPLEXITY THEORY
+
+Complexity theory treats systems as non-linear, path-dependent and emergent. Order arises from interactions among components rather than from central control; small changes can have large effects; and the behaviour of the whole cannot be inferred from the behaviour of the parts {Cilliers, 1998 #30}. Complexity is compatible with posthumanism because both are relational and anti-reductionist, and it supplies concepts such as feedback, emergence, adaptation and tipping points that help describe how an energy configuration changes.
+
+It is accepted as a supporting perspective rather than the primary theory. It explains the dynamics of the assemblage, but it does not by itself supply a normative account of justice, and it can slide into a functionalism in which whatever emerges is treated as adaptive. Used alongside posthumanism, it sharpens analysis of how interventions propagate, why the same intervention produces different outcomes in different settlements, and why a Living Lab must be designed for learning rather than for a single predicted result.
+
+3.7.4 SYSTEMS THINKING AND SOCIO-TECHNICAL TRANSITIONS
+
+Two perspectives are retained. Systems thinking supplies boundary critique, interrelationships, feedback and leverage points {Checkland, 1981 #27; Meadows, 2008 #28; Midgley, 2000 #29}. The distinction between systematic and systemic work matters: systematic work follows a procedure, whereas systemic work asks which boundaries have been drawn and whose interests they serve; this study is systemic in the second sense. Socio-technical transitions research, particularly the multi-level perspective, supplies a middle-range language for niches, regimes and landscapes {Geels, 2002 #25; Geels, 2011 #26}, and bridges the philosophical framework and the empirical setting.
+
+3.8 SYSTEMS THINKING AND LIVING LABS
+
+A Living Lab is a real-world, multi-stakeholder, co-creative and iterative innovation environment. The literature distinguishes provider-, utilizer-, enabler- and user-driven types, and identifies real-world setting, multi-stakeholder participation, co-creation, iteration and experimentation as core elements {Leminen, 2012 #31; Hossain, 2019 #32}. Living Labs have been used in sustainability transitions to test socio-technical innovations in urban and community settings {von Wirth, 2019 #33}.
+
+The term systemic Living Lab is not a synonym for a systematic Living Lab. Systems thinking supplies boundary critique and a feedback architecture; the Living Lab supplies the empirical setting and the participatory mechanism. Combining them produces an entity that experiments on configurations rather than on products. A posthumanist reading adds a further point. A Living Lab is an apparatus in Barad's {Barad, 2007 #3} sense: it produces the phenomena it observes. The choice of who sits at the table, which measurements count and which infrastructure is treated as fixed are agential cuts. Reflexivity about those cuts is therefore a condition of validity, not an optional extra. This is the sense in which the proposed model is systemic: it treats the Lab itself as part of the configuration under investigation.
+
+3.9 HOW THE THEORY RELATES TO THE RESEARCH QUESTIONS
+
+Table 3.1 sets out how the framework is load-bearing for each question.
+
+TABLE 3.1: THEORETICAL CONCEPTS AND THE FIVE RESEARCH QUESTIONS
+
+RQ1  Inequality, energy security, energy poverty, innovation and settlements
+     as one configuration.
+     Concepts: relational ontology; assemblage; energy justice.
+     Without the theory: the question becomes a definitional exercise.
+
+RQ2  Participation as an effect of assembled relations, not only individual
+     willingness.
+     Concepts: distributed agency; intra-action; situated knowledge; potestas
+     and potentia.
+     Without the theory: determinants collapse into attitudinal factors.
+
+RQ3  Acceptance as emergent from culture, practice, material conditions and
+     technology together.
+     Concepts: materiality; practice; situated knowledge; socio-technical
+     transitions.
+     Without the theory: culture becomes a residual barrier.
+
+RQ4  Mechanisms that are just as well as effective.
+     Concepts: leverage points; boundary critique; energy justice criteria.
+     Without the theory: mechanisms become technical fixes.
+
+RQ5  Evaluation of whether the Lab reconfigured the assemblage justly.
+     Concepts: Living Lab as apparatus; agential cuts; response-ability.
+     Without the theory: evaluation reduces to user satisfaction.
+
+The mappings are developed in the empirical chapters. No question can be answered with the vocabulary of individual acceptance alone.
+
+3.10 JUSTIFICATION FOR SELECTING CRITICAL POSTHUMANISM
+
+Six criteria are used: explanatory power for the phenomenon; ontological fit with the research questions; capacity to hold human and non-human elements in one frame; normative adequacy for a justice study; empirical tractability; and fit with the supervisory and institutional context. Critical posthumanism scores well on the first four. It explains why identical technologies produce different outcomes, why participation can fail, why material and infrastructural conditions matter, and why justice cannot be added at the end. It is weaker on individual motivation, measurable acceptance, policy design and institutional strategy, which is why the supporting perspectives are retained.
+
+The main alternatives were considered and set aside as the primary frame. The Technology Acceptance Model and diffusion of innovations are individual-level and take the artefact for granted. Social practice theory is strong on routine and materiality but thinner on power and justice. Actor-network theory is close in ontology but normatively neutral. The capability approach is normatively rich but does not theorise material agency. Political ecology and institutional theory explain structures and rules but not the artefact. Systems thinking alone describes dynamics without a theory of justice. None is wrong; none is sufficient.
+
+Critical posthumanism is retained for a further reason: it is the theory introduced by the supervisor {Aboalez, 2025 #13}, and the study is developed within that research programme. The justification is not that the theory was assigned, but that it is defensible on the criteria above and that the study extends it from engineering education into the empirical setting of an informal settlement. That extension is part of the contribution.
+
+3.11 THEORETICAL PROPOSITIONS AND THE BRIDGE TO CHAPTER 4
+
+The framework yields five propositions that the empirical work will examine. They are stated as propositions, not findings.
+
+P1. Energy technology acceptance in informal settlements is an emergent property of a socio-material configuration, not an individual decision; interventions that change only the artefact will produce unstable acceptance.
+
+P2. End-user agency is distributed across people, artefacts and institutions; participation mechanisms that address only human voice will fail to shift configurations.
+
+P3. Justice outcomes depend on which actors and materials are admitted to the intra-action: who is in the room, what counts as evidence, and which infrastructure is assumed fixed.
+
+P4. A systemic Living Lab functions as an apparatus that produces the phenomena it studies; reflexivity about its agential cuts is therefore a condition of validity.
+
+P5. Acceptance and justice are related but not identical: high acceptance can coexist with injustice, for example when a technology is accepted whose costs fall on those least able to bear them.
+
+These propositions are the bridge to Chapter 4, where they are translated into the conceptual model of the Systemic Living Lab for Just Energy Transition (SETILL). Chapter 3 has supplied the theory; Chapter 4 constructs the researcher's own model of the specific problem.
+
+3.12 CHAPTER SUMMARY
+
+This chapter has argued that a doctoral study needs a framework specifying its ontology, epistemology and axiology, and that engineering management problems require a relational and multi-level theory. Critical posthumanism supplies that theory through a relational ontology, distributed agency, situated knowledge and an affirmative ethics of power. Energy justice, systems thinking, socio-technical transitions and Living Lab theory are retained as complements. The Technology Acceptance Model and Lean Thinking are rejected as core theories for reasons of ontological fit, while complexity theory is accepted as a supporting perspective. The next chapter builds the conceptual model.
+
+END OF CHAPTER 3
+
+EDITORIAL NOTES
+
+1. APPROXIMATE WORD COUNT
+
+Sections 3.1-3.12 including Table 3.1 and headings: approximately 4,490 words.
+Target range 3,500-4,500. Recount in Word after supervisor comments, because
+Word counts tables and headings differently from a plain-text counter.
+
+2. ITEMS MARKED [VERIFY]
+
+(a) EndNote record numbers (#1-#48) are placeholders. They must be renumbered
+    to match the candidate's EndNote library.
+(b) Braidotti (2006) Transpositions and Braidotti (2011) Nomadic Theory: confirm
+    which edition the candidate will cite. Both are used by Aboalez (2025).
+(c) Barad (2003) "Posthumanist Performativity", Signs 28(3): confirm page range
+    801-831 if it is added to the reference list.
+(d) Ulmer (2017) and Forlano (2017) are not cited in this draft but appear in
+    the source notes. If retained, confirm the journal details: Ulmer,
+    International Journal of Qualitative Studies in Education 30(9), 832-848;
+    Forlano, She Ji 3(1), 16-29.
+(e) Bozalek and Carolissen (2012) full title and pages: confirm against the
+    Aboalez (2025) reference list before importing into EndNote.
+(f) Maxwell (2013) edition: confirm 3rd edition, SAGE.
+(g) The claim that Molepo et al. (2025) rated "agreement, social and
+    technological barriers" as most significant is taken from the source notes
+    and the paper abstract; confirm the exact percentages before quoting them.
+(h) Six theory-selection criteria are the researcher's own construction, not a
+    published instrument. No citation is implied.
+
+3. GENDER-TO-END-USER CHANGES THAT ALTER MEANING
+
+This chapter was written fresh, so it contains no bulk replacement. Three
+places nevertheless touch on gender and need the candidate's decision:
+
+(a) Section 3.4.1: the phrase "male, European, propertied, rational and
+    able-bodied" is retained because it reports the standard posthumanist
+    critique of the humanist subject. Replacing it with "end-users" would
+    destroy the argument. No change proposed.
+(b) Section 3.5: the digester example avoids naming who collects waste or
+    carries water. The existing concept note attributed this labour to women.
+    If the candidate restores that detail, write "household members" rather
+    than "women", and note that this weakens the specific claim about
+    unequal labour. Flag for supervisor.
+(c) Section 3.11, P5: "those least able to bear them" is used instead of a
+    gender-specific phrase. This is a deliberate broadening; it changes the
+    meaning from a claim about women specifically to a claim about
+    affordability. Candidate to confirm this is acceptable.
+
+4. ITEMS FOR THE CANDIDATE TO ADD
+
+[CANDIDATE TO ADD] One or two sentences in Section 3.5 or 3.6 drawn from your
+own knowledge of Tzaneen: for example, how households currently obtain cooking
+fuel, or what you have observed about water availability. This grounds the
+chapter and is not something a drafting tool can supply.
+
+5. COMPLIANCE REMINDERS
+
+The school's proposal guideline states that it is prohibited to use AI tools to
+generate or rephrase text. This draft is assistance, not a substitute for the
+candidate's authorship. Confirm the supervisor's and faculty's written position
+on AI assistance and disclose it as required. Run Turnitin through the
+University's licensed account. Do not treat this draft as verified or
+plagiarism-checked.

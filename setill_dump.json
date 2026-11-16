@@ -1,0 +1,986 @@
+[
+ {
+  "i": 0,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "Developing an Innovative Systemic Living Lab for Just Energy Transition in a South African Informal Settlement"
+ },
+ {
+  "i": 1,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "A research proposal submitted in fulfilment of the requirements for the degree of Doctor of Philosophy in Engineering Management"
+ },
+ {
+  "i": 2,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "Candidate: [Candidate Name]"
+ },
+ {
+  "i": 3,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "Supervisor: Dr K. Aboalez"
+ },
+ {
+  "i": 4,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "Institution: University of Johannesburg (UJ)"
+ },
+ {
+  "i": 5,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "Department: Postgraduate School of Engineering Management, Faculty of Engineering and the Built Environment"
+ },
+ {
+  "i": 6,
+  "style": "Normal",
+  "align": "CENTER (1)",
+  "text": "Date: November 2026"
+ },
+ {
+  "i": 7,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 8,
+  "style": "Normal",
+  "align": "None",
+  "text": "2. Abstract"
+ },
+ {
+  "i": 9,
+  "style": "Normal",
+  "align": "None",
+  "text": "Persistent electricity deficits, structural inequalities, and reliance on carbon-intensive fossil fuels in South Africa necessitate an urgent, socially inclusive transition to decentralized clean energy. While the national policy framework prioritizes a Just Energy Transition (JET), conventional energy management paradigms frequently treat technology deployment as an apolitical, purely technical undertaking. This marginalises vulnerable communities, particularly women residing in peri-urban and urban informal settlements who bear the disproportionate burdens of energy poverty and indoor air pollution. This doctoral research addresses this critical gap by developing and validating an innovative Systemic Living Lab for Just Energy Transition (SETILL) within the informal settlement context of Tzaneen, Limpopo Province, South Africa. Grounded in a critical posthumanist ontology and Baradian agential realism, the study moves beyond traditional anthropocentric and individualist frameworks (such as the Technology Acceptance Model) by conceptualizing acceptance as a relational socio-material achievement rather than a static individual choice. Utilizing the prescribed 12-section proposal architecture of the Postgraduate School of Engineering Management at the University of Johannesburg, the research addresses five specific objectives: (1) to frame theoretically the entanglements of inequality, energy security, and informal settlements via Systems Living Lab concepts; (2) to determine the sociomaterial factors governing end-user participation and co-design; (3) to examine the cultural norms and technological mechanisms influencing the acceptance of community-scale energy innovations; (4) to develop, implement, and evaluate the SETILL model operationalized through a community-scale biogas technology pilot; and (5) to evaluate the capacity of the SETILL to foster energy justice and enhance service security. The methodology combines a critical literature review, qualitative situational mapping, system dynamics modeling, and participatory co-design workshops within a Design Research Methodology (DRM) framework. The expected contributions are fourfold: a posthumanist ontology of end-user participation (theoretical); a replicable socio-technical co-design protocol and operational biogas pilot (practical); actionable justice criteria for municipal planning and the South African JETP (policy/sector); and the operationalisation of posthumanist cartography as an analytical tool for engineering management (methodological)."
+ },
+ {
+  "i": 10,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 11,
+  "style": "Normal",
+  "align": "None",
+  "text": "3. Introduction"
+ },
+ {
+  "i": 12,
+  "style": "Normal",
+  "align": "None",
+  "text": "3.1 Background and Context"
+ },
+ {
+  "i": 13,
+  "style": "Normal",
+  "align": "None",
+  "text": "South Africa's energy landscape is characterized by severe structural vulnerabilities, historic inequities, and an over-reliance on centralized coal-fired electricity generation. State utility Eskom generates over 80 percent of the nation's power from aging, carbon-intensive infrastructure, contributing to South Africa's status among the world's top greenhouse gas emitters. The compounding crises of chronic load-shedding, unreliability, and rising tariffs have deepened energy poverty, particularly within marginalized spatial formations such as informal settlements."
+ },
+ {
+  "i": 14,
+  "style": "Normal",
+  "align": "None",
+  "text": "Informal settlements represent distinct socio-material configurations characterized by insecure tenure, high population density, self-constructed housing, and restricted access to formal municipal services. Within these spaces, electrification programs, while nominally expanding grid connections, fail to resolve energy poverty. Residents routinely engage in complex 'fuel stacking,' simultaneously utilizing electricity for lighting alongside paraffin, biomass, and liquefied petroleum gas (LPG) for cooking and space heating, driven by affordability constraints, unreliability, and socio-cultural practices."
+ },
+ {
+  "i": 15,
+  "style": "Normal",
+  "align": "None",
+  "text": "The South African government's commitment to a Just Energy Transition (JET), articulated through the Presidential Climate Commission and the Integrated Resource Plan (IRP), acknowledges that decarbonization cannot be disassociated from socioeconomic equity. However, mainstream energy engineering interventions remain dominated by top-down, technocratic modalities that view technology as a neutral artefact to be transferred to passive recipients. This 'ideology of depoliticisation' ignores how existing social stratifications and material conditions shape energy access."
+ },
+ {
+  "i": 16,
+  "style": "Normal",
+  "align": "None",
+  "text": "Living Labs have emerged globally as collaborative, pre-competitive open innovation environments that embed research and development in real-world settings through user-centred co-design. Concurrently, biogas technology presents a promising decentralized renewable energy pathway for South African informal settlements, converting organic waste streams into clean cooking gas and electricity while mitigating environmental degradation and health risks associated with indoor biomass combustion. However, the intersection of posthumanist philosophy, Living Lab methodology, biogas innovation, and informal settlement dynamics remains largely unexplored within Engineering Management."
+ },
+ {
+  "i": 17,
+  "style": "Normal",
+  "align": "None",
+  "text": "3.2 Problem Statement"
+ },
+ {
+  "i": 18,
+  "style": "Normal",
+  "align": "None",
+  "text": "Despite the proliferation of national renewable energy procurement programmes (such as the REIPPPP) and decentralized pilot projects, South Africa's energy transition remains severely bottlenecked at the community interface. Conventional energy engineering interventions in informal settlements suffer from a profound ontological flaw: they treat technology as an autonomous object and end-users as discrete, rational economic choosers, ignoring the complex socio-material entanglements, power asymmetries, and non-human agencies that constitute everyday energy practices. Consequently, top-down clean energy initiatives experience high failure or abandonment rates because they exclude marginalized end-users—specifically women who manage domestic energy systems—from the co-creation, prototyping, and governance of technologies."
+ },
+ {
+  "i": 19,
+  "style": "Normal",
+  "align": "None",
+  "text": "The core research problem addressed by this study is that current engineering management frameworks lack a systemic, posthumanist mechanism for integrating end-users as agential co-designers within Living Labs, resulting in misaligned energy technologies, persistent energy poverty, and social injustice in South African informal settlements. Without a theoretical and methodological shift that accounts for human-nonhuman entanglements, the transition to sustainable energy services will continue to reproduce structural inequities and fail to achieve social acceptance."
+ },
+ {
+  "i": 20,
+  "style": "Normal",
+  "align": "None",
+  "text": "3.3 Research Aim and Objectives"
+ },
+ {
+  "i": 21,
+  "style": "Normal",
+  "align": "None",
+  "text": "The aim of this research is to develop, operationalise, and validate an innovative Systemic Living Lab for Just Energy Transition (SETILL) framework that advances responsive biogas technology innovations through participatory, posthumanist co-design in a South African informal settlement."
+ },
+ {
+  "i": 22,
+  "style": "Normal",
+  "align": "None",
+  "text": "To accomplish this aim, the study sets forth five distinct research objectives:"
+ },
+ {
+  "i": 23,
+  "style": "Normal",
+  "align": "None",
+  "text": "1. To frame theoretically the relationships between inequality, energy security, energy poverty, energy technology innovations, and informal settlements through Systems Living Lab concepts."
+ },
+ {
+  "i": 24,
+  "style": "Normal",
+  "align": "None",
+  "text": "2. To determine the socio-material factors governing the involvement and active participation of end-users in the processes of decision-making, co-designing, co-creating, co-researching, prototyping, and testing energy technology innovations in South African informal settlements."
+ },
+ {
+  "i": 25,
+  "style": "Normal",
+  "align": "None",
+  "text": "3. To examine the cultural elements, norms, practices, and technological mechanisms that influence the acceptance level of end-user energy innovations within informal settlements."
+ },
+ {
+  "i": 26,
+  "style": "Normal",
+  "align": "None",
+  "text": "4. To develop and evaluate a Systems Living Lab that advances responsive energy technology innovations (specifically a community-scale biogas pilot) through participatory design to engage end-users and stakeholders in real-world settings."
+ },
+ {
+  "i": 27,
+  "style": "Normal",
+  "align": "None",
+  "text": "5. To evaluate whether the proposed SETILL model can successfully function as a robust theoretical framework and operational tool to enhance energy security, alleviate energy poverty, and foster energy justice."
+ },
+ {
+  "i": 28,
+  "style": "Normal",
+  "align": "None",
+  "text": "3.4 Research Questions"
+ },
+ {
+  "i": 29,
+  "style": "Normal",
+  "align": "None",
+  "text": "The study is guided by five primary research questions, mapped directly from the objectives:"
+ },
+ {
+  "i": 30,
+  "style": "Normal",
+  "align": "None",
+  "text": "RQ1. How do Systems Living Lab concepts frame the relationship between inequality, energy security, energy poverty, energy technology innovations and informal settlements?"
+ },
+ {
+  "i": 31,
+  "style": "Normal",
+  "align": "None",
+  "text": "RQ2. Which factors are determining the involvement and participation of end-users in the processes of decision-making, co-designing, co-creating, co-researching, prototyping and testing the energy technology innovations in the informal settlements in South Africa?"
+ },
+ {
+  "i": 32,
+  "style": "Normal",
+  "align": "None",
+  "text": "RQ3. Which cultural elements, norms, practices and technological mechanisms influence the acceptance level of end-users' energy innovations in the informal settlements in South Africa?"
+ },
+ {
+  "i": 33,
+  "style": "Normal",
+  "align": "None",
+  "text": "RQ4. Which mechanism(s) can be implemented to improve the acceptance level of energy innovations and the participation and contributions of end-users to address the energy security services in poor informal settlements in South Africa?"
+ },
+ {
+  "i": 34,
+  "style": "Normal",
+  "align": "None",
+  "text": "RQ5. Can the proposed Systems Living Lab that advances responsive energy technology innovations through participatory design engage end-users and other stakeholders in real-world settings to address energy poverty and enhance security and access to energy services?"
+ },
+ {
+  "i": 35,
+  "style": "Normal",
+  "align": "None",
+  "text": "3.5 Justification of the Study"
+ },
+ {
+  "i": 36,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Academic Justification: The study bridges a significant theoretical chasm in Engineering Management by fusing critical posthumanism (Braidotti, Barad) with socio-technical systems theory and energy justice. It moves the discipline away from individualistic, cognitivist models of technology adoption (such as TAM) toward a relational, agential-realist ontology."
+ },
+ {
+  "i": 37,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Practical Justification: For engineering practitioners, project managers, and municipalities operating in the Global South, the research delivers an actionable, tested co-design protocol and a physical/virtual Living Lab framework (SETILL) that mitigates technology rejection, prevents project abandonment, and ensures community-level operational sustainability."
+ },
+ {
+  "i": 38,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Policy and Sector Justification: The findings directly inform the South African Presidential Climate Commission, municipal integrated development plans (IDPs), and the Just Energy Transition Partnership (JETP) investment framework by establishing empirical criteria for procedural and distributional energy justice."
+ },
+ {
+  "i": 39,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Methodological Justification: The research operationalises posthumanist cartography and system dynamics modeling within an engineering management case study, offering a rigorous qualitative-abductive methodology for mapping complex socio-material power geometries."
+ },
+ {
+  "i": 40,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 41,
+  "style": "Normal",
+  "align": "None",
+  "text": "4. Literature Review"
+ },
+ {
+  "i": 42,
+  "style": "Normal",
+  "align": "None",
+  "text": "4.1 Review Approach"
+ },
+ {
+  "i": 43,
+  "style": "Normal",
+  "align": "None",
+  "text": "This study adopts a critical, theory-driven narrative literature review methodology (Torraco, 2016), combining rigorous systematic search principles (Finfgeld-Connett & Johnson, 2013) with qualitative thematic synthesis. A comprehensive search was executed across accredited databases—Scopus, ScienceDirect, IEEE Xplore, and Google Scholar—utilizing targeted Boolean strings combining terms such as 'energy poverty', 'informal settlements', 'Living Labs', 'biogas technology', 'posthumanism', 'energy justice', and 'South Africa'. Screening over 450 initial records through PRISMA-compliant inclusion criteria (focusing on peer-reviewed journal articles, full conference proceedings, and authoritative books published primarily between 2010 and 2026), the review isolates seminal and contemporary contributions."
+ },
+ {
+  "i": 44,
+  "style": "Normal",
+  "align": "None",
+  "text": "4.2 Energy Poverty and Energy (In)Security in South African Informal Settlements"
+ },
+ {
+  "i": 45,
+  "style": "Normal",
+  "align": "None",
+  "text": "Energy poverty in South Africa is an enduring legacy of apartheid spatial planning and the mineral-energy complex. Defined conceptually as the inability to secure a sustainable, adequate, reliable, safe, and affordable supply of energy services necessary for human and economic well-being (Reddy et al., 2000), energy poverty disproportionately burdens households in informal settlements. Formal grid electrification has not eradicated energy deprivation: due to escalating tariffs and economic precarity, electrified households routinely engage in fuel stacking, continuing to rely on hazardous solid and liquid fuels (paraffin, firewood, charcoal) for cooking and space heating (Mirzania et al., 2023). This practice generates severe indoor air pollution (IAP), leading to acute respiratory infections and chronic health morbidities, predominantly affecting women and children."
+ },
+ {
+  "i": 46,
+  "style": "Normal",
+  "align": "None",
+  "text": "4.3 Living Labs and Systems Thinking in Energy Innovation"
+ },
+ {
+  "i": 47,
+  "style": "Normal",
+  "align": "None",
+  "text": "Living Labs represent user-centred, open innovation ecosystems operating in real-life contexts where multiple stakeholders—citizens, researchers, private firms, and public authorities—co-create, prototype, and test innovations iteratively (Bergvall-Kåreborn et al., 2009; Ståhlbröst & Holst, 2012). Traditional technology transfer models operate on a linear, top-down logic that fails in marginalized informal settlements because they treat the recipient community as a passive consumer. When combined with Soft Systems Methodology (Checkland, 1981) and System Dynamics (Sterman, 2000), Living Labs provide the structural capacity to model feedback loops, non-linear behaviours, and stakeholder interdependencies within complex socio-technical systems."
+ },
+ {
+  "i": 48,
+  "style": "Normal",
+  "align": "None",
+  "text": "4.4 End-User Participation, Acceptance, and Energy Justice"
+ },
+ {
+  "i": 49,
+  "style": "Normal",
+  "align": "None",
+  "text": "The concept of 'acceptance' in energy transitions has historically been dominated by individualist, cognitivist paradigms, most notably the Technology Acceptance Model (TAM) (Davis, 1989) and UTAUT (Venkatesh et al., 2003). Within a posthumanist and systemic framing, these models are inadequate because they presume an autonomous, rational human chooser evaluating a pre-completed technological artefact. Drawing on Wüstenhagen et al. (2007) and energy justice scholarship (Sovacool & Dworkin, 2015; Jenkins et al., 2016), community acceptance is inextricably linked to distributive, procedural, recognition, and restorative justice."
+ },
+ {
+  "i": 50,
+  "style": "Normal",
+  "align": "None",
+  "text": "4.5 Knowledge Gaps and Positioning"
+ },
+ {
+  "i": 51,
+  "style": "Normal",
+  "align": "None",
+  "text": "Table 4.1 summarizes the specific theoretical, empirical, conceptual, methodological, and evaluative gaps addressed by this doctoral investigation."
+ },
+ {
+  "i": 52,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 53,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 54,
+  "style": "Normal",
+  "align": "None",
+  "text": "5. Theoretical Framework"
+ },
+ {
+  "i": 55,
+  "style": "Normal",
+  "align": "None",
+  "text": "5.1 Why a Theoretical Framework Matters in PhD Research"
+ },
+ {
+  "i": 56,
+  "style": "Normal",
+  "align": "None",
+  "text": "In doctoral research within Engineering Management, a theoretical framework serves as the epistemological anchor and architectural blueprint of the inquiry (Grant & Osanloo, 2014; Adom et al., 2018). Engineering Management inherently operates at the complex intersection of technical systems, human organizations, and socio-environmental contexts. Without a robust theoretical foundation, empirical investigations risk degenerating into uncritical, descriptive empiricism."
+ },
+ {
+  "i": 57,
+  "style": "Normal",
+  "align": "None",
+  "text": "5.2 The Main Theories Underpinning This Study"
+ },
+ {
+  "i": 58,
+  "style": "Normal",
+  "align": "None",
+  "text": "The primary theoretical spine of this research is Critical Posthumanism, supplemented by Socio-Technical Systems Theory, Soft Systems Methodology, and Energy Justice Theory. Critical posthumanism deconstructs anthropocentric dualisms, recognizing that human existence is inextricably entangled with technological, biological, and material assemblages (Braidotti, 2013; Wolfe, 2010)."
+ },
+ {
+  "i": 59,
+  "style": "Normal",
+  "align": "None",
+  "text": "5.3 Philosophical Foundations of Posthumanism"
+ },
+ {
+  "i": 60,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Ontology (Agential Realism): Following Karen Barad (2007), entities ('end-users', 'biogas digesters', 'informal settlements') do not pre-exist their interactions; rather, they emerge through specific intra-actions."
+ },
+ {
+  "i": 61,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Epistemology (Situated Knowledges): Knowledge is recognized as situated, embodied, and partial (Haraway, 1988). End-users in informal settlements are epistemological authorities regarding their own survival and energy practices."
+ },
+ {
+  "i": 62,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Axiology (Planetary Ethics & Justice): Ethics extends beyond human-to-human contracts to encompass ecological, material, and intergenerational accountability (Braidotti, 2013; Ulmer, 2017)."
+ },
+ {
+  "i": 63,
+  "style": "Normal",
+  "align": "None",
+  "text": "5.4 The Four Thinkers and Their Specific Contributions"
+ },
+ {
+  "i": 64,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 65,
+  "style": "Normal",
+  "align": "None",
+  "text": "5.5 Justification for Selecting Posthumanism (and Rejecting TAM)"
+ },
+ {
+  "i": 66,
+  "style": "Normal",
+  "align": "None",
+  "text": "The Technology Acceptance Model (TAM) and UTAUT are explicitly rejected as foundational theories for this study. TAM (Davis, 1989) rests upon methodological individualism, assuming that human behavior is governed by internal psychological variables ('perceived usefulness' and 'perceived ease of use') operating independently of material context, power relations, or structural inequality. Posthumanism overcomes these limitations by capturing material agency, structural power (potestas), enabling capacities (potentia), and relational acceptance."
+ },
+ {
+  "i": 67,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 68,
+  "style": "Normal",
+  "align": "None",
+  "text": "6. Conceptual Framework"
+ },
+ {
+  "i": 69,
+  "style": "Normal",
+  "align": "None",
+  "text": "6.1 Theoretical vs. Conceptual Framework"
+ },
+ {
+  "i": 70,
+  "style": "Normal",
+  "align": "None",
+  "text": "While the theoretical framework provides the abstract, universal lens (Critical Posthumanism and agential realism), the conceptual framework operationalises this philosophy into a structured, researchable model tailored to the empirical reality of Tzaneen (Miles & Huberman, 1984)."
+ },
+ {
+  "i": 71,
+  "style": "Normal",
+  "align": "None",
+  "text": "6.2 The SETILL Model: Architecture and Components"
+ },
+ {
+  "i": 72,
+  "style": "Normal",
+  "align": "None",
+  "text": "This study introduces the SETILL model: Systems Energy Technology Innovation Living Lab—a socio-material, agential apparatus operating within an informal settlement that integrates systemic thinking, participatory co-design, and posthumanist ethics to co-produce responsive energy technology innovations."
+ },
+ {
+  "i": 73,
+  "style": "Normal",
+  "align": "None",
+  "text": "1. Context/Antecedents: Informal settlement socio-spatial reality in Tzaneen (tenure insecurity, poverty, fuel stacking)."
+ },
+ {
+  "i": 74,
+  "style": "Normal",
+  "align": "None",
+  "text": "2. Stakeholder Set: The 4Ps stakeholder constellation (end-users/women, researchers, municipal authorities, technology developers, civil society)."
+ },
+ {
+  "i": 75,
+  "style": "Normal",
+  "align": "None",
+  "text": "3. Participatory Co-Design Process: Iterative workshops, transect walks, and co-research protocols grounded in Baradian intra-action."
+ },
+ {
+  "i": 76,
+  "style": "Normal",
+  "align": "None",
+  "text": "4. Technology Artefact: Community-scale biogas digester system (organic waste-to-energy for clean cooking and lighting)."
+ },
+ {
+  "i": 77,
+  "style": "Normal",
+  "align": "None",
+  "text": "5. Acceptance as Relational Achievement: Mutual attunement of end-user bodily practices, spatial constraints, and biogas materialities."
+ },
+ {
+  "i": 78,
+  "style": "Normal",
+  "align": "None",
+  "text": "6. Justice Criteria: Multi-dimensional justice (distributive, procedural, recognition, restorative) (Gewirtz, 1998)."
+ },
+ {
+  "i": 79,
+  "style": "Normal",
+  "align": "None",
+  "text": "7. Feedback Loops: System dynamics reinforcing and balancing loops capturing community response and operational data."
+ },
+ {
+  "i": 80,
+  "style": "Normal",
+  "align": "None",
+  "text": "8. Outcomes: Enhanced energy access, diminished indoor air pollution, improved service security, and gender-inclusive empowerment."
+ },
+ {
+  "i": 81,
+  "style": "Normal",
+  "align": "None",
+  "text": "9. Barrier Pathways & Power Asymmetries: Mapping potestas (hindering forces, elite capture, patriarchal resistance) alongside potentia."
+ },
+ {
+  "i": 82,
+  "style": "Normal",
+  "align": "None",
+  "text": "10. Evaluation & Governance: Continuous posthumanist cartography and multi-criteria assessment ensuring longitudinal sustainability."
+ },
+ {
+  "i": 83,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 84,
+  "style": "Normal",
+  "align": "None",
+  "text": "7. Research Design and Methodology"
+ },
+ {
+  "i": 85,
+  "style": "Normal",
+  "align": "None",
+  "text": "7.1 Research Paradigm and Approach"
+ },
+ {
+  "i": 86,
+  "style": "Normal",
+  "align": "None",
+  "text": "This study adopts a posthumanist-informed qualitative, abductive research paradigm grounded in Baradian agential realism. Abductive reasoning—moving iteratively between empirical observations, theoretical constructs, and surprising findings (Alvesson & Kärreman, 2007)—is employed to develop and refine the SETILL model."
+ },
+ {
+  "i": 87,
+  "style": "Normal",
+  "align": "None",
+  "text": "7.2 Research Strategy"
+ },
+ {
+  "i": 88,
+  "style": "Normal",
+  "align": "None",
+  "text": "The research employs a single embedded case study design (Yin, 2009) set within Tzaneen, Limpopo Province, operationalised through the four stages of the Design Research Methodology (DRM) framework (Blessing & Chakrabarti, 2009): Clarification of Requirements (RC), Descriptive Study I (DS-I), Prescriptive Study (PS), and Descriptive Study II (DS-II)."
+ },
+ {
+  "i": 89,
+  "style": "Normal",
+  "align": "None",
+  "text": "7.3 Data Collection Methods and Instruments"
+ },
+ {
+  "i": 90,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Semi-Structured Interviews: 15–20 purposively sampled key informants across the 4Ps stakeholder spectrum."
+ },
+ {
+  "i": 91,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Focus Group Discussions (FGDs): 3–4 stratified resident focus groups prioritizing women to explore domestic energy practices and fuel stacking."
+ },
+ {
+  "i": 92,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Participatory Co-Design Workshops: Interactive workshops employing physical mapping and scenario-building to co-create biogas digester specifications."
+ },
+ {
+  "i": 93,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Transect Walks & Photovoice: Guided settlement walks mapping energy infrastructure, organic waste streams, and hazardous zones."
+ },
+ {
+  "i": 94,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Household Energy Diaries: 4-week fuel consumption, cooking time, and expenditure logs maintained by participating households."
+ },
+ {
+  "i": 95,
+  "style": "Normal",
+  "align": "None",
+  "text": "7.4 Sampling, Data Analysis, and Trustworthiness"
+ },
+ {
+  "i": 96,
+  "style": "Normal",
+  "align": "None",
+  "text": "Non-probability purposive and snowball sampling (Patton, 2015) will be governed by thematic saturation (Guest et al., 2020; Hennink & Kaiser, 2022). Analysis integrates Reflexive Thematic Analysis (Braun & Clarke, 2006) in NVivo, Situational Analysis mapping (Clarke, 2005), System Dynamics causal loop modeling (Sterman, 2000) in Vensim, and Posthumanist Cartography (Braidotti, 2006; Aboalez, 2025). Trustworthiness is maintained via Lincoln and Guba's (1985) criteria: credibility, transferability, dependability, confirmability, and authenticity."
+ },
+ {
+  "i": 97,
+  "style": "Normal",
+  "align": "None",
+  "text": "7.5 Ethics, Delimitations, and Limitations"
+ },
+ {
+  "i": 98,
+  "style": "Normal",
+  "align": "None",
+  "text": "Ethical clearance will be formally obtained from the University of Johannesburg (UJ) Faculty of Engineering and the Built Environment Ethics Committee prior to any empirical work. Explicit Status Note: No fieldwork has been conducted and no data exist; all empirical procedures are proposed and will execute strictly upon ethical approval in compliance with POPIA. The study is delimited to Tzaneen, Limpopo Province, South Africa, focusing exclusively on community-scale biogas technology."
+ },
+ {
+  "i": 99,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 100,
+  "style": "Normal",
+  "align": "None",
+  "text": "8. Context and Case Study"
+ },
+ {
+  "i": 101,
+  "style": "Normal",
+  "align": "None",
+  "text": "8.1 Empirical Setting: Tzaneen, Limpopo Province"
+ },
+ {
+  "i": 102,
+  "style": "Normal",
+  "align": "None",
+  "text": "The empirical site is Tzaneen, located within the Greater Tzaneen Local Municipality in the Mopani District of Limpopo Province, South Africa. Informal settlements in Tzaneen exhibit self-constructed dwellings, insecure land tenure, unpaved access roads, and precarious electrical grid connections prone to frequent tripping and overload. Residents engage in multi-fuel stacking involving firewood, paraffin, and grid electricity, creating severe indoor air pollution and fire hazards."
+ },
+ {
+  "i": 103,
+  "style": "Normal",
+  "align": "None",
+  "text": "8.2 Relevance to Engineering Management"
+ },
+ {
+  "i": 104,
+  "style": "Normal",
+  "align": "None",
+  "text": "As an agricultural hub, Tzaneen generates abundant organic agricultural and municipal waste streams suitable for decentralized anaerobic digestion. Co-designing and governing a community-scale biogas pilot via the SETILL framework directly addresses core Engineering Management competencies: project lifecycle design, multi-stakeholder integration, risk management, and socio-economic impact assessment."
+ },
+ {
+  "i": 105,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 106,
+  "style": "Normal",
+  "align": "None",
+  "text": "9. Expected Contributions"
+ },
+ {
+  "i": 107,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Theoretical Contributions: Formulation of a posthumanist ontology of end-user participation and a relational construct of acceptance in engineering management, moving beyond TAM/UTAUT."
+ },
+ {
+  "i": 108,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Practical Contributions: An actionable, field-tested SETILL co-design protocol and operational biogas pilot for engineering practitioners and municipalities."
+ },
+ {
+  "i": 109,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Policy and Sector Contributions: Multi-dimensional energy justice criteria (distributive, procedural, recognition, restorative) for the South African Just Energy Transition Partnership (JETP) and municipal IDPs."
+ },
+ {
+  "i": 110,
+  "style": "List Bullet",
+  "align": "None",
+  "text": "Methodological Contributions: Operationalisation of posthumanist cartography (potestas vs. potentia) combined with System Dynamics modeling as a repeatable qualitative-abductive methodology."
+ },
+ {
+  "i": 111,
+  "style": "Normal",
+  "align": "None",
+  "text": "10. Research Plan / Timeline"
+ },
+ {
+  "i": 112,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 113,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 114,
+  "style": "Normal",
+  "align": "None",
+  "text": "11. Preliminary Chapters Outline"
+ },
+ {
+  "i": 115,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 1: Introduction and Background (~2,500 words) — Research overview, contextual background, problem statement, aim, objectives, questions, justification, and thesis structure."
+ },
+ {
+  "i": 116,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 2: Comprehensive Literature Review (~4,500 words) — Systematic review of energy (in)security, Living Labs, socio-technical systems, energy justice, biogas technology, and knowledge gaps."
+ },
+ {
+  "i": 117,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 3: Theoretical Framework: Critical Posthumanism (~4,000 words) — Exposition of critical posthumanism, agential realism (Barad), situated knowledges (Haraway), embodiment (Hayles), cartography (Braidotti), and rejection of TAM."
+ },
+ {
+  "i": 118,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 4: The SETILL Conceptual Framework (~3,500 words) — Detailed presentation of the SETILL architecture, component interactions, barrier pathways (potestas), and system dynamics feedback loops."
+ },
+ {
+  "i": 119,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 5: Research Design and Methodology (~4,500 words) — Posthumanist abductive paradigm, Tzaneen case study, DRM stages, qualitative instruments, sampling logic, trustworthiness, and ethics."
+ },
+ {
+  "i": 120,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 6: Empirical Findings and Posthumanist Cartography (~6,000 words) — Analysis of empirical data, situational mapping, causal loop modeling, and posthumanist cartographic analysis of power dynamics."
+ },
+ {
+  "i": 121,
+  "style": "Normal",
+  "align": "None",
+  "text": "Chapter 7: Discussion, Recommendations, and Conclusions (~4,500 words) — Synthesis against RQs, evaluation of the biogas pilot, theoretical/practical contributions, policy recommendations, and conclusions."
+ },
+ {
+  "i": 122,
+  "style": "Normal",
+  "align": "None",
+  "text": ""
+ },
+ {
+  "i": 123,
+  "style": "Normal",
+  "align": "None",
+  "text": "12. References"
+ },
+ {
+  "i": 124,
+  "style": "Normal",
+  "align": "None",
+  "text": "Aboalez, K. (2025). A posthumanist social approach to energy transition. Procedia CIRP, 135, 8–13."
+ },
+ {
+  "i": 125,
+  "style": "Normal",
+  "align": "None",
+  "text": "Adom, D., Hussein, E. K., & Agyem, J. A. (2018). Theoretical and conceptual framework: Mandatory ingredients of a quality research. International Journal of Scientific Research, 7(1), 438–441."
+ },
+ {
+  "i": 126,
+  "style": "Normal",
+  "align": "None",
+  "text": "Alvesson, M., & Kärreman, D. (2007). Constructing mystery: Empirical matters in theory development. Academy of Management Review, 32(4), 1265–1281."
+ },
+ {
+  "i": 127,
+  "style": "Normal",
+  "align": "None",
+  "text": "Anditi, C., Musango, J. K., & Smit, S. (2022). Developing a gender analysis framework to inform energy policy and encourage the adoption of energy innovations in a South African informal settlement. Energy Research & Social Science, 84, 102476."
+ },
+ {
+  "i": 128,
+  "style": "Normal",
+  "align": "None",
+  "text": "Barad, K. (2007). Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning. Duke University Press."
+ },
+ {
+  "i": 129,
+  "style": "Normal",
+  "align": "None",
+  "text": "Batinge, B., Musango, J. K., & Smit, S. (2022). System dynamics approach to modelling the diffusion of decentralized renewable energy technologies in off-grid rural communities. Systems Research and Behavioral Science, 39(2), 279–293."
+ },
+ {
+  "i": 130,
+  "style": "Normal",
+  "align": "None",
+  "text": "Bergvall-Kåreborn, B., Holst, M., & Ståhlbröst, A. (2009). Living Labs: Open innovation in a real world setting. Cybernetics and Information Technologies, 9(3), 31–46."
+ },
+ {
+  "i": 131,
+  "style": "Normal",
+  "align": "None",
+  "text": "Blessing, L. T., & Chakrabarti, A. (2009). DRM, a design research methodology. Springer Science & Business Media."
+ },
+ {
+  "i": 132,
+  "style": "Normal",
+  "align": "None",
+  "text": "Braidotti, R. (2006). Transpositions: On nomadic ethics. Polity Press."
+ },
+ {
+  "i": 133,
+  "style": "Normal",
+  "align": "None",
+  "text": "Braidotti, R. (2013). The posthuman. Polity Press."
+ },
+ {
+  "i": 134,
+  "style": "Normal",
+  "align": "None",
+  "text": "Braidotti, R. (2019). Posthuman knowledge. Polity Press."
+ },
+ {
+  "i": 135,
+  "style": "Normal",
+  "align": "None",
+  "text": "Braun, V., & Clarke, V. (2006). Using thematic analysis in psychology. Qualitative Research in Psychology, 3(2), 77–101."
+ },
+ {
+  "i": 136,
+  "style": "Normal",
+  "align": "None",
+  "text": "Checkland, P. (1981). Systems thinking, systems practice. John Wiley & Sons."
+ },
+ {
+  "i": 137,
+  "style": "Normal",
+  "align": "None",
+  "text": "Clarke, A. E. (2005). Situational analysis: Grounded theory mapping after the postmodern turn. Sage Publications."
+ },
+ {
+  "i": 138,
+  "style": "Normal",
+  "align": "None",
+  "text": "Davis, F. D. (1989). Perceived usefulness, perceived ease of use, and user acceptance of information technology. MIS Quarterly, 13(3), 319–340."
+ },
+ {
+  "i": 139,
+  "style": "Normal",
+  "align": "None",
+  "text": "Gewirtz, S. (1998). Conceptualizing social justice in education: Mapping the territory. Journal of Education Policy, 13(4), 469–484."
+ },
+ {
+  "i": 140,
+  "style": "Normal",
+  "align": "None",
+  "text": "Grant, C., & Osanloo, A. (2014). Understanding, selecting, and integrating a theoretical framework in dissertation research. Administrative Issues Journal, 4(2), 12–26."
+ },
+ {
+  "i": 141,
+  "style": "Normal",
+  "align": "None",
+  "text": "Guest, G., Namey, E., & Chen, M. (2020). A simple method to assess and report thematic saturation in qualitative research. PLoS One, 15(5), e0232076."
+ },
+ {
+  "i": 142,
+  "style": "Normal",
+  "align": "None",
+  "text": "Haraway, D. (1988). Situated knowledges: The science question in feminism and the privilege of partial perspective. Feminist Studies, 14(3), 575–599."
+ },
+ {
+  "i": 143,
+  "style": "Normal",
+  "align": "None",
+  "text": "Hayles, N. K. (1999). How we became posthuman: Virtual bodies in cybernetics, literature, and informatics. University of Chicago Press."
+ },
+ {
+  "i": 144,
+  "style": "Normal",
+  "align": "None",
+  "text": "Hennink, M., & Kaiser, B. N. (2022). Sample sizes for saturation in qualitative research. Social Science & Medicine, 292, 114523."
+ },
+ {
+  "i": 145,
+  "style": "Normal",
+  "align": "None",
+  "text": "Jenkins, K., McCauley, D., Heffron, R., Stephan, H., & Rehner, R. (2016). Energy justice: A conceptual review. Energy Research & Social Science, 11, 174–182."
+ },
+ {
+  "i": 146,
+  "style": "Normal",
+  "align": "None",
+  "text": "Lincoln, Y. S., & Guba, E. G. (1985). Naturalistic inquiry. Sage Publications."
+ },
+ {
+  "i": 147,
+  "style": "Normal",
+  "align": "None",
+  "text": "Mbatha, S., & Musango, J. K. (2022). Sustainable living labs for energy transitions in Africa: A systematic review. Energy Research & Social Science, 90, 102525."
+ },
+ {
+  "i": 148,
+  "style": "Normal",
+  "align": "None",
+  "text": "Miles, M. B., & Huberman, M. A. (1984). Qualitative data analysis: A sourcebook of new methods. Sage Publications."
+ },
+ {
+  "i": 149,
+  "style": "Normal",
+  "align": "None",
+  "text": "Mirzania, P., Gordon, J. A., Balta-Ozkan, N., Sayan, R. C., & Marais, L. (2023). Barriers to powering past coal: Implications for a just energy transition in South Africa. Energy Research & Social Science, 101, 103122."
+ },
+ {
+  "i": 150,
+  "style": "Normal",
+  "align": "None",
+  "text": "Molepo, P. M., Aboalez, K., & Mathaba, T. N. D. (2025). Analysis of barriers to South Africa's energy transition: Perspectives from industry experts. Energy for Sustainable Development, 88, 101777."
+ },
+ {
+  "i": 151,
+  "style": "Normal",
+  "align": "None",
+  "text": "Mukama, K., Musango, J. K., & Smit, S. (2022). Demonstrating the living lab concept and its capabilities to achieve energy service security in South African informal settlements. Technology in Society, 68, 101850."
+ },
+ {
+  "i": 152,
+  "style": "Normal",
+  "align": "None",
+  "text": "Musango, J. K., Smit, S., Bassi, A. M., Kovacic, Z., & Ambole, A. (2020). Mainstreaming gender and energy security in urban informal settlements: A systems thinking approach. Energy Research & Social Science, 68, 101715."
+ },
+ {
+  "i": 153,
+  "style": "Normal",
+  "align": "None",
+  "text": "Oosthuizen, L., de Kock, I., & Musango, J. K. (2020). Exploring the role of systems thinking in managing complex socio-technical energy transitions in South Africa. South African Journal of Industrial Engineering, 31(3), 242–255."
+ },
+ {
+  "i": 154,
+  "style": "Normal",
+  "align": "None",
+  "text": "Patton, M. Q. (2015). Qualitative research & evaluation methods (4th ed.). Sage Publications."
+ },
+ {
+  "i": 155,
+  "style": "Normal",
+  "align": "None",
+  "text": "Petrulaityte, A., Ceschin, F., Pei, E., & Musango, J. K. (2022). A multi-stakeholder co-design toolkit for gender-sensitive sustainable energy innovations in urban informal settlements. Sustainability, 14(10), 6291."
+ },
+ {
+  "i": 156,
+  "style": "Normal",
+  "align": "None",
+  "text": "Rose, E. J., & Walton, R. (2018). From 4 factors to actors: Posthumanist praxis in technical communication. Technical Communication Quarterly, 27(3), 231–248."
+ },
+ {
+  "i": 157,
+  "style": "Normal",
+  "align": "None",
+  "text": "Ståhlbröst, A., & Holst, M. (2012). Living Lab as a methodology for innovation. Luleå University of Technology."
+ },
+ {
+  "i": 158,
+  "style": "Normal",
+  "align": "None",
+  "text": "Sterman, J. D. (2000). Business dynamics: Systems thinking and modeling for a complex world. Irwin/McGraw-Hill."
+ },
+ {
+  "i": 159,
+  "style": "Normal",
+  "align": "None",
+  "text": "Ulmer, J. B. (2017). Posthumanism as research methodology: Inquiry in the Anthropocene. International Journal of Qualitative Studies in Education, 30(9), 832–848."
+ },
+ {
+  "i": 160,
+  "style": "Normal",
+  "align": "None",
+  "text": "Venkatesh, V., Morris, M. G., Davis, G. B., & Davis, F. D. (2003). User acceptance of information technology: Toward a unified view. MIS Quarterly, 27(3), 425–478."
+ },
+ {
+  "i": 161,
+  "style": "Normal",
+  "align": "None",
+  "text": "Wolfe, C. (2010). What is posthumanism? University of Minnesota Press."
+ },
+ {
+  "i": 162,
+  "style": "Normal",
+  "align": "None",
+  "text": "Wüstenhagen, R., Wolsink, M., & Bürer, M. J. (2007). Social acceptance of renewable energy innovation: An introduction to the concept. Energy Policy, 35(5), 2683–2691."
+ },
+ {
+  "i": 163,
+  "style": "Normal",
+  "align": "None",
+  "text": "Yin, R. K. (2009). Case study research: Design and methods (4th ed.). Sage Publications."
+ }
+]

@@ -1,0 +1,96 @@
+ABSTRACT: WRITING PLAN (NOT THE FINAL ABSTRACT)
+
+STATUS AND PURPOSE
+
+The school's proposal structure (Structure of a Proposal in Engineering
+Management, items 2 and 12) states that the abstract is 250-300 words and is
+written last. This file is therefore a plan and a set of drafting instructions,
+not a finished abstract. The final text should be written after Chapters 1-9
+are stable, because every sentence in the abstract must be traceable to a
+chapter.
+
+The school requires four elements, in this order:
+(1) research problem
+(2) objectives
+(3) methodology
+(4) expected contributions
+
+RECOMMENDED WORD ALLOCATION (total 250-300)
+
+Research problem          55-65 words
+Objectives                45-55 words
+Methodology               90-110 words
+Expected contributions    55-75 words
+
+CONTENT PLAN BY ELEMENT
+
+1. RESEARCH PROBLEM (55-65 words)
+   - One sentence on the setting: South African informal settlement, household
+     energy insecurity.
+   - One sentence on the gap: energy innovations are designed with limited
+     direct involvement of end-users, and participation is weak or tokenistic.
+   - One sentence on the consequence: this reduces justice and end-user agency
+     and undermines energy security.
+   - Do not name Tzaneen or biogas here unless the school template requires it.
+   - [CANDIDATE TO ADD] one concrete local observation that makes the problem
+     visible (for example, a pattern you have seen in household energy use).
+
+2. OBJECTIVES (45-55 words)
+   - State the aim: to advance theoretical and empirical knowledge of energy
+     technology innovation through a systems-thinking Living Lab that places
+     acceptance at the centre of design, prototyping and testing.
+   - Then compress the five research questions into one sentence of purpose,
+     not five sentences. The RQs are already in Chapter 1.
+   - Use "end-users" or "household members"; do not use "men", "women",
+     "households headed by women", or "gender" in the abstract.
+
+3. METHODOLOGY (90-110 words)
+   - Paradigm: posthumanist-informed, qualitative-dominant.
+   - Strategy: single case (Tzaneen informal settlement), community-scale
+     biogas as the technology focus, embedded in a Systemic Living Lab.
+   - Design: exploratory sequential, with a co-design and prototyping phase.
+   - Data: semi-structured interviews, focus groups or co-design workshops,
+     observation, documents, and prototyping or testing sessions.
+   - Analysis: thematic analysis supported by system dynamics or causal loop
+     modelling.
+   - Sampling: purposive and snowball, with saturation.
+   - State that the study is a proposal, so methods are proposed, not reported.
+   - Do not report participant numbers unless the final methodology chapter
+     fixes them. Mark any number [VERIFY] against Chapter 5.
+
+4. EXPECTED CONTRIBUTIONS (55-75 words)
+   - Theoretical: extends critical posthumanism from engineering education into
+     household energy innovation in an informal settlement.
+   - Practical: a tested SETILL model and participation mechanisms that
+     designers and municipalities can use.
+   - Policy: evidence on acceptance and justice for local energy planning.
+   - Methodological: a systemic Living Lab protocol suitable for low-income
+     settings.
+   - One sentence on the boundary: findings will be analytically, not
+     statistically, generalisable.
+
+DRAFTING RULES FOR THE ABSTRACT
+
+- Write in the candidate's voice, plain academic English, no stock phrases.
+- One idea per sentence; no sentence longer than about 30 words.
+- No citations in the abstract.
+- No forward promises ("this study will revolutionise") and no claims of
+  results that do not exist.
+- No claim about Turnitin or AI-detection scores.
+- Keep acronyms to SETILL and, if necessary, RQ; expand at first use.
+- Check the final word count in Word, not by eye.
+
+PLACEHOLDERS TO FILL BEFORE FINALISING
+
+[VERIFY] School's exact abstract heading and whether keywords are required.
+[VERIFY] Whether the school counts the abstract inside the word limit.
+[CANDIDATE TO ADD] Local observation for the problem sentence.
+[CANDIDATE TO ADD] Confirmed sample size and site name once Chapter 5 is fixed.
+
+EDITORIAL NOTE ON GENDER TERMS
+
+The abstract is fresh text, so no automatic replacement is needed. If any
+sentence is carried over from the old concept note, replace "women",
+"men", "female-headed households" and "gender" with "end-users" or
+"household members". Flag any replacement that changes meaning, for example
+where the original claim was specifically about women's labour.

@@ -1,0 +1,787 @@
+
+########## PDF PAGE 123 ##########
+Page | 117 
+ 
+Chapter 1 
+Conceptual Framework of the SETILL model 
+1.1 Introduction 
+This chapter discusses the transitional theory of the processes of the phenomena being studied 
+and why. It is the development of the procedures for the phenomena being investigated. The 
+conceptual framework for this study is not essentially a literature review because it can be 
+created in the study by the insights on the phenomena and uses several pieces of information 
+to illustrate the phenomenon being studied (Maxwell, 1996). The conceptual framework was 
+linked to Chapter 1 and Chapter 2 of this thesis where the background, overview, and review 
+of the literature of the study and topic were analysed and discussed. This implies that this 
+chapter will partially not be repeating the background, overview and review of works of 
+literature on the topic, but will discuss further the topic while leading to the development of 
+the SETILL theoretical model with gender design to support the energy innovation to be 
+produced and tested to a pilot scale at the selected case study. 
+Therefore, this chapter represents a conceptual framework for a Systemic Living Lab intending 
+to promote energy technology innovation from the perspective of gender in South African 
+informal settlements. The conceptual framework for this study is a synthesis of the theory of a 
+Living Lab concept, which highlights the dynamic participation of stakeholders, SsT/SE and 
+co-creating solutions, intending to empower women and tackle gender inequalities in the 
+context of energy security and energy innovation. These theories including the characteristics 
+of the informal settlements, the social, and cultural norms and economic mechanisms, and the 
+SRM for EAS, EC and SEA frameworks contributing to gender equality within the South 
+African informal settlements with access to energy services, women's participation and 
+decision making were discussed and reviewed in chapter 1 and chapter 2 of this thesis. 
+Therefore, by linking Chapter 1 and Chapter 2 to Chapter 3 of this thesis, the conceptual 
+framework is developed, leading to the SETILL model. 
+Furthermore, to share ideas in a connected manner and generate a substantial ‘space’ for co-
+designing and co-innovation to achieve a particular goal, the end users (women in this context) 
+and other stakeholders in the public and private sectors should cooperatively work together 
+(Mukama et al., 2022). The space referred to in this context is called the Living Lab. This 
+chapter also explores the approach of the Living Lab as reviewed in the Literature chapter for 
+energy technology innovation in an informal settlement with a gendered perspective. The 
+Living Lab, if properly governed, can be seen as a vital innovation environment which focuses 
+
+########## PDF PAGE 124 ##########
+Page | 118 
+ 
+on problem-solving and the development of technological innovations with the consideration 
+of compound methods like social, environmental, usability, technical, etc (Mukama et al., 
+2022). 
+Therefore, the importance of involving end-users in co-designing innovations has been often 
+spoken about in literature (Ballon, Pierson and Delaere, 2005; Benoît Dutilleul, 2010; Almirall, 
+Lee and Wareham, 2012; Dell’Era and Landoni, 2014). This collaboration allows for the end-
+users in the energy households/sectors, health sectors, etc, to participate in the designing and 
+testing of technology innovations which leads to an adoption or acceptance of the innovation. 
+This participation with the end-users can either be done as end-users becoming the head 
+developers (Von Hippel, 2001), like the women in the communities deciding on the innovation 
+to be developed or the users participating together as partners with the stakeholders to co-create 
+innovations (Brown, 2008). Thus, the Living Lab can then be seen as the equal participation of 
+the end-users and stakeholders to co-create and test innovations in real-world scenarios 
+(Almirall, Lee and Wareham, 2012). In recent years, the Living Labs has been used in different 
+fields even in the social science fields for technological improvements (Ahmadi et al., 2020), 
+which can be seen as the ‘social innovation environment’ (Edwards‐Schachter, 2012). 
+Therefore, this research study agrees with the statement above that Living Lab should also be 
+seen as a ‘social innovation environment.’  
+Furthermore, the Living Lab can be of great importance and has some aspects of distinctiveness 
+to possible co-creation, making use of real-life scenarios and make use of end-users (Dell’Era 
+and Landoni, 2014), to achieve technological advancement. The main peculiar area of the 
+Living Lab is the involvement of end-users from the design phases down to the testing phases 
+of the innovations, which indicates that the main focus of the technological innovations is the 
+end-users (Almirall, Lee and Wareham, 2012). This allows for the conceptualisation of 
+knowledge and opinions of the end-users (women) in the case to be studied. The Living Lab 
+can also be used as a mediator between different stakeholders like the researchers, 
+communities, governments, etc, to evaluate technological innovations (Almirall, Lee and 
+Wareham, 2012; Dupont et al., 2017), for proper adoption of the innovations, since the Living 
+Lab environment can only be conducted by the stakeholders to give value to the technological 
+innovation. The Living Lab can also serve as an example to the private and public sectors 
+towards the importance of participatory technological innovations and co-designing 
+innovations to bring solutions (Burbridge, 2017; Dupont et al., 2017), to the energy needs of 
+the informal settlements. The Living Lab as an innovation environment allows for the 
+
+########## PDF PAGE 125 ##########
+Page | 119 
+ 
+generation of new and more detailed ideas by the end-users on the particular technology 
+innovation to be developed, allows for the adoption of the innovation due to the testing of the 
+innovation and allows for the impact of the technology innovation to be easily experienced by 
+all stakeholders involved (Dell’Era and Landoni, 2014).  
+Therefore, according to this research study, the development of the systems Living Lab is to 
+support energy technology innovation with a gendered perspective, and also give more 
+understanding to the Living Lab technology. A study has advanced the understanding and best 
+application of the Living Labs to support gendered energy technology innovation (Mukama et 
+al., 2022), however, this study did not make use of the SsT/SE approaches in the Living Lab 
+to develop the technology innovation and also did not go further to develop or test any 
+particular innovation in an informal settlement in South Africa. Therefore, this research study 
+will contribute to the understanding and application of the Living Lab technology to support 
+energy technology innovation with a gender design and also go further to develop and test an 
+energy innovation to a pilot scale (Biogas technology) using the SsT and SE approaches, hence 
+the model to be developed in this research study is called the systems energy technology 
+innovation Living Lab (SETILL) with gender design. The SETILL will most importantly 
+contribute to ‘gendered-energy informal settlement nexus research’ with the Living Lab in 
+South Africa. 
+Therefore, there is a need for more contributions and understanding of the Living Lab to 
+support gendered energy technology innovation in South Africa. This is because, at the 
+moment, the application of the Living Lab in the energy environment and Africa is very lean 
+(Mukama et al., 2022), especially in South Africa. Furthermore, this chapter attempts or gives 
+a leading role to answer research question 4 and validates research question 1 of this research 
+study which made use of the literature review approach in chapter 2 and linked it to this chapter 
+3. The literature search was done and analysed from google scholar, library genesis, university 
+databases and websites of existing Living Labs focused on the context of the study and the 
+systems thinking approaches to further lead to the SETILL and the research questions of this 
+study. The search words used were: ‘systems thinking’, ‘systems Living Lab’, ‘Living Labs’, 
+‘gendered Living Labs’, ‘energy stakeholders and end-users, ‘energy Living Labs’, ‘poor 
+informal settlements’, ‘energy security’, ‘women empowerment’, etc. 
+ 
+
+########## PDF PAGE 126 ##########
+Page | 120 
+ 
+1.2 Building the Conceptual Framework 
+Miles and Huberman (1984) referred to a conceptual framework as a graphical or narrative 
+conceptualization of the vital phenomena under investigation: the principal factors, variables 
+and their supposed interrelationships. The principal insights in the conceptual framework are 
+linked to each other and give an understanding of the relationship between events, places, and 
+people, allowing for predictions grounded on events. The data constructed on the conceptual 
+model (figure 3.1) are introduced by the use of a ‘concept analysis’ procedure which allows for 
+exploring, defining and clarifying the concept (Xyrichis & Ream, 2007). The phenomenon 
+under investigation was acquired by determining the antecedents, attributes and consequences. 
+The conceptual model below shows the ‘antecedents’ as the examined events about the people, 
+problems or settings under study. It also shows the ‘attributes’ of literature, individual 
+experiences and preparatory investigations that will be used to understand the people or 
+problems being studied. Finally, it also includes the ‘consequences’ of theories, beliefs and 
+preceding discoveries informing the research study. Below is the description of the conceptual 
+model for the study: 
+ 
+ 
+ 
+Figure 3.1: Conceptual framework for the theoretical model of the research study. 
+
+########## PDF PAGE 127 ##########
+Page | 121 
+ 
+Figure 3.1 above describes the factors that were present before the SETILL and the positive 
+outcomes that are expected if the SETILL and the energy innovation are achieved. The 
+conceptual model does not necessarily direct the research; however, it provides a prior insight 
+into the events. 
+1.2.1 
+The antecedents 
+The antecedents in this research study are the happening events before the concept occurred. 
+To identify the significance of the development of SETILL and improve energy security and 
+gender equality in the energy case study, it was necessary to identify the issues faced by the 
+people and settings being studied. These initially identified antecedents in the research study, 
+were all connected to energy poverty and gendered energy technology used to investigate 
+various editions of the concept. 
+1.2.2 
+The attributes 
+The attributes are the repeated various occurrences of the concept with the most periodic union 
+to the concept. These initially identified antecedents in the research study, were also all 
+connected to energy poverty and gendered energy technology used to investigate various 
+editions of the concept. 
+1.2.3 
+The consequences 
+The consequences are events that occurred due to the presence of the concept. To identify the 
+significance of the development of SETILL and improve energy security and gender equality 
+in the energy case study, it was necessary to identify the theories, beliefs and preceding findings 
+guiding the research study. These initially identified antecedents in the research study, were 
+also all connected to energy poverty and gendered energy technology used to investigate 
+various editions of the concept. 
+Additionally, all the research questions are linked to the objectives of the research, conceptual 
+framework, methods and validity. Answers to the research questions will assist in realising the 
+research aim. Therefore, to answer the research questions, the research will be justified by a 
+theoretical model of SETILL as exemplifying the behaviour of a system that can produce 
+thriving, sustainable gendered energy technology innovation. Therefore, the answers to 
+research question 1 of ‘What is the conceptualization of the systems Living Lab’ will also be 
+attained in this chapter. 
+ 
+
+########## PDF PAGE 128 ##########
+Page | 122 
+ 
+1.3 The Living Lab concepts as applied to the SETILL model 
+The energy efficiency market is controlled by an innovative techno-centric model, which 
+indicates that users are the logical decision-makers who will effectively accept and use the 
+energy technologies once they are informed of the gain the system has to the economic and 
+environmental aspects (Caird and Roy, 2008). The Living Lab concepts have been discussed 
+in Chapter 2 of this research study and will be briefly discussed in this chapter, leading to the 
+SETILL model.  
+Therefore, it has been noticed in this research study that the definitions of the Living Labs as a 
+concept are peculiarly dependent on the field it is used for. Generally, the Living Lab involves 
+studying and developing innovations in a real-world environment like the communities 
+(Mukama et al., 2022). This allows for the visibility and installation of the technology 
+innovations in the communities, thereby impacting them (Ballon, Pierson and Delaere, 2005; 
+Hossain, Leminen and Westerlund, 2019) and leading to the adoption and acceptance of the 
+innovations. Furthermore, due to the participation of end-users in co-creating technology 
+innovations in the Living Labs and the real-world environment, Dell’Era and Landoni (2014) 
+argued that the definitions of the Living Lab research lacked the inclusion of producing novel 
+innovations in the Living Lab, which is why Living Lab was defined as “a design research 
+methodology aimed at co-creating innovation through the involvement of aware users in a real-
+life setting” Dell’Era and Landoni (2014:139). 
+Furthermore, during the study carried out by Hossain, Leminen and Westerlund (2019:2), the 
+Living Lab was defined as “a physical or virtual space in which to solve societal challenges, 
+especially for urban areas by bringing together various stakeholders for collaboration and 
+collective ideation”. These definitions identified above are all in agreement with this research 
+study, however, this study disagrees with the Living Lab being specifically for the urban 
+environment, but the Living Lab should be developed anywhere (rural and urban) for the 
+benefit of the communities or stakeholders involved (Almirall, Lee and Wareham, 2012). The 
+Living Lab as a resilient methodology is fully focused on the ideas or insights obtained from 
+the end-users (Almirall, Lee and Wareham, 2012), to achieve a specific objective (Ahmadi et 
+al., 2020), which allows for various designs in the Living Lab suited for the technology 
+innovations to be developed (Mukama et al., 2022). Therefore, in the case of the women in the 
+informal settlement who are not empowered, are marginalised and do not have the 
+opportunities to co-design the innovations, the Living Lab will allow them to contribute and 
+
+########## PDF PAGE 129 ##########
+Page | 123 
+ 
+co-design the energy innovations in the communities. This is referred to as the Living Lab as 
+a ‘safe space’ (Ahmadi et al., 2020). 
+The Living Lab as a methodology is classified into the following according to Almirall, Lee 
+and Wareham (2012): User-Centric Design (UCD), design-driven, and participatory-driven. 
+The UCD has been introduced in Chapter 1 of this study and this is the process where the main 
+passive collaborators are the end-users. The UCD is introduced in this research study as the 
+research study intends to develop a new technology innovation to be tested and to analyse how 
+technologies are affected by human factors (Mukama et al., 2022). This is because, in a 
+research area, the Living Lab was defined by (Schaer, Schaible and Müller, 2020) as “a user-
+centric study methodology for researchers to evaluate the performance of retrieval systems 
+within real-world applications”. This implies that the end-users are to be involved in the 
+research as co-researchers to achieve a common goal. Therefore, the definitions above and the 
+Living Lab concepts as applied to SETILL can be suitable to the phenomena being studied 
+because it involves the ‘end-users’ and the ‘real-world testing environment’. These major 
+theories will be applied to the SETILL with gender designs. 
+Therefore, after looking at the concepts of different Living Lab in Chapter 2 and Chapter 3 
+respectively, the critical elements of the Living Labs that support innovation are: “Living Lab 
+methodology”, “ICT and infrastructure”, “Living Lab management”, “partners and users”, and 
+also “research” (Jere et al., 2014). The interactions necessary for innovation are depicted by 
+the model according to the figure below, which illustrates a basic Living Lab concept. 
+ 
+ 
+ 
+
+########## PDF PAGE 130 ##########
+Page | 124 
+ 
+Figure 3.2: Basic Living Lab concept: in Co-design Process. Source: Eriksson et al., (2016:7). 
+According to Figure 3.2 above, if innovation is produced with any of the two elements found 
+in the diagram, there would be a lack of severe limitations. For example, society/environment 
+and technology would be uneconomical, the market and technology would be low acceptance 
+by the end-users, and the market and society would be old-fashioned. Therefore, to attain an 
+enabled and advanced innovation, the three elements should be available. This should also be 
+the basis for testing the energy living lab as no elements (especially women, as users) should 
+be left behind during the development of the energy technology innovation. 
+1.4 Structuring and adapting the Living Lab leading to SETILL model 
+The Living Labs and the gender studies have been discussed in Chapter 2 of this study. The 
+Living Labs are seen as methodologies, real-world scenarios and landscapes where various 
+approaches, techniques and concepts are used by several stakeholders for a common goal 
+(Hossain, Leminen and Westerlund, 2019). However, the successful development of Living 
+Labs and their results are mostly affected by several challenges like the maintenance of the 
+innovation, and the engagement of the end-users and stakeholders. There are several Living 
+Labs in the world with a lens of systems thinking in them. Such as the Sustainable Urban 
+Neighbourhood (SUN) research projects which took place in Europe, the Living Lab for Smart 
+Mobility situated in Eindhoven Netherlands, the Systems Living Lab situated in Oulu Finland 
+and at the University of Trento in Italy.  However, at the moment it is not confirmed if these 
+Living Labs still exist, but the point is that they used the systems thinking lens to develop and 
+test products in collaboration with different stakeholders, but, with no gender lens. 
+Furthermore, in South Africa, although there are several Innovation hubs in the form of the 
+Living Lab focused on energy technology innovation, most of them lacked the focus on gender 
+and systems thinking perspectives. Generally, these innovation hubs may not focus on gender 
+design in energy technology innovation in South Africa, but they work to improve gender 
+equality in other sectors. There are also research studies that have used the soft systems 
+methodology lens towards a Living Lab methodology for smart cities, innovation management, 
+concept designs, transitioning smart campus to cities, to develop a community Living Lab, 
+framework, forming future IT to show the Living Lab processes for the involvement of users, 
+for user-centric co-creation, and for the evaluation of Living Labs to innovation (Mirijamdotter 
+et al., 2006; Kong and Li, 2007; Ståhlbröst, 2008; Bergvall-Kåreborn, Holst and Ståhlbröst, 
+2009; van der Walt et al., 2009; Cosgrave, Arbuthnot and Tryfonas, 2013; van Geenhuizen, 
+
+########## PDF PAGE 131 ##########
+Page | 125 
+ 
+2018; Omotayo et al., 2021). However, these studies did not involve the gender perspective. 
+The closest study was the study by Mukama et al (2022), which involved the gendered 
+perspective on energy technology innovation. However, this study did not include systems 
+thinking approaches. Therefore, this research study will involve the systems thinking approach 
+and gendered design of the Living Lab to be developed towards the development of the energy 
+technology innovation in the case study. 
+The selected case study of the SETILL will show how the Living Lab adapted to energy 
+technology innovation using a gender design. The SETILL will carry out transdisciplinary 
+energy technology research which will involve various stakeholders; however, the major focus 
+will be on the needs of the women in the community which will also impact the sustainable 
+development of the community. The SETILL model will also be focused on reducing energy 
+poverty in the households of the informal settlement. The SETILL will also help the researchers 
+and the government learn more about the processes and how to further intervene to achieve the 
+security of energy services. Furthermore, the main focus of the SETILL model is the 
+involvement of women as end users and the informal settlement to drive their opinions towards 
+the development of the energy technology innovation to be developed and tested, which could 
+be later used by the government to improve energy services. 
+Therefore, considering the Living Lab concepts, the conceptualization and understanding of 
+the Living Labs, the Living Lab can be defined as “a research and innovation concept for 
+experimental and experiential learning in real-life environment, involving users and multiple 
+private and public stakeholders, and aimed at (1) co-designing, prototyping, testing and 
+observing new solutions and novel organisational structure in an iterative fashion, and (2) 
+stimulating changes in the socio-technical regime to create the most favourable conditions for 
+scaling-up innovations (Mukama et al., 2022:4). Therefore, considering the definition of the 
+Living Lab above and the scope of this research study, the SETILL will now be defined in this 
+research study as the ‘physical or virtual and mobile research and systems thinking approach 
+space for design methodology focused on co-creating and testing of energy innovations through 
+the involvement of end-users in a real-life scenario towards mitigating energy poverty for the 
+informal settlements by collaborating with various stakeholders to (1) understand the material 
+cultural, cognitive norms and energy practices or technological mechanisms influencing the 
+level of adoption of energy innovations, (2) to investigate the influence of end-users 
+contributions on energy technology innovation in a systems Living Lab, (3) develop and test 
+
+########## PDF PAGE 132 ##########
+Page | 126 
+ 
+an energy technology innovation up to a pilot scale through the involvement of end-users, (4) 
+promote energy security, gender equality and women empowerment’.   
+Therefore, the development of the emerging SETILL will be supported by the concept and 
+structure of the prospective Living Lab towards the understanding of the end-user condition 
+and innovation solutions to withstand those in the informal settlement. Below is the structure 
+of the SETILL relating to the research study. The structure of the Living Lab also shows a 
+process that will be used to structure the directives or processes for the SETILL model. 
+Table 3.1: Example of the structure of the SETILL model 
+SETILL 
+Physical or virtual and mobile research and systems thinking 
+approach space for design methodology focused on co-creating and 
+testing energy innovations through the involvement of end-users in a 
+real-life scenario towards mitigating energy poverty for the informal 
+settlements by collaborating with various stakeholders. 
+Research Questions 
+1. What is the conceptualization of the Systems Living Lab concept, 
+gender inequality, energy security, energy technology innovations, 
+informal settlements and how do human factors affect technologies 
+in literature? 
+2. What is(are) the mechanism(s) influencing the contribution of 
+knowledge and participation of women in the decision-making 
+process of co-designing, co-creating, co-researching, prototyping and 
+testing the energy technology innovations in the informal settlement 
+to meet the expectations of end-users? 
+3. How can the mechanism(s) be improved to enhance the level of 
+adoption or acceptance of energy innovations and end-users (women) 
+contributions and participation to address the security of energy 
+services in poor informal settlements? 
+4. Will the proposed Systems Living Lab focused on gender design 
+serve as a suitable theoretical framework and concept to support 
+energy technology innovations, improve the adoption of gender, 
+reduce energy poverty, and improve access to energy services in poor 
+informal settlements and the energy sector? 
+
+########## PDF PAGE 133 ##########
+Page | 127 
+ 
+Vision 
+● SETILL has the vision to be a hub for research on 
+innovation activities for energy technology challenges and 
+the poor informal settlement. 
+● To analyse and contribute to systems Living Lab context. 
+● To feature women in the gendered energy technology 
+innovation design, because their contribution to the energy 
+technology innovation and decision-making processes is 
+indispensable. 
+● SETILL has the vision to showcase the transitional and 
+completed outcomes of the project for a pathway to 
+permanence with the stakeholders and public sectors. 
+● SETILL also has the vision to involve an exit plan which 
+will allow for the ownership and responsibilities of the 
+Living Lab to be cautiously or moderately transferred to the 
+informal settlement and local stakeholders.   
+Research Approach 
+Overarching: Living Lab research approach, mixed-methods, 
+systems thinking approach and others. 
+Users 
+Mostly women, transdisciplinary energy researchers, and relevant 
+stakeholders. 
+Community 
+Transdisciplinary energy community: community members, co-
+researchers, community leaders, civil society and so on. 
+Management  
+SETILL is envisaged to be managed by the GSTM at the University 
+of Pretoria, the community, institution, or researchers. 
+Business Model 
+Self-sustainable through “collaborative projects” with the energy 
+industry and public partners, government, and institutions. 
+Stakeholders 
+SETILL will be in a structure of the People-Public-Private 
+Partnership (4P’s). The stakeholders will be categorised as follows: 
+researchers, community, government/policy-makers, energy service 
+providers, funders, industry partners, technology developers, and all 
+that will collaborate for solutions to integrated gendered energy 
+innovation. 
+SETILL structure 
+The unit is proposed to be established within a joint effort between 
+the researcher, government, end-user, sponsors or also with a 
+
+########## PDF PAGE 134 ##########
+Page | 128 
+ 
+research-intensive university. The structure could be virtual/online if 
+no space, and can be mobile. 
+Broader network 
+Science, Technology and Innovation and Living Lab networks in 
+Africa and beyond. 
+Adapted from: Callaghan and Herselman, (2015). 
+ 
+1.5 Stakeholders and their roles as applied to the SETILL model 
+Stakeholders in the Living Lab are very important to achieving the aim of this research study. 
+The importance of the stakeholders cannot be underestimated. This is because, the 
+collaboration of the stakeholders in the Living Lab will go a long way to improve the 
+acceptance and adoption of innovations and increase knowledge and transparency to the 
+development of the technology innovations (Breukers and Wolsink, 2007; Reed, 2008; 
+Johnson, Jansujwicz and Zydlewski, 2015; Mastelic et al., 2018; Gabriel et al., 2020). 
+Therefore, the stakeholders in this context can be defined as the public group of people and 
+institutions that are involved in a process of development or otherwise (Reed, 2008). To build 
+trust for the success of innovations and promote acceptance, it is necessary to work with various 
+stakeholders. Also, people should not be left behind when making decisions on the design 
+phases and processes of innovations to avoid a lack of adoption and acceptance of the 
+innovation (Dachtera, Randall and Wulf, 2014), thus the involvement of various stakeholders 
+from the design phases to the testing phases is very important for a successful technology 
+innovation development (Mastelic et al., 2018).  
+Moreover, the concept of the Living Lab technology is enhanced by the participations of many 
+stakeholders and especially from the different field of discipline. These may include the people 
+in the government sectors, academic sectors, communities and in the private and public sectors 
+of other fields with same vision towards technology success for the Living Lab as mentioned 
+in Ahmadi et al., 2020. A study on gender equality with energy studies indicated the importance 
+of the collaboration of various stakeholders to be a gain or a driver in the success of gender 
+equality (Oosthuizen, de Kock and Musango, 2020). The huge challenge of collaborating with 
+stakeholders in this context is usually maintaining different perspectives of the stakeholders in 
+a practical study (Logghe, Baccarne and Schuurman, 2014; Ley et al., 2015) because 
+individuals with their interests might clash with the research study because of different goals 
+relating to their interests (Dachtera, Randall and Wulf, 2014). Therefore, to overcome these 
+challenges, the identification of trustworthy groups or individuals, who are ready to work and 
+
+########## PDF PAGE 135 ##########
+Page | 129 
+ 
+share the environment is necessary (Dupont et al., 2019; Ahmadi et al., 2020) and the 
+management of time, motivating the individuals and accommodating their interest is necessary 
+to avoid them from disconnecting (Mukama et al., 2022). Brouwer et al. (2013) advised that 
+the stakeholders should lead together or have equal power to avoid one of the stakeholders’ 
+overpowering others in the environment. However, there should be a facilitator who should 
+coordinate the environment with the teams of stakeholders for a balance in the process which 
+allows for more focus (Mukama et al., 2022). 
+Furthermore, new stakeholders can be brought in during the process of the Living Lab to allow 
+for more opinions and greater experience (Ahmadi et al., 2020). This would help to constantly 
+add or subtract, and bring versatility to the roles of various stakeholders in the Living Lab 
+(Ståhlbröst and Holst, 2017). Therefore, this research study collaborated with several 
+stakeholders towards a successful development of the energy technology innovation where 
+women (end-users) were allowed to contribute to how the energy innovation should be 
+developed to benefit them and the community. The Living Lab collaboration has been ongoing 
+with various stakeholders from the start of this research study, and this allows for the addition 
+of experience methodological bonding between the various stakeholders involved (Ahmadi et 
+al., 2020). This continued until the end of this research project for the successful adoption of 
+the innovation.  
+The management of the Living Lab technology is easy when the stakeholders are categorised 
+accordingly, to enable successful stakeholders’ opinions into the processes (Nyström et al., 
+2014; Johnson, Jansujwicz and Zydlewski, 2015; Ståhlbröst, Bergvall-Kåreborn and Eriksson, 
+2015). The connection between the stakeholders and the Living Labs is usually focused more 
+on the stakeholders’ control and not on the Living Lab space (Ståhlbröst, Bergvall-Kåreborn 
+and Eriksson, 2015). This is because the stakeholders drive the Living Lab and also dominate 
+the Living Lab. This also means that the successful continuation or longevity of the Living Lab 
+depends on the various stakeholders who agree to work together to achieve a common goal 
+(Mukama et al., 2022). Therefore, the SETILL will comprise the collaborations of various 
+stakeholders who are willing to achieve the desired objectives of this research study. These 
+stakeholders will be made up of the researchers, the institutions, the informal settlements, the 
+women in the informal settlements, funders, governments, private companies or developers 
+and the community supporters or civil society, see figure 3.3 below: 
+
+########## PDF PAGE 136 ##########
+Page | 130 
+ 
+Figure 3.3: A road map of the stakeholders in systems energy technology innovation Living 
+Lab (SETILL) with a gendered perspective. 
+The stakeholders identified in Figure 3.3 are to collaborate to bring about the security of energy 
+services in the informal settlement. They are strongly influencing the Living Lab bi-
+directionally, except for the energy innovation which is strongly influenced by the stakeholders 
+as the possible outcome from the SETILL. The stakeholders can be adjusted at any time 
+because the Living Lab is an open space/environment that allows for more or additional 
+collaboration (Mukama et al., 2022), for example, the community supporters or civil society 
+could be adjusted or removed if not needed. Also, the technology developers' stakeholders can 
+also be known as the ‘energy private companies’ or ‘energy agencies’ around the case study 
+and can also be seen as ‘vendors’ as they would be doing the supplies of the products needed. 
+If necessary, more stakeholders could be added or removed as the research goes on. 
+The Living Lab in the energy sector can be technical (Dupont et al., 2019), due to the energy 
+systems. This can also discourage some stakeholders who are not in the technical field from 
+fully participating (Mukama et al., 2022). This was the main reason the Living Lab involved 
+researchers from different fields, relating to the focus of the research study and a workshop 
+was done to properly present the focus of the research, the systems processes of the Living Lab 
+and the innovation to be developed to carry all the stakeholders along. Therefore, the 
+
+########## PDF PAGE 137 ##########
+Page | 131 
+ 
+stakeholders informing the SETILL are explained below and illustrated briefly in a rich picture 
+in Figure 3.4 for further understanding.  
+1.5.1 
+The informal settlement/community stakeholders 
+The research study collaborated with Mater Pluviam Holdings, a science technology company 
+to partner with the Tzaneen, Limpopo of South Africa, as the selected case study to test the 
+gendered energy technology innovation and the Umuahia, Abia State of Nigeria informal 
+settlements. Mater Pluviam Holdings PTY LTD is trusted around the community and beyond 
+and allows for easy access to the community due to the scientific innovations it has brought to 
+the community in the past. The Mather Pluviam Holding made it possible for the community 
+supporters/civil society who could serve as co-researchers to be identified and educated on the 
+process involved in carrying out their duties. Furthermore, a non-random sample of the 
+informal settlement women in households in the community was identified. These women in 
+the household were a representation of the variety of women in the households in the informal 
+settlements. They also helped to identify the schools in the community where the innovation to 
+be developed will be tested for clean cooking to feed the school children in the case study. A 
+semi-structured interview and surveys were conducted by the researchers and co-researchers 
+in the informal settlements to identify the material cultures, cognitive norms and energy 
+practices in the community in ten areas of the communities in August and September of 2022 
+which ethnographic research was also done in 30% of the households in July 2023 to discuss 
+the challenges of the energy systems.  These were done in collaboration with other stakeholders 
+in the SETILL.  
+This survey was done to have an insight into how the households in the community are 
+influenced by modern energy needs, level of energy demand, availability of energy demand 
+and general energy uses and culture, using the available energy sources in the informal 
+settlements. Therefore, this research study will then require the ideas and opinions of the 
+informal settlements and end-users (women) and other stakeholders to carry out the design 
+processes of the energy technology innovation to be developed towards a reduction in energy 
+poverty and bringing about the security of energy services in the informal settlements. This 
+process is referred to as open social innovation (Yun et al., 2017). These informal settlements 
+have the dynamic ability to bring success to this research study because they are legitimately 
+in need of solutions to energy poverty and gender inequality. This does not imply that other 
+community members or community supporters who do not have the power to impact the 
+
+########## PDF PAGE 138 ##########
+Page | 132 
+ 
+research cannot get involved, as they can be classified into other types of stakeholders since 
+they partially also require security to energy services (Mukama et al., 2022). 
+The informal settlements or community stakeholders can also be seen as the energy consumers 
+or end-users because they are part of the families of the target end-users (women). Therefore, 
+they will directly benefit from the sustainable outcomes of this research study. They are also 
+involved in the monitoring and evaluation of the energy technology innovation project and how 
+it would affect the informal settlements, they contribute to the projects and demand efficient 
+and sustainable products, assist in reducing any conflicts by making the environment safe, and 
+they also have the ability to accomplish the decisions of the stakeholders (Ceriano, Lalk and 
+Thopil, 2023). 
+1.5.2 
+The government/policy maker stakeholders 
+The government is one of the stakeholders in the Living Lab and its connection with the 
+community is very important because of its authority and power to decide the continuation of 
+the energy innovation, if not carried along properly (Johnson, Jansujwicz and Zydlewski, 
+2015). The government will assist to educate others in the Living Lab, about the extent to the 
+sustainability of the innovation, other laws and corrections to the policies where necessary. The 
+duties of the government in the Living Lab might be to bring up laws that will assist in the 
+advancement and adoption of energy innovation and security to the energy services from the 
+Living Lab (Almirall, Lee and Wareham, 2012).  
+The government (central or local governments) will also assist with the formulation and 
+enactment of policies and legislations for the energy industry, advance the sustainable and 
+effective energy use, supervise closely the energy project for the benefit of the community, 
+demand more participations in the design and management of the energy technology (Ceriano, 
+Lalk and Thopil, 2023), and create further expansion of the energy technology innovation to 
+other informal settlements. Lastly, the social system guiding the innovation laws to the social 
+challenges can be strongly supported by the government to make decisions on the challenges 
+faced by the communities. They can also influence the funding of the activities in the Living 
+Lab, the Living Lab itself and the maintenance of energy technology. 
+1.5.3 
+The technology developers/energy industry partner stakeholders 
+The importance of the developers or energy industry partners in this context is never in doubt. 
+This is because they provide the technical support needed and assist the government with the 
+
+########## PDF PAGE 139 ##########
+Page | 133 
+ 
+implementation of the policies and laws (Ceriano, Lalk and Thopil, 2023). The developers who 
+can also be called the project managers can be from the energy, science, and technology sectors. 
+They have a huge duty to carry out in the Living Lab. They are the branch of the stakeholders 
+who would assist with the development and design of the energy technology innovation to 
+benefit the end-users more (Almirall, Lee and Wareham, 2012). This is so because this research 
+study has proposed that the SETI Living Lab has not accomplished its aim if there is no energy 
+innovation designed from it with gendered perspectives, using the systems thinking approach. 
+This is part of the novelty of this research. The partners or developers who come from the 
+public or private sectors around science, engineering or energy fields can assist with advertising 
+the technology innovation, help to test the innovation in the community (Mukama et al., 2022), 
+and can also help to generate funds for the design of the energy technology innovation. 
+1.5.4 
+The researcher/academia stakeholders 
+The researchers are the facilitators of the activities in the Living Lab. They will manage and 
+direct the activities, invent new knowledge to assist the other stakeholders and apply for 
+funding for the progress of the activities to be carried out in the Living Lab, and they will also 
+avoid research bias, and be true to the other stakeholders to build trust (Mukama et al., 2022). 
+The researchers should also endeavour to keep to the time frame to complete the research 
+objectives. The researchers are to be resilient (Ahmadi et al., 2020), and contemplative 
+(Ståhlbröst and Holst, 2017) while carrying out their duties in the Living Lab. According to 
+Ceriano, Lalk and Thopil (2023:7), the technical researchers “develop energy solutions that 
+address country’s specific energy needs and sustainably exploit the usage of available 
+resources; keep abreast of research developments regionally and internationally; adopt better 
+practices customised for the local scenarios while utilising local resources; training and skilling 
+of energy workforce; act as information sources and decision makers’ consultants; are 
+compelled to observe national and local rules and norms”. 
+The researchers or academia’s in collaboration with the developers are to also provide a 
+suitable venue and required tools needed for the activities of the stakeholders and research 
+(Mukama et al., 2022). The main role of the researcher is to use empirical knowledge to give 
+insights into the technicalities and sciences behind the development of energy technology 
+innovation. They also do not possess the dynamic ability to force the design of innovations on 
+the communities (Mukama et al., 2022). 
+
+########## PDF PAGE 140 ##########
+Page | 134 
+ 
+1.5.5 
+The funders/institution stakeholders 
+The research activities and the design of the energy technology innovation require financial 
+resources. The funders or institutions are the group of stakeholders who can provide this 
+financial capability to achieve the desired goals of the Living Lab and the study. The Graduate 
+School of Technology Management and the University of Pretoria fall into this category of 
+stakeholders in this research context as they have partially funded this research study. The 
+funding would be needed for training purposes, workshops, data collection and for the 
+community supporters as they carry out labour activities (Mukama et al., 2022), and in this 
+context, the activities that would lead to the design and testing of energy technology innovation 
+to achieve the research objectives.  
+Therefore, it is believed that the stakeholders involved in this research study and embedded in 
+the Living Lab can help to improve energy security or reduce energy poverty in the informal 
+settlement if they all work together with full commitment and dedication. The improvement in 
+the Lephepane village of Tzaneen informal settlement can also be used as a model or 
+framework for other likely informal settlements in Africa and globally. 
+1.5.6 
+The end-user stakeholders 
+As discussed initially, for this research study, women are the target end-users. The energy 
+technology to be developed is mostly used by women in the Tzaneen and Umuahia informal 
+settlements and other likely informal settlements. Although almost everyone (including men) 
+with access to the energy system are users. This research study has a focus on women because 
+they happen to be affected more by the disadvantages of restricted access to the modern form 
+of energy and from contributing to the designs of the energy technology innovations (Cecelski, 
+2012). The focus on the vulnerability of women in poor informal settlements have been used 
+by Kovacic et al., (2019); Musango et al., (2020); Mukama et al., (2022). These studies, which 
+are related to health, energy, Living Labs and gender respectively, also result in the view that 
+there is a link between women vulnerable to poverty and the “symmetric” dissemination of 
+household responsibilities. 
+The women can also be in the same category as the community stakeholders, because they 
+share similar responsibilities as the community stakeholders and are all beneficiaries of the 
+energy technology innovation. However, women are categorised as separate stakeholders in 
+the context of the SETILL because of their importance in achieving the research objectives. A 
+non-random probability sample of women representing various women was used to identify 
+
+########## PDF PAGE 141 ##########
+Page | 135 
+ 
+the main target women for the research study. The women have the authority and power to 
+progress the study and are vital in the testing of the energy technology innovation to be 
+designed because they are the most in need of the interventions (Mukama et al., 2022). Their 
+decisions and opinions can be a driver to the reduction of energy poverty in the informal 
+settlements. This is because the unavailability of access to energy resources is affecting 
+women's empowerment and gender equality (Pascale et al., 2016). 
+Furthermore, women suffer more from household air pollution from cooking and from the use 
+of biomass and paraffin in their households (Kovacic et al., 2019). They are also responsible 
+for fetching firewood for cooking which consumes time (Choumert-Nkolo, Combes Motel and 
+Le Roux, 2019), thereby hindering them from investing enough time in education and their 
+careers (Winther et al., 2017). They are also meant to handle energy equipment that could harm 
+them due to a lack of electrical safety in the households of the informal settlement (Mudombi 
+et al., 2018; Seguin, Flax and Jagger, 2019). Women suffer greatly in the informal settlements 
+and deserve justice and also to be seen as a very important economic factor. Finally, Figure 3.4 
+below shows the rich picture formulation of the SETILL, the stakeholders in their sub-systems 
+and how they inform the systems in the Living Lab leading to the SETILL theoretical model. 
+According to Ceriano, Lalk and Thopil (2023:6) “a rich picture is a graphic illustration that 
+represents all the stakeholders, their inter-connections and concerns, and it is aimed to be a 
+wide, highly-grained outlook of the problem situation”.  
+ 
+
+########## PDF PAGE 142 ##########
+Page | 136 
+ 
+Figure 3.4: Rich Picture formulation for the systems energy technology innovation Living Lab 
+(SETILL) with a gendered perspective showing their systems and subsystems, leading to the 
+SETILL theoretical model. 
+The origin of rich pictures is from integrated understanding of categorised activities (Bell, Berg 
+and Morse, 2019), the construction of a rich picture should be done with the other stakeholders 
+to achieve general outcomes and desired concerns (Ceriano, Lalk and Thopil, 2023). The 
+identified stakeholders participating in this study were carefully selected as main collaborators 
+with broad skills, ideas and technical knowledge in the gender, systems thinking and energy 
+sectors. Therefore, this does not imply that more stakeholders cannot successfully participate 
+to improve the study, but the stakeholders selected were done due to the time frame of the 
+research study and also to focus more on the stakeholders to bring the desired outcomes in 
+time. Furthermore, we cannot fully prevent the occurrence of components of some abstract 
+effects on the outcomes (Ceriano, Lalk and Thopil, 2023). 
+ 
+1.6 Conceptualising the SETILL theoretical model 
+The SETI Living Lab model as conceptualised will be implemented as part of any hub of 
+energy technology innovation with gender design and systems thinking approach in poor 
+informal settlements. The SETILL model could be a virtual place if there is no space due to 
+social distancing. This means that it could be done virtually by bringing together those involved 
+online, and it can also be mobile, which means that it can be moved to any convenient space 
+regardless of where the energy innovation is to be developed. Also, the SETILL model is not 
+complete if there is no energy technology innovation developed to benefit a particular end-
+users chosen by the researcher in collaboration with other stakeholders. 
+Therefore, considering the project of the proposed SETILL context, the Living Lab is defined 
+as physical or virtual and mobile research and systems thinking approach space for design 
+methodology focused on co-creating and testing of energy innovations through the involvement 
+of end-users in a real-life scenario towards mitigating energy poverty for the informal 
+settlements by collaborating with various stakeholders to (1) understand the material cultures, 
+cognitive norms and energy practices or mechanisms influencing the level of adoption of 
+energy innovations, (2) to investigate the influence of end-users contributions on energy 
+technology innovation in a systems Living Lab, (3) develop and test an energy technology 
+
+########## PDF PAGE 143 ##########
+Page | 137 
+ 
+innovation up to a pilot scale through the involvement of end-users, (4) promote energy 
+security, gender equality and women empowerment. 
+It is envisaged that the SETILL theoretical model will look like the Living Lab that focuses on 
+the involvement of users, with a focus on women in the decision-making processes and 
+knowledge contribution of the innovative design. The users would be involved in the co-
+creation of the energy services solutions, co-design of energy technology innovations, 
+prototyping, and testing. Although men are also part of the users, for the context of this research 
+study, the focus is on women. A different study that wants to use the SETILL model can decide 
+to choose a different user if possible. 
+The processes of developing the SETILL model from a conceptualisation point of view can be 
+illustrated by borrowing from the ICT, health, gender and education sectors. Although these 
+have been developed in the ICT, health, gender and education sectors, they will become the 
+basis for testing the energy technology innovation to be developed. This has given the idea of 
+how the proposed SETILL model will be conceptualised. See Figure 3.5 below, figure 3.3 and 
+Table 3.1 above for the proposed emerging SETILL model and the structure of the SETILL 
+model. 
+
+########## PDF PAGE 144 ##########
+Page | 138 
+ 
+ 
+Figure 3.5: Conceptualising the emerging SETILL theoretical model 
+The essence of this section is to conceptualise the ideas of SETILL model. For the Living Lab 
+to function, it will depend on the innovation process applications which will be linked to the 
+‘dream,’ process, ‘design’ process, ‘develop’ process, ‘apply’ process, ‘implement’ process, 
+and the ‘review’ process (Callaghan and Herselman, 2015) discussed in the literature review 
+chapter. The structure of the Living Lab also shows a process that could be used to structure 
+the directives or processes for the SETILL model development. The SRM model by Okoye 
+(2020) was adapted into the model to understand the material cultures, cognitive norms and 
+energy practices of the informal settlements before the development of the gendered energy 
+technology innovation (outcome). This is the first system interconnections in figure 3.5 which 
+includes the material cultures, cognitive norms and energy practices as the systems of energy 
+poverty or ‘design decisions’ system. They assist with evaluating the level of energy poverty, 
+energy use and energy behaviours in the households of the informal settlements. 
+
+########## PDF PAGE 145 ##########
+Page | 139 
+ 
+The model to be developed to answer research questions 2 and 3, represents ‘what is(are) the 
+mechanism(s) influencing the contribution of knowledge and participation of women in the 
+decision-making process of co-designing, co-creating, co-researching, prototyping and testing 
+of the energy technology innovations in the informal settlement to meet the expectations of 
+end-users? and How can the mechanism(s) be improved to enhance the level of adoption or 
+acceptance of energy innovations and end-users contributions and participation to achieve the 
+security of energy services in the informal settlements? Finally, the road map of the SETI 
+Living Lab is represented. All these three sections make up the SETILL theoretical model. 
+Furthermore, the System Energy Technology Innovation Living Lab (SETILL) played a vital 
+role in aiding the design and development of the gender-inclusive energy technology 
+innovation (the Biogas digester). The Biogas digester served as a practical test case for 
+SETILL, offering users insights into the gender dynamics of energy in informal settlements 
+and fostering creative idea generation for gender-inclusive energy technology innovations. The 
+evaluation of this co-designed gender-inclusive energy technology innovation took place 
+during a one-day, multi-stakeholder co-design workshop held in Tzaneen, South Africa.  
+1.7 Conclusions 
+This chapter has contributed to the theoretical framework of the Living Lab concept in the 
+energy industry and shows how the Living Lab concept is used leading to the context of the 
+SETILL to achieve security of energy services. The SETILL can be mobile and the movement 
+can always start from the GSTM of the University of Pretoria to collaborate with various 
+stakeholders to ‘co-research’, ‘co-design’, ‘co-create’, ‘prototype’ and ‘test’ any form of 
+energy technology innovation to a pilot scale and most importantly with gender perspectives 
+and systems thinking approaches. Any kind of systems thinking or systems engineering can be 
+used for the SETILL. 
+The chapter has specifically or partially addressed objective 1 and 4 by developing a roadmap 
+to the SETILL (figure 3.3). This chapter also conceptualised the Living Lab technology starting 
+with building the conceptual framework, showing the antecedents, attributes and consequences 
+relating to the research concept. Finally, other detailed information and literature reviews 
+needed on the Living Lab concepts, SsT/SE, energy technology innovation and any of the 
+sections in this chapter can be found in the preceding chapters of this thesis. The chapter also 
+
+########## PDF PAGE 146 ##########
+Page | 140 
+ 
+indicated the processes that will be used or adapted in the SETILL model. The next chapter 
+will highlight the methodological designs used to achieve the research objectives of this study. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

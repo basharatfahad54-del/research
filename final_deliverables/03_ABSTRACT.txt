@@ -1,0 +1,36 @@
+ABSTRACT
+
+South Africa's just energy transition is framed nationally by renewable procurement
+and grid decarbonisation, yet its outcomes are decided locally, in configurations
+where households, fuels, appliances, dwellings, tenure, infrastructure and
+institutions interact. In informal settlements these configurations often reproduce
+energy poverty, insecure supply and an unequal distribution of costs and benefits.
+Community-scale biogas is promoted as a decentralised alternative, but uptake is
+uneven, and existing acceptance models treat the technology as given and the user
+as an individual chooser, leaving the socio-material conditions of acceptance and
+justice unexamined.
+
+This study develops SETILL, a Systemic Living Lab for Just Energy Transition, as a
+conceptual and methodological framework for examining how a community-scale biogas
+innovation can be designed, accepted and sustained justly in an informal settlement
+in Tzaneen, South Africa. The objectives are to frame the settlement as a
+socio-technical system, identify the factors that shape end-user participation,
+examine the cultural and technological conditions of acceptance, specify the
+mechanisms through which a Living Lab can support a just transition, and establish
+how such a Living Lab should be evaluated.
+
+The study adopts a critical posthumanist paradigm, supported by systems thinking,
+energy justice, socio-technical transitions, Living Lab theory and complexity
+theory. It follows a qualitative, participatory case study design using a Living
+Lab approach, with co-design workshops, semi-structured interviews, observation and
+documentary analysis, analysed through reflexive thematic and framework analysis.
+
+The expected contributions are a situated account of acceptance and justice in an
+informal settlement, a transferable Living Lab framework for community-scale energy
+innovation, practice guidance for participatory design, and methodological insight
+into reflexive, posthumanist energy research in engineering management.
+
+[Word count: 267 (excluding the ABSTRACT heading). Within the 250-300 limit.
+Covers the four required elements: problem (paragraph 1), objectives (paragraph 2),
+methodology (paragraph 3), expected contributions (paragraph 4).
+AI-ASSISTED WORKING DRAFT — not for citation as final text.]

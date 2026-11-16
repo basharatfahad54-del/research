@@ -1,0 +1,2364 @@
+Energy for Sustainable Development 88 (2025) 101777
+Available online 23 June 2025
+0973-0826/© 2025 The Authors. Published by Elsevier Inc. on behalf of International Energy Initiative. This is an open access article under the CC BY-NC-ND
+license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Analysis of Barriers to South Africa’s Energy Transition: Perspectives from
+industry experts
+Pheladi Morufa Molepo *, Khaled Aboalez , Tebello Ntsiki Don Mathaba
+Postgraduate School of Engineering Management, Faculty of Engineering and Built Environment University of Johannesburg, Johannesburg 2028, South Africa
+A R T I C L E I N F O
+Keywords:
+Barriers
+Renewable energy
+AKTESP
+South Africa
+Independent Power Producer
+A B S T R A C T
+Renewable energy sources hold immense potential for meeting future energy demands while significantly
+reducing greenhouse gas emissions. Despite South Africa's abundant wind and solar resources, the country's
+transition to renewable energy has remained stagnant. Several barriers hinder the integration of these tech-
+nologies into the energy system. This study applied the AKTESP theoretical framework to analyse the key
+challenges impeding wind and solar energy adoption in South Africa. Fifteen semi-structured interviews with
+industry experts were conducted to gather insights into these barriers. The analysis revealed that agreement,
+social, and technological categories are the most critical barriers obstructing South Africa’s energy transition.
+Among the most significant barriers are the lack of grid connection, the lack of policy continuity (both mentioned
+by 100% of participants), and limited public awareness (mentioned by 87% of participants). In contrast, political,
+market, economic, and knowledge-related barriers were found to be less significant. South Africa has well-
+developed policies and knowledgeable stakeholders capable of supporting renewable energy projects and
+facilitating their integration into the national grid.
+Introduction
+South Africa (SA)'s power supply challenges began in late 2007 due
+to insufficient generation capacity (Mtukushe, 2021). However, in 2023,
+the country experienced increasingly severe and frequent power out-
+ages, with blackouts lasting several hours daily (Wiese & van der
+Westhuizen, 2024). These persistent outages highlighted a deepening
+power generation crisis. The state utility, Eskom, is struggling with a
+deteriorating power generation system that is overwhelmed by rising
+energy demand (Akinbami et al., 2021). The country generates more
+than 80% of its electricity from fossil fuels (Fitzgerald et al., 2024),
+contributing significantly to environmental and climate challenges. The
+extensive use of coal for electricity generation has positioned South
+Africa among the top ten global contributors of greenhouse gas (GHG)
+emissions (Akinbami et al., 2021).
+With growing energy demand and Eskom’s inability to maintain a
+stable power supply, developing clean energy is essential to address this
+crisis and reduce greenhouse gas emissions from coal burning (Akinbami
+et al., 2021; Asante et al., 2020). South Africa is rich in renewable re-
+sources, including abundant solar energy, high wind potential, and
+substantial biomass reserves (Akinbami et al., 2021; Amir & Zubair,
+2022). South Africa’s annual 24-hour global solar radiation average is
+220 W/m2, compared to 150 W/m2 for the United States and 100 W/m2
+for Europe and the United Kingdom (Smarte Anekwe et al., 2024). The
+annual average wind speed is over 4 m/s (Akinbami et al., 2021)
+compared to 3 m/s for Europe (European Union, 2024) and 6 m/s for the
+United States (Roy & MacPhee, 2018). However, wind power generation
+is not directly proportional to the mean wind speed, due to the nonlinear
+relationship between wind speed and power output (Pandit & Kolios,
+2020). Additionally, factors such as the standard deviation of wind
+speed (which reflects variability) (Lee et al., 2020), power density,
+turbine type, hub height, and site-specific characteristics (Landwehr
+et al., 2024) all play a critical role in determining actual energy
+production.
+By the end of Quarter 3 of 2024, renewable energy (RE) accounted
+for approximately 12.6% of South Africa’s electricity supply. This in-
+cludes contributions of 4.2% from solar photovoltaic (PV), 0.9% from
+solar thermal, 6.4% from wind power, 0.3% from hybrid systems (solar
+PV and battery storage), and 1.1% from hydropower (Eskom, 2024;
+Fitzgerald et al., 2024). In comparison, by the end of 2024, solar energy
+contributed around 40% of total electricity capacity in Europe and 30%
+in the United States, while wind power accounted for 32% and 25%,
+* Corresponding author.
+E-mail address: phile.molepo@gmail.com (P.M. Molepo).
+Contents lists available at ScienceDirect
+Energy for Sustainable Development
+journal homepage: www.journals.elsevier.com/energy-for-sustainable-development
+https://doi.org/10.1016/j.esd.2025.101777
+Received 23 March 2025; Received in revised form 11 June 2025; Accepted 13 June 2025
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+2
+respectively (International Renewable Energy Agency, 2025). These
+Figures underscore the considerable gap between South Africa and
+global leaders in renewable integration, highlighting that a significant
+portion of South Africa’s abundant natural energy resources is not yet
+utilized.
+In 2011, the South African government launched the Renewable
+Energy
+Independent
+Power
+Producer
+Procurement
+Programme
+(REIPPPP) to integrate renewable energy from Independent Power
+Producers (IPPs) into the national electricity grid (Renaud, Roff, Steyn,
+& Tyler, 2020). Despite the notable progress that the program has made
+in advancing renewable energy, many industry experts argue that South
+Africa lacks the urgency and consistency needed to prioritize renewable
+energy development. The penetration of renewables into the grid re-
+mains stagnant (Renaud et al., 2020). The industry is faced with
+persistent delays in procurement, construction, and commercialization
+due to existential barriers (Walwyn, 2021).
+South Africa's transition to a just energy system remains unstable,
+with abundant solar and wind resources largely untapped due to these
+existential barriers (Todd & Mccauley, 2021). These barriers are dy-
+namic and evolving as renewable energy development progresses. While
+some previously identified obstacles have been addressed, new chal-
+lenges emerge (Nouri et al., 2022). Despite the country’s ongoing elec-
+tricity crisis and delays in renewable energy development, limited
+academic research focuses on IPPs' challenges in developing and inte-
+grating renewable energy into South Africa’s power system. The land-
+scape of renewable energy barriers is constantly shifting, shaped by
+technological advancements, political uncertainty, and other factors
+(Mercer et al., 2017). In order to support the development and inte-
+gration of renewable energies into the national energy system, it is
+necessary to continuously and quickly assess these obstacles.
+This research aims to answer the following question: What are the
+renewable energy barriers faced by Independent Power Producers in
+South Africa? A growing number of studies have explored the barriers to
+renewable energy development and integration in South Africa. The
+study by (Todd & Mccauley, 2021) identified key policy barriers
+impeding energy transition in South Africa and solutions to mitigate
+their effect. Research conducted by (Pegels, 2010) identified barriers to
+renewable energy investment in South Africa and formulated policy
+recommendations for these barriers. A study by (Mirzania et al., 2023)
+assessed the constraints impacting South Africa’s energy transition
+ambitions. Although these studies have assessed renewable energy
+barriers, none have applied a theoretical framework for barrier identi-
+fication and analysis. This study aims to address this gap by making the
+following key contributions: First, it identifies renewable energy barriers
+and contextualises them to the South African market through expert
+interviews. Second, it refines the theoretical framework used for barrier
+analysis by introducing a two-level structure, enabling a more compre-
+hensive understanding of the underlying causes. Finally, the study offers
+practical policy recommendations to effectively address these barriers.
+The structure of the study is as follows: Section 2 provides a literature
+review on the current state of renewable energy in South Africa. Section
+3 outlines the selection of the theoretical framework. Section 4 describes
+the data collection methodology, while Section 5 presents the study’s
+findings. Section 6 discusses the findings in the South African context
+and Section 7 concludes the study, discusses its limitations, and provides
+policy implications and recommendations for future research.
+Literature review
+South Africa’s current electricity status
+As shown in Fig. 1, at the end of the third quarter (Q3) of 2024, South
+Africa's electricity generation capacity was distributed as follows: 39
+000 MW from coal, 1 900 MW from nuclear, 3 400 MW from gas and
+diesel, 6 230 MW from renewable sources (including photovoltaic,
+concentrated solar power (CSP), and wind), and 3 550 MW from hydro,
+pumped storage, and hybrid systems (Eskom, 2024; Fitzgerald et al.,
+2024). These energy outputs are produced by Eskom and IPPs partici-
+pating in the REIPPPP and exclude renewable energy power generated
+and connected to the grid by IPPs for private offtake. Coal remains
+dominant in the electricity mix as the most significant contributor of
+installed generation capacity.
+South Africa’s National Development Plan (NDP) 2030 presents a
+long-term plan to reduce poverty, unemployment, and inequality in
+South Africa by 2030. It envisions a transformed energy sector that
+supports economic growth, promotes social equity, and ensures envi-
+ronmental sustainability (South Africa National Planning Commission,
+2012). To achieve this vision, in 2019, the Department of Mineral
+Fig. 1. SA’s generation capacity from different sources in MW.
+Data Source: Stellenbosch University (Fitzgerald et al., 2024) & Eskom (Eskom, 2024).
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+3
+Resources and Energy (DMRE) promulgated its second version of the
+Integrated Resource Plan (IRP) 2019. The IRP 2019 outlines the gov-
+ernment’s long-term approach to meeting the country’s energy demands
+up to 2030. It includes capacity planning and identifies various tech-
+nologies
+to
+generate
+electricity
+in
+line
+with
+projected
+demand
+(Department of Mineral Resource and Energy, 2019).
+Illustrated in Fig. 2 is a comparison between the generation capacity
+projected in the DMRE’s IRP 2019 and the actual generation capacity
+achieved by the end of Q3 2024. The IRP envisaged a target of 33.81%
+(26 030 MW) of renewable energy from solar and wind by 2030
+(Department of Mineral Resource and Energy, 2019); however, as of late
+2024, solar PV and wind collectively accounted for only 10.6% (5 700
+MW) of the country’s electricity supply (Fitzgerald et al., 2024), high-
+lighting a significant shortfall. In contrast, Germany, being one of the
+regions with higher energy demand, had already achieved substantial
+integration of renewables, with installed capacities of 72 823 MW for
+wind and 89 943 MW for solar PV in 2024 (International Renewable
+Energy Agency, 2025). Meanwhile, China led global renewable
+deployment, with installed capacities of 521 746 MW for wind and 887
+360 MW for solar PV in the same year (International Renewable Energy
+Agency, 2025).
+This significant gap in South Africa underscores the urgent need to
+accelerate the development of renewable energy projects to meet the
+IRP target, address growing energy demand, and ensure a stable and
+sufficient energy supply through 2030 and beyond. Achieving this goal
+will require a concerted and collaborative effort from all stakeholders in
+South Africa’s energy sector.
+South Africa’s renewable energy procurement
+South Africa strives to achieve a diversified energy mix that reduces
+its reliance on coal as the dominant energy source. Renewable energy
+offers a significant opportunity to diversify the energy landscape while
+reducing greenhouse gas (GHG) emissions. In addition to being more
+environmentally sustainable, renewable energy sources are increasingly
+cost-effective than traditional conventional energy, making them a
+viable solution for the country’s energy transition (Müller & Claar,
+2021).
+South Africa’s energy transition journey began in 2003 and has
+steadily gained momentum over the years (Müller & Claar, 2021). The
+diversification of the country’s energy mix through the integration of
+renewable energy technologies is primarily driven by the Renewable
+Energy Independent Power Producer Procurement Programme. Estab-
+lished in 2011 by the Department of Mineral Resources and Energy,
+REIPPPP is a competitive tender process designed to attract private in-
+vestment for utility-scale, grid-connected renewable energy projects
+(Eberhard & Naude, 2016). South Africa was one of the first African
+countries to implement this type of procurement program for utility-
+scale renewable energy based on auctioning for IPP (Kitzing et al.,
+2022). The program is managed by the Independent Power Producer
+Office (IPPO) on behalf of the DMRE and its associates (Eberhard &
+Naude, 2016). In 2014, electricity from renewable energy projects under
+REIPPPP was fed into the national grid for the first time (Wlokas, 2017),
+marking a significant milestone in South Africa's transition to cleaner
+energy sources.
+As of March 2025, South Africa has completed nine renewable en-
+ergy procurement rounds, known as Bid Windows (BW), under the
+REIPPPP, with one round failing to reach commercial close. In each Bid
+Window, IPPs compete to supply energy using various technologies,
+including solar PV, concentrated solar power, wind, biomass, biogas,
+and landfill gas. Successful bidders are required to generate and sell the
+electricity to the state utility, Eskom, under a standard, non-negotiable
+20-year Power Purchase Agreement (PPA) (Ayamolowo et al., 2022).
+Illustrated in Fig. 3 is the summary of the outcome of DMRE’s nine
+bidding rounds for renewable energy.
+Under Bid Window 1, 28 projects comprising 18 solar PV, 8 onshore
+wind, and 2 CSP projects were awarded. The total capacity procured was
+1 425 MW, and all the projects are operational (Larmuth & Cuellar,
+2019).
+Under BW 2, 19 projects were awarded, including 2 hydro, 9 solar
+PV, 7 onshore wind, and 1 CSP project with a total capacity of 1 040
+MW. These projects are also fully operational (Larmuth & Cuellar,
+2019).
+BW 3 awarded 17 projects with a total capacity of 1 457 MW. These
+Fig. 2. Comparison of IRP 2019 target and 2024 generation capacity.
+Data Source: Stellenbosch University (Fitzgerald et al., 2024) & IRP 2019 (Department of Mineral Resource and Energy, 2019).
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+4
+included 6 solar PV, 7 onshore wind, 1 landfill gas, 2 CSP, and 1 biomass
+project (Larmuth & Cuellar, 2019). Sixteen of these projects are now
+connected to the grid, and one biomass project failed to reach a financial
+close (IPP Office, 2025).
+In 2013, the Department of Mineral Resources and Energy launched
+the Small Projects Independent Power Producer Procurement Pro-
+gramme (SPIPPPP) to encourage Small and Medium Enterprises (SMEs)
+to participate in renewable energy generation. The program targeted
+small-scale projects with capacities between 1 MW and 5 MW (Eberhard
+& Naude, 2017). Two bid windows were issued, resulting in the
+announcement of preferred bidders for projects with a combined ca-
+pacity of 100 MW (Eberhard & Naude, 2017). However, eight years
+later, these projects were cancelled due to Eskom’s refusal to sign the
+PPAs, citing concerns that the projects did not provide sufficient value
+for money (Creamer, 2022).
+BW 3.5, explicitly intended for CSP technology, contracted a total
+capacity of 200 MW from 2 projects (Larmuth & Cuellar, 2019).
+Although all the projects are operational, the signing of PPA for one
+project was delayed by several years (Kruger et al., 2021).
+In 2015, 26 projects with a total capacity of 2 205 MW consisting of
+12 solar PV, 12 onshore wind, 1 biomass, and 1 hydro were awarded
+under BW 4. Although all these projects are now connected to the grid,
+the signing of their PPAs was delayed by nearly four years (Kruger et al.,
+2021), due to a combination of political interference and leadership
+instability (Kruger, 2023).
+In 2020, alongside the REIPPPP, DMRE launched the Risk Mitigation
+Independent Power Producer Procurement Programme (RMIPPPP) as
+part of the government’s efforts to address South Africa’s electricity
+crisis. The goal of the RMIPPPP was to procure 2 000 MW of generation
+capacity from various technologies (Department of Mineral Resource
+and Energy, 2021). In 2021, eleven preferred bidders were announced,
+but only three projects, with a combined dispatchable capacity of 150
+MW, are currently operational (Department of Mineral Resources and
+Energy, 2025a). Additionally, three projects, totalling 278 MW, are
+under construction. However, five gas-based technology projects, with a
+total capacity of 1570 MW, failed to reach a financial close and were
+subsequently cancelled (Green Building Africa, 2024).
+In 2021, three years behind schedule, the department and the IPPO
+announced 25 preferred bidders under BW 5, with a total contracted
+capacity of 2 600 MW (Department of Mineral Resources and Energy,
+2025b). The awarded projects included 12 onshore wind and 13 solar
+PV. To date, only 11 projects, with a combined capacity of 1 207 MW,
+have reached financial close and are currently under construction
+(Green Building Africa, 2024). The electricity generation from these
+BW 1
+2011
+•28 projects totalling 1.425 GW were awarded
+•All projects are connected to the grid and operational
+BW 2
+2012
+•19 projects totalling 1.040 GW were awarded
+•All projects are connected to the grid and operational
+BW 3
+2013
+•17 projects totalling 1.457 GW were awarded
+•16 projects are connected to the grid
+•1 project did not reach financial close and was canceled
+SPIPPP
+P
+2013
+•Total capacity to be procured = 0,1 GW
+•Eskom refused to sign the PPAs
+•Eight yeras later the projects were cancelled
+BW 3.5
+2014
+•2 projects with a contracted total capacity of 0,2 GW
+were awarded
+•1 project with 0,1 GW capacity is operational
+•The remaining project was anticipated to come online by the end of 2023
+BW 4
+2015
+•Total capacity = 2.205 GW
+•26 Projects awarded
+•Delayed by >4 years
+•Generation capacity came online in 2020
+RMIPPP
+P
+2020
+•Total capacity to be procured = 2 GW
+•3 projects with the capacity of 0.15 GW in operation
+•3 projects with the
+capacity of 0,278 GW in construction
+•5 projects (1,57 GW) canceled
+BW 5
+2021
+•Total capacity = 2.6 GW (1.6 GW from wind projects and 1 GW from solar PV projects)
+•25
+Projects
+awarded,
+11
+projects
+reached
+financial close
+with
+a
+total
+capacity
+of
+1,207 GW. Operation expected by 2025
+•Delayed by over two years
+•11 projects cancelled
+BW 6
+2022
+•Total capacity = 4.2 GW (3.2 GW from wind projects and 1 GW from solar PV projects)
+•6 Projects awarded
+with a total capacity of
+1 GW
+•Wind projects with 3.2 GW capacity shelved due to the grid constarints in the Cape
+provinces
+•Two projects with the capacity of 0,395 GW in the construction phase
+BW 7
+2023
+•Procurement of 5 GW (3.2 GW wind and 1.8 GW solar PV)
+•8 Solar PV projects with
+1,7 GW capacity awarded
+•Wind projects not awarded due to grid capacity constraints
+Fig. 3. SA’s REIPPPP Bid Windows Outcome.
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+5
+projects is expected to come online in 2025. The remaining 14 projects
+were cancelled due to their failure to achieve financial close (Green
+Building Africa, 2024).
+BW 6, launched in 2022, offered a total capacity of 4 200 MW, with 1
+000 MW allocated for solar PV and 3 200 MW for onshore wind. How-
+ever, only six solar PV projects with a combined capacity of 1 000 MW
+were awarded preferred bidders (Eskom, 2024). None of the onshore
+wind projects were awarded due to insufficient grid connection infra-
+structure in the Cape provinces, where these projects were planned
+(Department of Mineral Resources and Energy, 2025c). Of the awarded
+projects, two, with a total contracted capacity of 395 MW, reached
+financial close in April 2024. These projects are currently under con-
+struction and are expected to begin operations in May 2026 (Department
+of Energy, 2024).
+In August 2024, the IPPO received 48 bids under BW 7, representing
+a total capacity of 10 218 MW. Of these, 8 bids were for onshore wind
+projects, amounting to 1 692 MW, while 40 bids for solar PV projects
+totalled 8 526 MW (Department of Energy, 2024). By December 2024,
+eight solar PV projects with a combined capacity of 1 760 MW were
+awarded preferred bidder status, while wind projects were not awarded
+due to grid constraints (University of Cape Town Power Futures Lab,
+2024). This outcome reflects a significant oversubscription of solar en-
+ergy projects and a noticeable decline in wind energy procurement.
+REIPPPP has been widely regarded as a well-designed, well-
+managed, and transparent procurement process (Kitzing et al., 2022). It
+has played a crucial role in unlocking South Africa's renewable energy
+potential and increasing access to cleaner and more affordable energy
+(Müller & Claar, 2021). Beyond its contribution to energy supply secu-
+rity, REIPPPP is also structured to achieve socio-economic development
+goals, including job creation, social upliftment, skills development, and
+the growth of local industries (Eberhard & Naude, 2016). However,
+delays in signing Power Purchase Agreements and releasing new bid
+windows have created instability in the programme. This has hindered
+the smooth integration of renewable energy into South Africa’s energy
+mix and led to uneven investment by IPPs (Esser & Champion, 2021). To
+ensure the long-term success of grid-connected renewable energy in-
+vestments in South Africa through 2030 and beyond, it is crucial to
+evaluate and refine the current procurement model. Addressing these
+challenges will be vital for fostering a more stable and effective energy
+transition.
+Connection to the theoretical framework
+The theoretical framework is one of the most compelling aspects of
+the research process (Grant & Osanloo, 2014). It provides the foundation
+for the research study, enhancing its credibility (Adom et al., 2018). It
+serves as a basis for the literature review and analysis methods, mapping
+a clear vision of the research structure (Grant & Osanloo, 2014). It is
+derived from established and validated theories and relates to the
+research study's hypothesis (Adom et al., 2018).
+There are various theoretical frameworks within the sustainability
+transition literature (Sovacool et al., 2021). This research is grounded in
+the literature on energy transition, diffusion, and innovation to evaluate
+the barriers that South Africa faces in its transition to the widespread
+adoption of renewable energy technologies. The study adopts the
+AKTESP framework to analyse the barriers hindering the renewable
+energy transition in South Africa. AKTESP is an acronym for Agreement
+Knowledge Technological Economic Social Political. It is a theoretical
+model developed by Trudgill in 1990 to understand the nature and
+impact of barriers, enabling the prioritization of those that need to be
+addressed first (Richards et al., 2012). According to Trudgill, achieving
+environmental solutions may be impossible if a barrier exists within any
+of these AKTESP categories. Each category contains multiple aspects,
+which can overlap, and the barriers need not occur in a sequential or
+orderly manner, as depicted in Fig. 4 (Mercer et al., 2017). In analysing
+these barriers, the framework evaluates the extent to which each
+category of the AKTESP impedes progress toward the solution (Chin
+Haw et al., 2008).
+Richards et al., (Richards et al., 2012) applied the AKTESP frame-
+work to assess the barriers to wind energy development, and in their
+findings, they assert that the barriers to developing renewable energy
+are complex and multi-dimensional. Similarly, Mercer et al., in their
+study conducted in Canada using the AKTESP framework, emphasized
+that no single barrier exists; instead, multiple challenges interact and
+overlap (Mercer et al., 2017). This highlights the need for a multi-
+dimensional assessment of these barriers to identify the most signifi-
+cant underlying factors and to understand their interrelationships and
+influences on one another (Richards et al., 2012).
+Given its focus on assessing barriers from a multi-dimensional
+perspective, Trudgill’s AKTESP framework has been selected as the
+most suitable framework for this research. Barriers to renewable energy
+are complex and multifaceted. As such, understanding their root causes
+is essential for generating valuable insights that can guide the prioriti-
+sation and development of effective strategies to address them (Richards
+et al., 2012). However, Trudgill’s framework does not account for the
+analysis of barriers across multiple levels. To address this limitation, this
+study modifies the original framework by introducing a two-level
+structure: barrier category based on the AKTESP classification and
+sub-barrier category, with an explanation of each sub-barrier category.
+The framework is further modified by adding additional barriers that do
+not form part of the AKTESP category and classifying them as “Others”.
+This approach enables a clearer and more in-depth exploration of the
+multidimensional barriers and their underlying causes. Lastly, the
+framework allows for policy interventions to be formulated targeting
+each barrier category.
+Application of AKTESP Framework
+The application of AKTESP has proven effective in explaining various
+environmental challenges and suggesting potential solutions (Mercer
+et al., 2017; Richards et al., 2012). Many researchers have applied
+Trudgill’s theory across various research fields to investigate barriers to
+achieving a better environment (Abdullah et al., 2021). For example,
+Richards et al., applied the AKTESP theoretical framework to assess
+stakeholders’ perceptions of barriers to wind energy development in
+Canada. Their results revealed that the most significant renewable en-
+ergy barriers were primarily related to technological and political fac-
+tors. The study concluded that renewable energy barriers cannot be
+understood through a single factor (such as social, economic, or
+Fig. 4. AKTESP category of barriers.
+Adopted from (Mercer et al., 2017).
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+6
+political) in isolation; instead, they require a multi-dimensional
+approach (Richards et al., 2012).
+Similarly, Kardooni et al., applied the same framework to assess
+Malaysia's barriers to renewable energy development. Their study also
+discovered the interrelationship between these barriers. The findings
+emphasized that the cost of renewable energy technology is the most
+significant and influential barrier to RE adoption (Kardooni et al., 2015).
+Mercer et al., applied Trudgill’s AKTESP framework to comprehen-
+sively assess the barriers to wind energy development in Newfoundland
+and Labrador provinces of Canada. Interviews were structured accord-
+ing to the six categories of the AKTESP framework and conducted with
+industry experts. Their study identified political and economic barriers
+as the most significant. Technology and social barriers were found to be
+the least significant. The study concluded that many renewable energy
+barriers extend beyond the technical category, emphasizing the impor-
+tance of addressing political, economic, and other factors in the transi-
+tion to renewable energy (Mercer et al., 2017).
+Based on these studies, there is no single barrier to renewable energy
+development. The challenges to RE development extend beyond tech-
+nical issues, encompassing a range of social, political, and economic
+factors. Therefore, assessing these barriers requires a multi-disciplinary
+approach that incorporates broader social science perspectives, ensuring
+a more comprehensive understanding of the factors hindering the
+transition to renewable energy (Mercer et al., 2017).
+Barriers to renewable energy adapted to the AKTESP framework
+The barriers presented in Table 1 were identified through a sys-
+tematic literature review (SLR) of recent and relevant studies sourced
+from reputable academic databases, specifically Scopus and Science-
+Direct. The barriers were categorized using the modified AKTESP
+theoretical framework at two levels and include a description of each
+sub-barrier. In addition to the AKTESP category, two other barrier cat-
+egories were identified and categorized as “Others.” These categories
+include Market, and Geographical and Environmental. The barriers and
+their descriptions are also presented in Table 1. It is important to note
+that the classification of barriers and sub-barriers into these categories is
+not fixed, and some barriers or sub-barriers may be relevant to more
+than one category (Painuly, 2001).
+Methodology
+Data collection and sampling
+This study employs semi-structured interviews to gather data from
+South African renewable energy industry experts. The interview ques-
+tions were developed based on the categories of the AKTESP theoretical
+framework and included both closed and open-ended questions. The
+study targeted a sample size of 15 experts, sampled using non-
+probability purposive expert sampling and recruited from the private
+and public sectors through the public social media platform LinkedIn
+and the researcher’s professional network. The selection criteria
+included a minimum of three years of working experience in the wind or
+solar energy sector, ensuring that participants have substantial expertise
+in the field. The interviews were conducted via Microsoft Teams, digi-
+tally recorded, and concurrently transcribed manually by the researcher.
+According to (Hennink & Kaiser, 2022), the adequacy of sample size
+is best evaluated by determining saturation. Data saturation is the
+theoretical guiding principle used to assess if sufficient data has been
+collected in qualitative research (Guest et al., 2020). According to the
+research conducted by Guest et al., a sample of 12 interviews is sufficient
+to reach saturation (Guest et al., 2020). While Hennink and Kaiser
+concluded that saturation is typically achieved by conducting interviews
+with 9 to 17 participants (Hennink & Kaiser, 2022). A study by (Mercer
+et al., 2017) examined barriers to wind energy development in Canada;
+17 semi-structured interviews were conducted with industry experts
+Table 1
+Renewable energy barriers from the global context adopted to the modified
+AKTESP framework.
+Barrier Category
+Sub-barrier
+Barrier Description
+Source
+Agreement
+Lack of agreement
+There is a lack of
+agreement between
+key stakeholders in
+institutions
+responsible for
+driving renewable
+energy projects.
+(Richards et al.,
+2012); (Chin
+Haw et al.,
+2008)
+Knowledge
+Lack of
+knowledgeable
+stakeholders
+The lack of
+knowledgeable
+stakeholders in key
+institutions.
+(Solangi et al.,
+2025), (Mercer
+et al., 2017), (
+James et al.,
+2025)
+Weak institutional
+capacity
+Weak institutional
+capacity among key
+stakeholders who
+are not fully aware
+of the benefits of RE
+hinders RE
+development.
+(Solangi et al.,
+2021), (Shah &
+Longsheng,
+2022)
+Lack of
+coordination
+between key
+institutions
+Lack of
+coordination and
+collaboration
+between relevant
+private and public
+institutions
+responsible for
+driving RE projects.
+(Pathak et al.,
+2022), (Akusta
+et al., 2025), (
+James et al.,
+2025), (Asante
+et al., 2022)
+Technological
+Inadequate
+technology
+A lack of innovative
+RE technologies
+with improved
+efficiency may not
+be commercially
+viable.
+(Akusta et al.,
+2025), (Asante
+et al., 2022), (
+Shah &
+Longsheng,
+2022)
+Lack of skilled
+labour
+Shortage of
+technically skilled
+workforce in the RE
+industry.
+(Ghimire &
+Kim, 2018), (
+Dai & Solangi,
+2023), (Akusta
+et al., 2025), (
+Shahzad et al.,
+2023), (Shah
+et al., 2019), (
+Chisale & Lee,
+2023), (Pathak
+et al., 2022)
+Lack of R&D
+Facility
+The limited research
+in renewable energy
+hinders the
+opportunities to
+advance renewable
+energy projects.
+(Akusta et al.,
+2025), (Pathak
+et al., 2022), (
+Shahzad et al.,
+2023), (Sun
+et al., 2021)
+Challenges of Grid
+Connection
+Lack of grid
+capacity in areas
+where RE resources
+are abundant halts
+RE project
+development.
+(Asante et al.,
+2022), (Solangi
+et al., 2021), (
+Akusta et al.,
+2025)
+Intermittent /
+Unreliable supply
+of RE
+Renewable energies
+are intermittent;
+their generation
+availability is often
+compared to
+conventional
+energy, making RE
+unfavourable.
+(Ghimire &
+Kim, 2018), (
+Solangi et al.,
+2025), (
+Mahmud & Roy,
+2021), (Numata
+et al., 2020)
+Lack of
+infrastructure
+Lack of
+infrastructure, such
+as local
+manufacturing
+facilities,
+contributes to the
+slow process of RE
+development.
+(Mekonnen
+et al., 2022), (
+Oryani et al.,
+2021), (Shah &
+Longsheng,
+2022), (Akusta
+et al., 2025)
+(continued on next page)
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+7
+Table 1 (continued)
+Barrier Category
+Sub-barrier
+Barrier Description
+Source
+Lack of local
+servicing and
+maintenance
+facilities
+The lack of local
+maintenance and
+servicing facilities
+to support the
+projects during
+operation
+(Asante et al.,
+2020), (Tseng
+et al., 2021), (
+Asante et al.,
+2022)
+Lack of standards
+and codes
+The unavailability
+of technical
+standards to
+evaluate the quality
+of RE projects is a
+technical issue.
+(Dhingra et al.,
+2022), (Shah &
+Longsheng,
+2022), (Ali
+Sadat et al.,
+2021)
+Shortage of
+training
+institutions
+Lack of technical
+training facilities to
+upskill human
+resources.
+(Shah &
+Longsheng,
+2022), (
+Mekonnen
+et al., 2022), (
+Pathak et al.,
+2022)
+Economic
+Lack of funding
+The development of
+RE is uncertain, and
+lending facilities are
+hesitant to finance
+these projects.
+(Asante et al.,
+2022), (Shah &
+Longsheng,
+2022), (Ali
+Sadat et al.,
+2021), (Chisale
+& Lee, 2023),
+Gangadhari
+et al., 2023), (
+Govindan,
+2023), (
+Vallecha et al.,
+2021)
+High investment
+cost
+High capital costs
+compared to
+conventional energy
+generation systems.
+(Akusta et al.,
+2025), (Pathak
+et al., 2022), (
+Solangi et al.,
+2021), (Shao
+et al., 2025)
+Lack of subsidy
+RE projects receive
+less subsidies than
+conventional
+energies, thus
+making their
+development less
+competitive.
+(Akusta et al.,
+2025), (Shah
+et al., 2019), (
+Shah &
+Longsheng,
+2022),
+Long payback
+period
+Long Return on
+Investment (ROI)
+makes renewable
+energy investment
+unattractive.
+(Asante et al.,
+2022), (Akusta
+et al., 2025), (
+Mekonnen
+et al., 2022), (
+Ramesh et al.,
+2022), (
+Jahangoshai
+Rezaee et al.,
+2019), (
+Vallecha et al.,
+2021)
+Lack of financing
+mechanism and
+incentives
+There is a lack of
+government support
+in providing
+incentives, tax
+benefits, rebates,
+etc., to encourage
+the adoption of RE.
+(Sengar et al.,
+2020), (Shao
+et al., 2025), (
+Tseng et al.,
+2021)
+Social
+Limited public
+awareness
+Campaigns and
+workshops about RE
+energy and its
+benefits are costly
+and inaccessible to
+everyone.
+(Akusta et al.,
+2025), (Asante
+et al., 2022), (
+Shah et al.,
+2019), (Solangi
+et al., 2021), (
+Ghimire & Kim,
+2018), (Pathak
+et al., 2022)
+Lack of public
+acceptance
+Some communities
+are still reluctant
+about RE project
+(Akusta et al.,
+2025), (Asante
+et al., 2022), (
+Table 1 (continued)
+Barrier Category
+Sub-barrier
+Barrier Description
+Source
+development in
+their
+neighbourhoods/
+backyards.
+Solangi et al.,
+2021), (Shah
+et al., 2019), (
+Ghimire & Kim,
+2018), (Pathak
+et al., 2022)
+Lack of public
+interest
+The public is not
+interested in RE
+projects; they
+initiate public
+unrest in
+communities where
+these projects are
+developed,
+threatening and
+restricting them.
+(Addae et al.,
+2019), (Solangi
+et al., 2021), (
+Kutlu
+Gündo˘gdu,
+2022)
+Political
+Lack of Policy
+Continuity
+Change of
+government
+ministers/ political
+leadership impacts
+RE targets, policy,
+and commitments.
+(Asante et al.,
+2022), (Akusta
+et al., 2025), (
+Ghimire & Kim,
+2018), (Pathak
+et al., 2022)
+Corruption and
+nepotism
+RE projects and
+licenses are
+awarded with
+favouritism,
+reducing interest
+from investors and
+other IPPs.
+(Asante et al.,
+2020), (Chisale
+& Lee, 2023), (
+Abdul & Wenqi,
+2024), (Shah
+et al., 2019)
+Lack of political
+commitment and
+consensus
+Lack of commitment
+and the inability to
+make decisions by
+relevant personnel
+are barriers to RE
+development.
+(Asante et al.,
+2020), (Asante
+et al., 2022), (
+Shah &
+Longsheng,
+2022), (Akusta
+et al., 2025)
+Lack of coherent
+renewable energy
+policy
+Lack of clear and
+straightforward RE
+policies.
+(Pathak et al.,
+2022), (Akusta
+et al., 2025), (
+Asante et al.,
+2022)
+Lack of regulatory
+framework
+Ineffective
+regulatory
+legislation and
+frameworks are
+barriers to RE
+development.
+(Asante et al.,
+2022), (Shah &
+Longsheng,
+2022), (Akusta
+et al., 2025)
+Ineffective
+bureaucratic
+permit procedures
+The government’s
+process of acquiring
+permits and licenses
+is long and complex,
+creating delays to
+RE projects.
+(Asante et al.,
+2022), (Akusta
+et al., 2025), (
+James et al.,
+2025)
+Lack of
+transparency in
+decision-making
+processes
+The lack of
+consultation and
+transparency during
+decision-making
+processes
+discourages RE
+adoption.
+(Asante et al.,
+2020), (Ghimire
+& Kim, 2018)
+Other – Market
+Market
+uncertainties
+The unstable global
+economic markets
+have a negative
+impact on RE
+development.
+(Addae et al.,
+2019), (Akusta
+et al., 2025), (
+Vallecha et al.,
+2021)
+Underdeveloped
+supply chain and
+logistics
+Underdeveloped
+supply chain and
+logistics, and
+challenges with the
+procurement of
+renewable energy
+key components.
+(Shao et al.,
+2025), (Addae
+et al., 2019), (
+Sengar et al.,
+2020)
+Lack of market
+competition
+A single monopoly
+controls the market
+and discourages
+broad participation.
+(Solangi et al.,
+2025)
+(continued on next page)
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+8
+from government, academia, the private sector, and non-governmental
+organizations (NGOs), all of whom had at least two years of relevant
+experience. Another study by (Richards et al., 2012) explored barriers to
+renewable energy development by interviewing 18 experts from
+academia, the private sector, government, and NGOs.
+Data analysis method
+The data was analysed using the content analysis method, a widely
+applied research technique across various fields for identifying patterns
+in written communication (Lock & Seele, 2017). Content analysis can be
+qualitative, focusing on interpreting and understanding words, or
+quantitative, emphasizing counting and measuring words (Lock & Seele,
+2017). For this study, to analyse the closed-ended questions, the quan-
+titative content analysis method, based on frequency, was chosen for its
+robustness, ability to minimize bias, and efficiency in data handling.
+Microsoft Excel was used as the analysis tool to quantify how often
+participants identified specific barriers relevant to South Africa’s
+renewable energy industry. To examine responses to the open-ended
+questions, qualitative content analysis was employed, using NVIVO
+software to analyse, organise, manage, and code the data. The research
+design methodology employed in this study is depicted in Fig. 5.
+Reliability and validity analysis
+To ensure the reliability and consistency of the data, the interview
+protocol was standardized, with a uniform set of questions posed to all
+participants, informed by the modified theoretical framework. To
+enhance the credibility of the findings, interview results were triangu-
+lated with insights from the existing literature, allowing for a compari-
+son
+between
+empirical
+evidence
+and
+established
+research.
+This
+triangulation process enhanced the validity of the study by demon-
+strating that the key themes identified in the interviews were consistent
+with those found in the existing literature, thereby reinforcing the
+credibility of the findings.
+Findings
+Semi-structured interviews were conducted with 15 industry experts
+to gain a deeper understanding of the barriers hindering renewable
+energy adoption, focusing on the wind and solar PV sectors in South
+Africa. Ten respondents consented to being digitally recorded, while five
+declined due to company policies. The interviews were conducted be-
+tween September and November 2024. Data from these interviews were
+analysed using quantitative and qualitative content analysis to catego-
+rize and analyse the barriers discussed by the participants.
+Data saturation was conducted to check for repeated themes in the
+data. As shown in Fig. 6, no new themes emerged after the 9th partici-
+pant, leading to the conclusion that the data collected was sufficient for
+analysis.
+Respondents profile
+The interview invitations were sent to a diverse group of pro-
+fessionals in the renewable energy industry representing public and
+Table 1 (continued)
+Barrier Category
+Sub-barrier
+Barrier Description
+Source
+Small market
+Lack of sufficient
+market base for
+renewable energy
+projects.
+(Akusta et al.,
+2025), (Pathak
+et al., 2022), (
+Addae et al.,
+2019), (Solangi
+et al., 2025)
+Other –
+Geographical &
+Environmental
+Transport
+problems
+Poor road
+infrastructure leads
+to higher
+transportation and
+project costs and
+extended
+completion
+timelines.
+(Chisale & Lee,
+2023), (Ghimire
+& Kim, 2018), (
+Barahmand &
+Eikeland, 2022)
+Geographical
+location
+Access to remote
+areas where RE
+resources are
+abundant is a
+challenge.
+(Chisale & Lee,
+2023), (
+Vallecha et al.,
+2021), (Asante
+et al., 2022)
+Land
+requirements
+The process of
+acquiring land and
+pre-environmental
+assessment is
+challenging.
+(Solangi et al.,
+2025), (James
+et al., 2025)
+Waste disposal
+Handling and
+management of
+waste disposal
+during project
+construction can be
+costly.
+(James et al.,
+2025), (Pathak
+et al., 2022)
+Fig. 5. Research steps.
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+9
+private organizations. As shown in Table 2, out of the 15 completed
+interviews, 12 participants are employed in the private sector, while 3
+are employed in the public sector. This distribution highlights the sig-
+nificant role the private sector plays in implementing renewable energy
+projects in South Africa. Fourteen participants have experience working
+on both wind and solar PV projects, while only one is employed in an
+organization that focuses exclusively on solar PV. This indicates the
+country's commitment to diversifying its energy mix by deploying both
+technologies. Additionally, the diversity in participants' positions is
+essential as it provides a broad perspective on the challenges experi-
+enced at various stages of the renewable energy value chain, from
+development to construction and maintenance.
+The participants' profiles were further analysed to assess their
+educational backgrounds and years of experience in the renewable en-
+ergy industry. As shown in Fig. 7, the participants are highly experi-
+enced professionals, each with over three years of experience in the
+renewable energy sector in South Africa. Most participants have more
+than 10 years of industry experience, and most hold a Master's degree,
+which positions them as specialists in their respective roles. This com-
+bination of advanced education and extensive professional experience
+indicates a high level of competence and knowledge within the group
+and provides favourable conditions for insights into the obstacles and
+challenges facing the further introduction and expansion of renewable
+energies in the country.
+Content analysis
+Barriers impeding RE integration
+Data analysis was performed using quantitative content analysis by
+frequency to evaluate the responses to the closed-ended questions. The
+analysis involved counting the number of times participants agreed that
+each barrier applies to the South African context. The barriers were
+assessed based on Trudgill’s AKTESP theoretical framework, with the
+addition of two other categories: Market, and Geographical and
+Environmental.
+Each barrier category was discussed in detail to understand how it
+impedes the development of renewable energy projects in South Africa.
+The frequency and percentage distribution of responses, indicating how
+many participants agreed or confirmed the existence of each barrier, are
+presented in this section.
+Illustrated in Fig. 8 is an overview of the participants' responses,
+highlighting their perceptions of the most significant barriers to
+renewable energy adoption in South Africa. Most participants (67%)
+identified the agreement category as the most significant barrier, fol-
+lowed closely by social at 62% and technological challenges at 61%. In
+contrast, only 36% of participants considered economic and knowledge
+as significant obstacles. This visual summary underscores the relative
+importance of these barriers and sheds light on the key challenges
+impeding South Africa's renewable energy transition. Interestingly,
+these findings differ from the studies conducted in Canada (Mercer et al.,
+2017; Richards et al., 2012), where political, economic, and techno-
+logical factors were identified as the most significant barriers. Similarly,
+in Malaysia, economic, knowledge (awareness), and political factors
+were ranked among the most critical challenges (Kardooni et al., 2015;
+Sulaiman et al., 2014).
+a. Agreement
+The objective of evaluating the Agreement category was to determine
+whether key stakeholders responsible for advancing renewable energy
+Fig. 6. Data saturation analysis.
+Table 2
+Interview participants’ profile.
+Total Participants (n) = 15
+Organization type
+n
+Position
+n
+RE Technology
+n
+Private
+12
+Technical Engineers
+2
+Solar PV
+1
+Public
+3
+Financial Analysts
+2
+Solar PV & Wind
+14
+Business Development
+2
+Project Management
+4
+Senior Management
+2
+Project Development
+1
+Social Management
+2
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+10
+projects in South Africa agree on the necessity, viability, and urgency of
+integrating renewable energy into the national energy mix to address the
+country’s unstable power supply. As shown in Table 3, sixty-seven
+percent (67%) of the participants agreed that there is a lack of agree-
+ment and alignment between key stakeholders across various institu-
+tional levels. This was emphasized by a public sector participant, stating
+that “There is no agreement on procedures and processes that need to be
+followed”. In South Africa, there still exist disagreements in specific
+government institutions, where single permits may hold up projects
+entirely due to poor agreement with the need and desirability of these
+projects. Another private sector participant reinforced this concern,
+stating, “There is a lack of agreement between industries and Eskom on
+how to access the grid”.
+These statements highlight a significant challenge to the effective
+deployment of renewable energy in South Africa, as stakeholder agree-
+ment and alignment across all levels are crucial for successful project
+implementation. Notably, these findings differ from the studies con-
+ducted by (Kardooni et al., 2015; Mercer et al., 2017; Richards et al.,
+2012), where very few respondents identified a lack of agreement and
+consensus between different stakeholders as a significant barrier.
+b. Knowledge Barriers
+The
+Knowledge
+category
+assesses
+whether
+there
+is
+adequate
+Fig. 7. Participants’ educational background and years of working experience.
+Fig. 8. Barriers to renewable energy adoption according to participants’ perspective.
+Table 3
+Agreement Category
+Barrier
+Frequency
+Distribution
+Percentage
+Distribution
+Lack of agreement between key
+stakeholders
+Yes: 10
+No: 5
+Yes: 67%
+No: 33%
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+11
+knowledge and expertise possessed by key stakeholders to address the
+problem of renewable energy deployment. Previous research has iden-
+tified siloed knowledge, a lack of energy literacy (Mercer et al., 2017),
+misinformation (Richards et al., 2012), and lack of knowledge (Bahour
+et al., 2021; Kardooni et al., 2015) as the most frequent barriers. How-
+ever, as indicated by participants’ responses in Table 4, South Africa’s
+key stakeholders possess the necessary knowledge and expertise to drive
+and implement renewable energy projects.
+The most significant obstacle remains the lack of coordination be-
+tween key stakeholders and institutions across the public and private
+sectors. A Senior Financial Analyst from a private institution highlighted
+this issue, stating, “The results of REIPPPP BW 6, where wind projects
+could not get grid access, was an indication that there is no coordination
+between key stakeholders, Eskom and DMRE.” This view was echoed by
+a Project Manager who emphasized that stakeholders operate in isola-
+tion, citing poor communication between the DMRE and Eskom as a
+major concern. This lack of coordination hampers the effective appli-
+cation of existing knowledge and expertise, further impeding progress in
+renewable energy development.
+c. Technological Barriers
+The Technology category assesses the availability of necessary tech-
+nology to address renewable energy challenges. In South Africa, while
+the country does not have domestic technology to deploy renewable
+energy projects, it relies on importing technological solutions and
+expertise from foreign countries. This reliance on external technology,
+including adherence to international standards and codes, has not posed
+a significant barrier to the development and construction of RE projects.
+This contrasts with the findings of the study by (Kardooni et al., 2015),
+where most respondents cited the lack of cutting-edge technology and
+technical standards as the most significant technological challenges in
+Malaysia.
+According to the participants, South Africa faces a shortage of local
+infrastructure, manufacturing capabilities, training programs, and
+research and development facilities. However, while these limitations
+exist, they do not significantly hinder RE progress, as the necessary
+components and knowledge are sourced from abroad. A key concern
+highlighted by most respondents is the intermittency of renewable en-
+ergy sources, emphasizing the need for large-scale development of bat-
+tery energy storage systems to address this issue. This aligns with
+findings from studies by (Bahour et al., 2021; Mercer et al., 2017;
+Richards et al., 2012), where the intermittency of RE sources was
+similarly identified as a major drawback in the development of these
+energy solutions.
+The most significant barrier identified, as shown in Table 5, is the
+lack of sufficient grid capacity to connect renewable energy projects. A
+senior Manager in the greenfield development sector emphasized this
+challenge, stating, “Eskom’s process to access the grid, particularly for
+private projects, is one of the biggest barriers.” Similarly, a participant
+from the IPP space noted, “The grid issue is massive in South Africa, and
+it is forcing the developers to look for projects in other land.” This issue
+is particularly acute in the Cape provinces, where wind and solar re-
+sources are more abundant, but the infrastructure to accommodate such
+projects is insufficient. Addressing grid capacity constraints is essential
+for unlocking the full potential of renewable energy in these resource-
+rich regions.
+d. Economic Barriers
+The Economic category evaluates the economic feasibility of inte-
+grating renewable energy projects into South Africa’s energy system.
+According to the participants, South Africa has sufficient funding
+mechanisms in place to support the development of renewable energy
+projects. However, the main challenge lies in the accessibility of these
+funds. This concern was highlighted by participants in technical and
+senior management roles, who noted, “The funding is adequate but not
+easily accessible.”
+Renewable energy project development requires significant capital
+investment, as shown in Table 6, this is a barrier to developing these
+projects in South Africa. Although there is a lack of specific financing
+mechanisms, such as targeted tax incentives, grants, and subsidies, their
+absence has not entirely hindered the progress of RE projects. One
+participant with project management experience asserted, “RE projects
+do not need subsidies because they are competitive.”
+These findings contrast with previous research, which identified
+economic challenges, particularly the lack of subsidies, financial
+mechanisms, and cost-related barriers, as major impediments to inte-
+grating RE into the energy system (Bahour et al., 2021; Kardooni et al.,
+2015; Richards et al., 2012).
+It is clear from the findings of this research study that improving
+access to existing funding could further accelerate the development and
+integration of renewable energy projects into South Africa's energy mix.
+e. Social Barriers
+Table 4
+Knowledge Category.
+Barrier
+Frequency
+Distribution
+Percentage
+Distribution
+Lack of knowledgeable human
+resources
+Yes: 1
+No: 14
+Yes: 7%
+No: 93%
+Lack of the right skills and
+capabilities
+Yes: 3
+No: 12
+Yes: 20%
+No: 80%
+Lack of coordination between key
+institutions
+Yes: 12
+No: 3
+Yes: 80%
+No: 20%
+Table 5
+Technology Category
+Barrier
+Frequency
+Distribution
+Percentage
+Distribution
+Inadequate technology
+Yes: 6
+No: 9
+Yes: 40%
+No: 60%
+Lack of technically/technologically
+skilled labour/workforce
+Yes: 8
+No: 7
+Yes: 53%
+No: 47%
+Lack of R&D facilities
+Yes: 10
+No: 5
+Yes: 67%
+No: 33%
+Challenges of grid connection
+Yes: 15
+No: 0
+Yes: 100%
+No: 0%
+Intermittent supply of RE
+Yes: 10
+No: 5
+Yes: 67%
+No: 33%
+Lack of local manufacturing
+infrastructure
+Yes: 10
+No: 5
+Yes: 67%
+No:33%
+Lack of local servicing and maintenance
+facilities
+Yes: 10
+No: 5
+Yes: 67%
+No: 33%
+Lack of standards and codes
+Yes: 5
+No: 10
+Yes: 33%
+No: 67%
+Shortage of training institutions
+Yes: 8
+No: 7
+Yes: 53%
+No: 47%
+Table 6
+Economic Category
+Barrier
+Frequency
+Distribution
+Percentage
+Distribution
+Lack of funding
+Yes: 5
+No: 10
+Yes: 33%
+No: 67%
+High investment cost
+Yes: 8
+No: 7
+Yes: 53%
+No: 47%
+Lack of subsidy
+Yes: 5
+No: 10
+Yes: 33%
+No: 67%
+Long payback period
+Yes: 2
+No: 13
+Yes: 13%
+No: 87%
+Lack of financing mechanisms, taxes,
+and incentives
+Yes: 7
+No: 8
+Yes: 47%
+No: 53%
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+12
+The Social category was assessed to understand the level of social
+acceptance for renewable energy projects in South Africa. Interview
+findings revealed that there is significant social resistance from com-
+munities where projects are developed. As shown in Table 7, many
+participants pointed out that public awareness of renewable energy
+projects is limited, leading to low acceptance in certain areas. A Social
+Performance Manager in the private sector emphasized this issue, stat-
+ing, “When the public perceives that socio-economic development pro-
+grams associated with the projects are poorly communicated or
+insufficient, they lose interest in the projects, which can lead to social
+unrest, halting the progress of these projects.” These findings are
+consistent with the literature which also identified a lack of social
+acceptance and support as a significant social barrier to renewable en-
+ergy integration (Bahour et al., 2021; Kardooni et al., 2015; Richards
+et al., 2012). This highlights the importance of effective communication
+strategies and community engagement initiatives to address social
+resistance and foster support for renewable energy projects.
+f. Political Category
+The Political category evaluates whether adequate political and
+policy processes exist to facilitate renewable energy development in
+South Africa. The analysis highlighted that although the South African
+government is committed to supporting renewable energy projects, lack
+of policy continuity due to frequent changes in government leadership
+and ministers poses significant challenges to their progress. As indicated
+in Table 8, all participants (100%) emphasized the lack of policy con-
+tinuity, particularly highlighting the delays experienced during the BW
+4 procurement round of the REIPPPP.
+A private-sector participant in project development described the
+issue: “There was a political pushback from the Minister of Energy and
+Eskom management in 2014-2019; no RE projects were built, and this
+led to significant delays in these projects.” Another participant echoed
+this concern, stating: “There was a very long haul of signing financial
+close documentation because of a change in the Ministry, which delayed
+the project. It takes longer for a new minister to get up to speed with
+what was agreed upon and sign certain documents.”
+These challenges underscore the importance of consistent political
+support for the successful implementation and continuity of renewable
+energy projects in South Africa. These findings align with the literature,
+which also highlights that change in political leadership (Alyamani
+et al., 2024; Ghimire & Kim, 2018) and lack of political support mech-
+anisms (Akusta et al., 2025) are significant barriers to RE projects in
+various regions.
+Additionally, corruption and nepotism are often highlighted in the
+literature (Pathak et al., 2022; Shah & Longsheng, 2022) as significant
+barriers to renewable energy development. However, the findings of this
+study show that these barriers are not substantial concerns within South
+Africa's renewable energy industry, particularly in the REIPPPP. Ac-
+cording to the participants, the program is recognized as a transparent
+and well-managed process, with projects awarded based on merit.
+While previous research has highlighted the lack of comprehensive
+policy as a common barrier to RE development globally (Kardooni et al.,
+2015; Mercer et al., 2017; Shah and Longsheng, 2022), the findings in
+Table
+8 reveal a different perspective.
+All participants (100%)
+acknowledged that South Africa has a robust policy framework sup-
+porting renewable energy deployment. However, significant delays in
+the implementation of these policies remain a critical challenge, hin-
+dering the effective progress of renewable energy projects. An IPP
+participant noted this issue, stating: “Delays are incurred mainly by poor
+government execution of policy and slow implementation, as well as a
+lack of adequate planning and resourcing for the industry for the future.”
+The inefficient and bureaucratic permitting process emerged as a
+significant barrier to renewable energy development in South Africa.
+Project development is often delayed by lengthy processes involving
+multiple requirements and licenses to ensure compliance with envi-
+ronmental and legislative standards. A public sector participant high-
+lighted this challenge, stating: “There are several channels to go
+through, and the processes take long, which becomes a challenge.”
+These findings contrast with the studies by Asante et al., (Asante et al.,
+2020; Asante et al., 2022), where bureaucratic permit procedures were
+identified as the least significant barrier to renewable energy adoption.
+This discrepancy suggests that the impact of permitting inefficiencies
+may vary across regions, with South Africa facing more substantial de-
+lays due to complex regulatory processes.
+g. Other – Market Category
+The first "Other" category is Market, which evaluates whether the
+market dynamics are conducive to promoting renewable energy
+deployment in South Africa. The findings, as shown in Table 9, indicate
+that South Africa's renewable energy market is sufficient and highly
+competitive, driven by increasing demand as many citizens seek alter-
+natives to Eskom's unreliable power supply. This contrasts with the
+research findings by (Solangi et al., 2021), which identified the lack of a
+sufficient market base as the most significant barrier to RE development.
+Despite the market's competitiveness, South Africa's heavy reliance
+on imported equipment and technology for renewable energy projects
+exposes it to global uncertainties. These uncertainties include fluctua-
+tions in international markets, supply chain disruptions, and logistic
+Table 7
+Social Category
+Barrier
+Frequency Distribution
+Percentage Distribution
+Lack of public acceptance
+Yes: 12
+No: 3
+Yes: 80%
+No: 20%
+Limited public awareness
+Yes: 13
+No: 2
+Yes: 87%
+No: 13%
+Lack of public interest
+Yes: 3
+No: 12
+Yes: 20%
+No: 80%
+Table 8
+Political Category
+Barrier
+Frequency
+Distribution
+Percentage
+Distribution
+Lack of policy continuity
+Yes: 15
+No: 0
+Yes: 100%
+No: 0%
+Corruption and nepotism
+Yes: 8
+No: 7
+Yes: 53%
+No: 47%
+Lack of political commitment and
+consensus
+Yes: 5
+No: 10
+Yes: 33%
+No: 67%
+Lack of coherent renewable energy
+policy
+Yes: 0
+No: 15
+Yes: 0%
+No: 100%
+Lack of regulatory framework
+Yes: 3
+No: 12
+Yes: 20%
+No: 80%
+Ineffective bureaucratic permit
+procedures
+Yes: 9
+No: 6
+Yes: 60%
+No: 40%
+Lack of transparency in decision-
+making processes
+Yes: 6
+No: 9
+Yes: 40%
+No: 60%
+Table 9
+Market Category
+Barrier
+Frequency
+Distribution
+Percentage
+Distribution
+Small market
+Yes: 3
+No: 12
+Yes: 20%
+No: 80%
+Market uncertainties
+Yes: 9
+No: 6
+Yes: 60%
+No: 40%
+Underdeveloped supply chain and
+logistics
+Yes: 10
+No: 5
+Yes: 67%
+No: 33%
+Lack of market competition
+Yes: 7
+No: 8
+Yes: 47%
+No: 53%
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+13
+challenges. A participant highlighted these concerns, stating: “Over-
+reliance on one country for most equipment, when that country is facing
+challenges, it disrupts the supply chain.” Such dependencies introduce
+vulnerabilities that can delay project timelines and escalate costs, ulti-
+mately impacting the overall efficiency of renewable energy deployment
+in the country. Consistent with the findings from the study conducted by
+Addae et al., challenges associated with an underdeveloped supply chain
+and unstable market were identified as significant barriers affecting
+renewable energy projects (Addae et al., 2019).
+h. Other – Geographical & Environmental Category
+Lastly, the Geographical and Environmental category highlights the
+importance of suitable geographical and environmental conditions for
+renewable energy deployment. As illustrated in Table 10, 67% of re-
+spondents identified South Africa’s inadequate transportation infra-
+structure
+as
+a
+significant
+barrier,
+underscoring
+the
+need
+for
+improvements to facilitate the movement of materials and equipment to
+project sites. These findings align with the research conducted by (Abdul
+& Wenqi, 2024; Chisale & Lee, 2023), which also identified trans-
+portation challenges as the most significant impediment to renewable
+energy development.
+Additionally, geographical location and land requirements emerged
+as prominent challenges. Renewable energy projects require substantial
+land, often located in remote and hard-to-access areas, complicating
+logistics and construction. Furthermore, much of this land is publicly
+owned, and acquiring usage rights is frequently challenging or impos-
+sible, creating significant delays in project implementation. Several
+participants highlighted these challenges, and one private-sector
+participant noted, “The challenge is when the landowners do not want
+to sell or lease the land or if they make it expensive.” Another participant
+emphasized the difficulties associated with community-owned land
+stating: “The big challenge with community-owned/trust-owned land is
+it is difficult to negotiate.”
+These factors collectively hinder the efficient development of
+renewable energy projects in South Africa. These findings contrast with
+the literature, where geographic location (Asante et al., 2022) and land
+requirements (Abdul & Wenqi, 2024; Pathak et al., 2022) were consid-
+ered among the least significant barriers to renewable energy develop-
+ment. Furthermore, while studies have pointed the handling and cost of
+waste disposal during the construction of renewable energy projects as
+barriers (Mehmood et al., 2022; Pathak et al., 2022) these issues do not
+seem to be significant concerns in South Africa.
+Discussion
+This section interprets the findings of this research through the lens
+of the AKTESP framework, exploring the broader theoretical implica-
+tions for renewable energy integration in South Africa. The study cat-
+egorised and analysed renewable energy barriers faced by Independent
+Power Producers in South Africa into six categories: Agreement,
+Knowledge, Technological, Economic, Social, and Political. The findings
+of the interview and triangulation with the literature reveal the com-
+plex, multidisciplinary, and interrelated barriers that collectively hinder
+the integration of renewable energy into the energy system (Mercer
+et al., 2017).
+As previously noted in Section 3, these categories of barriers are not
+mutually exclusive and do not necessarily exist in a linear sequence.
+Instead, they are often interlinked and overlapping, underpinning one
+another in complex ways. For instance, the agreement barrier, which
+emerged as a dominant challenge in this study, is rooted in both political
+and knowledge-related barriers, and its impacts cascade into economic
+and technological barriers. This was apparent when the lack of agree-
+ment between stakeholders (Eskom and the government) resulted in the
+delay of signing PPAs for the BW 4 projects (Kruger et al., 2021). These
+disruptions, rooted in a lack of policy continuity and coordination be-
+tween stakeholders, significantly eroded investor confidence, limiting
+access to financing mechanisms and prompting several technology
+providers to withdraw from the South African market.
+The results also highlighted a range of technological barriers such as
+lack of grid connection, lack of skilled labour, insufficient R&D capacity,
+intermittent
+energy
+supply,
+the
+absence
+of
+local
+servicing
+and
+manufacturing facilities, and shortage of training institutions, which
+continue to impede large-scale integration of renewable energy in South
+Africa. These insufficiencies not only hinder project implementation but
+also increase reliance on foreign technologies and expertise, reducing
+the long-term sustainability of renewable initiatives.
+Social-related challenges emerged as the second most prominent
+barrier category. Factors such as limited public awareness and lack of
+public acceptance highlight the critical role of community engagement
+in the development of renewable energy projects. Public interference
+can significantly hinder the development of these projects even when
+technological and economic conditions are viable.
+Collectively, these findings reinforce the theoretical argument that a
+narrow focus on technical or economic constraints is insufficient to
+understand the dynamics of energy transitions. The AKTESP framework
+proved effective in providing a holistic approach through which barriers
+could be examined in an integrated manner. The summary of the find-
+ings, theoretical and empirical implications, and novel contributions is
+presented in Table 11.
+In addition to validating the relevance of the AKTESP framework
+within the South African context, this study also extends the theoretical
+model by incorporating two additional barrier categories: market-
+related and geographical/environmental factors. These included bar-
+riers such as market uncertainties, an underdeveloped supply chain
+largely due to a high dependency on imported components, as well as
+challenges related to geographical distance, land requirements, and
+transport problems. This extension highlights that the challenges facing
+renewable energy adoption in South Africa cannot be explained solely
+by agreement, knowledge, technical, economic, social, or political fac-
+tors (Richards et al., 2012).
+These findings emphasise the fact that South Africa’s renewable
+energy barriers cannot be explained by one factor in isolation. Instead,
+they form a reinforcing web where shortcomings in one category
+intensify weaknesses in the others, collectively hindering the integration
+of renewable energy into the grid.
+Overcoming these barriers requires a coordinated and multi-
+dimensional approach that tackles issues concurrently across the
+different categories, addressing agreement, knowledge, technology,
+economic, social, political (AKTESP), as well as market, environmental,
+and geographical challenges. Therefore, unlocking South Africa’s
+renewable potential requires collaboration across multiple institutions,
+aligning energy, environmental, and social policies within a transparent,
+long-term framework.
+Conclusion
+Despite its abundance of renewable energy sources, South Africa
+remains heavily dependent on fossil fuels for economic growth and
+electricity generation. Renewable energy development has the potential
+Table 10
+Geographical and Environmental Category
+Barrier
+Frequency Distribution
+Percentage Distribution
+Transport problems
+Yes: 10
+No: 5
+Yes: 67%
+No: 33%
+Geographical location
+Yes: 9
+No: 6
+Yes: 60%
+No: 40%
+Land requirements
+Yes: 9
+No: 6
+Yes: 60%
+No: 40%
+Waste disposal
+Yes: 3
+No: 12
+Yes: 20%
+No: 80%
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+14
+to significantly transform the future of the country’s power generation
+landscape and meet its energy demands sustainably. While progress has
+been made in implementing renewable energy technologies, much work
+remains to establish a reliable and efficient energy supply system. The
+journey toward renewable energy integration into the national grid is
+impeded by various barriers that delay procurement, construction, and
+commercialization processes.
+This study adopted Trudgill’s AKTESP theoretical framework to
+categorize and analyse the barriers to integrating renewable energy into
+South Africa’s energy mix. Interviews with industry experts provided
+valuable insights into the country's specific challenges. The findings
+highlighted agreement, social, and technological categories as the most
+significant. Key obstacles include a lack of policy continuity, a lack of
+public awareness and acceptance, and grid connection challenges. The
+lack of coordination between key institutions responsible for renewable
+energy initiatives also contributes significantly to project stagnation.
+Conversely, economic and knowledge categories were identified as less
+prominent in the South African context. The country benefits from
+comprehensive policies, knowledgeable stakeholders, and an attractive
+investment for renewable energy projects despite the long return-on-
+investment period.
+This study enhances the theoretical understanding of the barriers to
+renewable energy adoption in South Africa. It offers a comprehensive
+framework for identifying and categorising these barriers, which can
+serve as a foundation for future research in the renewable energy tran-
+sition. From a managerial perspective, the findings of this research
+provide valuable insights for stakeholders, enabling them to develop
+strategic plans and policies aimed at overcoming the identified barriers.
+These contributions can guide decision-makers in navigating the chal-
+lenges of renewable energy implementation, ensuring more effective
+and sustainable energy transitions in South Africa. However, the study
+has certain limitations that must be acknowledged. Renewable energy
+barriers are complex and multi-dimensional, and their assessment and
+prioritization require a holistic and integrated approach. While this
+research provided a structured categorization of barriers using the
+AKTESP framework, it did not fully explore the underlying relative
+weight of each barrier. Therefore, future research should utilise multi-
+criteria decision-making techniques to systematically prioritize and
+address barriers based on their interdependencies. Secondly, the sig-
+nificant influence of social barriers, particularly the lack of public
+awareness and acceptance, underscores the need to extend existing
+theoretical models to account for behavioural and cultural dimensions,
+which are often underexplored in energy transition literature.
+The study concludes by outlining the following policy implications,
+which may also be applicable to other regions experiencing challenges
+similar to those faced by South Africa:
+• Addressing renewable energy challenges requires transparency,
+consensus, and collaboration among stakeholders from both the
+public and private sectors. This approach ensures that decisions are
+inclusive, well-informed, and beneficial to all parties, ultimately
+accelerating the integration of renewable energy.
+• Promoting knowledge sharing through investments in education and
+capacity building, fostering partnerships between academic in-
+stitutions, industry experts, and government agencies, will ensure
+that the renewable energy sector is well-equipped with the expertise
+and skills necessary for successful project implementation.
+• Investing in grid infrastructure, R&D facilities, technological ad-
+vancements, and technical skills development will facilitate the
+seamless integration of renewable energy projects into the energy
+system.
+• Establishing dedicated financial institutions that provide low-
+interest financing, credit guarantees, and targeted subsidies will
+significantly
+accelerate
+the
+deployment
+of
+renewable
+energy
+projects.
+• Social barriers can be effectively addressed by prioritizing early
+public consultation during the project development process. This
+approach will increase public awareness, foster positive attitudes,
+reduce public resistance, and enhance community acceptance of
+renewable energy projects.
+• Addressing political barriers requires the establishment of robust and
+long-term strategies to ensure consistent government support and
+minimize policy discontinuity. Cross-party agreements should be
+pursued to protect renewable energy projects from leadership
+changes and political interference, ensuring their continuity and
+success.
+• Strengthening local manufacturing capacity for renewable energy
+can reduce reliance on imports and mitigate global supply chain
+interruptions and market uncertainties.
+• Investing in transportation infrastructure to facilitate the movement
+of renewable energy components.
+Table 11
+Summary of Findings, Theoretical and Empirical Implications, and Novel Contributions of the Study
+Findings
+Theoretical implications
+Empirical implications
+Methodological novelty
+Novelty / Contribution
+The agreement barrier, which
+emerged as a dominant challenge
+in this study, is rooted in both
+political and knowledge-related
+barriers, and its impacts cascade
+into economic and technological
+barriers
+Affirm and extend the
+application of the AKTESP
+theoretical framework to
+real-world complex energy
+studies
+Extend the utility of the AKTESP
+framework by adapting it to the
+South African IPP context,
+highlighting its applicability for
+high-barrier, low-capacity markets
+in the Global South.
+The use of a robust integrated
+mixed-method approach
+(literature analysis, expert
+interviews) to discover
+layered interacting barriers
+One of the few studies applying the
+AKTESP framework and the first in
+South Africa. Specifically for the
+renewable energy sector, with a
+focus on large-scale IPP
+Barriers are not mutually exclusive
+and do not necessarily exist in a
+linear sequence. Instead, they are
+often interlinked and
+overlapping, underpinning one
+another in complex ways
+Interdependencies of barriers
+on each other
+The interdependence of barriers on
+each other calls for their
+prioritization using multi-criteria
+decision-making techniques
+One of the few studies
+combining qualitative and
+quantitative expert
+perspectives in South African
+RE analysis
+Offer integrated multidimensional
+analysis (does not focus on the
+single barrier in isolation, i.e.,
+technical or economic)
+Factors such as limited public
+awareness and lack of public
+acceptance highlight the critical
+role of community engagement
+in the development of renewable
+energy projects.
+Social barriers can significantly
+hinder the development of these
+projects, even when
+technological and economic
+conditions are viable
+Integration of socio-cultural
+theories to address the
+importance of social and
+behavioural barriers
+The findings offer valuable insights
+for policymakers and stakeholders,
+equipping them with the necessary
+data to formulate strategic plans and
+policies that effectively address the
+identified barriers
+The findings and framework can
+be applied to other regions with
+similar challenges, like South
+Africa
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+15
+CRediT authorship contribution statement
+Pheladi Morufa Molepo: Writing – review & editing, Writing –
+original draft, Validation, Methodology, Investigation, Conceptualiza-
+tion. Khaled Aboalez: Writing – review & editing, Supervision,
+Conceptualization. Tebello Ntsiki Don Mathaba: Writing – review &
+editing, Supervision, Conceptualization.
+Declaration of competing interest
+The authors declare that they have no known competing financial
+interests or personal relationships that could have appeared to influence
+the work reported in this paper.
+Acknowledgments
+Thank you to all the participants who contributed their time,
+knowledge, and experience to this research study.
+References
+Abdul, D., & Wenqi, J. (2024). Identifying and prioritization barriers to renewable
+energy diffusion in developing countries: a novel spherical fuzzy AHP approach and
+application. Energy Effic, 17(5). https://doi.org/10.1007/s12053-024-10213-0
+Abdullah, A., Gaya, I. F., & Wakil, Z. A. (2021). Barriers to solving environmental
+problems caused by building constructions in Nigeria: Trudgills’s framework. Global
+Journal of Earth and Environmental Science, 6(2), 51–57. https://doi.org/10.31248/
+GJEES2021.097
+Addae, B. A., Zhang, L., Zhou, P., & Wang, F. (2019). Analyzing barriers of Smart Energy
+City in Accra with two-step fuzzy DEMATEL. Cities, 89, 218–227. https://doi.org/
+10.1016/j.cities.2019.01.043
+Akinbami, O. M., Oke, S. R., & Bodunrin, M. O. (2021). The state of renewable energy
+development in South Africa: an overview. Alexandria Engineering Journal, 60(6),
+5077–5093. https://doi.org/10.1016/j.aej.2021.03.065
+Akusta, E., Ari, A., & Cergibozan, R. (2025). Barriers to renewable energy investments in
+Turkiye: A fuzzy AHP approach. Renew Energy, 240. https://doi.org/10.1016/j.
+renene.2024.122161
+Ali Sadat, S., Vakilalroaya Fini, M., Hashemi-Dezaki, H., & Nazififard, M. (2021). Barrier
+analysis of solar PV energy development in the context of Iran using fuzzy AHP-
+TOPSIS method. Sustainable Energy Technologies and Assessments, 47. https://doi.org/
+10.1016/j.seta.2021.101549
+Alyamani, R., Solangi, Y. A., Almakhles, D., & Alyami, H. H. (2024). Analysis of solution
+strategies for the transition to renewable energy in Saudi Arabia. Renew Energy, 235.
+https://doi.org/10.1016/j.renene.2024.121400
+Adom,D., Hussein, E.K., and Agyem, J.A. (2018). Theoretical and Conceptual
+Framework: Mandatory Ingredients of a Quality Research, International Journal of
+Scientific Research, pp. 438–441, 2018.
+Asante, D., He, Z., Osae, N., & Asante, B. (2020). Exploring the barriers to renewable
+energy adoption utilising MULTIMOORA- EDAS method. Energy Policy, 142(2006),
+Article 111479. https://doi.org/10.1016/j.enpol.2020.111479
+Asante, D., et al. (2022). Prioritizing strategies to eliminate barriers to renewable energy
+adoption and development in Ghana: a CRITIC-fuzzy TOPSIS approach. Renew
+Energy, 195, 47–65. https://doi.org/10.1016/j.renene.2022.06.040
+Ayamolowo, O. J., Manditereza, P. T., & Kusakana, K. (2022). South Africa power
+reforms: The Path to a dominant renewable energy-sourced grid. Energy Reports, 8,
+1208–1215. https://doi.org/10.1016/j.egyr.2021.11.100
+Bahour, M. M., Alkbir, M. F. M., Januddi, F., & Bakri, A. (2021). Barriers and current
+challenges facing the renewable energy implementation in Libya: a review. Polityka
+Energetyczna - Energy Policy Journal, 24(3), 141–160. https://doi.org/10.33223/EPJ/
+139232
+Barahmand, Z., & Eikeland, M. S. (2022). Assessing and Prioritizing Challenges Facing
+Bioenergy Supply Chain in Norway: a Delphi-AHP Method. International Journal of
+Energy Production and Management, 7(4), 310–330. https://doi.org/10.2495/EQ-V7-
+N4-310-330
+Amir, M. and Zubair, S. (2022), Assessment of renewable energy : Status , challenges ,
+COVID-19 impacts , opportunities , and sustainable energy solutions in Africa, Energy
+and Built Environment, vol. 3, no. October 2020, pp. 348–362, doi:10.1016/j.
+enbenv.2021.03.002.
+Chin Haw, L., Fakri Zaky, M., & Salleh, E. (2008). Assessment of Non-Technical Barriers
+for Widespread Adoption of Building Integrated Photovoltaic System (BIPV) in
+Malaysian Urban Residential Sector,” in Conference on Passive an. Energy Architecture,
+22.
+Chisale, S. W., & Lee, H. S. (2023). Evaluation of barriers and solutions to renewable
+energy acceleration in Malawi, Africa, using AHP and fuzzy TOPSIS approach. Energy
+for Sustainable Development, 76. https://doi.org/10.1016/j.esd.2023.101272
+Creamer, Terence (2022). Small IPPs consider legal action after programme is cancelled.
+Engineering News, Johannesburg Accessed: Mar. 19, 2025. [Online]. Available: https
+://www.engineeringnews.co.za/article/small-ipps-consider-legal-action-after-prog
+ramme-is-cancelled-2022-07-13.
+Dai, Y., & Solangi, Y. A. (2023). Evaluating and Prioritizing the Green Infrastructure
+Finance Risks for Sustainable Development in China. Sustainability (Switzerland), 15
+(9). https://doi.org/10.3390/su15097068
+Department of Energy, “Minister Kgosientsho Ramokgopa on 8 Preferred Bidders under
+Renewable Energy Independent Power Producer Procurement Programme and 8
+Preferred Bidders under Battery Energy Storage Independent Power Producer
+Procurement P,” 2024. Accessed: Mar. 18, 2025. [Online]. Available: https://www.
+gov.za/news/media-statements/minister-kgosientsho-ramokgopa-8-preferred-bidde
+rs-under-renewable-energy.
+Department of Mineral Resource and Energy, “Integrated Resource Plan (IRP2019),” Oct.
+2019.
+Department of Mineral Resource and Energy. (2021). The Risk Mitigation Independent
+Power Producer Procurement Programme (RMIPPPP) in Context. Pretoria.
+Department of Mineral Resources and Energy, “Mineral Resources and Energy on project
+totalling 150 MW reaching legal close under Risk Mitigation IPP Procurement
+Programme,” Department of Mineral Resources and Energy. Accessed: Mar. 18,
+2025a. [Online]. Available: https://www.gov.za/news/media-statements/miner
+al-resources-and-energy-project-totalling-150-mw-reaching-legal-close.
+Department of Mineral Resources and Energy, “Minister Gwede Mantashe announces 5th
+Bid Window of Renewable Energy IPP Procurement Programme (REIPPPP Bid
+Window 5).” Accessed: Mar. 18, 2025b. [Online]. Available: https://www.gov.
+za/news/media-statements/minister-gwede-mantashe-announces-5th-bid-window
+-renewable-energy-ipp.
+Department of Mineral Resources and Energy, “Minerals and Energy on The Sixth Bid
+Window of the Renewable Energy Independent Power Producer Procurement
+Programme (REIPPPP BW 6).” Accessed: Mar. 17, 2025c. [Online]. Available: https
+://www.gov.za/news/media-statements/minerals-and-energy-sixth-bid-window
+-renewable-energy-independent-power.
+Dhingra, T., Sengar, A., & Sajith, S. (2022). A fuzzy analytic hierarchy process-based
+analysis for prioritization of barriers to offshore wind energy. J Clean Prod, 345.
+https://doi.org/10.1016/j.jclepro.2022.131111
+Eberhard, A., & Naude, R. (2016). The South African renewable energy independent
+power producer Procurement programme: A review and lessons learned. Journal of
+Energy in Southern Africa, 27(4), 1–14. https://doi.org/10.17159/2413-3051/2016/
+v27i4a1483
+Eberhard, A., & Naude, R. (2017). THE SOUTH AFRICAN RENEWABLE ENERGY IPP
+PROCUREMENT PROGRAMME: Review, Lessons Learned & Proposals to Reduce
+Transaction Costs. Cape Town.
+Eskom, “NTCSA Transmission Development Plan (TDP) 2025-2034,” Oct. 2024.
+Esser, S., & Champion, E. (Oct. 2021). 2030 South Africa Roadmap Multiplying the
+Transition: Market-based solutions for catalyzing clean energy investment in emerging
+economies.
+Fitzgerald, D., Le, M., Bernard, R., Warrick, B., Morison, P.S., and Snyman, L., (2024),
+Visualisation of South African Energy Data, Accessed: Dec. 16, 2024. [Online].
+Available: https://www.crses.sun.ac.za/sa-energy-stats/.
+Gangadhari, R. K., Karadayi-Usta, S., & Lim, W. M. (2023). Breaking barriers toward a
+net-zero economy. Nat Resour Forum. https://doi.org/10.1111/1477-8947.12378
+Ghimire, L. P., & Kim, Y. (2018). An analysis on barriers to renewable energy
+development in the context of Nepal using AHP. Renew Energy, 129, 446–456.
+https://doi.org/10.1016/j.renene.2018.06.011
+Govindan, K. (2023). Pathways to low carbon energy transition through multi criteria
+assessment of offshore wind energy barriers. Technol Forecast Soc Change, 187.
+https://doi.org/10.1016/j.techfore.2022.122131
+Green Building Africa. (2024). IPP Office in South Africa calls bid bonds for 14 REIPPPP
+BW 5 projects which failed to reach commercial close. Accessed: Mar., 17 [Online].
+Available: https://www.greenbuildingafrica.co.za/ipp-office-calls-bid-bonds-for-
+14-reipppp-bw-5-projects-which-failed-to-reach-commercial-close/.
+Guest, G., Namey, E., & Chen, M. (2020). A simple method to assess and report thematic
+saturation in qualitative research. PLoS One, 15(5). https://doi.org/10.1371/journal.
+pone.0232076
+Hennink, M., & Kaiser, B. N. (2022). Sample sizes for saturation in qualitative research: A
+systematic review of empirical tests. Soc Sci Med, 292. https://doi.org/10.1016/j.
+socscimed.2021.114523
+Grant, C. and Osanloo, A. (2014). Understanding, Selecting, and Integrating a
+Theoretical Framework in Dissertation Research: Creating the Blueprint for Your
+‘House, Administrative Issues Journal Education Practice and Research, vol. 4, no. 2,
+2014, doi:https://doi.org/10.5929/2014.4.2.9.
+IPP Office. (2025). IPP Projects. Accessed: Mar., 19 [Online]. Available: https://www.ipp
+-projects.co.za/ProjectDatabase.
+Jahangoshai Rezaee, M., Yousefi, S., & Hayati, J. (2019). Root barriers management in
+development of renewable energy resources in Iran: an interpretative structural
+modeling approach. Energy Policy, 129, 292–306. https://doi.org/10.1016/j.
+enpol.2019.02.030
+James, G. A., Ahiabor, F. S., & Abalo, E. M. (2025). Analysing the barriers to renewable
+energy adoption in Ghana using Delphi and a fuzzy synthetic evaluation approach.
+Energy for Sustainable Development, 85. https://doi.org/10.1016/j.esd.2025.101667
+Kardooni, R., Yusoff, S. B., & Kari, F. B. (2015). Barriers to Renewable Energy
+Development: Five Fuel Policy in Malaysia. Energy & Environment, 26(8), 1353–1361.
+Kitzing, L., Siddique, M. B., Nygaard, I., & Kruger, W. (2022). Worth the wait: how South
+Africa’s renewable energy auctions perform compared to Europe’s leading countries.
+Energy Policy, 166, no. May, Article 112999. https://doi.org/10.1016/j.
+enpol.2022.112999
+Kruger, W. (2023). South Africa’s Renewable Energy Auctions - An Exploration of
+Factors, Processes and Outcomes. Administratio Publica, 31(2), 47–69.
+P.M. Molepo et al.
+
+
+=== PAGE BREAK ===
+
+Energy for Sustainable Development 88 (2025) 101777
+16
+Kruger, W., Nygaard, I., & Kitzing, L. (2021). Counteracting market concentration in
+renewable energy auctions: Lessons learned from South Africa. Energy Policy, 148,
+no. PB, Article 111995. https://doi.org/10.1016/j.enpol.2020.111995
+Kutlu Gündo˘gdu, F. (2022). Analyzing critical barriers of smart energy city in Turkey
+based on two-dimensional uncertainty by hesitant z-fuzzy linguistic terms. Eng Appl
+Artif Intell, 113. https://doi.org/10.1016/j.engappai.2022.104935
+Landwehr, G., Lennard, C., & Engelbrecht, F. (2024). Wind energy potential of weather
+systems affecting South Africa’s Eastern Cape Province. Theor Appl Climatol, 155(5),
+3581–3597. https://doi.org/10.1007/s00704-024-04830-z
+Larmuth, J., & Cuellar, A. (Jul. 2019). An updated review of South African CSP projects
+under the renewable energy independent power producer procurement programme
+(REIPPPP). In AIP Conference Proceedings. American Institute of Physics Inc.. https://
+doi.org/10.1063/1.5117581
+Lee, J. C. Y., et al. (2020). The Power Curve Working Group’s assessment of wind turbine
+power performance prediction methods. Wind Energy Science, 5(1), 199–223.
+https://doi.org/10.5194/wes-5-199-2020
+Lock, I., & Seele, P. (2017). Quantitative content analysis as a method for business ethics
+research. In Cambridge Handbook of Research Approaches to Business Ethics and
+Corporate Responsibility (pp. 155–171). Cambridge University Press. https://doi.org/
+10.1017/9781316584385.011.
+Mahmud, H., & Roy, J. (2021). Barriers to overcome in accelerating renewable energy
+penetration in Bangladesh. Sustainability (Switzerland), 13(14). https://doi.org/
+10.3390/su13147694
+Mehmood, A., Lin, R., Zhang, L., Lee, C. K. M., & Ren, J. Z. (2022). Qualitative mapping
+of barriers to the renewables’ development against energy literacy dimensions: a
+case study of Pakistan. Energy Reports, 8, 332–337. https://doi.org/10.1016/j.
+egyr.2022.01.050
+Mekonnen, T., Bhandari, R., Ancha, V. R., & Khan, B. (2022). Analysis and Ranking of
+Barriers in Development of Solar Power Using Interpretive Structural Modeling
+Method: Ethiopian Outlook. Distributed Generation and Alternative Energy Journal, 37
+(3), 631–662. https://doi.org/10.13052/dgaej2156-3306.37312
+Mercer, N., Sabau, G., & Klinke, A. (2017). ‘Wind energy is not an issue for government’:
+Barriers to wind energy development in Newfoundland and Labrador, Canada.
+Energy Policy, 108, 673–683. https://doi.org/10.1016/j.enpol.2017.06.022
+Mirzania, P., Gordon, J. A., Balta-Ozkan, N., Sayan, R. C., & Marais, L. (2023). Barriers to
+powering past coal: Implications for a just energy transition in South Africa. Energy
+Res Soc Sci, 101. https://doi.org/10.1016/j.erss.2023.103122
+Mtukushe, E. O. N. (2021). The Study of Electrical Power Generation from Tidal Energy
+in South Africa. In in Southern African Universities Power Engineering Conference (pp.
+1–6).
+Müller, F., & Claar, S. (2021). Auctioning a ‘just energy transition’? South Africa’s
+renewable energy procurement programme and its implications for transition
+strategies. Rev Afr Polit Econ, 48(169), 333–351. https://doi.org/10.1080/
+03056244.2021.1932790
+International Renewable Energy Agency. (2025). RENEWABLE CAPACITY STATISTICS
+2025. [Online]. Available: www.irena.org.
+Nouri, A., Khadem, S., Mutule, A., Papadimitriou, C., Stanev, R., Cabiati, M., Keane, A.,
+et al. (2022). Identification). of gaps and barriers in regulations, standards, and
+network codes to energy citizen participation in the energy transition. Energies
+(Basel), 15(3). https://doi.org/10.3390/en15030856
+Numata, M., Sugiyama, M., & Mogi, G. (2020). Barrier analysis for the deployment of
+renewable-based mini-grids in Myanmar using the analytic hierarchy process (AHP).
+Energies (Basel), 16(3). https://doi.org/10.3390/en13061400
+Oryani, B., Koo, Y., Rezania, S., & Shafiee, A. (2021). Barriers to renewable energy
+technologies penetration: perspective in Iran. Renew Energy, 174, 971–983. https://
+doi.org/10.1016/j.renene.2021.04.052
+Painuly, J. P. (2001). Barriers to renewable energy penetration; a framework for analysis.
+Renew Energy, 24, 73–89.
+Pandit, R., & Kolios, A. (2020). SCADA data-based support vector machine wind turbine
+power curve uncertainty estimation and its comparative studies. Applied Sciences
+(Switzerland), 10(23), 1–18. https://doi.org/10.3390/app10238685
+Pathak, S. K., Sharma, V., Chougule, S. S., & Goel, V. (2022). Prioritization of barriers to
+the development of renewable energy technologies in India using integrated
+Modified Delphi and AHP method. Sustainable Energy Technologies and Assessments,
+50. https://doi.org/10.1016/j.seta.2021.101818
+Pegels, A. (2010). Renewable energy in South Africa: Potentials, barriers and options for
+support. Energy Policy, 38(9), 4945–4954. https://doi.org/10.1016/j.
+enpol.2010.03.077
+Ramesh, J., Mohan Ram, M., & Varadarajan, Y. S. (2022). Barrier mitigation strategies to
+the deployment of renewable and energy-efficient technologies (REET) in micro and
+small manufacturing clusters. In Materials Today: Proceedings (pp. 1622–1632).
+Elsevier Ltd. https://doi.org/10.1016/j.matpr.2021.11.273.
+Richards, G., Noble, B., & Belcher, K. (2012). Barriers to renewable energy development:
+A case study of large-scale wind energy in Saskatchewan, Canada. Energy Policy, 42,
+691–698. https://doi.org/10.1016/j.enpol.2011.12.049
+Roy, L., & MacPhee, D. (2018). Meso-scale CFD simulation for wind resources: A case
+study of complex mountainous terrain. Energies (Basel), 11(6). https://doi.org/
+10.3390/en11061366
+Renaud, C., Roff,A., Steyn,G., and Tyler,E. (2020). Accelerating renewable energy
+industrialisation in South Africa: what’s stopping us? Final Report, Jul. 2020.
+Sengar, A., et al. (2020). Prioritization of barriers to energy generation using pine
+needles to mitigate climate change: evidence from India. J Clean Prod, 275. https://
+doi.org/10.1016/j.jclepro.2020.123840
+Shah, S. A. A., & Longsheng, C. (2022). Evaluating renewable and sustainable energy
+impeding factors using an integrated fuzzy-grey decision approach. Sustainable
+Energy Technologies and Assessments, 51. https://doi.org/10.1016/j.
+seta.2021.101905
+Shah, S. A. A., Solangi, Y. A., & Ikram, M. (2019). Analysis of barriers to the adoption of
+cleaner energy technologies in Pakistan using Modified Delphi and Fuzzy Analytical
+Hierarchy Process. J Clean Prod, 235, 1037–1050. https://doi.org/10.1016/j.
+jclepro.2019.07.020
+Shahzad, K., Lu, B., Abdul, D., Safi, A., Umar, M., & Afridi, N. K. (2023). Assessment of
+biomass energy barriers towards sustainable development: application of
+Pythagorean fuzzy AHP. Geological Journal, 58(4), 1607–1622. https://doi.org/
+10.1002/gj.4680
+Shao, B., Zhang, L., & Shah, S. A. A. (2025). Barriers and Opportunities in Implementing
+Carbon Neutrality Goals in China’s Heavy Industries. Sustainability (Switzerland), 17
+(2). https://doi.org/10.3390/su17020674
+Smarte Anekwe, I. M., Akpasi, S. O., Mkhize, M. M., Zhou, H., Moyo, R. T., & Gaza, L.
+(2024). Renewable energy investments in South Africa: Potentials and challenges for
+a sustainable transition - a review. Science Progress, 107(2). https://doi.org/
+10.1177/00368504241237347
+Solangi, Y. A., Alyamani, R., & Almakhles, D. (2025). Evaluating challenges and policy
+innovations for renewable energy development in a circular economy: A path to
+environmental resilience in Saudi Arabia. J Environ Manage, 375. https://doi.org/
+10.1016/j.jenvman.2025.124124
+Solangi, Y. A., Longsheng, C., & Shah, S. A. A. (2021). Assessing and overcoming the
+renewable energy barriers for sustainable development in Pakistan: an integrated
+AHP and fuzzy TOPSIS approach. Renew Energy, 173, 209–222. https://doi.org/
+10.1016/j.renene.2021.03.141
+South Africa National Planning Commission. (2012). National Development Plan, 2030
+Our Future-make it work. National Planning Commission.
+Sovacool, B. K., Hess, D. J., & Cantoni, R. (2021). Energy transitions from the cradle to
+the grave: A meta-theoretical framework integrating responsible innovation, social
+practices, and energy justice. Energy Res Soc Sci, 75. https://doi.org/10.1016/j.
+erss.2021.102027
+Sulaiman, J., Azman, A., & Saboori, B. (2014). Development of Solar Energy in Sabah
+Malaysia: The Case of Trudgill’s Perception. International Journal of Sustainable
+Energy and Environmental Research, 3(2), 90–99.
+Sun, H., Dang, Y., Mao, W., & Luo, D. (2021). Optimal path for overcoming barriers in
+developing China’s wind energy industry. Environmental Science and Pollution
+Research, 28, 35597–35612. https://doi.org/10.1007/s11356-021-12531-7/
+Published
+Todd, I., & Mccauley, D. (2021). Assessing policy barriers to the energy transition in
+South Africa. Energy Policy, 158, no. July, Article 112529. https://doi.org/10.1016/j.
+enpol.2021.112529
+Tseng, M. L., Ardaniah, V., Sujanto, R. Y., Fujii, M., & Lim, M. K. (2021). Multicriteria
+assessment of renewable energy sources under uncertainty: barriers to adoption.
+Technol Forecast Soc Change, 171. https://doi.org/10.1016/j.techfore.2021.120937
+European Union. (2024). Mean Wind speed, 11 September, available at: https://www.
+eea.europa.eu/en/analysis/maps-and-charts/mean-wind-speed (accessed 1 May
+2025).
+University of Cape Town Power Futures Lab. (2024). Policy Brief- Recommendations to
+strengthen South Africa’s renewable energy procurement programme. Cape Town.
+Vallecha, H., Bhattacharjee, D., Osiri, J. K., & Bhola, P. (2021). Evaluation of barriers and
+enablers through integrative multicriteria decision mapping: developing sustainable
+community energy in Indian context. Renewable and Sustainable Energy Reviews, 138.
+https://doi.org/10.1016/j.rser.2020.110565
+Walwyn, D. R. (2021). Providing Emergency Power in National Energy Systems: South
+Africa’s Risk Mitigation Programme is Costly and Environmentally Disastrous, in
+International Conference on Electrical, Computer and Energy Technol (pp. 9–10). IEEE.
+Wiese, M., & van der Westhuizen, L. M. (2024). Impact of planned power outages (load
+shedding) on consumers in developing countries: Evidence from South Africa. Energy
+Policy, 187. https://doi.org/10.1016/j.enpol.2024.114033
+Wlokas, H. L. (2017). Implementing Community Renewables: Institutional Work In South
+Africa’s Renewable Energy Procurement Programme. Thesis: University of Cape Town,
+Cape Town.
+P.M. Molepo et al.

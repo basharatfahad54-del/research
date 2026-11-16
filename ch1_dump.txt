@@ -1,0 +1,673 @@
+
+########## PDF PAGE 6 ##########
+Page | vi 
+ 
+Abstract   
+ 
+ 
+
+########## PDF PAGE 7 ##########
+Page | 1 
+ 
+Chapter 1 
+: Introduction and Overview 
+1.1 Introduction 
+This chapter explores the research overview of the historical development of the study, the 
+background and research real-world problems leading to what the research is all about, a brief 
+discussion on study concepts like the systems reinforcing model (SRM), energy culture (EC) 
+and sustainable energy access (SEA) framework’s that is contextual to the development of the 
+new Systems Energy Technology Innovation Living Lab (SETILL) theoretical model focused 
+on gender design for the research study. The research aims, objectives, and research questions 
+were also presented for suitable guidance on what the research study intended to accomplish. 
+A brief overview of the study's relevance and justification, as well as its methodology, is 
+included to help guide the research design. Thereafter, the chosen technology to be used for 
+the testing or implementation of the SETILL is discussed briefly. Generally, this chapter 
+explores this study for contextual applicability to the topic to develop a new Systems Energy 
+Technology Innovation Living Lab (SETILL) focused on gender design and to identify the 
+processes that can guide the exploratory theory.  
+ 
+1.2 The overview of the historical development of the research study 
+Energy poverty conditions are mostly prevalent in poor rural and urban African informal 
+settlement households, most informal settlement households make use of localised energy 
+sources but still lack access to clean energy sources and modern energy services (Okoye, 2020). 
+Therefore, ‘energy insecurity’ which can also be called ‘energy poverty’ in the context of this 
+research study, is challenging and the issues have been generally supported in literature and 
+policies in the public domain (Balmer, 2007; McCollum et al, 2017; Sadath and Acharya, 
+2017). The highest rate of energy insecurity is in Africa with more than 80% of fuel 
+consumption being paraffin (high carbon emitting fuel), biomass, and municipal industrial and 
+animal wastes (UNEP, 2017). In developing countries, billions of individuals are unable to 
+access clean cooking sources and electricity (Sokona, Mulugetta and Gujba, 2012), and the 
+United Nations (2014) indicated that by 2030, over 2.5 million individuals could be unable to 
+access clean modern sources of energy for cooking. Therefore, this research study looked in 
+the direction of developing a modern energy source for cooking with women as the end-users 
+with the Living Lab through a bottom-up approach which will be validated and tested. 
+
+########## PDF PAGE 8 ##########
+Page | 2 
+ 
+Generally, energy poverty challenges are socio-economical, and usually found in poor 
+households in urban or rural environments mostly in developing countries. Simply put, energy 
+poverty could be referred to as the unavailability of clean energy and energy services in 
+households and beyond. Okoye (2020:1) stated that “one of the factors of promoting energy 
+poverty mostly comes from socio-cultural environments, which are likely to shape energy use 
+patterns and behaviours in households”. However, energy poverty is not only the deficiency of 
+access to energy and modern energy services. Thus, there should be no need to attempt to 
+reduce energy poverty by means of mere technical concepts and numerical metrics, socially 
+and culturally, but of rights and justice, of transformation as a capacity and for gender as an 
+economics. This is because the complexities of addressing energy insecurity within the 
+contested geography of the informal settlements in Africa remains both gendered and 
+persistently understudied and underdeveloped (Musango et al., 2020; Anditi et al., 2022). In 
+addition, the following is an argument that decreasing energy insecurity can decrease the 
+poverty rate through economic development, sustainability, and human involvement in the 
+informal settlement (Kohler, Rhodes & Vermaak, 2014). First of all, concerning the 
+enhancement of modern energy services with an emphasis on cooking, the decisions of the 
+designs and promotion of environmentally friendly energy technology are off policy making 
+and should be linked to the energy users or end-users in order to increase the systems and 
+mechanisms regarding energy access and the consumption/uses of energy resources. For a fact, 
+and as much as the South African government has attempted to introduce energy pro-poor 
+policies since 1998 into the households of the informal settlements, the nation still lack clean 
+energy. Nakhooda (2012) states that fifty percent of the nation has no access to clean energy 
+sources (SEA, 2014). 
+In one capacity or the other, research studies have either individually or in groups considered 
+policies on energy and have made great signs of progress and or proffer recommendations 
+(Mohlakoana, 2014; Kelly and Geyer, 2018; Okoye, 2020). Other studies have also provided 
+an overview of energy services achievements concerning gender mainstreaming and creating 
+living labs towards energy security (Musango et al., 2020; Mukama et al., 2022). However, to 
+our knowledge, no research study in South Africa has been identified to have promoted energy 
+security in the Living Lab by developing energy technology innovation to a pilot scale to 
+improve energy access and clean cooking energy services with a gender design using the 
+systems approach. Therefore, this research study would study policies, conceptualise the 
+Living Lab, gender inequality, energy technology, energy security, how human factors affect 
+
+########## PDF PAGE 9 ##########
+Page | 3 
+ 
+technology, and develop and test energy technology to a pilot scale through the Living Lab 
+with a systems approach to improve access to energy services in South Africa.  
+In addition, in the decisions within the households, a study on the factors regarding payments 
+models on clean cooking in the Kenyan informal settlement revealed that although 83% of 
+women occupying the informal settlement affirm they cook for their households and 59% of 
+the women participate in the process when decisions are being made within the households. 
+Yet another probable study done in Ethiopia revealed that in so many households at the 
+informal settlements, where women are the head of or leading, men have the least control of 
+the expenses of the households (Mengistu et al., 2016). This at times creates cross gender inter 
+connection and affiliations. Other proximate household energy studies in the similar region of 
+South Africa concerning the acceptance of solar water heaters, liquid petroleum gas studies in 
+Ghana and Cameroon and a study in Rwanda concerning an upgraded cookstove, observed that 
+increases in acceptance of innovations were a result of women’s leadership or participation and 
+female education (Grant et al., 2021). Consequently, this study will enhance the involvement 
+of women in the co-design, co-creation, and co-testing of the energy technology innovation to 
+be developed in the informal settlement through the systems living lab, on enhancing the 
+adoption level of energy innovations and getting more inputs from end-users in as far as 
+addressing the security of the energy services in Africa is concerned. In addition to this, it is 
+central to the growth of the adoption of energy innovation to empower women wholly (Anditi 
+et al., 2022). 
+Through the 1994 electrification program (DoE, 2015), most households in the informal 
+settlement have access to electricity or energy sources. While they have access to electricity, it 
+does not stop the households in the informal settlement from making use of other energy 
+sources like charcoal and paraffin to achieve energy needs such as cooking or lighting (Okoye, 
+2020). This indicates that the households in the informal settlement practice or use several 
+energy sources such as electricity for heating, paraffin and others at the same time (Mdluli and 
+Vogel, 2010). This may not be due to financial implications, but related to sociocultural 
+tendencies. According to Okoye (2020:2), the World Health Organisation (WHO) “considers 
+energy access as a percentage of people using electricity whilst integrating other energy 
+sources”. This research study does not take into consideration the particular energy sources 
+used in the informal settlements used as the case study or the costs involved but simply 
+proposes a technology or energy source that is accepted by the end-users to test the theoretical 
+
+########## PDF PAGE 10 ##########
+Page | 4 
+ 
+model to be developed. Thus, the study will use the SRM-EC and SEA research approaches to 
+determine the energy use patterns, behaviour, and norms for future prevention of energy 
+insecurity and potentially apply the interventions to co-design the energy technology 
+innovations with the selected poor informal settlements, whereby understanding the 
+mechanisms that affect the input of knowledge and participation of women in decision-making 
+processes for contributing to the adoption of energy innovations. In regards to this study, the 
+identified informal settlements were the primary and nearly carbon copy equivalent studies of 
+energy-starved South Africa communities that could also stand for other communities in Africa 
+that are plagued with the same predicaments. 
+Therefore, if there will be an upgrade to energy access in the households of the informal 
+settlements in 20 years, the Sustainable Energy Access (SEA) (2014:10) stated that “a 
+deepened engagement with every society and communities in energy-poverty matters and 
+decision-making is crucial and urgently needed at the local level, and it is important to develop 
+an integrated energy poverty policy/framework for the country”. Furthermore, the SEA (2014) 
+made a proposal or recommendations to develop a ‘management framework’ to reduce energy 
+poverty by the use of a systems approach. 
+Hence, the systems approach concepts which Biahmou (2015), Buede, D. M. and Miller, (2016) 
+identified are used to study energy poverty reduction by Sullivan and Howden-chapman, 
+(2017) and Karásek and Pojar, (2018) to formulate the theoretical model of this research study. 
+For this reason the research theoretical model is dubbed the Systems Energy Technology 
+Innovation Living Lab (SETILL) with an ascribe to gender for energy security. Furthermore, 
+within this study, the systems approach was applied to identify the drivers for women’s 
+engagement and the decision-making processes for co-design and testing of energy technology 
+innovations and how the mechanisms can be optimised with regard to the level of adoption and 
+acceptance of energy innovations and end-users through the development of a systems 
+dynamics model as part of the Living Lab process. Therefore, a design process in energy 
+poverty and access to clean cooking energy sources through systems approach like the systems 
+engineering and systems thinking may contribute to minimization of energy poverty and 
+improvement of Energy Assess Sustainability (Okoye, 2020). This is because the SE and SsT 
+concepts were termed useful in the reduction of energy poverty. 
+Various research studies have been done to apply the SsT concepts in the sector of public 
+health, sustainability of wind energy (Homer and Hirsch, 2006; Mutale et al., 2015; Mph et al., 
+
+########## PDF PAGE 11 ##########
+Page | 5 
+ 
+2018), processes of technology transfer (Tejeda and Ferreira, 2014), renewable technologies 
+(Brent and Kruger, 2009), the teaching of climate change (Roychoudhury et al., 2017), 
+understanding of disaster risks reduction in informal settlements as cited by Onyeagoziri, Shaw 
+and Ryan, 2021 and assessment of gendered energy transition (Musango and Bassi, 2021). 
+Some studies were also close to using the SE and SsT approaches to reducing energy poverty 
+(Shrubsole, Hamilton and Zimmermann, 2019; Okoye, 2020). However, no study to our 
+knowledge has considered reducing energy poverty through the Living Lab concepts while 
+using the SE or SsT approaches concurrently. 
+Therefore, this study introduces SE and SsT concepts in engineering clean cooking energy 
+access or energy access sustainability by developing a new SETILL to contribute to the ‘state 
+of the art’ to: ‘serve as a suitable theoretical framework or concept to support energy 
+innovations’, ‘improve adoption of gender in energy technology’, 'reduce energy poverty’, 
+‘improve access to energy services in the poor informal settlements and the energy sectors’, 
+‘apply the new SETILL in the poor informal settlement selected’, and ‘build and test the energy 
+technology innovation in the informal settlement selected’. 
+As of this moment, a study developed a systems-reinforcing model, using the concepts of SE 
+and SsT approaches, to tackle energy poverty in informal settlements (Okoye, 2020). However, 
+this study was not applied to gendered energy, but to only solve some areas of energy poverty 
+challenges. Also, studies have reviewed the effectiveness of policies that could enhance energy 
+access in households (Mohlakoana, 2014; Azimoh et al., 2015; Masekameni et al., 2018; Ye, 
+Koch and Zhang, 2018). There have also been studies to analyse the challenges of energy 
+poverty globally (Maxim, Apostoaie and Popescu, 2016; Team and Baffert, 2015), and also 
+studies that developed a framework for sustainable access to energy (Shrestha, R.M. & 
+Acharya, 2015). However, all these studies were conducted to tackle some areas of energy 
+poverty challenges while ignoring gender. 
+The studies that came closest to this research study were those that developed a gender analysis 
+framework to familiarize energy policy and encourage the adoption of energy innovations in a 
+South African informal settlement (Anditi et al., 2022), developed a living lab to demonstrate 
+its concepts and abilities to achieve energy service security (Mukama et al., 2022), and 
+concentrated on the understanding and conceptualization of mainstreaming gender, suggesting 
+that gender should be taken into account in continuous energy practices (Musango et al., 2020). 
+Despite the fact that the majority of these studies focused on gender issues and energy security, 
+
+########## PDF PAGE 12 ##########
+Page | 6 
+ 
+none of them used the Living Lab and the systems approach to address energy poverty in South 
+Africa's informal settlements. 
+The mixed method research approach was used for this research study to answer the research 
+questions using primary and secondary case studies, and the systems thinking approaches in 
+developing a Living Lab for gendered energy technology innovation which will lead to the 
+building and testing of an energy technology innovation to a pilot scale. Theoretically, the 
+research study developed a new SETILL model and tested the utility of the model in the case 
+study selected by developing an energy technology innovation on a pilot scale. A Living Lab 
+of the system at this preliminary step in the research study is considered as a physical or virtual 
+design methodology space that co-creates and tests innovations through collaboration of end-
+users (women) with active involvement in a realistic manner for mitigating energy poverty for 
+informal settlement in collaboration with multiple stakeholders using systems thinking 
+approaches. 
+Furthermore, this research study analysed energy culture, energy patterns, energy assessment 
+and sustainable energy access in the households in the case study, which brief introduction is 
+found in the next section. This was done to understand energy matters and consumption before 
+answering the research questions. The analysis done was to give a better understanding and 
+credibility to the barriers to the participation of women as end-users of energy technology 
+innovations. Significantly, the outcomes of the research study and investigations were 
+represented and modelled as the systems Living Lab to support gendered energy technology 
+innovation. 
+1.2.1 Defining SRM for EAS, EC, energy behaviour and SEA for this study 
+As discussed above, for the purpose of achieving the objectives of this research study, it was 
+important to adopt the framework of systems reinforcing model for energy access sustainability 
+as proposed by Okoye (2020), which focused on the behavioural, normative and practice 
+change processes relating to the adoption of energy innovations as well as gender designs in an 
+informal settlement of South Africa. The SRM which was developed after mobilizing the 
+energy culture (EC) and sustainability energy access (SEA) frameworks (Stephenson et al., 
+2010; Shrestha, R.M. & Acharya, 2015) has four primary system connections recognized in 
+the processes and access of energy poverty as presented in the figure 1.1 below: 
+
+########## PDF PAGE 13 ##########
+Page | 7 
+ 
+ 
+Figure 1.1: The four major systems interconnections in the systems reinforcing model (SRM) 
+for energy access sustainability showing its systems and subsystems. Source: (Okoye, 
+2020:75). 
+The first interconnections include the material cultures, the cognitive norms or energy practices 
+constituting the systems, which is ‘design decisions: energy poverty ’system. They help in 
+assessing the status of energy poverty’, energy and energy behaviours in the households of the 
+informal settlements. This is because the following ‘design decisions’ or systems of energy 
+poverty which were introduced in the development of the energy technology innovation in this 
+research study were used to test the model. The second of these interconnections also involves 
+many variables as already illustrated in figure 1.1 These are the systems that complement 
+energy access that in turn uses the ‘design decisions’ systems for assessment. Such variables 
+or systems residing in the third system interconnections may refer to the aspects of options for 
+enabling access to energy. Last, System IV interconnections involve factors that indicate the 
+impact of adding all the interrelated systems simultaneously on the sustainability of energy 
+access improvement (Okoye, 2020). 
+The third and fourth systems interconnection are referred to as systems designs because the 
+first and second systems interconnections regard them as adequate to expand the network 
+
+########## PDF PAGE 14 ##########
+Page | 8 
+ 
+reaching of energy in a given region (Gevelt et al., 2018; Gupta, 2018). These systems, when 
+treated or addressed, can be detached; but this should be done at an order of a systems approach 
+(Okoye, 2020). Hence, in this research study, it was important to treat each system singly in a 
+bid to determine which of the interconnections in the system were relevant to the 
+accomplishment of the research objective. Row 1 and 2 were deemed feasible system 
+interconnections for analysis of this study, while row 3 may be implemented at the end of the 
+study for future analysis of how to draw attention to the benefits of options for energy access. 
+The fourth row was not considered applicable for this study as this study is not geared towards 
+the advocacy for EAS through policies and other forms of intervention as has already been 
+done in the literature (Okoye 2020). Nevertheless, if needed later, an addition can always be 
+made from the row 4. Therefore, the SRM represented “acts as a management decision 
+framework” (Okoye, 2020:163). This constant rationale stands tall at which is parallel to the 
+findings of the framework established by Stephenson et al., (2010) and Shrestha, R.M. & 
+Acharya (2015). Details on the various ‘design decisions made in the process are explained in 
+chapter six of this research. 
+Several systems and subsystems have characterised processes or methods enclosed by the EC 
+and SEA frameworks, but the EC framework includes numerous systems and components 
+which impacts the tenacity of energy poverty in poor informal settlement, while the SEA 
+framework also includes numerous systems and subsystems enclosed by the procedures for 
+energy access improvement. However, they are characterised and contribute to a common goal 
+(Okoye, 2020). Therefore, due to the collaboration of the system interactions, it can be said 
+that an adjustment or change to one system can lead to a change in another system (Jamshidi, 
+2008). Important processes and components related to energy consumption and the possibility 
+of behavioral modifications are described by the EC framework (figure 1.2). Comparable 
+components, structured to the prospective performance (Ishak, 2016), have been used in 
+comparable research to analyze behaviors (Lawson, R. and Williams, 2012; Okoye, 2020). 
+Therefore, a number of logical yet well-known elements that enhance energy usage and 
+efficiency should be included in order to comprehend "consumption behavior" (Shrubsole, 
+Hamilton, and Zimmermann, 2019). 
+Figure 1.2 explains that the systems of energy poverty in the EC recognize the 
+interrelationships between them and the factors influencing energy use behaviour. Therefore, 
+the objective of the assessment of energy poverty is to enhance the efficiency of energy use in 
+
+########## PDF PAGE 15 ##########
+Page | 9 
+ 
+energy-poor informal settlements or households (Okoye, 2020). The energy use behaviour 
+found in the EC is pivotal to this research study in developing energy technology innovation 
+which focuses on gender design in the informal settlement. 
+ 
+Figure 1.2: The main concept of the Energy Cultures framework explaining energy use 
+patterns and behaviours. Source: (Stephenson et al., 2010:6124) 
+Additionally, the ability to categorize the system's elements explains why it is difficult for 
+"consumer behaviors" to expand in a way that is acceptable and boost energy efficiency in 
+families or informal settlements with low levels of energy (Pelenur, 2018). Accordingly, the 
+"energy poverty assessment" concurs that the interplay among "material culture," "cognitive 
+norms," and "energy practices" can influence energy use behavior, resulting in the adoption of 
+gender-specific design and energy technology innovation in low-income households in 
+informal settlements via the Living Lab. 
+Additionally, Shrestha, R.M. & Acharya (2015) proposed the framework known as sustainable 
+energy access (SEA) to enhance energy access and evaluate energy poverty in households. 
+They emphasized the importance of improving energy access through "access options," 
+"assessment of energy poverty," "resource availability," "sustainable technologies," 
+"affordability," and "cost and benefits" (Okoye, 2020). Respectively, increased and better 
+energy requests, alternative energy supplies and systems in poor households are determinants 
+of the ‘assessment of energy poverty’ (Gevelt et al., 2018; Gupta, 2018). 
+
+########## PDF PAGE 16 ##########
+Page | 10 
+ 
+Therefore, according to Okoye (2020:8), the SEA framework (Figure 1.3) examines the least 
+possible fundamental energy demands such as “environmental-friendly energy technologies, 
+the financial weight of energy supply, affordability of cleaner energy options, benefits of 
+energy access options, and optional sustainability, and while considering improved energy 
+access concerning social economic and environmental benefits, the SEA framework also 
+assesses energy technologies in terms of economic, environmental, social, institutional, and 
+technical sustainability pillars”. Therefore, to assist ‘sustainable energy access’ in a poor 
+informal settlement, these individual elements that are respectively interrelated are considered. 
+ 
+Figure 1.3: Sustainable Energy Access framework including the elements of energy access 
+and energy poverty. Source: (Shrestha & Acharya, 2015:5). 
+In order to lessen "energy poverty" and enhance "energy access," this research study has 
+merged the core ideas or hypotheses of the EC and SEA frameworks that were discovered and 
+integrated into the SRM, which employed SE and SsT to construct the relationships between 
+systems and elements. While the SEA insists that the sustainability of the "social," "economic," 
+"technical," and "environmental" systems be taken into consideration in order to lessen the 
+effects of energy poverty, the EC recognizes the energy consumption behaviours.  
+In order to support energy innovation at a pilot scale by involving end users (women) and other 
+stakeholders in real-life scenarios to achieve the security of energy services, it is crucial to 
+
+########## PDF PAGE 17 ##########
+Page | 11 
+ 
+comprehend and incorporate these concepts into the development of the new SETILL model 
+with gender design. Chapter 5 of my thesis will go into further detail about these ideas. 
+ 
+1.3 The background and problem statement to the context of the 
+research study 
+The energy sector has produced substantial attention in both research and industries due to the 
+observed striking technological advancements (Mastelic, 2014), like renewable energy 
+technology, solar energy technology and clean cooking technology. However, the promising 
+technological innovations seen are not guaranteed to be accepted by customers and prospective 
+end users (Mastelic, 2014). This might not be because of the willingness of the energy sector 
+to implement these innovations or if the energy innovations truly exist as applicable to 
+technology, but because some of these glaring innovations lack the direct involvement of end-
+users in the development processes of the energy products and services (Pełka, 2013), and 
+because they are mostly weakened by potential user’s fear for change, inability to comprehend 
+the technologies, and by legislative or political hindrances (Mastelic, 2014). This means that 
+there should be a collaboration between the stakeholders and end-users in co-researching, co-
+designing, co-creating, prototyping, and testing energy innovation technology. This will help 
+to meet the expectations and needs of the end-users (Pełka, 2013). 
+Gender and energy have grown to be one of the analytical pathways for connecting the 
+intervention of energy (Mazzeo, Lazer and Zieky, 2006), to the Sustainable Development 
+Goals, and an important achievement of the SDGs by 2030 is the reduction of energy poverty 
+as presented by the United Nations (2014). Regardless of many attempts, gender inequality still 
+exists at all stages of energy, power, management, and all economic sectors, and energy poverty 
+is still prevalent in society. There is no doubt that energy insecurity is a huge challenge in the 
+households of the informal settlements leading to about 50% of the dwellers in South Africa 
+(Anditi et al., 2022). The issue of gender affects every part of society, especially in households. 
+Therefore, when it comes to energy management, distribution of energy resources, and 
+deciding who uses energy products, there is quite a gender imbalance, especially at the 
+household level in informal settlements, although the industries and workplaces could be 
+different (Köhlin et al., 2011). 
+As stated above, the issue of energy insecurity in the informal settlements in South Africa is 
+gendered (Musango et al., 2020). Literature has investigated and primarily articulated the links 
+
+########## PDF PAGE 18 ##########
+Page | 12 
+ 
+between gender and energy (Oparaocha and Dutta, 2011). Women perform a more significant 
+number of labour-rigorous tasks in households. Therefore, the advancements in the energy 
+market or innovations around this sector need to benefit women uniquely. The recommendation 
+is to support the gender equality by including women in the processes of decision making of 
+the design of innovation of energy (Sohna, 2018). This is the same way as prevention of 
+comprehensive market opportunities for financial services due to gender discrimination 
+(George et al., 2016). 
+Energy technology needs sustainable development goal 5, gender equality, poverty, and 
+inequality as identified in the United Nations’ Agenda 2030, (United Nations, 2016). 
+According to Elena Bou, (2019), gender equality is individually relevant to the energy industry 
+for three key reasons: 
+1. Gender diversity enables employees to deliver more enhanced performances than any 
+other gender secured teams. 
+2. The energy industry has remained as an innovative industry that inspires creativity; 
+hence, for organizational creativity, the energy industry requires diversity. 
+3. In line with a human approach, energy designs and solutions can therefore be viewed 
+from the user perspective. This is due to the fact that in energy efficiency sector and 
+some other sectors such as smart building, the African businesses and domestic 
+markets in rural and urban settings (Temu, 1999; Mwaura et al, 2012), women are a 
+meager market that needs to be understood qualitatively as the end-users and 
+consumers. 
+More women live in the poor informal settlements that constitute more than half of the 
+population in an informal settlement, implying that gender defines the poor informal 
+settlements (Kovacic et al., 2019). Therefore, gender equality matters in policy formulation 
+and design of energy technology or the energy sector at all levels. But it is mandatory to find 
+out the issues and make women involved in the initial stages to discuss and search for the 
+options that might be defined as possible. 
+Anditi et al. (2022) have indicated that women are the most vulnerable and also hugely affected 
+by the issue of energy insecurity, and although plenty of women (poor or wealthy) suffer greatly 
+in poor informal settlements. (Barsoum, 2006; European Institute of Gender Equality, 2020), 
+indicates that there is a need to investigate and understand the importance of gendered energy 
+in the informal settlements in the process of developing energy innovations. Thus, gender 
+equality issues are essential at all levels of energy sectors, management, distribution of energy 
+
+########## PDF PAGE 19 ##########
+Page | 13 
+ 
+resources, policymaking, and designs in energy technology. Also, the argument for greater 
+gender representativity in the design of energy systems is not that it will change the system's 
+performance, but that it can reduce the issue of injustice. This is because the argument should 
+be one of rights and justice, transformation, and agency for women as economic actors. Hence, 
+it is crucial to include more women in gendered energy technology design because more 
+women are necessary in energy technology innovation and decision-making. With regard to 
+this research, it was revealed that energy technology innovation can be promoted under the 
+banner of ‘Living Lab,’ to enhance gender in the energy industry. 
+Living Lab, throughout the last years, has been even more developed and defined; its 
+subsequent concern is based on the creative engagement of the end-users as co-designers or 
+co-producers of technologies and innovations (as Higgins, 2011 highlighted). The Living Lab 
+can therefore be defined as the private/public domain where people; specifically the 
+stakeholders and users bring the new innovations or technology introductions that are required 
+to be designed in the Innovation Design stage and provide input in the process (Evans, et al, 
+2017). For example, the phones are either touch screen phones or button screen phones; the 
+manufactures of the mobile phones set a forum where the end users can participate to establish 
+which between the touch screen and the button is more favorable. This is important in that the 
+end users are involved in manufacturing decisions thus enabling the manufacturers save costs 
+and results into social acceptance of the mobile phone. This process is called a “User-Centred 
+Design (UCD)”. 
+The user-centred design (UCD) is also a factor within this research study as the design is also 
+a process considered within this study to obtain the intended objectives. The Living Lab at the 
+UCD shows us why the focus of this study is on the end-users, in this case women only to 
+accomplish the goals of this type of research. Therefore, according to the report of Interaction 
+Design Foundation (2022:1), the UCD is “an iterative design process in which designers focus 
+on the users and their needs in each phase of the design processes”. It is also stated that user-
+centred research was used to “support new product/system design and development to promote 
+more rapid adoption and carbon-saving use of energy efficient and renewable technologies in 
+homes” (Caird and Roy, 2008:1). The diagram below, shows the process of user-centric design: 
+
+########## PDF PAGE 20 ##########
+Page | 14 
+ 
+ 
+Figure 1.4: User-Centric Design (UCD) Processes. Source: (Interaction Design Foundation, 
+2022:1) 
+The diagram above explains the approach of the UCD which is an optimistic process to 
+innovate new solutions. It begins with human beings and ends with the solutions to their 
+personal needs. This has a strong link to the research goal and the Living Lab concept to be 
+used in this study. Hence, the Living Lab engages the end-users to co-generate the open, 
+innovative or developed environments.  
+The Living Lab idea is still relatively recent with regard to the gendered energy research field 
+(Mukama et al., 2022; Petrulaityte et al., 2022). However, the Living Lab could dare to 
+support the innovation processes for all the parties concerned, ranging from the stakeholders, 
+the consumers and or users, to the prospective consumers and or users, especially the 
+feminine fraternity within the real-world context as proposed by Ståhlbröst & Holst 2012. 
+Living Lab concepts have been applied successfully in the ICT sector (Guldemond & 
+Geenhuizen, 2012), geographical areas: urban and rural, ICT for Energy efficiency and Food 
+security (Thematic perspective) (Geerts, 2011) and in Education (Callaghan & Herselman, 
+2015). 
+Thus, the objective of this research is the same as well, to enhance energy access, or in other 
+words eliminate energy poverty. This research will advance theoretical and empirical 
+knowledge of processes of developing energy technology innovations within Systems thinking 
+Living Lab that is gendered design or the roles of women in co-designing, co-creating, co-
+researching and testing energy innovation expectations of the end-users. According to Jere, 
+Kauhonina and Gamundani (2014) it is important to look at the rural and urban setting in a bid 
+
+########## PDF PAGE 21 ##########
+Page | 15 
+ 
+to formulate or integrate the Living Lab. But it centred the research on the poor rural informal 
+settlements and the case learnings manifest from the Living Lab environment. 
+This study provides the understanding of how women supply their insights in the decision-
+making process of co-design of technologies when having to do with energy insecurity 
+challenges in rural informal settlements, leading to understanding of how management of 
+energy sector in Africa is relevant to phenomena under investigation to make it possible to 
+generate new theories (George et al., 2016). Clearly, the existing solutions to gendered 
+energy technology needs have not been able to meet the energy poverty challenge and 
+although some are already targeting the urban informal settlements as the approach here, 
+none were now targeting the informal systems settlements as observed in the Living Lab 
+using the systems approaches. Thus, this comparison regarding the informal settlements 
+expands on the objectives of this study. 
+Additionally, the majority of analyses on energy poverty and the Living Labs focus on rural 
+areas because the majority of Africa remains rural (UNDP, 2011; Azimoh et al., 2015; Eder, 
+Mutsaerts and Sriwannawit, 2015; Pedersen, 2016; and Zavratnik, Superina et al., 2019). This 
+research will also engage in analysis and developlement of gender design in SETILL for the 
+rural areas because there are more poor people in the rural areas than in the urban areas. The 
+correlation between gender and energy is that gender balance should be attained in energy 
+technology construction so that both those who fund the technology and its users will be 
+pleased during the testing stages as pointed by Pełka (2013). For instance, based on industries 
+or households or the majority of poorest informal settlements, more women is involved in the 
+use of energy products yet more men are the ones who make design related decisions. Hence, 
+according to the research study, women should also contribute from the design stage right to 
+the testing stage of the products (that is let the innovations be brought by more women). 
+In light of this, the study suggests that women should always be included in the design process 
+if we want to address the problems of energy insecurity, market transitions and investment in 
+the energy sector in Africa, poverty and inequality, rural and urban livelihood, and the 
+development of sustainable energy technology to meet the energy products. Therefore, the 
+problem statement is: ‘the big challenge and hindrance towards stipulating the needs and 
+contribution of women in the processes of energy innovation or the lack of greater gender 
+representativity in the design of energy innovations/systems which could reduce the issue of 
+justice, reduce one of the agencies for women as economic actors, thereby leading to lack of 
+
+########## PDF PAGE 22 ##########
+Page | 16 
+ 
+security of energy services in informal settlements in Africa’. As a result, this study will add 
+to the body of knowledge on the predicted behaviors of stakeholders impacting the innovation 
+of energy technology in the Living Lab and the extent to which women make decisions in the 
+energy sector in relation to rural informal settlements.  
+ 
+1.4 Research aims and objectives 
+In response, the South African government has devoted its attention to addressing Energy 
+poverty endeavours in poor informal settlements or households. Unfortunately, much of this 
+gendered energy is missing in the poverty research analysis and poverty assessments by most 
+researchers (Mazzeo, Lazer and Zieky, 2006). They have culminated into the argument that 
+energy poverty within the Africa continent is gendered. The issue of using gender as an 
+insignificant factor in the energy innovation processes of the informal settlement is that it 
+hampers the recognition of energy innovations (Anditi et al., 2022). The informal settlements 
+in Africa are gendered (Kovacic et al., 2019) and thus require gender equality as provided in 
+SDG5 by the year 2030 and to encourage gender mainstreaming to realize energy security in 
+the context of informal settlements. 
+Hence, this study seeks to ‘advance theoretical and empirical knowledge on the processes of 
+developing energy technology innovations within a systems thinking Living Lab that at least 
+addresses positioning of gender or women at the core of designing, creating, researching, 
+prototyping, and testing of energy innovations to ensure the end-users’ utility requirements can 
+be met in ways that would eventually help address energy poverty. To attain the research aim, 
+the following research objectives will be addressed: 
+1. To conceptualise and understand the Living Lab concepts, gender inequality, energy 
+security, energy technology innovations and informal settlements. Determining the 
+present functions and impact of women in energy technology innovation. Evaluating 
+the consequences of gender inequality on results of energy innovation. Suggesting 
+strategies and frameworks for mainstreaming gender disparities in energy technology 
+innovation. 
+2. To understand the cultural, norms, practices or technological mechanisms influencing 
+the level of adoption or acceptance of energy innovations, gender design or end-users 
+within energy innovation processes in the informal settlements. 
+
+########## PDF PAGE 23 ##########
+Page | 17 
+ 
+3. To investigate the influence of end-user’s contributions on energy technology 
+innovation in a systems Living Lab context and how human factors affect 
+technologies. 
+4. To develop a Systems Living Lab that focuses on gender designs for the development 
+of energy technology innovation up to a pilot scale through the involvement of end-
+users (women) and other stakeholders in real-life scenarios to achieve the security of 
+energy services. In the typical case study, the new SETILL model incorporates the 
+crucial elements of objectives 1-3 to advance energy security. 
+ 
+1.5 Research questions 
+To address the research objectives, the following research questions related to each of the 
+research objectives were answered: 
+1. What is the conceptualization and understanding of the Systems Living Lab concept, 
+gender inequality, energy security, energy technology innovations, material cultures, 
+cognitive norms and energy practices of the informal settlements and how do human 
+factors affect technologies in literature? a) What positions do women hold in energy 
+technology innovation in Sub-Saharan Africa today? b) To what extent do women's 
+and men's life experiences of energy inequality affect outcomes for energy 
+innovation, such as access, sustainability, and technological progress? c) Which 
+strategies and frameworks can be designed or put into action to address the gender 
+imbalance and promote fair participation in energy technology innovations? 
+2. Which are the possible factors determining the involvement of knowledge and 
+participation of women in the decision-making process of co-designing, co-creating, 
+co-researching, prototyping and testing the energy technology innovations in the 
+informal settlement to satisfy the intended recipients? 
+3. How can the mechanism(s) be improved to enhance the level of adoption or 
+acceptance of energy innovations and end-user (women) contributions and 
+participation to address the security of energy services in poor informal settlements? 
+4. Is it possible that the proposed Systems Living Lab specifically on gender design can 
+act as a theoretical model or frame work for energy technology innovation, to enhance 
+the take up of gender, fight energy poverty and enhance access to energy services in 
+the poor informal settlements and the energy sectors? 
+ 
+1.6 Significance and rationale of the research study 
+This reinforces the previous remarks on gender structure of energy production and distribution 
+and gender definition of the customer of energy products. Ordinarily, firms develop objects 
+
+########## PDF PAGE 24 ##########
+Page | 18 
+ 
+indifferent to who uses them in their homes (Kohlin et al., 2011). Women suffer most from the 
+impacts of restricted use of modern energy forms, and they should contribute towards the 
+development of energy technologies (Cecelski, 2012). 
+Women and men are not society and or energy sector equal and women are in different ‘spaces’ 
+from those designed by men (Gillard and Okonjo-Iweala, 2020) hinder equal distribution of 
+energy services or secure energy services in Africa. That is because the structure which has 
+already been framed and constructed as male; the structure cannot mold itself in that framework 
+and yet it has to do justice to women. In addition, it is as reported that out of the world’s total 
+population, 68 percent of population in Africa has no access to energy services where the use 
+of electricity is considered. (United Nations, 2014). Also, it is recorded that 2.6 million people 
+carry out household cooking relying on biomass which has several effects like economic and 
+social problems in the informal settlement (United Nations, 2014).  
+The South African government has paid more attention in addressing energy poverty 
+challenges in the poor informal settlements, or parts of the community. However, the improved 
+own-constructed indicator of the government shows limited progress in the provision of 
+electricity and gender inequality in the poor informal settlements (Musango et al., 2020). By 
+the same token, most researchers and poverty assessments overlook or even dismiss gendered 
+energy (Mazzeo et al. 2006). In other words, failure to consider gender in the analysis of energy 
+innovation processes in the informal settlement means that the issue of when to accept energy 
+innovations will never be addressed (Anditi et al., 2022). This is because the energy innovation 
+processes have been seen, to consist of the generation of knowledge, then conversion of the 
+knowledge into the energy innovation products and the consumption of the energy innovation 
+products (Fri and Savitz, 2014).  
+Nonetheless, there is a low uptake of adoption of energy innovations in the informal settlements 
+(Soman 2014; Nasra et al. 2021), because the end-users within the informal settlements do not 
+participate in the design processes, because the designers pay little attention to the users and 
+their requirements throughout the design processes. However, given that the energy policies 
+and energy decision-making are not bottom up policies and decision-making, but rather top up 
+policies and decision-making Ambole et al., 2021), this means that there will be a low rate of 
+uptake or acceptance of the innovation products by the targeted end-users. 
+
+########## PDF PAGE 25 ##########
+Page | 19 
+ 
+In addition to being gender neutral, current approaches to energy security and systems thinking 
+overlook informal settlements and take little into account the provision of energy services 
+(Musango et al., 2020; Musango and Bassi, 2021; Anditi et al., 2022). The well-being of people 
+living in informal settlements and practically every element of daily life is impacted by 
+achieving energy services for all, as outlined in SDG 7 (Oparaocha and Dutta, 2011). As 
+previously mentioned, women should have equal access to the Living Lab for the design 
+process if we hope to develop a sustainable energy system that can keep up with energy 
+breakthroughs. Living Labs offers fresh approaches to the phenomena of managing innovation 
+processes. 
+In order to enable and empower end-users (women) to actively participate and co-create open 
+innovation through the systems Living Lab, the study's rationales included bringing about 
+gender balance by taking into account and involving women in decision-making in energy 
+design processes, as well as contributing to a body of knowledge on energy poverty, Living 
+Lab concepts, gender equality, energy studies, science, technology, and innovation, 
+developmental policy, planning, systems thinking, and energy use patterns and behaviors in 
+order to develop energy innovations in Africa. 
+In terms of practical adequacy let us outline where the study could be of more benefit to a lot 
+of stakeholders and informal settlements particularly in Development policy and planning, 
+Living Lab studies and contributions to methodology. The research could also compel 
+researchers to use Africa as a research context and appreciate the possibility of developing new 
+theory in energy, engineering, and management research out of the phenomena under study 
+(George et al., 2016). Nevertheless, most of papers covering energy poverty and Living Labs 
+are conducted in rural area setting since the majority of Africa comprises of rural areas (Azimoh 
+et al., 2015; Eder, Mutsaerts & Sriwannawit, 2015; Pedersen, 2016; UNDP, 2011; Zavratnik, 
+Superina & Duh, 2019). This work will approach, evaluate and advance Systems Living Lab 
+scenarios in rural areas with the aim of combating energy poverty. This is due to the reason 
+that there are previous works that have implemented research on reducing energy poverty 
+within the context of cities. Equally important, these have informed the increase in the 
+provision of human capital within the manufacturing industry within the last decade as noted 
+by authors such as Okoye (2020), as well as Mukama et al., 2022). 
+Furthermore, most of the typologies of the Living Labs identified as part of the studies for this 
+thesis do not have the gender or are gender blind which means that although they may engage 
+
+########## PDF PAGE 26 ##########
+Page | 20 
+ 
+users, a gender perspective may not be considered. Therefore, this research study would 
+supplement by developing the SETI Living Lab typology in which the gender aspect is included 
+by the users. This study will also be useful to the gender equality alongside combating poverty, 
+livelihoods in urban territories noted in the well-being section of United Nations, Agenda 2030 
+as a sustainable development goal. Therefore, the study will be able to gain an appreciation and 
+operationalisation of energy security, the Living Lab and in order to appreciate the prospects 
+of the management of the energy technology in Africa for the phenomena that may be providing 
+potential to co-create new theories.  
+The contribution of the study will lie in the formation of a novel theoretical approach, which is 
+to be utilised to explain tendencies of end-user involvement or integration of energy 
+technologies in energy processes, as well as human factors affecting technologies, creation of 
+the proposed new Systems Living Lab and establishment of innovation in Biogas technology, 
+which can be trialled in the selected Case study utilizing systems approaches towards 
+supporting the gendered energy technology advancements. However, health literacies general 
+importance to a diverse population and expected methodological, theoretical and practical 
+implications for the field are discussed below. Moreover, it would extend the first results on 
+gendered innovation concept and how it is produced in the context of the Living Lab 
+environment from the theoretical and empirical perspectives. 
+With this backdrop, this PhD study indicates that, if we intend to address the issue of energy 
+insecurity, energy sector investment and market transitions in Africa, poverty and inequality, 
+rural and urban livelihood, and attain a sustainable energy technology to meet the energy 
+products, women and girls should be featured in the design process always. 
+This chapter has shown the relevance and purpose of the research stating that the development 
+of SETILL could be essential to reducing energy poverty and gender inequality in South Africa. 
+Therefore, the next sections will continue with the literature review, which further explores the 
+definitions or conceptualization of the term Living Lab, gender and energy for more 
+understanding. Thereafter, the problem statements, proposed research questions and, 
+contributions of the research study. 

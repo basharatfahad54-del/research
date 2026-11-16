@@ -1,0 +1,1396 @@
+
+########## PDF PAGE 27 ##########
+Page | 21 
+ 
+Chapter 2 
+Literature Review 
+2.1 Introduction 
+The literature review is used to conceptualise the Living Lab, gendered energy security, energy 
+poverty, biogas technology, the informal settlement and give a critical analysis of the terms 
+defined and how the proposed study may conceptualise it for the context-specific application 
+in the case studies. 
+This literature review seeks to discuss the role of gender in energy technology innovations in 
+the context of Living Labs. Living Labs are pre-competitive, open innovation environments 
+that engage real-life communities in the development and testing process (Clermont & Fionda, 
+2016). By structuring Living Labs based on gender, new energy solutions can be created that 
+are equally useful for all community members with particular focus on women. To address this 
+challenge, it is therefore very important to apply new strategies which should take into account 
+the Social, Economic and Cultural aspects of these communities. In addition, this review 
+underlines the need to embrace gender empowerment as captured in the SDG 5, which seeks 
+to address inequalities for gender at all levels. Energy poverty and the gendered nature of it 
+further is a compelling social justice issue, but also a determinant in the viability of 
+effectiveness and practices of energy solutions at a worldwide scale (Callaghan and Herselman, 
+2015). Thus, raising awareness of gender aspects in energy technology innovations as well as 
+including girls and women into the enumerated list of beneficiaries will help to contribute 
+toward sustainable and fair development on the basis of improved energy access for South 
+African communities. 
+The literature approach utilised in this study is what the researcher calls a stand-alone 
+qualitative systematic literature review (realist review) (Finfgeld-Connett and Johnson, 2013), 
+conducted using a rigorous quality (Okoli and Schabram, 2010). This type of literature review 
+focuses on limiting random and scientific misconceptions and requires rigorous use of 
+scientific plans (Paré, 2017), with close adherence to clear scientific concepts (Liberati et al., 
+2009). The realist review as a new method of a systematic review “does not provide simple 
+answers to complex questions, might not tell policy-makers or managers whether something 
+works or not, but will provide the policy and practice to the community with the kind of rich, 
+detailed and highly practical understanding of complex social interventions which is likely to 
+be of much more use to them when planning and implementing programs at a national, regional 
+or local level” (Pawson et al. 2005:21). This type of review method is theory-driven which can 
+
+########## PDF PAGE 28 ##########
+Page | 22 
+ 
+be used to improve the systematic review by applying qualitative strategies of complex 
+interventions that could be used to inform policy decision-making (Paré, 2017). 
+This approach of literature review used in this proposal could be similar to the narrative review 
+(Torraco, 2016), which is focused on the qualitative interpretation of existing knowledge 
+(Sylvester, Tate and Johnstone, 2013), and does not require a generalisation or collective 
+knowledge from the review (Davies 2000; Green, Johnson, and Adams 2006). The reason for 
+a literature review in a theory study is to enable ideas on the topic to emanate from the data and 
+to avoid the influence of the existing literature on the research and its results (Glaser & Strauss, 
+1967; Glaser, 1992; Ramalho et al. 2015; Strauss & Corbin, 1990). Similarly, this study’s 
+approach to the literature review is based on the following objectives: to develop the 
+phenomenon of gendered energy technology to energy security, as well as to provide a relevant 
+and informed understanding of gendered energy technology and its core theories. 
+Furthermore, the approach used for the literature review was to consider the topic at three levels 
+of recursion, which is a three-level review framework based on the three systems thinking 
+questions (Onyeagoziri, 2020). This three-level review framework or systems questions can be 
+regarded as the WHY (level 1), which is the parent discipline concept analysis of underlying 
+key concepts, which gives a broad context of the research concern on how it functions (that is, 
+what role do the concepts play in the bigger system of which they are a part). 2), HOW (level 
+2), which gives attention to the concern of the research study (that is, how the behaviours of 
+the core variables can be changed). The third level WHAT, which is the key concepts in the 
+empirical research results, that is the core concepts formulated as variables (this process could 
+be completed after the data collection and analysis). 
+2.1.1 Literature review framework 
+The outline for the three-level literature review process for this study based on the three systems 
+thinking question (Onyeagoziri, 2020), which was used to build responsiveness into the study, 
+is presented in figure 2.1 below: 
+
+########## PDF PAGE 29 ##########
+Page | 23 
+ 
+Figure 2.1: Three-level literature review framework based on systems energy technology 
+innovation Living Lab with gendered perspectives. 
+2.2   Level 1: parent discipline 
+Level 1 supplies information about the contextual condition functions of the research focus; it 
+describes the framework upon which the fundamental research themes fit. On level 1, the 
+context in which the focus of the research finds itself is explained-with insight into and 
+identification of how the SETI Living Lab fits within it, thus influencing the same. The core 
+question underlying this paper rests on, 'Why may we want to develop this theory in relation 
+to achieving the question of gendered energy security?' In creating attempts that are aimed at 
+bringing either a total or certain aspects of insecurity about energy or energy poverty to 
+improved states of gender equality, hence driving development in the energy fields within 
+settlements. 
+Therefore, the overall parent discipline key concept of this research is 'gendered energy 
+technology innovation and energy security' as seen in 2.1. This is the discipline that questions 
+why the research result needs to be developed, or why the research problem has to be solved. 
+2.2.1 Gendered energy technology innovations and energy security development 
+Indeed, there is a rather feeble materialised proof on gendered diffusion of energy 
+development of informal settlement in African about addressing energy insecurity. Energy 
+insecurity which could be referred to as ‘energy poverty’ based on this study is said by 
+
+########## PDF PAGE 30 ##########
+Page | 24 
+ 
+Reddy, Annecke, Blok, Bloom, Boardman, Eberhard, Ramakrishna, and Wodon (2000) as 
+any situation where access to adequate number of options to purchase sufficient, affordable, 
+reliable, clean, and secure energy services that can support human and economic 
+development is not available. Energy insecurity or energy poverty, the nature of energy 
+provision to the poor informal settlement in South Africa is Gendered (Kovacic et al., 2019) 
+and literature has examined and mainly discussed the relationship between gender and energy 
+(Oparaocha and Dutta, 2011). A failure to concentrate or even attend to gender equality is 
+indeed one of the processes that deny achievement of energy access in Africa (Ulsrud, 2020). 
+Many papers in Energy Research and Social Science (Ockwell et al., 2018) and most of the 
+energy research relevant to the Energy for Sustainable Development has focused on a range of 
+gendered issues including sustainable energy development, gender analysis, and women’s and 
+gender studies (McDade and Clancy, 2003). Additionally, the SGDs have incorporated an 
+energy to gender to program to recognize their partnership in addressing a specific SDG 
+objective, (McDade and Clancy, 2003). Consequently, the surveys have presented considerable 
+evidence on gendered implications stemming from energy poverty or energy insecurity such as 
+Clancy, Maduka, 2008; Clancy, 2009. On the other hand, the strategies and methods applied to 
+address energy access have been fairly slow when connected to gender and insufficiently 
+advocating for the necessity for the poor informal set up (Ambole et al., 2019; Kovacic et al., 
+2019). 
+Consequently, gender inequality adds to the energy deficiency problem; women in the low-
+income sectors bear the brunt of the energy poverty (Botreau and Cohen, 2020). They oversee 
+the energy utilisation within homes and are most affected by both physical health and economic 
+repercussions of limited access to energy (Botreau and Cohen, 2020). However, gender issues 
+are often neglected in energy innovation activities, and therefore, energy solutions that are 
+derived to meet the needs of everyone in the community are not well addressed. Gender-centric 
+energy technology innovation is an approach, which focuses on the integration of females 
+within technology to contribute to the development and deployment of energy solutions. This 
+approach enhances the chances of adoption and utilisation of energy technologies such as the 
+Biogas Technology and the solar powered radio since they meet the needs of the men and 
+women within the community.  
+Energy security is a complex challenge in informal settlements that encompasses the 
+accessibility and cost of energy, their renewability and consistency. Energy security is, 
+
+########## PDF PAGE 31 ##########
+Page | 25 
+ 
+therefore, dependent on improvements in the factors that lead to energy poverty such as 
+infrastructure provision, -economic difficulties and social disparities (Pysar et al., 2018). It is 
+within this context that a systems living lab provides a holistic approach to addressing these 
+challenges, because the methodology of living labs is coupled with a system thinking 
+perspective. It makes it possible to get a systemic view of the energy situation to provide for 
+the growth of solutions that can be adapted and implemented on a larger scale.  
+Poor informal settlements in the Global South suffer disproportionately from a lack of 
+reliable and affordable energy (Nightingale, 2006 and Fathallah et al., 2020). This scenario 
+depicts an inability to avail adequate and reliable energy for the normal household use 
+without disruptions and affordable prices (Parag, 2014 and Jain, 2010). More emphasis is 
+placed on how one or the other type of social exclusion: gender included impacts energy 
+poverty in these areas (Mosango et al., 2020 and Ballesteros-Arjona et al., 2022). Lack of 
+energy resources hampers the drive to promote gender equality and women’s rights (Pascale 
+et al., 2016). For instance, women have health problems due to exposure to indoor 
+combustive emissions obtained from using raw materials such as paraffin and biomass 
+(Kovacic et al., 2019); and collecting the fuel is usually a time-consuming exercise which 
+confines women to the house thus limiting their education and income earning opportunities 
+(Winther et al., 2017 and Choumert-Nkolo et al., 2019).  
+Thus, it is crucial to consider gender aspects when performing the energy research to avoid 
+biases towards gender relations concerning resources, pay differentials, and gender 
+expectations (roles and tasks) (Ihalainen et al., 2020). Hence,gender mainstreaming an 
+approach that entails integration of gender perspectives in policies, processes, structures, and 
+culture of systemic synthesis (Mengistu et al., 2016 ) is crucial to enhance common and equality 
+in terms of energy access for both male and female (Dutta et al., 2017). Yet, despite the growth 
+of interest in the link between gender and energy, relatively limited studies focus on how gender 
+inequalities in the informal settlements deepen energy vulnerability (Nightingale et al., 2006; 
+Musango et al., 2020; Chicombo and Musango, 2022), with more focus on rural informal 
+contexts (Pascale et al., 2016; Johnson et al., 2019 and Hirmer et al This has an implication 
+that informal settlement in the rural areas, especially the poorest ones are highly likely to be 
+more negatively impacted in the aspects of energy insecurity and development. 
+Hence, an approach may be in the provision of know-how as well as information regarding 
+gender prospects that could be used by the energy sectors as well as the communities to 
+
+########## PDF PAGE 32 ##########
+Page | 26 
+ 
+address such problems. In this regard, many support designs have been developed to help 
+those who want to introduce gender perspective to energy solutions for urban setting 
+(Mukama et al., 2022 and Petrulaityte et al., 2022). Yet, these sources tend to lack systems 
+thinking, do not sufficiently accommodate co-design that blends gender concentrated 
+initiatives with energy and vernacular rural areas; and although such sources present 
+considerable information, they appear increasingly unmanageable because of their length and 
+extensive preliminaries. This lack is further evidenced from our field work interviews where 
+no stake holder interviewed, whether independently or collectively, reported having any 
+systems thinking or co-design strategies they apply that address the issue of gender. This 
+underscores a significant deficiency that must be addressed: there are currently no readily 
+usable and efficient solutions methods to facilitate the co-design of effective gender-sensitive 
+energy solutions to serve the populations living in informal rural settlements. 
+This research fills this gap by proposing and validating the first Systems Energy Technology 
+Innovation Living Lab (SETILL) co-design framework. This framework is intended to build 
+proactive readiness of both private and public actors toward developing efficient energy 
+solutions that put into consideration impoverished informal settlements’ gender concerns. 
+This study applies this framework in an introduction, to establish it as the study’s prime body 
+of knowledge, as well as a co-design tool in the discussion of its empirical findings with the 
+intended users. 
+Therefore, this research study posits that a user-centred approach could be employed to make 
+sense of and re-imagine gender equality, the Living Lab and energy security. Musango et al. 
+(2020) research study has considered the re- conceptualisation of Gender Mainstreaming, 
+Energy Security and Poor urban Environment Without Living lab. Hence, this research study 
+will also seek to incorporate the process of re-conceptualising the re concepts of Living Lab 
+technology into the re-conceptualisation of gender equality; energy security and poor rural 
+informal settlements in order to understand the idea of gender equality and energy security, 
+based on systems thinking approach. This is because, for this research study the subjects for 
+‘designing sustainable solutions to deal with the energy insecurity challenge’ (Musango et al., 
+2020, p.4) would be gender equality, energy security, poor informal settlement, and Living Lab 
+technology. 
+Scholars, such as Cravioto et al. (2014), advocate for the integration of energy services into 
+energy policy agendas, with a particular focus on ensuring accessibility for disadvantaged 
+
+########## PDF PAGE 33 ##########
+Page | 27 
+ 
+communities. Energy innovation aimed at providing energy services for poor informal 
+settlements has thus far overlooked gender considerations, and the lack of attention to gender-
+specific energy needs hinders efforts to address energy insecurity and promote the adoption of 
+energy innovations, particularly in regions of the Global South (Anditi et al., 2022). Energy 
+insecurity is prevalent in poor informal settlements, which are home to approximately 50% of 
+Sub-Saharan Africa's population, and in these areas, Women are usually affected by this issue, 
+being both the most vulnerable and the hardest hit (Anditi et al., 2022). Understanding the 
+gender-energy relationship in poor informal settlements is crucial for integrating gender 
+perspectives into the energy innovation process. Most current gender analysis frameworks fail 
+to adequately address gendered energy innovations, especially within the unique context of 
+poor informal settlements. Therefore, this research study aims to fill this gap by examining the 
+commonalities in the formation of informal settlements across the continent. 
+Therefore, against the backdrops, this research study seeks to cover the gendered energy gap 
+in the poor informal settlement and investigate how the theory or conceptualization of gender 
+equality is linked to the theory or concept of the Living Lab and poor informal settlement when 
+tackling energy insecurity. This study will thus be greatly embracing the idea of the systems 
+Living Lab in developing a theory for gendered energy technology innovation in the informal 
+settlement. The subsequent section briefly contextualizes and gives the status of gender 
+inequality and energy access in South Africa and Africa. 
+2.2.2 Historical context and current status of gender inequality in energy access 
+Prominent gender inequality in energy access has historical political and social causes that can 
+be traced to South Africa and many other African countries. The culture of male dominance 
+that has been evident in many African societies tends to influence gender equality or the lack 
+of it in many sectors like energy (Johnson, Gerber and Muhoza, 2019). Traditionally, women 
+in African societies have been confined to the home, socially and economically powerless, and 
+have had little scope or opportunity for education, business, and other ventures. This division 
+of labour based on gender has greatly influenced energy access since women are responsible 
+for supplies of energy for home use, which include cooking, water heating, and space heating, 
+services that mainly depend on traditional sources of energy such as firewood and charcoal 
+(Jagoe et al., 2020). 
+In South Africa, the apartheid policy system aggravates gender and racial disparities and 
+provides a background to the country’s current socio-economic system that gives differentiated 
+
+########## PDF PAGE 34 ##########
+Page | 28 
+ 
+access to the mineral-energy complex. There have been challenges in the South African energy 
+landscape since the definite post-apartheid progressive upturns; today, millions of people in 
+the country, including those who are rurally and informally housed, remain inadequately 
+electrified (Mario, Brincat and Moe, 2024). Women suffer grave consequences in these 
+communities due to their social and economic status and roles based on gender (Heise et al., 
+2019). 
+The currently available data shows that there has not been much progress in addressing the 
+gender gap in energy access. Estimates by the International Energy Agency (IEA) show that in 
+sub-Saharan Africa alone, more than 600 million people have no access to electricity, and 
+women endure the worst impacts of energy poverty (Ferdous, 2021). Although there are 
+improvements in the electrification rates in South Africa, this does not necessarily mean that 
+everyone can access modern energy services or have reliable energy for several activities, 
+especially for rural women. 
+Patriarchal norms shape access, use, and control of energy resources in African societies to a 
+large extent. This research study also examines how the energy sector has remained a male-
+dominated industry in the past, where very few women were employed, let alone given 
+decision-making authority. It is also examining how human factors affect energy security. It is 
+also established that men dominate the formal employment sector, whereby they are the major 
+participants in generating, distributing, and vending energy (Oyiana, 2021). At the same time, 
+women are either ceremonially involved in the same processes or are part-time employees 
+involved in the informal vending of energy in their homes. The next section explains gendered 
+energy technology innovation leading to energy access. 
+2.2.3 Energy technology innovation for achieving gender equality in energy services 
+As explained above, ensuring reliable energy services continues to pose a significant challenge 
+in impoverished rural areas across Africa. A considerable number of households face a deficit 
+in appropriate energy technologies to meet their modern energy demands. Women bear the 
+brunt of this issue due to entrenched gender roles within households. Despite the evident gender 
+disparities in energy services, the incorporation of gender perspectives in the innovation of 
+energy products remains largely unaddressed. This research study delved into the intersection 
+of gendered innovation and energy innovation, investigating how this combination can 
+alleviate issues surrounding the security and accessibility of energy services in households 
+
+########## PDF PAGE 35 ##########
+Page | 29 
+ 
+within impoverished rural settings and went ahead to develop a biogas technology to a pilot 
+scale with gendered perspective. 
+Innovation has long been a cornerstone of human progress, driving pivotal shifts in agriculture, 
+science, and industry throughout history. Today, in our modern, technology-driven societies 
+powered by digital advancements, energy innovation plays a pivotal role in facilitating access 
+to a wide array of services (batinge et al., 2022). Energy services encompass a spectrum of 
+benefits facilitated by energy carriers, fuel sources, and technologies, (Sovacool, 2011). These 
+benefits extend to various outcomes of energy utilisation (Modi et al., 2005), ranging from 
+preserved food and cooked meals to illuminated spaces, chilled beverages, rapid internet 
+connectivity, and cosy sleeping arrangements (Sovacool, 2011).  
+The conventional centralised approach to innovation is swiftly losing relevance 
+(MacCormack et al., 2007). Top-down innovation typically follows a sequence of idea 
+generation, screening, market research, product development, commercialization, and 
+implementation (Gaynor, 2013). However, the limitations of these traditional top-down 
+models have been evident in academic discourse for approximately four decades, these 
+limitations encompass neglect of alternative actors (Sabatier, 1986), limited user ownership, 
+prolonged innovation readiness periods, and potential market evolution by the time of 
+product availability. Furthermore, even in cases where the market remains static, there's a 
+considerable risk that the innovation may not align with market needs due to flaws in market 
+research or misperceptions regarding innovation diffusion (Batinge 2022). The process by 
+which innovations are adopted within a society (innovation diffusion) is a dynamic and 
+evolving phenomenon (Bale et al., 2013). The concept of how innovations spread is well-
+established in the study of household energy usage (Wilson & Dowlatabadi, 2007). Studies 
+across various disciplines have examined how technologies and ideas spread through 
+networks (Valente, 2005). An infection paradigm may also be used here to indicate the 
+process of network diffusion (Akbarpour & Jackson, 2018; Pastor-Satorras et al., 2015; Raj et 
+al., 2012), as well as an epidemic with the very beginning and the potential development of 
+the spread of a disease and its further consequences. This analysis would cannot be complete 
+without the mention of the Bass model which was proposed in 1969 and is a clear example of 
+a diffusion model. 
+The Bass model developed by Frank Bass defines the process of new products adoption via the 
+communication between current and potential users. Although several models of diffusion 
+
+########## PDF PAGE 36 ##########
+Page | 30 
+ 
+focus on social aspects, which in the model of Bass are in the form of word-of mouth influence 
+(Bale et al., 2013), the decision making process of the adoption of a new product depends on 
+this. Such elements can include the likelihood of its purchase, compatibility of the new product 
+with other products, appropriateness of the technology in view of the individual characteristics, 
+and the social-cultural factors. Those decisions are usually taken based on such relative factors 
+as ‘intrinsic advantages for the intended adoption’ and the technology ‘compatibility with the 
+existing technology environment’, as well as ‘simplicity in the usage of a given technology’, 
+the possibility of ‘trial run’, and the ‘clearliness of results’ (Vagnani & Volpe, 2017). Perceived 
+benefits refer to the extent to which an innovation is believed to be more beneficial than the 
+concept which it replaces. Adoption by others is the degree to which an innovation matches up 
+to current practices, past experiences and needs of other users. IPO means how difficult or easy 
+it is considered to understand and implement an innovation. Trial option can be defined as 
+potential in which an innovation can be first tried on a limited level. Observability of its impact 
+is the level of measurability in terms of how others are aware of the presence of an innovation. 
+On this note, it is in most models explaining the diffusion of innovations that an innovation's 
+ability to fulfill users' needs is critical towards the adoption decision. For these reasons, this 
+study suggested that the innovation process takes into consideration the context in which the 
+user will eventually apply the innovation while developing the innovation based on the specific 
+attributes identified in Vagnani and Volpe, (2017) for the innovation to serve exactly according 
+to the needs of end consumers. In low-income households, where females are the majority, 
+their energy use is significantly higher—about 80% more overall, with a notable 54% increase 
+in electricity consumption compared to males (Elnakat et al., 2016). These communities, as 
+highlighted by Elnakat et al. (2016), have a higher energy consumption per unit of living area, 
+attributed to the prevalence of female-led households and the inefficiency of their homes. The 
+role of women is pivotal in achieving satisfaction with household energy services in 
+economically disadvantaged areas, given their dominance in such households (Kovacic et al., 
+2019) and their higher usage of energy services. 
+Concerning energy access, there was a reveal that gender disparities were apparent in many 
+African countries, including South Africa (Ngarava et al., 2022). Women, and especially those 
+living in the irregular structures have limited access to the energy resources. They experience 
+these barriers in their day to day life and in their opportunities to work, to earn an income and 
+thus be included in society. Mukumba, Makaka, and Mamphweli (2016) further note that 
+
+########## PDF PAGE 37 ##########
+Page | 31 
+ 
+women in these communities are most affected by energy poverty because they are the ones 
+who are usually charged with the responsibility of fetching traditional biomass energy sources 
+like wood and charcoal for cooking and heating. Besides, it requires a huge amount of time and 
+energy and imposes threats to women’ health such as respiratory diseases caused by indoor 
+emissions. 
+These negative effects are not only health wise but also economically as limited energy access 
+is more often than not devastating. As highlighted by Anditi et al. (2022), due to lack of access 
+to affordable and reliable energy, women cannot efficiently market their products, pursue 
+employment ventures like operating small businesses, or attend vocational training sessions. 
+This economic subjugation creates poverty and gender inequality cycles because the women 
+are helpless in converting the energy resources to better standards in their own life. 
+Additionally, the absence or rather scarcity of electricity for learning and operations at night 
+limits educational achievement and livelihood opportunities for women and girls, thereby 
+perpetuating gender inequalities (Botreau & Cohen, 2020). 
+Energy exclusion deepens this inequality through exclusion from planning and decisions that 
+shape the provision of this essential commodity. In their study, Botha et al., 2012 have focused 
+on the idea that traditional energy governance structures are still patriarchal and hence women 
+have very little role in the decision making that impacts their lives through policies and projects. 
+As a consequence, energy solutions fail to meet the female demand and choice and therefore, 
+have low usage and sometimes undesirable impacts. For example, energy projects may target 
+technologies that are in some way detrimental to the usability of the female population, thus 
+reducing the utility of those projects. 
+To address gender inequality in the access to energy we need to effectively implement gender-
+aiding policies, programs, and technologies in the provision of energy. Musango et al., (2020) 
+emphasise that women should be included in the energy planning processes and the decision-
+making process in practices and activities in order that their specific needs and perspectives are 
+recognized. To ensure better solutions of energy in various aspects, it is time we involve women 
+as active stakeholders in that process. For instance, engaging women in the design and 
+implementation of solar energy solutions can promote the creation of unique solutions 
+according to women’s usual schedules and dangers involved with electricity systems. 
+
+########## PDF PAGE 38 ##########
+Page | 32 
+ 
+In the context of the Living Labs, active pro-gender equality approaches can be used to assess 
+gender inequality in energy accessibility. Leal Filho et al. (2022) note that Living Labs, which 
+involve end-users and promote their active engagement, can help replicate this process, thus 
+guaranteeing that energy innovations are developed in parallel with those recipients of energy 
+they are intended for. This approach involves identifying women as some of the major 
+stakeholders to consult and participate in the co-design process towards meeting their energy 
+requirements and emerging issues. For example, the GENS Living Lab (Sphokazi Phelokazi, 
+2022) has applied the Living Lab approach in engaging women in the iteration and testing of 
+sustainable energy, which point to the Living Labs’ having the capacity to enable gender 
+sensitive energy solutions. 
+However, communicating supported policies and participatory approaches can lead to reducing 
+the obstacles that women encounter when engaging in energy. According to Sphokazi 
+Phelokazi (2022) the above-mentioned measures include offering specific grants in guide for 
+clean baptistery and specialty, investing in gender-sensitive facilities, and offering capability 
+development programs that enable women to be effective members of the energy sector. Hence, 
+training and capacity building schemes that assist women with aptitude in renewable energy 
+increase employment chances and economic development for the female gender and thus, 
+improving gender equality. On integrating gender perspectives within the context of energy 
+innovations, this can help mainstream the sustainable development goals (SDGs). According 
+to Anditi et al. (2022), gender equality is one of the indicators of the fifth SDG which focuses 
+on the speedy attainment of gender equality and the empowering of women. Therefore, there 
+is considerable potential for such a target of eliminating gender differences in access to energy 
+by countries to help them advance this goal.  
+The imbalance between genders in terms of household energy use does not mirror their 
+involvement in the innovation of energy services, even though there's evidence that women 
+play a crucial role in delivering community-level energy solutions and that initiatives led by 
+women in the emerging energy sector often yield positive outcomes (UN Women, 2013). 
+Typically, the realms of energy and technology are viewed as male territories, resulting in a 
+lesser degree of female contribution to energy service provision and innovation compared to 
+their participation in various other sectors of the economy (Pachauri & Rao, 2013). Involving 
+users in the design phase can significantly enhance technology development, ensuring it meets 
+the unaddressed needs of users. Approaches to energy intervention at the domestic level that 
+
+########## PDF PAGE 39 ##########
+Page | 33 
+ 
+acknowledge and leverage the significant role women play in the energy landscape, utilising 
+their knowledge and impact in both households and wider communities, have the potential to 
+facilitate better access to energy solutions (Karlsson, 2007). 
+Despite the significance of gender roles in the energy sector, there's a noticeable lack of 
+understanding regarding how gender-focused innovation impacts the provision of reliable 
+energy services in economically disadvantaged rural settings. This research aims to examine 
+the potential of gender-specific innovation in the energy sector to enhance the reliability of 
+energy services in such areas using systems thinking approaches. The study suggests that 
+involving users in a cooperative and gender-sensitive manner in the design of energy solutions 
+can significantly improve the satisfaction with the services provided. The next section explains 
+gender equality as a way to codesigning innovations leading to energy security. 
+2.2.4 Gender equality as an approach to codesign innovation 
+Resulting in the limited empirical means to measure gender equality in the world which is 
+scarce (Musango et al., 2020). Different works have focused on the disconnection of gender 
+which however there seems to be a general acceptance of gender in energy applications, 
+policies and research (Ryan, 2014; Bradshaw, 2018) to foster the power access innovation. 
+This created stereotypical influences on gender difference and does not support any concept 
+of gender equality (Bradshaw, 2018). The concept of gender equality receives inadequate 
+emphasis as a strategy toward ensuring security of energy services in a poor informal 
+settlement in Africa (Musango et al., 2020). At present, there is focus on SDG 5 in the 
+promotion or support of gender equality and this happened prior through the Millennium 
+Development Goals. However, these efforts by the SDG to achieve the results and progress to 
+meet their interest in gender equality still encounter challenges within Africa towards 
+realizing the appropriate results (Jahan, 1996; Moyo and Dhliwayo, 2019; United Nations, 
+2019). 
+Moreover, a small invest in African feminine population can only get only 87% of the male 
+isolation development level (UNDP, 2016) and this is according to the Gender Development 
+Index (Council of Europe, 2004). Out of all the African nations, only six of African countries 
+have experienced increased attention to gender inequalities, and this has been considered a loss 
+of human development due to inequality between males and females in Africa (UNDP, 2016) 
+and this can be explained through the Gender Inequality Index (United Nations, 2019). 
+
+########## PDF PAGE 40 ##########
+Page | 34 
+ 
+For the sake of further explanation, unbiased data on women in the leadership roles, energy 
+business, finance, politics, and gender wage differential show that people still have a long 
+way to go to embrace gender parity, particularly for women of color (Gillard and Okonjo-
+Iweala, 2020). This gender biases research concern does not only encompass identifying the 
+gender biases concerning women but also considerable structural and technological hurdles 
+that keep women from participating in the design phase of the energy technology 
+advancements. They do so because these barriers amplify the main problems and retarding 
+the advancement of women (Gillard and Okonjo-Iweala, 2020). Further, this qualifies this 
+research study as being about energy security and gender which defines the social 
+manufactured attributes that is accorded to men and women while informing that women 
+should be empowered to make equal use of energy technology advancements. 
+The research study is arguing that the poor informal settlement requires more champions who 
+will speak for women in the energy sector who are rarely heard. Thus, every person’s life 
+becomes better when women start using their gift to express themselves, because women’s 
+rights mean societies’ successes It is said that when one largely included a certain group at first 
+that had not been included, every person in that community becomes a chance at getting 
+something since women and girls make up half the population of every community (Gates, 
+2019). According to Gates (2019) it has been claimed that whenever women thrive, people rise 
+up for this is the reason that working for women’s rights, women’s ability and societies health 
+and wealth are all in harmony, and nobody can work for society health and its wealth without 
+comprehending the link between communities, Women Empowerment and health as those who 
+want to lift up humanity should empower women. 
+The issue of gender equality was also conceptualized by Booth and Bennett (2002, p.435) with 
+the use of a metaphor of a three-sided stool which they called the "equality stool" (see Figure 
+2.2) which emanated from the three waves of the push of feminism related to the campaign of 
+gender equality. 
+
+########## PDF PAGE 41 ##########
+Page | 35 
+ 
+Figure 2.2: The ‘equality stool’. Source: Booth and Bennett (2002). 
+One major trend of the first generation of feminism from as early as 1918 was to campaign 
+for equal status, treatment and opportunity in legislation and the second-generation feminism 
+that begun from as early as the 1960 was to campaign for the differentiation of women with 
+affirmative action. The third wave starting from 1990 emphasizes on the gender concept of 
+the campaign as well as equal differences. The third wave in the equality stool recognizes the 
+diverse needs of the male and female and concentrates on the necessity to extend the gender 
+out in the coverage of services and the direction of the male in the accomplishment of all 
+essential outcomes necessary (Booth and Bennett, 2002). 
+Thus, the research study supports the ‘equality stool’ and endeavours to argue that gender 
+equality and its application, together with its implementations, can aid in engaging with, and 
+solving, the issues that surround the provision of, ‘security of energy supplies’. This is because 
+gender equality has been given a tangible form in the research and development activities of a 
+number of international organisations such as International Labour Organisation, 2019; 
+Organisations for Economic Co-operation and Development, 2017; World Bank, 2019 and 
+most notably the United Nations United Nations Development Programme, 2018; UN Women, 
+2019). Therefore, this research study recognises that there is a need to enhance the “equality 
+stool” for further research through the involvement of gendered energy and the Living Lab to 
+develop the “Equality Stool”, which might provide the fourth wave of gender equality 
+advocacy. 
+
+########## PDF PAGE 42 ##########
+Page | 36 
+ 
+Moreover, the alternative routes to gender equity concerning energy security in impoverished 
+informal settlements are based on a cognition that neither gender inequality nor energy poverty 
+can be considered a distinct factor, but each factor is interlinked with making the decision 
+(Clancy and Skutsch, 2003; O’Dell and Peters, 2014) problems and security of the energy 
+services. There are efforts toward the implementation of gender equality in the energy sectors 
+in sub-Saharan Africa (Musango et al., 2020). However, very little understanding of the 
+relationship between the 'security of energy services', 'gender', 'poverty', and the 'Living Lab' 
+exists (Dutta and Kooijman, 2017). This research study has proposed to cover this gap by 
+investigating the relationship between those variables. 
+2.2.5 Energy (in)security challenges and its gender-specific impacts 
+Energy security concept evolved during the production of oil to the military in the 
+unfortunate 20th century (Yergin et al., 2006). Energy security was also considered in the 
+2000s during producing oil circulations from Asia to Europe (Yergin et al., 2006; Hughes, 
+2016). Energy security in the earlyyears and recent years are not the same because of climate 
+change mitigation and inability to access supply of energy services. As a result, continued 
+effort is crucial in thoroughly re-considering the concept of energy security (Cherp & Jewell, 
+2014). 
+Writing in 2011 explaining the current state of the art, Sovacool has found about 45 definitions 
+of energy security in the literature. Nonetheless, Parag (2014, p.99) operationalized energy 
+security as “the adequate, reliable and competitive supply of energy”, including adequacy 
+which is the “availability of sufficient energy to support economic and social activity”; 
+reliability which is “the availability of energy with little interruption in supply”; and 
+competitiveness which is “the availability of energy at a reasonable price that does not harm 
+the competitiveness of the economy while supporting investment in energy sector. Some 
+definitions also consist in the procedures defining the parameters and areas of the 
+“environmental” or “equity” (International Energy Agency, 2011) and “public acceptability” 
+(Jansen, 2009; B. Sovacool, 2011). According to Parag (2014) p.99, “Public acceptability is 
+linked to social, psychological and cultural factors which make the supply of generation 
+technology unpopular”. In the contrast, none of the definitions have included the notion of 
+gender and the Living Lab that would encompass the issues of the energy security challenges. 
+Similarly, at the level of the household where women are present, there is still conceptualisation 
+
+########## PDF PAGE 43 ##########
+Page | 37 
+ 
+and investigation of what energy security definition(s) should be and what energy security 
+means (Musango et al., 2020). 
+Barrett et al., (2010, p.4) argued for the necessity to broaden the extent of the analysis of energy 
+security: “The level of security is not determined by supplies alone, but by the immediate 
+balance between supply and demand and the longer-term trade-off between more energy 
+security and environmental considerations (e.g., more wind farms vs. open spaces or more 
+nuclear power vs. global security and nuclear proliferation)”. They indicated that there should 
+be socio-technical and interdisciplinary methods to the thorough understanding of energy 
+security, and these methods should consider the relationships between those engineering for 
+the demand of energy and various energy security components (Parag, 2014). Therefore, this 
+research study suggests that a thorough understanding of energy security in the poor urban 
+informal settlement should require the situation of a socio-technical and user-oriented (women 
+and girls) method that focuses on energy services, the security of energy services, and gender. 
+This is because Pasqualetti and Sovacool (2012) establish that energy security and energy 
+policy decisions’ importance must be viewed and advocated from the micro level to the 
+household level. Energy security in the household means a steady and cheap supply of largely 
+ubiquitous ‘clean energy fuel’ needed in performing activities in the households. However, up 
+to date, there are few number of studies for defining the energy (in) security particularly at the 
+level of the household (Musango et al., 2020). Hence, Hernández (2016, p.2) defined energy 
+insecurity as the inefficiency which is experienced in the provision of adequate household 
+energy necessities. Unauthorized sources also define energy insecurity of the household as “the 
+status quo that resulted from the interplay of inadequate and insufficient energy consumption 
+which does not meet the basic energy needs of a household”. They also defined energy security 
+in the household as the ‘degree of energy required to support the fundamentals of daily life of 
+the individual and the household in areas such as cooking, lighting, cleaning/washing and 
+warming and cooling the house. These definitions focus mainly on the basic demand of society, 
+that’s energy services consumption. 
+Therefore, Shrestha et al. (2020) generated a framework for the research of the differences in 
+gender for decision-making in the household. The framework underlined categories which are 
+“subjective variables, objective variables, differences in reasons, differences in decision-
+making, use, purchase, and action needed” (Musango et al., 2020, p.9). Therefore, this research 
+study indicates this framework by Shrestha et al. (2020), and the variables could be used to 
+
+########## PDF PAGE 44 ##########
+Page | 38 
+ 
+develop a theory for gendered energy technology innovation in poor informa; settlements. 
+Also, for the data collection purposes, Smit et al. (2019) developed a tool called the 
+MuSIASEM tool that is used in the research study for generating data relating to gender 
+equality indicators towards achieving security of energy services in the poor informal 
+settlement. 
+Furthermore, access to energy in informal settlements is a concern across Africa and this is due 
+to high energy tropical, low accessibility of energy infrastructure and instability in supply 
+(Yvonne Chivanga, 2023). All these constraints not only stifle growth and development of the 
+economy but also have a more negative impact on members of the society’s vulnerable group, 
+including women who are always charged with the responsibility of managing the compound’s 
+energy (Pereira et al., 2020). Problems of energy security differ in informal urban settlements 
+as they occupy peripheral status and lack proper physical infrastructure. Internal electricity 
+constraint, as well as inadequate access to modern energy services puts the residents to rely on 
+traditional and often unsafe technologies like kerosene lamps, and biomass fuels (Anditi et al., 
+2022). These energy sources not only cause impersonal domestic air pollution but also are 
+dangerous to health, particularly for women and children who most of the time are confined to 
+the house (Yvonne Chivanga, 2023). 
+With energy costs as an added expense, the challenges faced by the households in informal 
+settlement are further compounded by the fact they have to pay for the energy they consume. 
+Expensive energy services compared to household income limits the quantity of energy which 
+the residents are able to afford leading to a large chunk of their income going into meeting their 
+energy needs bare minimum (Choi and Kwon, 2021). This economic burden prevents families 
+from obtaining resources and improving their educational systems, healthcare and other crucial 
+services, thus causing more suffering by continuing poverty and impartment cycles. However, 
+instead of availability, if the energy supply is unreliable then it creates another challenge to 
+energy security in the informal settlements. Recurrent power blackouts and interruptions 
+interfere with productivity and also pose a risk to safety; these interruptions affect users reliant 
+on electricity for domestic chores like cooking, heating, and lighting (Følstad, 2008). Such 
+disruption affects the daily tasks which are most often carried out by women and can include 
+childcare and house chores hence, it has negative consequences on their wellbeing. 
+Managing these energy security challenges therefore calls for a comprehensive approach, 
+where the issues of gender are duly considered, and policies put in place to support this cause. 
+
+########## PDF PAGE 45 ##########
+Page | 39 
+ 
+Musango et al., (2020) further emphasise the need for integration of gender issues for energy 
+planning and policies in order to improve understanding and address specific energy demand 
+and access challenges of the female gender. This includes offering the people the best 
+renewable energy options that are cheap, available, and efficient, so that they are not 
+constrained to using conventional fuels but have a sustainable way of generating power. 
+Despite the lack of tailor-made methodologies for researching and implementing innovations, 
+Living Labs holds a potential to provide suitable ground for testing and development of the 
+energy solutions that address challenges faced in the informal settlements. These collaborative 
+platforms support community, research and design thinking gathering, co-design processes and 
+the engagement of community, researchers and policymakers (Grové, 2022). Women 
+themselves can get empowered to engage in the innovation processes where Living Labs sit 
+aptly with an ability to contextualise the attention and care required by organisations to enhance 
+the creation of solutions and services that respond to these needs. South Africa summed up the 
+possibilities of Living Labs for engaging in the issue of energy security complemented with 
+participative processes. Herselman et al. (2015) reflect on and bring insights regarding Living 
+Labs as Futures Centre in South Africa and reflect on the role of communities and localization 
+of futures. Programs like the GENS Living Lab demonstrate the involvement of stakeholders 
+in the advancement of empowering and gender-sensitive energy solutions (Sphokazi Phelokazi, 
+2022). 
+Besides the physical and economic barriers, social and cultural factors tend to worsen the 
+energy security challenges experienced by women in the informal settlements. With this, 
+customary patriarchal values and unfair gender standards deny women equal participation in 
+the decision-making process or avenues of economic enfranchisement (Musango et al., 2020). 
+This exclusion not only narrowly constrains their capabilities as standard bearers for the 
+development of energy policies but also bears direct responsibility for perpetuating poverty 
+and reliance on unsound energy systems in these nations. Remedial steps alongside these 
+challenges can be correlated with steps that might facilitate Women Education, Women 
+Empowerment and Women in Leadership within universally driven energy diplomacy and 
+sustainable development projects (McDonald, 2015). Empowering women and achieving the 
+related gender equality presents thousands of communities with a new chance on fostering 
+further inventive efforts towards innovation in sustainable energy for worldwide society. 
+
+########## PDF PAGE 46 ##########
+Page | 40 
+ 
+Furthermore, relating to the gender-specific impacts, several issues about energy security in 
+the informal settlements are awaiting the women depending on their gender issues. Out of these 
+challenges, the utilisation of traditional biomass for cooking and heating is one of the most 
+significant sources of risks and likely to cause serious illness to women such as indoor air 
+pollution Anditi et al., (2022). This is due to poor methods in cooking and lack of proper room 
+airing whenever the population relies on biomass fuels which has contributed to respiratory 
+illnesses and other ailments such as a result of inadequate ventilation especially affecting 
+women who spend much of their time inside the house (Musango et al., 2020). Likewise, the 
+female gender is more exercise-enhanced and vulnerable to health complications during 
+biomass collection and preparation processes (von Geibler et al., 2014). 
+Aside from the health concern, the utilisation of energy by women in informal settlements is 
+hindered by time and mobility constraints. Electricity and other modern energy services are not 
+available to many women; they spend much of their time in search of fuelwood or else waiting 
+in a queue to purchase cooking fuel, which from a time perspective reduces the amount of time 
+women can devote to income-generating activities or to acquire education (Hossain et al., 
+2019). Also, insufficient lighting to common areas and other paths leads to numerous risks 
+concerning personal security at night as well as restricting women’s access and exposes them 
+to the increased likelihood of domestic abuse (Sphokazi Phelokazi, 2022). These mobility 
+restrictions not only limit measures that can be taken to advance women’s economic status but 
+also break the cycle that many women find themselves in where poverty and marginalisation 
+become the norm. 
+Mitigating these gender-specific impacts requires the promotion of women-centred approaches 
+in energy innovation and policy-making processes. Campos and Marín-González (2023) posit 
+that it is crucial to foster women’s engagement and inclusion in policies and planning initiatives 
+that affect informal settlements, with consideration given to the gendered nature of encounters 
+and resource necessities. This encompasses reaching out to women as partners to take charge 
+in decision-making within the energy sector and devise solutions on how the challenges faced 
+by women and their preferred solutions can be addressed (Herselman et al., 2015). 
+Furthermore, the interventions must include focusing the market-based interventions on access 
+to clean and affordable energy services; decreasing the reliance on traditional biomass, 
+especially among women; and reducing the perceived health risks related to its use (Callaghan 
+& Herselman, 2015). 
+
+########## PDF PAGE 47 ##########
+Page | 41 
+ 
+Moreover, literacy or professional training programs can help women become capable of 
+benefiting from enhanced technologies in the field of efficient energy usage. This would enable 
+women to obtain the required training in energy-efficient ways of cooking, renewable energy 
+systems and different business prospects in the renewable energy sector which can help women 
+to refrain from using dirty fuels (Motloung, 2022). Furthermore, trying to install better lighting 
+in the infrastructure, and to bring improved safety and security to public places may help to 
+make women more mobile, to free them from the indoors and to include them into the society 
+as active members (Følstad, 2008). 
+Therefore, there are different energy security scales related to energy security issues, and these 
+are workplace energy scale, national energy scale, household energy scale, and global energy 
+scale (Pasqualetti and Sovacool, 2012). However, this research study is focused on the 
+household energy scales which have emerging issues relating to gender (Pasqualetti and 
+Sovacool, 2012), and the poor informal settlement (Kovacic et al., 2019a). Therefore, the focus 
+should be on the security of energy services from energy security (Parag, 2014), which means 
+that the focus should not only be on the end-users decision making in the supply or production 
+of energy services but also the energy consumption rate of the end-users (Musango et al., 2020). 
+The security of energy services which is focused on the end-users decision making was 
+described by (Jansen, 2009) as “the extent to which the population in a defined area (country 
+or region) can have access to affordable and competitively priced, environmentally acceptable 
+energy services of adequate quality”. 
+Moreover, this research study is suggesting that strategies for addressing energy security in the 
+poor informal settlement towards increased effectiveness could be facilitated by the ‘product-
+service systems innovations’ growth (Musango et al., 2020, p.7) and energy generation 
+administration (Emili, Ceschin and Harrison, 2016). Thus, as the production and utilisation of 
+the security of energy services could occur in various degrees, it would be imperative to engage 
+everyone, form the end-users, stakeholders and other sections by using both the bottom-up and 
+the top-down approaches (Parag, 2014). In this regard, the Living Lab technology would be 
+employed to convene the stakeholders, the institutions as well as the end-users comprising of 
+women and girls for the co-design and testing activities. They do so because both the end-users 
+and the stakeholders have the aims to provide energy services (Parag, 2014). In their study, 
+Musango et al. (2020, p.7) claim that “security of energy supplies is only one way of attaining 
+
+########## PDF PAGE 48 ##########
+Page | 42 
+ 
+security of energy services.” Hence this research concurs with the above presented statement 
+and calls for consideration of energy services to the poor informal settlement. 
+2.2.6 Gender-focused case studies of energy technology innovation 
+This section describes the energy technologies relating to gender that could be investigated 
+during this research study. Renewable energy technologies are one of the main examples of 
+energy product distributions and for the provision of distinctive chances for the supply of 
+indispensable energy services (Musango et al., 2020). However, to achieve the necessity of 
+energy services at the level of the household, it is vital to focus on more than one energy 
+technology. 
+Therefore, to address energy insecurity, research studies have had the propensity to focus on 
+one energy technology. These research studies include Pascale et al. (2016) for the 
+investigation of ‘solar photovoltaic technology’ which was led by women in Myanmar rural 
+areas to achieve electricity, (Ockwell et al., 2018b) for the focus on ‘solar photovoltaic 
+technology’ to achieve energy services in evolving places, and Islam et al. (2005) for the 
+development of a diminutive regionalized ‘renewable energy technology’ in evolving places. 
+Other energy technologies are empirical research on the investigation of ‘cooking technologies’ 
+(Goswami, Bandyopadhyay and Kumar, 2017), underpinning the supply and acceptance of 
+optional ‘clean cooking technologies’ (Manjula and Gopi, 2017; Karanja and Gasparatos, 
+2019), and (Castán Broto, Arthur and Guibrunet, 2020) for attention on traditional biomass 
+(charcoal). Nevertheless, charcoal is well known and seen as the major fuel utilised in the urban 
+informal settlements in Africa (Musango et al., 2020). These technologies in the literature 
+above can impact gendered energy innovations in the urban informal settlements, and they are 
+given attention to politics, economy, social-cultural applications, and technical features. 
+Furthermore, the energy sector of Africa has witnessed rather profound changes in recent 
+decades – the continent has turned to using renewable energy sources massively. This 
+transformation is informed by the fact that Africa holds, for instance, solar, wind, and 
+hydroelectric power and biomass very well; in addition to this, though, there is a concern about 
+energy insecurity in the continent (Adulugba, 2021). Solar energy is, therefore, one of the 
+brightest stars of sustainable power generation, and Africa, in particular, receives some of the 
+highest irradiation levels in the world (Abdelrazik et al., 2022). This makes it suitable for solar 
+electricity production, and many solar investment areas, including large-scale utility solar and 
+
+########## PDF PAGE 49 ##########
+Page | 43 
+ 
+distributed solar for off-grid villages, are observed in the country and many other African 
+nations, including South Africa, Kenya, Morocco, etc (Agoundedemba, Kim and Kim, 2023). 
+Wind energy is another strategic renewable energy source that holds the prospect for 
+development in the African continent, especially in the areas bordering the coastal regions' 
+highland climate areas. Hydropower has traditionally been used in Africa to provide renewable 
+electricity with large, relatively tapped resources (Ugwu, Ozor and Mbohwa, 2022). The hydro 
+potential of the African continent is considerable. So many big and small hydropower 
+companies can invest in them, especially in the Congo, Nile, and Zambezi rivers. Other 
+laudable projects, such as the Grand Ethiopian Renaissance Dam (GERD) and Inga Dam in the 
+DRC, seek to increase power generation, making energy a strong pillar that underpins 
+integration (Tesfa, 2013). 
+In developing strategies to enhance gender equality in energy distribution, one needs to focus 
+on methods that will capture the energy patterns and disparities faced by women across the 
+globe. Some of the gender-focused energy technologies and programs that have been put in 
+place to support and empower women in the energy sector include. The invention of the solar 
+home system and the solar lantern, which eliminates the use of the kerosene lamp in the 
+provision of artificial light and charging of mobile phones and other small electrical appliances 
+(Aghaei et al., 2020). These systems greatly help women who live in rural settings where they 
+often use kerosene lamps and candles for illumination. These are the positive impacts of Solar 
+Home Systems on women where they can save a lot of their time, be safer in collecting fuel, 
+and, thus, make them more productive (Beyene et al., 2024). These strategies include solar 
+programs, which involve training women to act as solar sales ladies, which enhances both the 
+provision of solar-aided technologies and empowers women economically. 
+Clean cookstoves are another smart improvement aimed at enhancing the effectiveness of 
+cooking processes and lessening the emission of dangerous substances. Based on statistics, 
+barbecuing or boiling foods on open fires or using simple stoves hurts the air quality within 
+homes; these mostly affect women and children (Rybak and Pieśniewska, 2024). Clean 
+cookstoves require less fuel, release fewer pollutants, and take less time to cook compared to 
+the traditional three-stone stove; therefore, the survey showed improved women's health was 
+achieved through clean stoves since they had more time on their hands (Phillip et al., 2023). 
+Biogas availability has an added advantage to females since it conserves the time used in 
+
+########## PDF PAGE 50 ##########
+Page | 44 
+ 
+sourcing fuel and cooking (Tekle and Sime, 2022). They also enhance efforts that empower 
+women to engage actively in biogas production and sale as a source of income. 
+Therefore, mini-grids and off-grid solar solutions remain relevant in supplying electricity to 
+rural and un-electrified populations (Asuamah, Gyamfi and Dagoumas, 2021). These small-
+scale energy systems provide a steady power supply for lighting, communication, and 
+productive functions. Thus, mini-grids facilitate electricity access that helps women to go to 
+school, start income-generating activities, and engage in social activities, among others (Duran 
+and Sahinyazan, 2020). Mini-grid enterprises related to women are being designed under 
+gender mainstreaming, which has been encouraged by institutions like the African 
+Development Bank (AfDB), and the formulation of mini-grid designs targets women 
+(Antonanzas-Torres et al., 2021). 
+Biogas and biomass initiatives remain critical to delivering clean cooking initiatives and 
+producing electricity from bio-wastes, especially in rural and peri-urban Kenya, where access 
+to modern energy is still limited (Tolessa et al., 2020). People in most rural areas use biomass 
+fuel for cooking, leading to deforestation and indoor pollution. Improved biogas technology 
+involves using animal dung, agricultural waste, and other organic matter to produce biogas for 
+cooking, thus reducing the use of biomass fuel, which is the main cause of deforestation (Omer, 
+2021). Despite Africa being endowed with this natural resource, geothermal energy is still in 
+its early stages of exploitation and exploration. Still, its prospect is great in the East African 
+Rift Valley. Some examples of countries utilising geothermal energy are Kenya and Ethiopia, 
+which use it for electrical power production and direct uses (Pasqua, Chiozzi and Verdoya, 
+2023). In the category of renewable energy, Kenya is one of the most progressive countries in 
+the region, with projects such as the Olkaria Geothermal Power Station that help ensure a 
+constant and viable energy supply (Kipsielei, 2020). 
+Alternatively, looking at case studies of successful implementations; for the South African 
+context – a well-documented example is Solar Sister. Solar Sister is a constructive business 
+model that targets women and utilises them as clean energy vendors (Cañas, Ceron and 
+Solodka, 2020). In South Africa, Solar Sister identifies, empowers, enriches, and engages 
+female climate heroes who market solar products and clean cookstoves in their regions (Raimi, 
+Dodo and Sule, 2022). It is also important to note that the initiative is geared towards helping 
+women build new business ventures besides supplying clean energy. The Solar Sister works as 
+an entrepreneur who gets income from selling solar products, meaning they can be accorded 
+
+########## PDF PAGE 51 ##########
+Page | 45 
+ 
+better income and social standing. This program has been able to help so many households 
+with clean and reliable energy, and this has been achieved. 
+Another successful implementation is using biogas technology in rural South African 
+communities to address energy poverty and consequently support the communities’ sustainable 
+development. The biogas digester technology is implemented through the Integrated Rural 
+Development and Nature Conservation (IRDNC) project, which was developed to tackle 
+environmental issues in the Eastern Cape province of South Africa (Thilivhali Eugene 
+Rasimphi et al., 2022). This process involves animal manure and organic wastes being 
+converted into special biogas that ease cooking, reducing the use of extremely harmful 
+firewood and improving household air quality (Obaideen et al., 2022). Overall, women claim 
+improved time use and health effects, alongside enhancements in roles and responsibilities 
+engaged in income-generating activities. 
+Therefore, it is important to investigate the dynamics of gender around the supply chain of 
+energy technology and energy access. It is indicated that women like to be involved in the 
+traditional biomass (charcoal), thereby becoming oppositions in the other energy supply chain 
+and becoming part of the energy sector as the non-attendance alternative income opportunists 
+(Ihalainen, Schure and Sola, 2020). Furthermore, Musango et al. (2020, p.9) indicated that 
+“gender differences and inequalities influence participation and outcomes in areas such as 
+resources and income, gender roles and responsibilities, and social and political capital”. 
+Therefore, there is a need for the inclusivity of gender as an important aspect of the energy 
+supply chain (Ihalainen, Schure, and Sola, 2020). 
+Furthermore, most research studies have investigated the gender approach for the acceptance 
+of clean energy (Aryal et al., 2019). This study by Aryal et al observed that “the use of clean 
+energy in female-headed households tended to be lower than in male-headed households, and 
+such observations have implications for gendered innovations” (Musango et al., 2020, p.9). 
+Also, there is a framework that examines the effect of electricity access on women's 
+empowerment (Winther et al., 2017). They indicated that there is a lesser understanding of the 
+effect of electricity access related to ‘gender’ even though both men and women benefit from 
+electricity. There is an observation by Rosenthal et al. (2018) in Musango et al. (2020) that 
+cooking technology happens to be the main and often energy challenges for women, however, 
+this assumption is unintentional and unproved. 
+
+########## PDF PAGE 52 ##########
+Page | 46 
+ 
+Therefore, the “implication is the need to consider all household energy service requirements 
+as a bundle that can be satisfied by various energy technologies and that requires an 
+understanding of the roles of both women and men as well as their knowledge contributions,” 
+(Musango et al., 2020, p.10). Although focusing on one energy technology could hamper the 
+benefit of the ‘socio-economic’ position of women (Musango et al., 2020), this research study 
+focuses on all household's energy services requirements, also paying huge attention to the clean 
+cooking technologies through biogas technology. Although, the biogas technology has been 
+adopted for this study, the focus of the research was not on the biogas as a new innovation, but 
+the biogas digester was developed in this research study as a technology to further validate or 
+test the new SETILL theoretical model focused on gender design. Therefore, the research study 
+would endeavour to design the biogas technology to a pilot scale using the bottom-up energy 
+innovation decision-making approach with a focus more on women in the selected case study.  
+2.2.7 Indicators of energy poverty 
+Various definitions of energy poverty have been investigated by different researchers 
+throughout the world (Team and Baffert, 2015; Day, Walker and Simcock, 2016). However, 
+universally, there is no accepted definition of energy poverty recently (Sadath and Acharya, 
+2017). According to Kohler, Rhodes, and Vermaak (2014), energy poverty was defined as the 
+absence of access to any kind of present-day energy services which could include cooking 
+fuel/heating and electricity. Therefore, this research study would adopt the definition of energy 
+poverty by the International Energy Association (IEA) which described energy poverty as the 
+absence of present-day, clean and economical energy services that could mainly involve clean 
+provisions in households and electricity (United Nations, 2014b). 
+The phrase “fuel poverty” is referred to as an absence of heating fuels and the phrase “energy 
+poverty” is referred to as the absence of electricity in developing countries, however, both fuel 
+poverty and energy poverty tend to describe energy impoverishment in the household and 
+industries. The energy poverty in research and policies champions several results and vital 
+consequences. These include health problems arising from the use of biomass, air pollution in 
+an enclosed place, time wastage, average incomes and productivity, lack of education for the 
+women and girls because they are always available fetching firewood and above, and gender 
+inequality (Day, Walker and Simcock, 2016). There is energy poverty in rural informal 
+settlements and globally. This is evident due to the level of energy in the rural areas, where 
+
+########## PDF PAGE 53 ##########
+Page | 47 
+ 
+billions of the poor informal settlers do not have access to dependable and cleaner energy 
+services. 
+Therefore, to control energy poverty, there should be dependable access to present-day cleaner 
+and economical energy services in the informal settlements which are vital in achieving the 
+Millennium Development Goals (MDGs) (WHO, 2010). However, for alleviating energy 
+poverty, there is a need to understand the alliance of energy services with gender equality, 
+which has been discussed above and is geared towards what this research study is advocating 
+for in the informal settlement. The major and common present-day energy services required at 
+household level include cooking technologies, lighting, and heating. These are further detailed 
+in Table 2.1, and, at household level, these energy services can contribute to increased well-
+being and quality of life for the poor settlers and most especially to the women and girls. 
+Table 2.1: The Energy Services Contribution to the Realisation of the MDGs 
+MDGs 
+(ES1) 
+Lighting 
+(ES2) 
+Cooking and 
+water heating 
+(ES3) 
+Space 
+heating 
+(ES4) 
+Cooling 
+(ES5) 
+ICTs 
+(ES6) 
+Earning a living 
+1 
+End poverty 
+and hunger 
+• Increased 
+productivit
+y 
+   
+• Reduced 
+money 
+spent on 
+low-quality 
+lighting  
+ 
+• Reduced time 
+lost gathering 
+wood 
+• Increased 
+productivity 
+• Food can be 
+cooked safely  
+• Reduced 
+time lost 
+gathering 
+wood 
+• Increased 
+productivity 
+ 
+• Reduced 
+food waste 
+and increased 
+incomes for 
+producers  
+ 
+• Information 
+enables better 
+market prices for 
+producers  
+• ICTs support 
+economic growth  
+ 
+• New and 
+Improved income 
+earning 
+2 
+Universal 
+education 
+ 
+• Children 
+allowed to 
+study at 
+night  
+• Rural 
+schools and 
+colleges 
+attract 
+teachers  
+ 
+• Less time spent 
+collecting wood 
+means more 
+time for 
+education  
+ 
+• Less time 
+spent 
+collecting 
+wood means 
+more time for 
+education  
+ 
+_ 
+• Access to 
+educational 
+software and 
+information from 
+global sources  
+ 
+• Children released 
+from earning into 
+learning  
+ 
+
+########## PDF PAGE 54 ##########
+Page | 48 
+ 
+3 
+Gender 
+equality 
+ 
+ 
+• Women’s 
+domestic 
+burden 
+reduced by 
+improving 
+lighting  
+ 
+ 
+• Reduced 
+burden on 
+women to obtain 
+cooking fuels  
+ 
+ 
+• Reduced 
+burden on 
+women to 
+obtain 
+cooking fuels  
+ 
+_ 
+ 
+• Equal access to 
+information, 
+including 
+information on 
+government 
+programs 
+ 
+ 
+• Broader income-
+generation 
+opportunities for 
+women.  
+• Decreasing the 
+importance of 
+physical strength  
+ 
+4 
+Child health 
+ 
+ 
+• Reduced 
+deaths and 
+injury from 
+unsafe 
+lighting 
+• Less lung 
+damage 
+from sooty 
+flames  
+ 
+• Reduction in 
+smoke 
+inhalation– 
+related diseases 
+among young 
+children  
+ 
+• Reduced 
+child deaths 
+due to cold-
+related 
+illnesses  
+ 
+• Vaccine 
+refrigeration 
+enables 
+inoculation  
+ 
+• Information 
+about child 
+healthcare more 
+available  
+ 
+• Higher incomes 
+linked with improved 
+health  
+ 
+5 
+Maternal 
+health 
+ 
+• Improved 
+lighting for 
+clinics, 
+essential 
+for safe 
+night births 
+and 
+treatment  
+ 
+• Increased birth 
+weight of 
+children without 
+smoke. 
+• Hot water 
+available, 
+essential for 
+childbirth  
+ 
+• Improved 
+comfort and 
+health of the 
+mother in 
+pregnancy and 
+childbirth  
+ 
+_ 
+• Information 
+about healthcare 
+options more 
+available  
+ 
+• Higher incomes 
+linked with improved 
+health  
+ 
+6 
+Combat 
+HIV/AIDS 
+ 
+• Improved 
+lighting, 
+essential 
+for clinics  
+ 
+• Needles can be 
+sterilised  
+ 
+_ 
+• Liquid anti-
+retroviral 
+drugs can be 
+refrigerated  
+ 
+• Information 
+about protection 
+and healthcare 
+options more 
+available  
+_ 
+7 
+Environmental 
+sustainability 
+• Lighting 
+is an ideal 
+end-use for 
+renewable 
+electricity  
+ 
+• Improved 
+practices reduce 
+deforestation 
+and emissions  
+ 
+• Improved 
+practices 
+reduce 
+deforestation 
+and emissions  
+ 
+_ 
+• Monitoring and 
+communication of 
+environmental 
+impacts is 
+possible  
+ 
+_ 
+8 
+Global 
+partnership 
+ 
+_ 
+_ 
+_ 
+_ 
+• 
+Communications 
+enable dialogue, 
+information 
+exchange, and 
+partnership  
+ 
+_ 
+Source: Practical Action (2010, p.36). 
+
+########## PDF PAGE 55 ##########
+Page | 49 
+ 
+Furthermore, several methods and indicators have been used to quantify energy poverty 
+(AGECC, 2010; Nussbaumer et al., 2013), where some consider the opportunity of access to 
+present-day energy services (Day, Walker and Simcock, 2016), and some of them assessed the 
+overall usage of energy by describing the least bearable level against the real usage of energy 
+on the same level with the goods and services (Practical Action, 2010). There are various 
+adopted ways to daily quantify the rate of energy use at the household level (Mirza and Szirmai, 
+2010; Bazilian et al., 2012). Table 2.2 illustrates the guideline approaches for the rate of energy 
+usage that could be employed at the household level to describe the lease energy level usage. 
+The United Nations advised to target 1200kWh per person for a year (AGECC, 2010), and 
+approximately 100 kilograms of oil (Kgoe) equal to present-day fuels, and 100 kWh of 
+electricity, South Africa government also advised approximately 600 kWh for each household 
+annually, while the Indian government advised for 365 kWh for each household annually 
+(Pachauri, 2011). 
+Table 2.2: Total usage level of energy services and the least acceptable levels  
+Total energy services 
+ 
+Minimum standards 
+Lighting 
+ 
+300 lumens at the household level. 
+ 
+Cooking and water heating 
+ 
+1 kg wood fuel or 0.3 kg charcoal or 0.04 kg LPG or 0.2 litres of 
+kerosene or ethanol per person per day, taking less than 30 minutes 
+per household per day to obtain. 
+ 
+Minimum efficiency of improved solid fuel stoves to be 40% greater 
+than a three-stone fire in terms of fuel use. 
+Annual mean concentrations of particulate matter (PM2.5) < 10 
+μg/m3 in households, with interim goals of 15 mg/m3,25 μg/m3 and 
+35 μg/m3. 
+Space heating 
+ 
+A minimum daytime indoor air temperature of 12oC 
+ 
+
+########## PDF PAGE 56 ##########
+Page | 50 
+ 
+Cooling 
+ 
+Households can extend the life of perishable products by a minimum 
+of 50% over that allowed by ambient storage. 
+ 
+A maximum apparent indoor air temperature of 30oC 
+Information and communications 
+ 
+People can communicate electronic information from within their 
+household. 
+ 
+People can access electronic media relevant to their lives and 
+livelihoods. 
+Earning a living 
+ 
+Access to energy is sufficient for the start-up of any enterprise. 
+The proportion of operating costs for energy consumption in 
+energy-efficient enterprises is financially sustainable. 
+Source: Practical Action (2010, p.33). 
+Furthermore, there are more approaches like the empirical evaluation of the standard energy 
+usage of the households who consumes less than the earnings poverty rate established from the 
+obtained data that could be used to derive the least energy patterns (Barnes, Khandker and 
+Samad, 2010), and the Multidimensional Energy Poverty Index (MEPI) by Nussbaumer et al 
+(2013) which is used to quantify the lack of energy in the division of 5 parameters (e.g., 
+telecommunications, lighting, education, cooking and services of appliances). This MEPI 
+indicator mentioned has been adopted to achieve quantification of energy consumptions by 
+Alkire and Santos (2014); Sher, Abbas, and Awan (2014); Nussbaumer et al (2013); Alkire, 
+Adriana Conconi and Seth (2014); Sadath and Acharya (2017). Other approaches or indicators 
+are the Energy Indicators for Sustainable Development (EISD) (Streimikiene, Ciegis and 
+Grundey, 2007; Vera and Langlois, 2007) and Energy Development Index (EDI) (Iddrisu and 
+Bhattacharyya, 2015), which have demonstrated applicability. 
+Therefore, this section was used to briefly explain some energy poverty indicators and their 
+influence on energy security services. Although most of the indicators have failed to quantify 
+performances, inform policy designs (McGillivray, 1991; Ravallion, 2012) and include gender, 
+it is necessary to explain these indicators and regulate the least fundamental energy services 
+
+########## PDF PAGE 57 ##########
+Page | 51 
+ 
+while relating them to the socio-ecological characteristics, cultural and the aspects of gender 
+in a particular context. 
+2.2.8 Supporting energy access sustainability 
+Theoretically, the energy steps illustrate the interrelationship between the kind of energy 
+consumptions, energy income, and the transitional switch (Rahut, Behera and Ali, 2017). It is 
+hypothesised that the increase in the household income leads to an increase in the household 
+energy consumption shifts from the less traditional energy shape to additional present-day 
+energy security services like electricity and liquid fuels. This does not stop the access to the 
+traditional biomass and cleaner alternative forms of energy by the poor informal settlement 
+even with the increase in income. 
+In consultation with the energy steps concept, availability, energy standard and cost come from 
+the consumption of traditional solid fuels, down to cleaner liquid fuels (gas and kerosene), then 
+lastly to electricity consumption. However, the electricity consumption is common in 
+advantageous households, while the poor households are common with the fuelwood and dung 
+consumption rate. According to Day, Walker and Simcock (2016), energy services access is 
+defined in a descriptive step in figure 2.3, which shows the ‘energy-arising ladder from scarcity 
+to the development levels and this was developed by the IEA. As the wealth of the household 
+levels increases, the rate of clean energy increases. Therefore, this illustrates the idea of the 
+‘energy ladder’ showing that the present-day access to energy services provides a better level 
+of energy services with reduced negative effects. 
+
+########## PDF PAGE 58 ##########
+Page | 52 
+ 
+Figure 2.3: Incremental levels of access to present-day energy services. Source: AGECC 
+(2010) in Bazilian et al. (2010, p.5). 
+Although Gross Domestic Product (GDP) has been used as a standard to quantify energy access 
+globally, it has disregarded the efficacy of the capital assets’ devaluation, satisfaction, and 
+gender. South Africa as a nation has the highest Gross Domestic Product and energy access, 
+however, there are still visible gender inequalities in the poor urban and rural areas, including 
+among the rich and poor because of the huge impact of the laws of apartheid. It is required to 
+involve both the quantitative and qualitative approaches to the energy access metrics. However, 
+with constant examinations, and connection with the Gross Domestic Product (DGP), energy 
+access breaches a lot of quantitative illustrations and concepts related to energy poverty 
+(Khennas, 2012). 
+It is of no doubt that the significance of having access to sustainable and present-day energy 
+services is vital for bringing solutions to the challenges of energy poverty, climate change, and 
+gender inequalities in the poor urban informal settlements. Most oil-producing countries in 
+Africa (e.g., Nigeria), have energy prospects but lack full access to present-day energy forms 
+like Liquid gas, natural gas, and most importantly, electricity (Khennas, 2012). This shows that 
+energy prospects are not mostly the main factor for energy access, even though it is vital in 
+increasing energy access, just like gender equality is also vital in increasing energy access. 
+Energy prospects, just as the development of infrastructure are vital for better governance and 
+sustainable development. Therefore, there should be energy access for all which is connected 
+to gender equality leading to sustainable development in poor informal settlements. Therefore, 
+
+########## PDF PAGE 59 ##########
+Page | 53 
+ 
+providing equal energy access in the urban and rural areas has a link with the political economy 
+and gender equality, because the lack of electricity supply in these areas mostly have to do with 
+inequality between the poor and the rich, and between the women and the men. Therefore, 
+policies should be merged with frameworks and models to support the poor, bring about 
+gendered technology innovation in the informal settlements, and proffer subsidy reformation. 
+This has a goal of attaining the United Nations idea of having global energy access by 2030 
+(Rehman et al., 2012). Therefore, gender equality and the aspect of political economy are the 
+factors to quantify the development of energy access according to this study. 
+Furthermore, actions to advance and improve access to energy service and reduce energy 
+poverty are declining with time and with this backdrop, the potential of developing access to 
+energy services for all in Africa could be unfeasible by 2030. However, Rehman et al (2012). 
+has indicated that the key drivers of energy access at the household level are in the shape of 
+political economy and pointed out concerns about the way which it could be used to advance 
+energy access. However, these concerns lack the aspects of gender, and this research study 
+aims to cover this gap. 
+2.2.9 Women empowerment: participation of women in energy technology innovation 
+There is a saying by Melinda Gates (2019, p.28) that “if you search for poverty, you will find 
+women who don’t have power, and if you explore prosperity, you will find women who have 
+power and use it”. Some energy research studies classify gender equality and gender challenges 
+with women (Fathallah and Pyakurel, 2020), and SDG 5 also directs the issue of gender to 
+women and girls. However, Musango et al. (2020, p.8) indicated that “gender does not refer to 
+women or differences between men and women”, but that gender is an avenue for the 
+clarification and conceptualisation of the supposed biological gendered dissimilarities in a 
+certain circumstance (Nightingale, 2006). 
+Therefore, empowering women in the energy industry and household is inevitable. This is as 
+explained earlier that the impartial statistics on women in the positions of leadership, energy 
+business, finance, politics, and the gender pay gap indicates that there is a long way to go on 
+the concept of gender equality, and it is more difficult when it involves women of colour 
+(Gillard and Okonjo-Iweala, 2020). Socialisation and stereotyping are some of the factors that 
+form women and men including their participation in co-designing of energy technologies. 
+However, this research study aims to do more than checking on the stereotyping of women and 
+men and focus more on the technological, political, and structural barriers that limit women 
+
+########## PDF PAGE 60 ##########
+Page | 54 
+ 
+from being part of the decision-making during the design and testing phases of the energy 
+technology innovations. These barriers which are going to be investigated in this research study 
+are seen in this study as a challenge, as it prevents women from progressing in the energy 
+sectors and households for the achievement of energy security. 
+When women are actively involved in energy innovation processes, they improve the chances 
+of creating positive change that is effective and diversified to suit the interests of most people. 
+Studies have shown that incorporating female voices means occupying a seat that comes with 
+fresh ideas, and uncovered knowledge and vantage points that improve the energy sector’s 
+behind-the-scenes work (Habiyaremye, 2019). Thus, adopting gender mainstreaming could 
+ensure more extensive engagement of women in Living Labs projects, apply their perspectives 
+and expertise for co-creating energy innovations not only for the benefit of the participants but 
+also for the improvement of the energy framework (Fortiş & Petcu, 2022). 
+In most uses of energy, the role of women is either hidden, neglected or not given its deserved 
+attention. The literature has established that women have a distinct understanding and 
+information concerning energy consumption, control, and requirement as pertains to their 
+homes and societies (Anditi et al., 2022). Through engaging in the energy’s innovation 
+processes, such actors can assist in the discovery of other solutions that are more likely to be 
+effective, affordable or suitable in the light of the target customers, especially those in the 
+developing rural settlements whose access to energy is limited. 
+The implementation of gender-mainstreaming in energy innovation requests conscious 
+attempts to remove system barriers to women’s engagement and their contributions recognized 
+and valued. According to Callaghan and Herselman (2015), it is also critical for Women’s 
+Voice to ensure that the female gender feels empowered to express herself in Living Labs. It 
+may consist of empowering women to take up innovation by offering training and capacity 
+enhancement projects meant for women, and challenging gendered norms that decrease 
+women’s engagement in innovation and a call to female engagement in leadership standings of 
+advancement innovations. 
+According to Choi and Kwon (2021), women must participate in energy innovation not only 
+as a right or a fight for women but due to the need for development goals. Focusing women’s 
+creativity and expertise, the energy sector can offer the solutions that would be more sensitive 
+to the needs and priorities of the communities in terms of the access to energy and its positive 
