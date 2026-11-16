@@ -1,0 +1,96 @@
+Q: Writing integrative literature reviews using the past and present to explore the future Torraco
+  2022 | Pramukh Nanjundaswamy Vasist; Satish Krishnan | Deepfakes: An Integrative Review of the Literature and an Agenda for Future Research | Communications of the Association for Information Systems 51 ('590', '636') | https://doi.org/10.17705/1cais.05126
+  2021 | Mostafa Ali Benzaghta; Abdulaziz Elwalda; Mousa Mousa; İsmail Erkan; Mushfiqur Rahman | SWOT analysis applications: An integrative literature review | Journal of Global Business Insights 6 ('55', '73') | https://doi.org/10.5038/2640-6489.6.1.1148
+
+Q: Barriers to powering past coal implications for a just energy transition in South Africa Mirzania
+  2023 | Pegah Mirzania; Joel A. Gordon; Nazmiye Balta‐Ozkan; Ramazan Caner Sayan; Lochner Marais | Barriers to powering past coal: Implications for a just energy transition in South Africa | Energy Research & Social Science 101 ('103122', '103122') | https://doi.org/10.1016/j.erss.2023.103122
+  2021 | Iain Todd; Darren McCauley | Assessing policy barriers to the energy transition in South Africa | Energy Policy 158 ('112529', '112529') | https://doi.org/10.1016/j.enpol.2021.112529
+
+Q: Constructing mystery empirical matters in theory development Alvesson Karreman
+  2025 | Olga Gwozdz | Leadership in Polycrisis: Space, Time and the Mysteries of Practice. | White Rose eTheses Online (University of Leeds, The University of Sheffield, University of York) None (None, None) | None
+  2022 | Britta Møller | Abduktive bevægelser mellem ’Mysteries’ og ’My-Stories’ | Qualitative Studies 7 ('112', '131') | https://doi.org/10.7146/qs.v7i1.133069
+
+Q: Living Lab an open and citizen-centric approach for innovation Bergvall-Kareborn
+  2024 | Ann Borda; Dimitri Schuurman; Sonja Pedell; Francesca Spagnoli; Evdokimos I. Konstantinidis | Editorial: Living labs and open innovation approaches to scale impact for human wellbeing | Frontiers in Public Health 12 ('1378932', '1378932') | https://doi.org/10.3389/fpubh.2024.1378932
+  2020 | Lorenzo Compagnucci; Francesca Spigarelli; José Coelho; Carlos Duarte | Living Labs and user engagement for innovation and sustainability | Journal of Cleaner Production 289 ('125721', '125721') | https://doi.org/10.1016/j.jclepro.2020.125721
+
+Q: Using thematic analysis in psychology Braun Clarke
+  2019 | Virginia Braun; Victoria Clarke; Nikki Hayfield | ‘A starting point for your journey, not a map’: Nikki Hayfield in conversation with Virginia Braun and Victoria Clarke about thematic analysis | Qualitative Research in Psychology 19 ('424', '445') | https://doi.org/10.1080/14780887.2019.1670765
+  2021 | David Byrne | A worked example of Braun and Clarke’s approach to reflexive thematic analysis | Quality & Quantity 56 ('1391', '1412') | https://doi.org/10.1007/s11135-021-01182-y
+
+Q: A simple method to assess and report thematic saturation in qualitative research Guest Namey Chen
+  2020 | Greg Guest; Emily Namey; Mario Chen | A simple method to assess and report thematic saturation in qualitative research | PLoS ONE 15 ('e0232076', 'e0232076') | https://doi.org/10.1371/journal.pone.0232076
+  2024 | Sara Rahimi; Marzieh Khatooni | Saturation in qualitative research: An evolutionary concept analysis | International Journal of Nursing Studies Advances 6 ('100174', '100174') | https://doi.org/10.1016/j.ijnsa.2024.100174
+
+Q: Sample sizes for saturation in qualitative research Hennink Kaiser
+  2021 | Monique M. Hennink; Bonnie N. Kaiser | Sample sizes for saturation in qualitative research: A systematic review of empirical tests | Social Science & Medicine 292 ('114523', '114523') | https://doi.org/10.1016/j.socscimed.2021.114523
+  2021 |  | Justification for Adopting Qualitative Research Method, Research Approaches, Sampling Strategy, Sample Size, Interview Method, Saturation, and Data Analysis | Journal of International Business and Management None (None, None) | https://doi.org/10.37227/jibm-2021-09-1494
+
+Q: What are we doing here Analyzing fifteen years of energy scholarship Sovacool
+  2019 | Bregje van Veelen; Annabel Pinker; Margaret Tingey; Gerald Taylor Aiken; Will Eadson | What can energy research bring to social science? Reflections on 5 years of Energy Research & Social Science and beyond | Energy Research & Social Science 57 ('101240', '101240') | https://doi.org/10.1016/j.erss.2019.101240
+  2018 | Caroline Kuzemko; Michael F. Keating; Andreas C. Goldthau | Nexus-thinking in international political economy: what energy and natural resource scholarship can offer international political economy | Edward Elgar Publishing eBooks None ('1', '20') | https://doi.org/10.4337/9781783475636.00007
+
+Q: Technological transitions as evolutionary reconfiguration processes Geels
+  2002 | Frank Willem Geels | Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study | Research Policy 31 ('1257', '1274') | https://doi.org/10.1016/s0048-7333(02)00062-8
+  2013 | Harriet Bulkeley; Vanesa Castán Broto; Anne Maassen | Low-carbon Transitions and the Reconfiguration of Urban Infrastructure | Urban Studies 51 ('1471', '1486') | https://doi.org/10.1177/0042098013500089
+
+Q: The multi-level perspective on sustainability transitions responses to seven criticisms Geels
+  2011 | Frank Willem Geels | The multi-level perspective on sustainability transitions: Responses to seven criticisms | Environmental Innovation and Societal Transitions 1 ('24', '40') | https://doi.org/10.1016/j.eist.2011.02.002
+  2010 | Frank Willem Geels | Ontologies, socio-technical transitions (to sustainability), and the multi-level perspective | Research Policy 39 ('495', '510') | https://doi.org/10.1016/j.respol.2010.01.022
+
+Q: Energy justice a conceptual review Jenkins McCauley Heffron Stephan Rehner
+  2015 | Kirsten E.H. Jenkins; Darren McCauley; Raphael James Heffron; Hannes R. Stephan; Robert Rehner | Energy justice: A conceptual review | Energy Research & Social Science 11 ('174', '182') | https://doi.org/10.1016/j.erss.2015.10.004
+  2017 | Benjamin Kenneth Sovacool; Matthew J. Burke; Lucy Baker; Chaitanya Kumar Kotikalapudi; Holle Linnea Wlokas | New frontiers and conceptual frameworks for energy justice | Energy Policy 105 ('677', '691') | https://doi.org/10.1016/j.enpol.2017.03.005
+
+Q: The political economy of the just transition Newell Mulvaney
+  2014 | Lucy Baker; Peter J. Newell; Jon Phillips | The Political Economy of Energy Transitions: The Case of South Africa | New Political Economy 19 ('791', '818') | https://doi.org/10.1080/13563467.2013.849674
+  2018 | Peter J. Newell | Trasformismo or transformation? The global political economy of energy transitions | Review of International Political Economy 26 ('25', '48') | https://doi.org/10.1080/09692290.2018.1511448
+
+Q: Towards a theory of just transition neo-Gramscian Winkler
+  2020 | Harald Winkler | Towards a theory of just transition: A neo-Gramscian understanding of how to shift development pathways to zero poverty and zero carbon | Energy Research & Social Science 70 ('101789', '101789') | https://doi.org/10.1016/j.erss.2020.101789
+  2024 | April Grace Lazarito; Lucky Loreen Legaspi; Paramed Loiweha | Pathways to Sustainability: A Neo-Gramscian Exploration of Just Transition Initiatives in Thailand and the Philippines | Graduate Review of Political Science and Public Administration Journal None (None, None) | None
+
+Q: A ladder of citizen participation Arnstein
+  2022 | Simon Varwell | A Literature Review of Arnstein’s Ladder of Citizen Participation | Exchanges The Interdisciplinary Research Journal 10 ('108', '144') | https://doi.org/10.31273/eirj.v10i1.1156
+  2015 | Jephias Mapuva Loveness Muyengwa-Mapuva | Arnstein’s Ladder of Participation and Citizen Participation in Zimbabwe | Journals & Books Hosting (International Knowledge Sharing Platform) 11 ('1', '13') | None
+
+Q: Perceived usefulness perceived ease of use and user acceptance of information technology Davis
+  2019 | Nera Marinda Machdar | THE EFFECT OF INFORMATION QUALITY ON PERCEIVED USEFULNESS AND PERCEIVED EASE OF USE | Business and Entrepreneurial Review (BER) 15 ('131', '146') | https://doi.org/10.25105/ber.v15i2.4630
+  1998 | William J. Doll; Anthony R. Hendrickson; Xiaodong Deng | Using Davis's Perceived Usefulness and Ease‐of‐use Instruments for Decision Making: A Confirmatory and Multigroup Invariance Analysis | Decision Sciences 29 ('839', '869') | https://doi.org/10.1111/j.1540-5915.1998.tb00879.x
+
+Q: Co-creation and the new landscapes of design Sanders Stappers
+  2010 | Kirsten Bonde Sørensen; Malene Leerberg | Reframing Business – and Design? – A Critical Look at Co-creation | Proceedings of DRS None (None, None) | https://doi.org/10.21606/drs.2010.17
+  2022 | Carmen Vargas; Jillian Whelan; Julie Kay Brimblecombe; Steven E. Allender | Co-creation, co-design, co-production for public health – a perspective on definitions and distinctions | Public Health Research & Practice 32 (None, None) | https://doi.org/10.17061/phrp3222211
+
+Q: Energy cultures a framework for understanding energy behaviours Stephenson
+  2015 | Janet R. Stephenson; Barry Barton; Gerry Carrington; Adam Doering; Rebecca Ford; Debbie Hopkins; Rob W. Lawson; Alaric McCarthy | The energy cultures framework: Exploring the role of norms, practices and material culture in shaping energy behaviour in New Zealand | Energy Research & Social Science 7 ('117', '123') | https://doi.org/10.1016/j.erss.2015.03.005
+  2016 | Rebecca Ford; Beth Karlin; Christopher Konstantin Frantz | Evaluating Energy Culture: Identifying and validating measures for behaviour-based energy interventions | Oxford University Research Archive (ORA) (University of Oxford) None (None, None) | None
+
+Q: Living Labs as open-innovation networks Leminen Westerlund Nystrom
+  2014 | Ignasi Capdevila | How Can Living Labs Enhance the Participantss Motivation in Different Types of Innovation Activities? | SSRN Electronic Journal None (None, None) | https://doi.org/10.2139/ssrn.2502795
+  2015 | Ignasi Capdevila | How Can City Labs Enhance the Citizens’ Motivation in Different Types of Innovation Activities? | Lecture notes in computer science None ('64', '71') | https://doi.org/10.1007/978-3-319-15168-7_9
+
+Q: A systematic review of living lab literature Hossain Leminen Westerlund
+  2018 | Mokter Hossain; Seppo Leminen; Mika Westerlund | A systematic review of living lab literature | Journal of Cleaner Production 213 ('976', '988') | https://doi.org/10.1016/j.jclepro.2018.12.257
+  2022 | Hacer Tercanli; Ben W. A. Jongbloed | A Systematic Review of the Literature on Living Labs in Higher Education Institutions: Potentials and Constraints | Sustainability 14 ('12234', '12234') | https://doi.org/10.3390/su141912234
+
+Q: Living Lab a methodology between user-centred design and participatory design DellEra Landoni
+  2020 | Universidad de Zaragoza; Alexia Sanz; Marianna Martínez Alfaro; Universidad de Zaragoza | Innovación Social en las universidades al servicio de la sostenibilidad. Circular Society Lab como estudio de caso | European Public & Social Innovation Review 5 ('22', '36') | https://doi.org/10.31637/epsir.20-1.3
+  2015 | Seppo Leminen; Taija Turunen; Mika Westerlund | The Grey Areas Between Open and Closed in Innovation Networks | Technology Innovation Management Review 5 ('6', '18') | https://doi.org/10.22215/timreview/948
+
+Q: Impacts of urban living labs on sustainability transitions mechanisms and strategies von Wirth
+  2018 | Timo von Wirth; Lea Fuenfschilling; Niki Frantzeskaki; Lars Coenen | Impacts of urban living labs on sustainability transitions: mechanisms and strategies for systemic change through experimentation | European Planning Studies 27 ('229', '257') | https://doi.org/10.1080/09654313.2018.1504895
+  2018 | Emma Puerari; Jotte de Koning; Timo von Wirth; Philip Marcel Karré; Ingrid J. Mulder; Derk A. Loorbach | Co-Creation Dynamics in Urban Living Labs | Sustainability 10 ('1893', '1893') | https://doi.org/10.3390/su10061893
+
+Q: Posthumanist performativity toward an understanding of how matter comes to matter Barad
+  2022 | Karen Barad | Posthumanist performativity | Bloomsbury Publishing Plc eBooks None ('155', '176') | https://doi.org/10.5040/9781350118089.ch-013
+  2022 | Ed Vosselman | The performativity of accounting: advancing a Posthumanist understanding | Qualitative Research in Accounting & Management 19 ('137', '161') | https://doi.org/10.1108/qram-04-2021-0062
+
+Q: Staying with the Trouble Making Kin in the Chthulucene Haraway
+  2019 | Whitney A. Bauman | Donna Haraway, 'Staying with the Trouble: Making Kin in the Chthulucene' | Journal for the Study of Religion Nature and Culture 13 ('246', '248') | https://doi.org/10.1558/jsrnc.36617
+  2018 | David R. Anderson | Staying with the Trouble: Making Kin in the Chthulucene by Donna J. Haraway | NWSA Journal 30 ('236', '240') | https://doi.org/10.1353/ff.2018.0013
+
+Q: Meeting the Universe Halfway quantum physics and the entanglement of matter and meaning Barad
+  2010 | Vita Peacock | Karen Barad, Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning | Opticon1826 0 (None, None) | https://doi.org/10.5334/opt.081013
+  2017 | 歩人 小川 | ＜書評＞Karen Michelle Barad, ‟Meeting The Universe Halfway : Quantum Physics and The Entanglement of Matter and Meaning” | Institutional Repositories DataBase (IRDB) 1 ('91', '97') | https://doi.org/10.18910/67024
+

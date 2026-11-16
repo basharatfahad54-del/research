@@ -1,0 +1,108 @@
+Structure of a research proposal in Engineering Management (PhD/M(RD)) 
+1. Title (Cover) Page
+2. Abstract: A concise summary (250-300 words) outlining:
+•
+Research problem
+•
+Objectives
+•
+Methodology
+•
+Expected contributions
+Note that writing the Abstract is the final step of your proposal writing! 
+3. Introduction:
+•
+Background and context
+•
+Problem statement
+•
+Research aims and objectives
+•
+Research questions and/or hypotheses
+•
+Justification of the study
+4. Literature Review: Recent accredited peer-reviewed articles, and other accredited peer-
+reviewed publications (full conference papers, book chapters, books) 
+•
+Review of relevant theoretical, empirical, and review studies
+•
+Identification of knowledge gaps (Using gap spotting strategy)
+•
+Positioning of the study in the existing body of knowledge
+5. Theoretical Framework:
+•
+Explanation of the importance of the theoretical framework in the PhD research,
+supported by relevant references (This is a general discussion and not specific to your
+topic)
+•
+Explanation of the main theories or models underpinning your research
+•
+Explanation of how these theories relate to your research problem
+•
+Justification for the selection of particular theories: Explain how these inform your
+research questions and expected findings
+Note: Engineering Management often operates at the intersection of technical systems and 
+organisational behaviour. Therefore, the theoretical framework helps you ground your inquiry 
+in academic theory (e.g., Technology Acceptance Model, Lean Thinking, Complexity Theory). 
+The conceptual framework shows how you, as a researcher, interpret the real-world problem 
+in a structured, researchable way. 
+6. Conceptual Framework:
+•
+A visual and narrative representation of the key variables, constructs, and their
+presumed relationships
+
+
+=== PAGE BREAK ===
+
+•
+Reflects your understanding of how the research elements interact
+•
+Can be derived from both the literature review and the theoretical framework
+Tip: Include your own well-labelled diagram showing the flow of influence, feedback loops, 
+or process dynamics in the system being studied. 
+7. Research Design and Methodology
+•
+Research paradigm and approach
+•
+Research strategy (case study, survey, action research, etc.)
+•
+Data collection methods and instruments
+•
+Sampling and participants
+•
+Data analysis methods
+•
+Validity, reliability/trustworthiness
+•
+Ethical considerations
+•
+Delimitations and limitations
+8. Context and Case Study (if applicable)
+•
+Description of the empirical setting
+•
+Relevance to Engineering Management
+9. Expected Contributions
+•
+Theoretical contributions
+•
+Practical implications
+•
+Policy or sector-specific insights
+•
+Methodological innovations
+10. Research Plan / Timeline
+11. Preliminary Chapters Outline
+12. References:
+•
+Use a reference manager (EndNote) to auto-format citations.
+•
+Cross-check all in-text citations against the bibliography.
+•
+It is prohibited to use AI tools to generate or rephrase text. In addition you 
+must not use theses tools to generate and cite fake references.
+•
+Your references must be traceable through their DOI links.
+•
+Use only accredited sources from UJ databases. Do not use predatory or non 
+peer reviewed sources. 

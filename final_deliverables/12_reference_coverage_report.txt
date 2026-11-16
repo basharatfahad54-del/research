@@ -1,0 +1,138 @@
+REFERENCE FILE COVERAGE REPORT
+==================================================================
+
+Generated from doi_check.json (Crossref lookups already run in this workspace).
+
+DOI-verified records written to the reference files : 34
+Matrix rows in literature_matrix.xlsx                 : 49
+  - linked to a verified DOI                          : 9
+  - no verified DOI/identifier (still 'TBC')          : 40
+Verified records not yet mapped to a matrix row       : 25
+
+IMPORTANT: the reference files cover the DOI-verified set only.
+They are NOT a complete bibliography of the 49-row matrix. The 40 rows
+below still need an identifier checked at source before they are cited.
+
+A. MATRIX ROWS WITHOUT A VERIFIED DOI/IDENTIFIER
+------------------------------------------------------------------
+L03 | Braidotti, R. | 2013 | TBC (ISBN to verify)
+     The Posthuman
+L04 | Braidotti, R. | 2019 | TBC
+     Posthuman Knowledge
+L05 | Haraway, D. | 1988 | TBC
+     Situated Knowledges: The Science Question in Feminism and the Privilege of Partial Perspective
+L06 | Haraway, D. | 2016 | TBC
+     Staying with the Trouble: Making Kin in the Chthulucene
+L07 | Barad, K. | 2007 | TBC
+     Meeting the Universe Halfway: Quantum Physics and the Entanglement of Matter and Meaning
+L08 | Barad, K. | 2003 | TBC
+     Posthumanist Performativity: Toward an Understanding of How Matter Comes to Matter
+L09 | Hayles, N.K. | 1999 | TBC
+     How We Became Posthuman: Virtual Bodies in Cybernetics, Literature, and Informatics
+L10 | Wolfe, C. | 2010 | TBC
+     What Is Posthumanism?
+L11 | Forlano, L. | 2017 | TBC
+     Posthumanism and Design
+L12 | Ulmer, J.B. | 2017 | TBC
+     Posthumanism as research methodology: inquiry in the Anthropocene
+L17 | Okoye, A. | 2020 | TBC
+     TBC (Systems Reinforcing Model for Energy Access Sustainability)
+L18 | Kovacic, Z. et al. | 2019 | TBC
+     TBC
+L19 | Callaghan, R. & Herselman, M. | 2015 | TBC
+     TBC (Living Lab in education / ICT)
+L20 | Stephenson, J. et al. | 2010 | TBC
+     Energy cultures: A framework for understanding energy behaviours
+L21 | Shrestha, R.M. & Acharya, J. | 2015 | TBC
+     TBC (Sustainable Energy Access framework)
+L22 | Sovacool, B.K. & Dworkin, M.H. | 2015 | TBC
+     Energy justice: Conceptual insights and practical applications
+L23 | Jenkins, K. et al. | 2016 | TBC
+     Energy justice: A conceptual review
+L24 | Walker, G. & Day, R. | 2012 | TBC
+     Fuel poverty as injustice: integrating distribution, recognition and procedure in the struggle for affordable warmth
+L25 | Geels, F.W. | 2002 | TBC
+     Technological transitions as evolutionary reconfiguration processes: a multi-level perspective and a case-study
+L26 | Geels, F.W. | 2011 | TBC
+     The multi-level perspective on sustainability transitions: Responses to seven criticisms
+L27 | Davis, F.D. | 1989 | TBC
+     Perceived usefulness, perceived ease of use, and user acceptance of information technology
+L28 | Venkatesh, V. et al. | 2003 | TBC
+     User acceptance of information technology: Toward a unified view
+L29 | Arnstein, S.R. | 1969 | TBC
+     A ladder of citizen participation
+L30 | Checkland, P. | 1981 | TBC
+     Systems Thinking, Systems Practice
+L31 | Meadows, D.H. | 2008 | TBC
+     Thinking in Systems: A Primer
+L32 | Midgley, G. | 2000 | TBC
+     Systemic Intervention: Philosophy, Methodology, and Practice
+L33 | Leminen, S., Westerlund, M. & Nyström, A.-G. | 2012 | TBC
+     Living Labs as open-innovation networks
+L34 | Dell'Era, C. & Landoni, P. | 2014 | TBC
+     Living Lab: A methodology between user-centred design and participatory design
+L35 | Hossain, M., Leminen, S. & Westerlund, M. | 2019 | TBC
+     A systematic review of living lab literature
+L36 | Schuurman, D. et al. | 2015 | TBC
+     TBC (Living Lab / user innovation)
+L37 | Wüstenhagen, R., Wolsink, M. & Bürer, M.J. | 2007 | TBC
+     Social acceptance of renewable energy innovation: An introduction to the concept
+L38 | Blessing, L.T.M. & Chakrabarti, A. | 2009 | TBC
+     DRM, a Design Research Methodology
+L39 | Lincoln, Y.S. & Guba, E.G. | 1985 | TBC
+     Naturalistic Inquiry
+L40 | Easterby-Smith, M., Thorpe, R. & Jackson, P. | 2012 | TBC
+     Management Research
+L41 | Miles, M.B. & Huberman, A.M. | 1994 | TBC
+     Qualitative Data Analysis: An Expanded Sourcebook
+L42 | Booth, C. & Bennett, C. | 2002 | TBC
+     TBC (gender equality / 'equality stool')
+L43 | Postma, D. | 2016 | TBC
+     The ethics of becoming in a pedagogy for social justice: A posthumanist perspective
+L44 | Motala, S. | 2017 | TBC
+     In/between science and art: Posthumanist ruminations on Geomatics education
+L45 | Heffron, R.J. & McCauley, D. | 2017 | TBC
+     The concept of energy justice across the disciplines
+L46 | Swilling, M. & Annecke, E. | 2012 | TBC
+     Just Transitions: Explorations of Sustainability in an Unfair World
+
+B. VERIFIED RECORDS NOT YET MAPPED TO A MATRIX ROW
+------------------------------------------------------------------
+10.1177/1534484316671606 | Torraco, Richard J. (2016) | Writing Integrative Literature Reviews
+10.5465/amr.2007.26586822 | Alvesson, Mats (2007) | Constructing mystery: Empirical matters in theory development
+10.1504/IJIRD.2009.022727 | Kareborn, Birgitta Bergvall (2009) | Living Lab: an open and citizen-centric approach for innovation
+10.1191/1478088706qp063oa | Braun, Virginia (2006) | Using thematic analysis in psychology
+10.1016/j.erss.2014.02.003 | Sovacool, Benjamin K. (2014) | What are we doing here? Analyzing fifteen years of energy scholarship and propos
+10.1111/geoj.12008 | Newell, Peter (2013) | The political economy of the ‘just transition’
+10.1080/01944366908977225 | Arnstein, Sherry R. (1969) | A Ladder Of Citizen Participation
+10.2307/249008 | Davis, Fred D. (1989) | Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information 
+10.1080/15710880701875068 | Sanders, Elizabeth B.-N. (2008) | Co-creation and the new landscapes of design
+10.22215/timreview/602 | Leminen, Seppo (2012) | Living Labs as Open-Innovation Networks
+10.1111/caim.12061 | Dell'Era, Claudio (2014) | Living Lab: A Methodology between User‐Centred Design and Participatory Design
+10.1215/9780822373780 | Haraway, Donna J. (2016) | Staying with the Trouble
+10.7208/chicago/9780226321394.001.0001 | Hayles, N. Katherine (1999) | How We Became Posthuman
+10.1016/j.sheji.2017.08.001 | Forlano, Laura (2017) | Posthumanism and Design
+10.1080/09518398.2017.1336806 | Ulmer, Jasmine B. (2017) | Posthumanism as research methodology: inquiry in the Anthropocene
+10.1016/j.apenergy.2015.01.002 | Sovacool, Benjamin K. (2015) | Energy justice: Conceptual insights and practical applications
+10.1016/j.enpol.2012.01.044 | Walker, Gordon (2012) | Fuel poverty as injustice: Integrating distribution, recognition and procedure i
+10.1016/j.enpol.2017.03.018 | Heffron, Raphael J. (2017) | The concept of energy justice across the disciplines
+10.1016/j.enpol.2006.12.001 | Wüstenhagen, Rolf (2007) | Social acceptance of renewable energy innovation: An introduction to the concept
+10.2307/30036540 | Venkatesh, Viswanath (2003) | User Acceptance of Information Technology: Toward A Unified View1
+10.5929/2014.4.2.9 | ,  (2014) | Understanding, Selecting, and Integrating a Theoretical Framework in Dissertatio
+10.1016/j.enpol.2010.05.069 | Stephenson, Janet (2010) | Energy cultures: A framework for understanding energy behaviours
+10.3390/su142114009 | Mbatha, Sphokazi Phelokazi (2022) | A Systematic Review on the Application of the Living Lab Concept and Role of Sta
+10.1016/j.erss.2020.101789 | Winkler, Harald (2020) | Towards a theory of just transition: A neo-Gramscian understanding of how to shi
+10.1016/j.erss.2023.103122 | Mirzania, Pegah (2023) | Barriers to powering past coal: Implications for a just energy transition in Sou
+
+C. DOI CHECKS THAT FAILED
+------------------------------------------------------------------
+10.1086/345321 | HTTP Error 429: Too Many Requests
+10.1177/1350508410373519 | HTTP Error 404: Not Found
+
+NEXT STEPS
+------------------------------------------------------------------
+1. Re-run the two failed DOI lookups (429 is rate limiting, not a bad DOI).
+2. Fill the 40 'TBC' rows from the source documents, not from memory.
+3. Map the unmapped verified records to matrix rows or confirm them as
+   theory-only sources used in Chapter 3.
+4. Re-run the generator so all verified records carry a matrix ID.

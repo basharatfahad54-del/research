@@ -1,0 +1,511 @@
+[
+ {
+  "doi": "10.1177/1534484316671606",
+  "ok": true,
+  "title": "Writing Integrative Literature Reviews",
+  "year": 2016,
+  "journal": "Human Resource Development Review",
+  "vol": "15",
+  "issue": "4",
+  "page": "404-428",
+  "authors": [
+   "Torraco, Richard J."
+  ]
+ },
+ {
+  "doi": "10.5465/amr.2007.26586822",
+  "ok": true,
+  "title": "Constructing mystery: Empirical matters in theory development",
+  "year": 2007,
+  "journal": "Academy of Management Review",
+  "vol": "32",
+  "issue": "4",
+  "page": "1265-1281",
+  "authors": [
+   "Alvesson, Mats",
+   "Kärreman, Dan"
+  ]
+ },
+ {
+  "doi": "10.1504/IJIRD.2009.022727",
+  "ok": true,
+  "title": "Living Lab: an open and citizen-centric approach for innovation",
+  "year": 2009,
+  "journal": "International Journal of Innovation and Regional Development",
+  "vol": "1",
+  "issue": "4",
+  "page": "356",
+  "authors": [
+   "Kareborn, Birgitta Bergvall",
+   "Stahlbrost, Anna"
+  ]
+ },
+ {
+  "doi": "10.1191/1478088706qp063oa",
+  "ok": true,
+  "title": "Using thematic analysis in psychology",
+  "year": 2006,
+  "journal": "Qualitative Research in Psychology",
+  "vol": "3",
+  "issue": "2",
+  "page": "77-101",
+  "authors": [
+   "Braun, Virginia",
+   "Clarke, Victoria"
+  ]
+ },
+ {
+  "doi": "10.1016/j.erss.2014.02.003",
+  "ok": true,
+  "title": "What are we doing here? Analyzing fifteen years of energy scholarship and proposing a social science research agenda",
+  "year": 2014,
+  "journal": "Energy Research &amp; Social Science",
+  "vol": "1",
+  "issue": null,
+  "page": "1-29",
+  "authors": [
+   "Sovacool, Benjamin K."
+  ]
+ },
+ {
+  "doi": "10.1111/geoj.12008",
+  "ok": true,
+  "title": "The political economy of the ‘just transition’",
+  "year": 2013,
+  "journal": "The Geographical Journal",
+  "vol": "179",
+  "issue": "2",
+  "page": "132-140",
+  "authors": [
+   "Newell, Peter",
+   "Mulvaney, Dustin"
+  ]
+ },
+ {
+  "doi": "10.1080/01944366908977225",
+  "ok": true,
+  "title": "A Ladder Of Citizen Participation",
+  "year": 1969,
+  "journal": "Journal of the American Institute of Planners",
+  "vol": "35",
+  "issue": "4",
+  "page": "216-224",
+  "authors": [
+   "Arnstein, Sherry R."
+  ]
+ },
+ {
+  "doi": "10.2307/249008",
+  "ok": true,
+  "title": "Perceived Usefulness, Perceived Ease of Use, and User Acceptance of Information Technology",
+  "year": 1989,
+  "journal": "MIS Quarterly",
+  "vol": "13",
+  "issue": "3",
+  "page": "319-340",
+  "authors": [
+   "Davis, Fred D."
+  ]
+ },
+ {
+  "doi": "10.1080/15710880701875068",
+  "ok": true,
+  "title": "Co-creation and the new landscapes of design",
+  "year": 2008,
+  "journal": "CoDesign",
+  "vol": "4",
+  "issue": "1",
+  "page": "5-18",
+  "authors": [
+   "Sanders, Elizabeth B.-N.",
+   "Stappers, Pieter Jan"
+  ]
+ },
+ {
+  "doi": "10.22215/timreview/602",
+  "ok": true,
+  "title": "Living Labs as Open-Innovation Networks",
+  "year": 2012,
+  "journal": "Technology Innovation Management Review",
+  "vol": "2",
+  "issue": "9",
+  "page": "6-11",
+  "authors": [
+   "Leminen, Seppo",
+   "Westerlund, Mika",
+   "Nyström, Anna-Greta"
+  ]
+ },
+ {
+  "doi": "10.1111/caim.12061",
+  "ok": true,
+  "title": "Living Lab: A Methodology between User‐Centred Design and Participatory Design",
+  "year": 2014,
+  "journal": "Creativity and Innovation Management",
+  "vol": "23",
+  "issue": "2",
+  "page": "137-154",
+  "authors": [
+   "Dell'Era, Claudio",
+   "Landoni, Paolo"
+  ]
+ },
+ {
+  "doi": "10.1086/345321",
+  "ok": false,
+  "err": "HTTP Error 429: Too Many Requests"
+ },
+ {
+  "doi": "10.1215/9780822373780",
+  "ok": true,
+  "title": "Staying with the Trouble",
+  "year": 2016,
+  "journal": "",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "authors": [
+   "Haraway, Donna J."
+  ]
+ },
+ {
+  "doi": "10.7208/chicago/9780226321394.001.0001",
+  "ok": true,
+  "title": "How We Became Posthuman",
+  "year": 1999,
+  "journal": "",
+  "vol": null,
+  "issue": null,
+  "page": null,
+  "authors": [
+   "Hayles, N. Katherine"
+  ]
+ },
+ {
+  "doi": "10.1016/j.sheji.2017.08.001",
+  "ok": true,
+  "title": "Posthumanism and Design",
+  "year": 2017,
+  "journal": "She Ji: The Journal of Design, Economics, and Innovation",
+  "vol": "3",
+  "issue": "1",
+  "page": "16-29",
+  "authors": [
+   "Forlano, Laura"
+  ]
+ },
+ {
+  "doi": "10.1080/09518398.2017.1336806",
+  "ok": true,
+  "title": "Posthumanism as research methodology: inquiry in the Anthropocene",
+  "year": 2017,
+  "journal": "International Journal of Qualitative Studies in Education",
+  "vol": "30",
+  "issue": "9",
+  "page": "832-848",
+  "authors": [
+   "Ulmer, Jasmine B."
+  ]
+ },
+ {
+  "doi": "10.1016/j.apenergy.2015.01.002",
+  "ok": true,
+  "title": "Energy justice: Conceptual insights and practical applications",
+  "year": 2015,
+  "journal": "Applied Energy",
+  "vol": "142",
+  "issue": null,
+  "page": "435-444",
+  "authors": [
+   "Sovacool, Benjamin K.",
+   "Dworkin, Michael H."
+  ]
+ },
+ {
+  "doi": "10.1016/j.enpol.2012.01.044",
+  "ok": true,
+  "title": "Fuel poverty as injustice: Integrating distribution, recognition and procedure in the struggle for affordable warmth",
+  "year": 2012,
+  "journal": "Energy Policy",
+  "vol": "49",
+  "issue": null,
+  "page": "69-75",
+  "authors": [
+   "Walker, Gordon",
+   "Day, Rosie"
+  ]
+ },
+ {
+  "doi": "10.1016/j.enpol.2017.03.018",
+  "ok": true,
+  "title": "The concept of energy justice across the disciplines",
+  "year": 2017,
+  "journal": "Energy Policy",
+  "vol": "105",
+  "issue": null,
+  "page": "658-667",
+  "authors": [
+   "Heffron, Raphael J.",
+   "McCauley, Darren"
+  ]
+ },
+ {
+  "doi": "10.1016/j.enpol.2006.12.001",
+  "ok": true,
+  "title": "Social acceptance of renewable energy innovation: An introduction to the concept",
+  "year": 2007,
+  "journal": "Energy Policy",
+  "vol": "35",
+  "issue": "5",
+  "page": "2683-2691",
+  "authors": [
+   "Wüstenhagen, Rolf",
+   "Wolsink, Maarten",
+   "Bürer, Mary Jean"
+  ]
+ },
+ {
+  "doi": "10.2307/30036540",
+  "ok": true,
+  "title": "User Acceptance of Information Technology: Toward A Unified View1",
+  "year": 2003,
+  "journal": "MIS Quarterly",
+  "vol": "27",
+  "issue": "3",
+  "page": "425-478",
+  "authors": [
+   "Venkatesh, Viswanath",
+   "Morris, Michael G.",
+   "Davis, Gordon B.",
+   "Davis, Fred D."
+  ]
+ },
+ {
+  "doi": "10.5929/2014.4.2.9",
+  "ok": true,
+  "title": "Understanding, Selecting, and Integrating a Theoretical Framework in Dissertation Research: Creating the Blueprint for Your “House”",
+  "year": 2014,
+  "journal": "Administrative Issues Journal Education Practice and Research",
+  "vol": "4",
+  "issue": "2",
+  "page": null,
+  "authors": [
+   ", ",
+   "Grant, Cynthia",
+   "Osanloo, Azadeh",
+   ", "
+  ]
+ },
+ {
+  "doi": "10.1177/1350508410373519",
+  "ok": false,
+  "err": "HTTP Error 404: Not Found"
+ },
+ {
+  "doi": "10.1016/j.enpol.2010.05.069",
+  "ok": true,
+  "title": "Energy cultures: A framework for understanding energy behaviours",
+  "year": 2010,
+  "journal": "Energy Policy",
+  "vol": "38",
+  "issue": "10",
+  "page": "6120-6129",
+  "authors": [
+   "Stephenson, Janet",
+   "Barton, Barry",
+   "Carrington, Gerry",
+   "Gnoth, Daniel",
+   "Lawson, Rob",
+   "Thorsnes, Paul"
+  ]
+ },
+ {
+  "doi": "10.1016/j.techsoc.2021.101850",
+  "ok": true,
+  "title": "Development of living labs to support gendered energy technology innovation in poor urban environments",
+  "year": 2022,
+  "journal": "Technology in Society",
+  "vol": "68",
+  "issue": null,
+  "page": "101850",
+  "authors": [
+   "Mukama, Matia",
+   "Musango, Josephine Kaviti",
+   "Smit, Suzanne",
+   "Ceschin, Fabrizio",
+   "Petrulaityte, Aine"
+  ]
+ },
+ {
+  "doi": "10.3390/su142114009",
+  "ok": true,
+  "title": "A Systematic Review on the Application of the Living Lab Concept and Role of Stakeholders in the Energy Sector",
+  "year": 2022,
+  "journal": "Sustainability",
+  "vol": "14",
+  "issue": "21",
+  "page": "14009",
+  "authors": [
+   "Mbatha, Sphokazi Phelokazi",
+   "Musango, Josephine Kaviti"
+  ]
+ },
+ {
+  "doi": "10.1016/j.esd.2025.101777",
+  "ok": true,
+  "title": "Analysis of Barriers to South Africa’s Energy Transition: Perspectives from industry experts",
+  "year": 2025,
+  "journal": "Energy for Sustainable Development",
+  "vol": "88",
+  "issue": null,
+  "page": "101777",
+  "authors": [
+   "Molepo, Pheladi Morufa",
+   "Aboalez, Khaled",
+   "Mathaba, Tebello Ntsiki Don"
+  ]
+ },
+ {
+  "doi": "10.1016/j.procir.2025.01.042",
+  "ok": true,
+  "title": "A Posthumanist Social Approach to Energy Transition",
+  "year": 2025,
+  "journal": "Procedia CIRP",
+  "vol": "135",
+  "issue": null,
+  "page": "8-13",
+  "authors": [
+   "Aboalez, Khaled"
+  ]
+ },
+ {
+  "doi": "10.1016/j.erss.2020.101715",
+  "ok": true,
+  "title": "Mainstreaming gender to achieve security of energy services in poor urban environments",
+  "year": 2020,
+  "journal": "Energy Research &amp; Social Science",
+  "vol": "70",
+  "issue": null,
+  "page": "101715",
+  "authors": [
+   "Musango, Josephine Kaviti",
+   "Smit, Suzanne",
+   "Ceschin, Fabrizio",
+   "Ambole, Amollo",
+   "Batinge, Benjamin",
+   "Anditi, Christer",
+   "Petrulaityte, Aine",
+   "Mukama, Matia"
+  ]
+ },
+ {
+  "doi": "10.1016/j.erss.2022.102525",
+  "ok": true,
+  "title": "Assessing gender and energy in urban household energy transitions in South Africa: A quantitative storytelling from Groenheuwel informal settlement",
+  "year": 2022,
+  "journal": "Energy Research &amp; Social Science",
+  "vol": "88",
+  "issue": null,
+  "page": "102525",
+  "authors": [
+   "Musango, Josephine Kaviti"
+  ]
+ },
+ {
+  "doi": "10.1016/j.erss.2021.102476",
+  "ok": true,
+  "title": "Addressing gender dimensions in energy innovations: A gender analysis framework for informal urban settlements in Africa",
+  "year": 2022,
+  "journal": "Energy Research &amp; Social Science",
+  "vol": "88",
+  "issue": null,
+  "page": "102476",
+  "authors": [
+   "Anditi, Christer",
+   "Musango, Josephine Kaviti",
+   "Smit, Suzanne",
+   "Ceschin, Fabrizio"
+  ]
+ },
+ {
+  "doi": "10.1002/sres.2793",
+  "ok": true,
+  "title": "Modelling gendered innovation for the security of energy services in poor urban environments",
+  "year": 2021,
+  "journal": "Systems Research and Behavioral Science",
+  "vol": "39",
+  "issue": "2",
+  "page": "287-304",
+  "authors": [
+   "Batinge, Benjamin",
+   "Musango, Josephine Kaviti",
+   "Ceschin, Fabrizio",
+   "Ambole, Amollo",
+   "Smit, Suzanne",
+   "Petrulaityte, Aine"
+  ]
+ },
+ {
+  "doi": "10.3390/su14106291",
+  "ok": true,
+  "title": "Supporting the Development of Gendered Energy Innovations for Informal Urban Settlements: GENS Codesign Toolkit for Multistakeholder Collaboration",
+  "year": 2022,
+  "journal": "Sustainability",
+  "vol": "14",
+  "issue": "10",
+  "page": "6291",
+  "authors": [
+   "Petrulaityte, Aine",
+   "Ceschin, Fabrizio",
+   "Musango, Josephine Kaviti",
+   "Mwiti, Betty Karimi",
+   "Anditi, Christer",
+   "Njoroge, Peris"
+  ]
+ },
+ {
+  "doi": "10.7166/31-3-2421",
+  "ok": true,
+  "title": "EXPLORING FACTORS THAT INFLUENCE THE MAINSTREAMING OF GENDERED ENERGY INTERVENTIONS IN POOR URBAN ENVIRONMENTS: A STRUCTURED LITERATURE REVIEW",
+  "year": 2020,
+  "journal": "South African Journal of Industrial Engineering",
+  "vol": "31",
+  "issue": "3",
+  "page": null,
+  "authors": [
+   "Oosthuizen, Lelani",
+   "de Kock, Imke",
+   "Musango, Josephine"
+  ]
+ },
+ {
+  "doi": "10.1016/j.erss.2020.101789",
+  "ok": true,
+  "title": "Towards a theory of just transition: A neo-Gramscian understanding of how to shift development pathways to zero poverty and zero carbon",
+  "year": 2020,
+  "journal": "Energy Research &amp; Social Science",
+  "vol": "70",
+  "issue": null,
+  "page": "101789",
+  "authors": [
+   "Winkler, Harald"
+  ]
+ },
+ {
+  "doi": "10.1016/j.erss.2023.103122",
+  "ok": true,
+  "title": "Barriers to powering past coal: Implications for a just energy transition in South Africa",
+  "year": 2023,
+  "journal": "Energy Research &amp; Social Science",
+  "vol": "101",
+  "issue": null,
+  "page": "103122",
+  "authors": [
+   "Mirzania, Pegah",
+   "Gordon, Joel A.",
+   "Balta-Ozkan, Nazmiye",
+   "Sayan, Ramazan Caner",
+   "Marais, Lochner"
+  ]
+ }
+]

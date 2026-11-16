@@ -1,0 +1,58 @@
+FRONT MATTER (WORKING DRAFT)
+
+[AI-ASSISTED WORKING DRAFT. Front matter is generated from the final document at
+assembly; the lists below reflect the chapters that already exist and must be
+regenerated once Chapters 1, 2 and 5 are finalised. See the numbering note at the end.]
+
+
+LIST OF FIGURES
+
+Figure 4.1  The SETILL conceptual framework ......................................... [page]
+Figure 4.2  Feedback loops in the SETILL model ...................................... [page]
+
+[Placeholders for Chapters 1, 2 and 5: the long-form draft contains a design
+figure (Figure 1.1), an energy-chain figure (Figure 2.1), a framework figure
+(Figure 3.1), a justice-dimensions figure (Figure 3.2) and a timeline figure
+(Figure 5.1). Final numbering must be decided at assembly; do not carry two
+numbering schemes into the submitted document.]
+
+
+LIST OF TABLES
+
+Table 3.1   Summary assessment of the theories ...................................... [page]
+Table 3.2   Theory-to-research-question alignment matrix ............................ [page]
+Table 4.1   Constructs of the SETILL model .......................................... [page]
+
+[Placeholders for Chapters 1, 2 and 5: Tables 2.2, 2.3, 3.4, 4.1-4.3, 5.7, 6.1
+and 8.1 exist in the long-form draft and must be renumbered at assembly.]
+
+
+LIST OF ABBREVIATIONS AND ACRONYMS
+
+CBO        Community-based organisation
+DRM        Design Research Methodology
+LPG        Liquefied petroleum gas
+PV         Photovoltaic
+RQ         Research question
+SETILL     Systemic Living Lab for Just Energy Transition
+TAM        Technology Acceptance Model
+
+[Add further acronyms when Chapters 1, 2 and 5 are finalised. Do not list an
+acronym that does not appear in the final text; the school's reviewers check this.]
+
+
+NUMBERING NOTE
+
+Two numbering schemes currently exist in the workspace:
+
+1. The long-form draft in `proposal/part1_intro.md` ... `part6_end.md` uses a
+   document-wide sequence (Figure 1.1, 2.1, 3.1, 3.2, 4.1, 5.1; Tables 2.2, 2.3,
+   3.4, 4.1-4.3, 5.7, 6.1, 8.1). It was written against a 7-chapter architecture
+   (Option B), not the adopted 5-chapter architecture (Option A).
+
+2. The new chapter drafts (`proposal_v3/03...` and `final_deliverables/08...`) use
+   chapter-based numbering (Table 3.1, 3.2; Table 4.1; Figures 4.1, 4.2).
+
+At assembly, adopt one scheme (chapter-based is recommended for a 5-chapter
+proposal), renumber every caption and in-text cross-reference, and regenerate this
+front matter from the final document. Until then these lists are indicative only.

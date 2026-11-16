@@ -1,0 +1,140 @@
+CHAPTER 4: CONCEPTUAL FRAMEWORK — THE SETILL MODEL
+
+[AI-ASSISTED WORKING DRAFT. See the AI-use note at the end of this file.]
+
+4.1 FROM THEORY TO MODEL
+
+Chapter 3 established the theories and justified their selection. It ended with five propositions: that acceptance is emergent rather than individual; that end-user agency is distributed; that justice depends on who and what are admitted to the intra-action; that a Living Lab is an apparatus that produces the phenomena it studies; and that acceptance and justice are related but not identical. Those propositions are abstract. They say nothing about which constructs the researcher will examine in Tzaneen, how the constructs are related, or how the model will be used in analysis.
+
+This chapter does that work. It constructs the researcher's own model of the specific problem and calls it SETILL: a Systemic Living Lab for Just Energy Transition. Nothing in the model is borrowed whole from Chapter 3: the five propositions are treated as starting points and converted into questions that the case can answer. The model is therefore local and revisable, bounded by the Tzaneen case and the community-scale biogas focus, whereas Chapter 3 is abstract and portable.
+
+4.2 WHAT THE FRAMEWORK IS AND IS NOT
+
+The framework is a structured account of the elements that have to be aligned for a community-scale energy innovation to be taken up, sustained and judged fair in an informal settlement. It is intended to be used in three ways: as a design heuristic for the project team, as an analytical frame for the data, and as an evaluation instrument.
+
+It is not a theory of everything. It does not explain national energy politics, model the electricity market or predict adoption rates. It is deliberately local. Its claim is that the local configuration is where the fate of a decentralised technology is decided, and that the configuration can be described systematically without pretending to capture the whole system.
+
+It is not a checklist. Each construct raises a question that has to be answered in the specific case. The answers will differ between a settlement with yard space and one without, between a settlement with an organised residents' structure and one where the only organised structure is the ward committee, and between households that own their dwelling and households that rent a room. The contribution of the framework is the set of questions and their relationships, not a set of answers.
+
+4.3 KEY CONSTRUCTS
+
+Table 4.1 defines the constructs. The third column states whether a construct is theory-derived (established in the literature) or proposed by the researcher as a specific relationship to be examined. The distinction prevents the model from presenting the researcher's expectations as established theory.
+
+TABLE 4.1: CONSTRUCTS OF THE SETILL MODEL
+
+Construct                     Definition                                                                                 Status
+C1 Configuration              The socio-material arrangement of dwelling, fuel, appliance, water, space, tenure,              Theory-derived
+                              infrastructure, institutions and practice in which a technology operates.
+C2 End-user agency            The capacity of household members to act, choose, refuse and contribute, distributed across          Theory-derived
+                              people, artefacts and institutions rather than located in the individual.
+C3 Participation              The involvement of end-users in decision-making, co-design, co-creation, co-research,                Theory-derived
+                              prototyping and testing.
+C4 Acceptance                 The emergent, provisional and contested stabilisation of a technology in use, not merely            Theory-derived
+                              an intention to use it.
+C5 Energy justice             The distribution of benefits and burdens, the fairness of procedure, and the recognition            Theory-derived
+                              of affected actors, extended to material and ecological relations.
+C6 Energy security            The reliable availability of sufficient energy services to sustain household life and              Theory-derived
+                              livelihood.
+C7 Energy poverty             The inability to obtain adequate energy services, produced by the interaction of income,           Theory-derived
+                              tariff, dwelling, infrastructure and practice.
+C8 Living Lab apparatus       The arrangement of people, methods, instruments and settings through which SETILL                   Theory-derived
+                              produces and observes its experiments.
+C9 Reflexivity                The practice of examining the Lab's own agential cuts: who is included, what counts                Theory-derived
+                              as evidence, and which infrastructure is treated as fixed.
+C10 Just transition outcome   The extent to which the configuration shifts from potestas toward potentia and improves           Proposed
+                              distribution, procedure and recognition without shifting costs onto those least able to bear them.
+
+4.4 PROPOSED RELATIONSHIPS
+
+The relationships below are the researcher's proposed relationships. They are derived from the theory and the literature, but they are not established findings. Each is stated so that it can be examined, qualified or rejected in the empirical work.
+
+R1. Participation and acceptance. Participation is proposed to influence acceptance, but not directly or uniformly. Participation changes acceptance when it changes the configuration: when it alters the technology, the service arrangement, the cost incidence or the rules of use. Participation that changes only what people say, without changing what they can do, is proposed to have little durable effect. This is the central relationship of RQ2 and RQ3.
+
+R2. Acceptance and sustained use. Acceptance is proposed to be sustained when the technology fits the existing configuration and when the configuration adapts to the technology. A technology that requires water, space or labour that the household does not have may be accepted initially and abandoned later. This relationship connects RQ3 to RQ4.
+
+R3. Justice and acceptance. Justice is proposed to moderate the relationship between acceptance and durability. High acceptance with poor distributional or recognition outcomes is proposed to be unstable over time, even if it looks successful in the short term. This is the substance of proposition P5 in Chapter 3.
+
+R4. Agency and participation. End-user agency is proposed to be enabled or constrained by the material conditions of participation: time, transport, information, language, tenure security, care responsibilities and the behaviour of intermediaries. This relationship explains why formal participation can coexist with tokenism.
+
+R5. The Lab as apparatus. The Living Lab is proposed to shape the phenomena it observes. The choice of site, participants, prototype, measurements and success criteria is an agential cut. Reflexivity about those cuts is proposed to be a condition of validity, not an optional extra.
+
+R6. Feedback and adaptation. The model proposes two feedback loops. A learning loop runs from monitoring and evaluation back into the design of the prototype and the participation process. A justice loop runs from the justice assessment back into the choice of mechanisms and the distribution of costs. The loops are shown in Figure 4.2.
+
+R7. Scaling and durability. Durability is proposed to depend on local ownership, maintenance capability, spare-part availability and the fit between the technology and the settlement's existing waste, water and tenure arrangements. Scaling is proposed to depend on whether the configuration can be reproduced, not only on whether the technology works.
+
+R8. Context and variation. The model proposes that the same intervention will produce different outcomes across sites because the configuration differs. This is why the model is designed for comparison within the case, not for statistical generalisation.
+
+4.5 THE SETILL COMPONENTS
+
+The ten components below operationalise the constructs. They are not stages; they run in parallel and feed one another. They are coded LL1-LL10 (Living Lab components) so that they are never confused with the constructs C1-C10 in Table 4.1.
+
+LL1 - Boundary critique and stakeholder mapping asks who and what is inside the system, whose interests the boundary serves, and which actors and materials are excluded.
+
+LL2 - Situated diagnosis asks what the current configuration is: fuels, appliances, water, space, tenure, income, infrastructure, institutions and practices. It treats the diagnosis as situated knowledge, not as a neutral baseline.
+
+LL3 - Participation architecture asks how end-users are involved, at which points, with what authority, and with what material support. It specifies the difference between consultation, co-design, co-research and testing.
+
+LL4 - Configuration design asks what has to change together for the technology to work: the artefact, the service arrangement, the dwelling, the water supply, the maintenance arrangement and the rules of use.
+
+LL5 - Governance and ownership asks who decides, who owns, who maintains and who has the authority to change the arrangement.
+
+LL6 - Cost incidence and financing asks who pays, when, and with what consequences for household cash flow.
+
+LL7 - Capability and local enterprise asks what skills, tools and enterprises are needed to sustain the technology, and who is included in that capability.
+
+LL8 - Justice evaluation asks how distribution, procedure and recognition are assessed, and how material and ecological relations are included.
+
+LL9 - Reflexive monitoring asks what the Lab is learning, what it is excluding, and how its own cuts are recorded and contested.
+
+LL10 - Exit, durability and scaling asks what happens when the project ends, and whether the configuration can be sustained or reproduced.
+
+4.6 FIGURES
+
+FIGURE 4.1: THE SETILL CONCEPTUAL FRAMEWORK
+
+Figure 4.1 is provided as an editable SVG file:
+final_deliverables/assets/fig4_1_setill_framework.svg
+
+Description. The figure reads from left to right. The left panel contains the context constructs: configuration (C1), energy poverty (C7) and energy security (C6). The centre panel contains the intervention constructs: the Living Lab apparatus (C8), participation (C3) and end-user agency (C2). The right panel contains the outcome constructs: acceptance (C4), energy justice (C5) and just transition outcome (C10). Reflexivity (C9) sits above the centre as a cross-cutting practice. Arrows show the proposed relationships R1-R8. A dashed boundary around the whole figure marks the boundary of the case and signals that the boundary is itself an object of critique (LL1).
+
+Notes.
+1. Rectangles are constructs; arrows are proposed relationships, not confirmed causal paths.
+2. The dashed boundary is not a system boundary in the functionalist sense. It marks the provisional boundary drawn for this study and is itself examined under LL1.
+3. The figure distinguishes theory-derived constructs (solid outline) from the proposed outcome construct C10 (dashed outline).
+4. The figure is a heuristic for analysis. It is expected to be revised after the empirical work.
+
+FIGURE 4.2: FEEDBACK LOOPS IN THE SETILL MODEL
+
+Figure 4.2 is provided as an editable SVG file:
+final_deliverables/assets/fig4_2_setill_loops.svg
+
+Description. The figure shows the learning loop and the justice loop, using the component codes LL1-LL10. The learning loop runs from LL9 (reflexive monitoring) to LL4 (configuration design) and back to LL3 (participation architecture). The justice loop runs from LL8 (justice evaluation) to LL6 (cost incidence) and LL5 (governance and ownership), and back to LL9. Reinforcing and balancing loops are labelled. Construct C9 (reflexivity) is the cross-cutting practice that connects the two loops.
+
+Notes.
+1. The loops are proposed, not observed. They are hypotheses about the dynamics of the configuration.
+2. A reinforcing loop indicates that a change amplifies itself; a balancing loop indicates that a change is counteracted. The empirical work will examine whether the loops operate as proposed.
+
+4.7 HOW THE FRAMEWORK WILL BE USED
+
+The framework will be used in three ways. First, it structures the data collection: each construct corresponds to a set of questions in the interview guides, the workshop protocols and the observation schedule. Second, it structures the analysis: the data will be coded against the constructs, and the relationships R1-R8 will be examined for support, qualification or contradiction. Third, it structures the evaluation: the justice assessment (C8) and the reflexive monitoring (C9) provide the criteria by which the Lab's own performance is judged.
+
+The framework does not determine the findings. It makes the findings comparable and contestable. A relationship that is not supported is as informative as one that is, because it shows where the theory does not travel.
+
+4.8 BOUNDARIES AND REVISION
+
+The framework is bounded in four ways. It is bounded by the case: one settlement in Tzaneen, one technology focus (community-scale biogas), and one proposal-stage design. It is bounded by the constructs: it does not model the national electricity market, municipal finance or party politics, although it records their effects. It is bounded by the data: it will be revised in response to what the empirical work shows. And it is bounded by the researcher's position: the model is an interpretation, not a neutral description, and its own cuts are part of what it studies.
+
+The framework is therefore expected to change. The version presented here is the starting model for the proposal. The final model will be reported in the thesis, with a record of what changed and why.
+
+4.9 CHAPTER SUMMARY
+
+This chapter has converted the theoretical framework into a researchable model. It defined ten constructs, distinguished theory-derived constructs from the researcher's proposed relationships, stated eight proposed relationships, described the ten SETILL components and presented two editable figures. The model is local, provisional and designed to be revised by the case. Chapter 5 sets out the methodology through which the model will be examined.
+
+END OF CHAPTER 4
+
+AI-USE NOTE
+
+This is an AI-assisted working draft. The school guideline prohibits AI tools
+for generating or rephrasing text, and decision D10 (written supervisor/faculty
+position) is outstanding. The candidate must review, revise and take authorship
+of every sentence and must disclose assistance as required before submission.

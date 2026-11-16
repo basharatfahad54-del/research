@@ -1,0 +1,2189 @@
+
+########## PDF PAGE 147 ##########
+Page | 141 
+ 
+Chapter 2 
+Research Methodology and Process 
+2.1 Introduction 
+This chapter provides information on the research methodology, methodological procedures 
+and strategies used in conducting this research study. Additionally, there is a consideration of 
+the procedures of validity threat management and ethics of the study. The Living Lab concept 
+happens to be a new field in the energy sector and would need suitable methods. 
+Imperatively, the choice of the methods is not dependable on the research questions only, but 
+on the state of the specific research and the conditions to obtain the data needed (Maxwell, 
+1996). This implies that making the choices for the methodology is often not based on the best 
+form of practices used in the case but depends basically on the familiarities and habits in the 
+field. Therefore, the decision of the methodologies does not rule out the fact that they can be 
+mixed to answer the research questions. This can also be referred to as the multiple research 
+approach (Miles and Huberman, 1994; Yin, 2009). Therefore, the methodology can go from 
+the empirical to a non-empirical and desktop studies approach which will include model-
+building, and with an applied qualitative grounded theory approach (creation of a theory that 
+is grounded in the field of study), quantitative approach, Ethnographic approach (which 
+explains the social and cultural connection between a group of individuals) (Nicholls, D., 2009) 
+and the (DRM) - Design Research Methodology framework (which is a design support 
+framework used in this research study for the development of the energy technology design) 
+(Blessing & Chakrabarti, 2009).   
+The techniques for data gathering involved primary and secondary data collection which will 
+include the perusal (library search) – data mining, observations (field research) - case study 
+(using the Living Lab network to the poor informal settlements as case studies), questioning 
+(field research) – interviews, surveys and questionnaires, the literature review, focus groups, 
+document reviews, and workshop. The data analysis involved qualitative analysis, comparative 
+analysis, stakeholder mapping, system dynamics, content analysis, narrative analysis, thematic 
+analysis, coding, and memos. Some of the core methods to be used will be explained in this 
+chapter relating to the research questions. 
+Furthermore, the research will follow a maximum variation sampling approach which can 
+allow for the comparison and contrasting of different cases for theory-building (Eisenhardt, 
+1989; Kathleen and Melissa, 2007). The sampling technique will be a non-random probability 
+
+########## PDF PAGE 148 ##########
+Page | 142 
+ 
+sampling. Also, data such as secondary data and census data relating to the survey of the 
+household and others will be generated from the municipalities or the local context to 
+understand energy behaviours in the case study. The components of the research study would 
+involve the following: 
+❖ Theory building research – 40% 
+❖ Theory testing research – 20% 
+❖ Theory application research – 40% 
+Based on this, a mixed-method research design will be satisfactory for this study, because 
+findings cannot be accurately preconceived, and it will provide an efficient inquiry framework 
+to solve the problems. However, there is caution against methodology selections before 
+answering more basic questions that are connected to the paradigm (Guba & Lincoln, 1998). 
+This research was carried out in line with the University of Pretoria’s policy on Research Ethics 
+(see appendix -). Therefore, to contribute to the suitability of the methodologies selected for 
+answering the research questions; and the philosophical foundations for this research study; the 
+DRM framework and the grounded theory methodology relevant to the philosophical 
+foundations, the issues of ethics in the research and trustworthiness will be discussed in this 
+chapter. 
+ 
+2.2 The philosophical basis for this research study 
+This section aims to give insights into the main philosophical basis that is important to the 
+management of the research design. Furthermore, to adequately address the research questions 
+it is critical to understand the philosophical basis of the research study. 
+Easterby-Smith, Thorpe & Jackson (2012:56), indicated the three reasons in management 
+research why the philosophical basis of the research is important, which are that; “it can assist 
+to clarify research design by providing adequate answers to the principal questions being 
+investigated in the research, it can assist the researcher to identify which designs might work 
+and which might not, and it can assist the researcher to recognise and create better designs that 
+might be out of his/her experience.” 
+The philosophical basis for this research study can be seen through the argument of the 
+ontology and epistemology basis (Ponterotto, 2005; Eriksson & Kovalainen, 2011). While 
+
+########## PDF PAGE 149 ##########
+Page | 143 
+ 
+ontology gives insight into the nature of existence and reality, epistemology gives insight into 
+the right processes of exploring the world’s nature. This philosophical basis was considered in 
+this research study to achieve the desired research methodology and techniques to answer the 
+research questions. This is because as cited by Onyeagoziri (2020), the outcome of the 
+philosophical basis is important to the various methods used in conducting the research and to 
+conclude on the phenomenon being studied. The philosophical assumptions should be 
+understood to improve the research quality and the researcher’s creativity (Easterby-Smith, 
+Thorpe & Jackson, 2012). 
+Figure 2.1 below explains the relationship between the ontology, epistemology, methodology 
+and the methods and techniques; 
+Figure 4.1: The relationships for understanding the ontology, epistemology, methodology and 
+techniques. 
+Figure 4.1 represents the hierarchy between the ontology, epistemology, methodology and 
+methods and techniques that were applied to this study, and table 4.1 below shows their 
+importance. The initial ring describes the clear elements of the methods and techniques 
+obtained in the study (in-depth-interviews), which are decisive to the development of the 
+perpetual, invisible methodology, epistemology and ontology assumptions. 
+Table 4.1: The substance of the connection between ontology, epistemology, methodology and 
+the methods and techniques 
+
+########## PDF PAGE 150 ##########
+Page | 144 
+ 
+(Easterby-Smith et al. 2012:60). 
+Therefore, relating to this research study, the philosophical basis of epistemology, paradigm, 
+methodology and methods and techniques adapted to address the research objectives are 
+explained below. The ontology philosophical area (Zlatanova, 2007; Gray, 2014) is defined as 
+a comprehensive precise specification of combined knowledge (Gruber, 1995), which led to 
+the epistemological basis to focus on the study as a structure which gives an insight into social 
+reality was not discussed further in this research study as the focus of the research is fully on 
+the epistemological philosophical stance. For little understanding of the ontological 
+assumptions in the social world, the ontology is distinguished by a ‘nominalist view’ (Cohen, 
+Manson & Morrison, 2000), which indicates that “objects of thoughts are merely words or that 
+social reality is a product of individual consciousness and the ‘realist view’ that objects have 
+an existence independent of a knower” (Manson & Morrison, 2000 in Shaw, 2013:42). 
+2.2.1 
+The epistemological basis of the research study 
+Epistemology stance is about various processes of exploring the nature of the social and real 
+world. Epistemology has shaped a clear two incompatible views on how this study should be 
+done, which are ‘positivism and social constructionism’ (Easterby-Smith et al. 2012). These 
+two incompatible points of view are discussed in section 4.2.2 and represented in Table 4.2 
+below. 
+For this research study, it is required to understand the paradigms, their outcomes, and their 
+aspects. The ontology which was mentioned previously was detached from the epistemology 
+during this study (Fairclough, 2005), due to the argument that the epistemology obscures the 
+awareness of the nature of reality, which is termed the ‘epistemic fallacy’ (Fairclough, 2005 & 
+Bhaskar, 1978). Also, Shaw (2013:47) indicated that “a constructivist epistemological position 
+is not incommensurate with critical realism.” 
+
+########## PDF PAGE 151 ##########
+Page | 145 
+ 
+Furthermore, epistemology gives an insight into how one obtains knowledge, and that a ‘critical 
+realist’ can be seen as a ‘non-positivist’. The goal of epistemology is the relationship between 
+the participants and researchers of the study (Ponterotto, 2005). The above concepts further 
+strengthen the methodological section of this study. 
+Sayer (2000, in Bhaskar, 1986:72) indicated that “…critical realism accepts ‘epistemic 
+relativism’, which gives the perspective that the world can only be known in accessible 
+explanations or discourses, but it refuses ‘judgmental relativism’, which gives the perspective 
+that one cannot judge between various discourses and decide that some accounts are better than 
+others”. To substantiate the above, it was also agreed and explained by Al-Amoudi and 
+Willmott (2011:42) “…that epistemological relativism is a philosophical theory of knowledge 
+that moderates our knowledge, while epistemic relativism explains that the existing knowledge 
+or discourse does the moderating.” This is important to this research, although, in this section, 
+the focus is not on critical realism. 
+Therefore, research studies on engineering or management since the year 1980 have given a 
+state-of-the-art switch from ‘positivism’ to the ‘constructionism’ standard, and some studies 
+intentionally mix research methods from both to conduct research (Easterby-Smith et al. 2012); 
+however, this study has focused more on the ‘constructionist’ stance to conduct this research 
+study. Therefore, the chosen stance of epistemology for this study was done because of its 
+relationship with the methods adopted for this study. Below are the conflicting inferences of 
+‘positivism’ and ‘constructionism’. 
+
+########## PDF PAGE 152 ##########
+Page | 146 
+ 
+Table 4.2: The incompatible “implications of positivism and social constructionism”
+Source: Easterby-Smith et al (2012:59). 
+2.2.2 
+The research study paradigms 
+The phrase paradigm was used by Kuhn (1962) in his study to interpret the development of 
+scientific discoveries in observations, instead of how they are ultimately metamorphosed in 
+scientific journals and academic books. Maxwell (2005) while referring to the historian 
+Thomas Kuhn indicated that the use of a research paradigm is paramount and hypercritical. 
+Therefore, the chosen research techniques, research samples and methodologies can be 
+determined by deciding the types of paradigms used, which permits the anthologies to see the 
+study the way the academicians view it (Lincoln & Denzin, 2000). 
+Furthermore, researchers out of various paradigms, tend to analyse and select a precise 
+paradigm depending on the research study being carried out (Ponterotto, 2005). However, as 
+indicated by Lincoln and Guba (1985), there are four typical paradigms which are categorised 
+as being effective, and these paradigms are ‘positivism’, ‘post-positivism’, ‘constructivism-
+interpretivism’ and ‘critical ideological theory’. These four paradigms will be briefly explained 
+below. 
+It is suggested that methods are connected to the paradigms; thus, this study might adopt the 
+paradigm crossing to attain the method and answer the research questions, because an improved 
+stance may arise by the use of the paradigm crossing (Yearworth and White, 2013). This 
+permits the researcher to investigate the links between the subjective approach and hard 
+approach (quantitative) regarding the constructivism-interpretivism frame (White, 2006). What 
+
+########## PDF PAGE 153 ##########
+Page | 147 
+ 
+this means is that the research may involve a mixed methodology that might require a paradigm 
+crossing. The four paradigms are discussed briefly below: 
+i. Positivism: The aim of this paradigm is essentially to predict and manage the classified 
+phenomena being studied (Ponterotto, 2005). This paradigm is determined by the ‘hypothetico-
+deductive’ method which is related to the quantitative research method in which the hypothesis 
+is analysed (Guba and Lincoln, 1994; McGrath & Johnson, 2003). Furthermore, Easterby-
+Smith et al. (2012:57) indicated that “the main concept of positivism shows the existence of 
+the social world and indicates the measurement of its properties through objective methods, 
+instead of being theorised subjectively through reflection or institution and sensation.” 
+Therefore, this paradigm can be adopted for this research study based on its components and 
+functionality, and if there is need for paradigm crossing. 
+ii. Post-positivism: This paradigm is moderately adaptable to the grounded theory 
+methodology (Baskerville & Pries-Heje, 1999). The post-positivism paradigm indicates that 
+truths are certainly not fully acknowledged, however, it can be accessed through a research 
+study (Lincoln & Guba, 1985), or that the objective phenomenon is certainly not fully able to 
+capture the entire reality (Lincoln & Guba, 2000). Additionally, the post-positivism paradigm 
+is focused on the validation and exploration of theories. The positivism and post-positivism 
+paradigms are interested in the explanation of a phenomenon which are often attributed to the 
+quantitative research methodology (Lincoln and Guba., 1985). 
+iv. Critical-ideological theory: This research paradigm refers to a social science system for 
+the investigation of the indicated theories to address the current problems and research gaps 
+(Alderson, 2016). The critical ideology paradigm influences the understanding of the world to 
+allow for the development of forces to innovate and emancipate control (Ponterotto, 2005) in 
+social settings. This has various significance in the management and engineering research 
+study. Easterby-Smith et al (2012:74), explained that “critical theory creates a questioning eye 
+on the reasons and effect of powerful individuals and groups which in an emancipatory process 
+gives a concern for the notice of the least powerful individuals.” This paradigm was not 
+considered for this research study. 
+iii. Constructivism-interpretivism: This research paradigm accepts various and identical 
+rational realities (Schwandt, 1994) which gives an insight into the theory of acceptance of the 
+world by the experiences of human factors which is published through the use of languages. 
+This research paradigm allows for the understanding of the phenomena by the researchers 
+
+########## PDF PAGE 154 ##########
+Page | 148 
+ 
+through connections with the researchers and the phenomenon being studied or examined 
+(Ponterotto, 2005). This paradigm is often used in qualitative research methods, which is 
+positioned to the ‘subjectivist’ of this research study. This paradigm is satisfactorily chosen for 
+this research study because it is workable and acceptable for the generation of theories. The 
+rationale for choosing the constructivism-interpretivism paradigm for this study will be 
+explained in section 4.2.3 below. 
+2.2.3 
+Relevance of the constructionist research design for this study 
+The primary objective of this research study is, ‘to develop a Systems Living Lab that focuses 
+on gender designs for the development of energy technology innovation up to a pilot scale 
+through the involvement of end-users and other stakeholders in real-life scenarios to achieve 
+the security of energy services’. This indicates that this research study is not focused on 
+bringing liberation and power to the individuals in the communities, which can be ascribed to 
+the ‘critical theory’ paradigm, but focuses on the people’s interpretations and procedures to 
+answer the research questions, which can be ascribed to the ‘constructivism-interpretivism’ 
+paradigm. Therefore, in this research study, ‘constructionism’ is associated with the processes 
+of building the theoretical model, while ‘interpretivism’ is associated with the evaluation of the 
+processes of building the theoretical model. 
+Furthermore, the early stages of the ‘constructionist research design’, show theories with the 
+absence of clear truth; therefore, it is the responsibility of the researchers to verify how various 
+claims for truth and reality are constantly designed into existence (Easterby-Smith et al. 2012). 
+This is why there are different types of methodologies which can be used in conjunction with 
+the constructionist paradigm than the other epistemologies (Easterby-Smith, et al. 2012). 
+Therefore, this research study has considered the grounded theory, which is frequently 
+associated with the constructionist designs as the method to be used to direct this research 
+study. The constructionist design can also be seen as a design where the researchers recognize 
+the world through the mental model framework (Alesandrini & Larson, 2002). Figure 4.2 
+explains further the elements of the mental model framework for proper understanding. 
+
+########## PDF PAGE 155 ##########
+Page | 149 
+ 
+ 
+Figure 4.2: The (the iceberg) mental model: “A tool for guiding systemic thinking” (Northwest 
+Earth Institute, n.d:2). 
+The mental model assists with retaining the structures to provide their objectives, and they are 
+the ‘values’, ‘beliefs’ and ‘attitudes’ to make the structure exactly as it is (Kim, 1996). 
+Furthermore, constructionism in this research can happen when the end-users, other 
+stakeholders or individuals in the environment engage in creating real-world considerable 
+objectives. This means that constructionism is connected to empirical knowledge derived from 
+Piaget’s ‘epistemological constructivism’ theory (Duijnhoven & Neef, 2014). Some studies 
+have attempted to explain constructionism as knowledge derived from developing methods, 
+but Papert & Harel (1991) indicated that constructionism should have various elements of 
+features in its evidence rather than being knowledge derived from methods. 
+Also, the constructivism-interpretivism paradigm permits the researchers and participants of 
+the research study to have adequate real communication and cooperation and lengthening the 
+field study period which can be attributed to this research study (Lincoln & Guba, 1985). This 
+was the reason the data collection procedures (interviews and observations) for the research 
+study were preferred by the constructivist-interpretivist paradigm. In the gender and energy 
+study, the paradigms to choose are being argued in philosophy, hence, there are no direct 
+
+########## PDF PAGE 156 ##########
+Page | 150 
+ 
+addresses to the paradigms to be selected, thus, selecting a paradigm can be connected to the 
+subjective research beliefs and interests of the researchers and stakeholders (Christophe et al. 
+2004). As stated by Christophe et al (2004:8), “an author found critical theory to provide a 
+good framework for his research and another author found radical constructivism theory of 
+knowledge as a useful approach for the questions that came up throughout his projects,” 
+Therefore, the significance of the paradigms would not cancel each other. 
+Therefore, the constructivism-interpretivism paradigm is useful and chosen as an appropriate 
+paradigm for this study from the subjective beliefs and interests of the researchers and 
+stakeholders in this research study (Christophe et al. 2004), and the above clarifications aims 
+to characterise the evidence for choosing the constructivism-interpretivism paradigm as the 
+epistemological stance or basis for this study. 
+ 
+2.3 The research methodology stance 
+The nature of this research problem is systemic; thus, this study requires a ‘systemic 
+methodology’, to advance the problem-solving circumstances and assist with progressing the 
+proficiency of the research participants. Several researchers when it comes to research designs 
+have conducted research with the use of a logical combination of elements of various 
+methodology research paradigms to address research problems or questions (Sharp, 1998; 
+Mingers, 2000; Ackroyd, 2004). 
+When referring to design methodologies, there is an adopted design research methodology used 
+to collaborate with the methodologies and techniques used to conduct this research study. This 
+design research methodology (DRM) (Blessing and Chakrabarti, 2009), was selected for this 
+research study because the focus of this study was also on designing to a pilot scale an energy 
+technology innovation with gender designs to advance energy security. The ‘relativist’ and 
+‘subjective’ stance examined in this study gave the stance for adopting the DRM for this study. 
+The DRM was selected for this research study because it gives the systematic investigation 
+framework to tackle the research problems which has a link to the constructivist-interpretivist 
+paradigm. The DRM has been adopted for several studies as a framework for the development 
+of design tools in engineering education and for the development of a co-design toolkit for 
+participant collaborations (Calderon, 2010; Petrulaityte et al., 2022). 
+Therefore, according to Calderon (2010:1), “a design research methodology is an approach and 
+a set of supporting methods and guidelines to be used as a framework for doing design 
+
+########## PDF PAGE 157 ##########
+Page | 151 
+ 
+research”. Thus, this study will be designing and testing an energy technology with gender 
+designs, in collaboration with several stakeholders and has selected the DRM as the framework 
+to support the various methods used, by assisting in the planning, prototyping and testing or 
+implementation of the designed energy innovation. The DRM can assist in making the design 
+processes of energy technology innovation and this research studies more efficient if used 
+according to the principles (Calderon, 2010). 
+Imperatively, the development of gender-inclusive biogas technology, a key innovation 
+resulting from this research study, was accomplished through the application of Design 
+Research Methodology. This approach was informed by insights gleaned from grounded theory 
+techniques, literature reviews, semi-structured interviews, and ethnographic fieldwork 
+conducted in two informal settlements. 
+Furthermore, according to Blessing and Chakrabarti (2009) and Calderon (2010), the DRM 
+framework comprises four stages, which are the ‘Research Clarification (RC)’, ‘Descriptive 
+Study 1 (DS-1)’, ‘Prescriptive Study (PS)’ and ‘Descriptive Study II (DS-II). Thus, figure 4.3 
+below shows the relationship between the stages and basic means and deliverables derived 
+from the stages. The strong arrows showing in-between the stages or blocks represent the 
+fundamental systems flow and the dotted or weak arrows represent various monotony. 
+Therefore, the DRM representation below will generally illustrate the details involved during 
+the design and development of the energy technology innovation and the SETILL theoretical 
+model by showing the plans or application procedures down to the testing phase. This implies 
+that the research methods and data collection were conducted following the Design Research 
+Methodology (DRM) which happens to be a framework for design support development 
+(Blessing and Chakrabarti, 2009; Petrulaityte et al., 2022). The research activities following 
+the DRM are illustrated below and also represented in Figure 4.3 below. 
+
+########## PDF PAGE 158 ##########
+Page | 152 
+ 
+ 
+Figure 4.3: DRM (Design Research Methodology) used to develop and assess the energy 
+technology innovation with gender design. 
+The DRM framework in Figure 4.3 above has given an insight into the planned deliverables 
+for each stage. The details of the information used to obtain the deliverables are also presented 
+in Figure 4.3 which has led to the design processes used in this study to develop the energy 
+technology innovation. Thus; the stages are described below: 
+2.3.1 
+Research clarification (RC) 
+This stage can also be referred to as the ‘literature analysis. This stage aims to understand and 
+critically analyse the theory and previous research done in the area of the topic being studied 
+and relating to the research problems. This stage also gives an insight into the different designs 
+done in recent and previous research to support gendered energy technology innovations 
+(Petrulaityte et al., 2022). The main search idea was on ‘systems thinking’, ‘systems Living 
+Lab’, ‘Living Labs’, ‘gendered Living Labs’, ‘energy stakeholders and end-users, ‘energy 
+Living Labs’, ‘poor informal settlements’, ‘energy security’, ‘women empowerment’, ‘energy 
+and gender’, ‘equality and women’ ‘design and energy innovations’ etc. The search ideas were 
+done and analysed from Google Scholar, Library Genesis, university databases and websites 
+of existing Living Labs focused on the context of the study, gender and energy technology 
+innovation designs, women empowerment and equality, and the systems thinking approaches 
+mainly relating to the research questions of this study. 
+
+########## PDF PAGE 159 ##########
+Page | 153 
+ 
+Furthermore, the search ideas were targeted mostly at the stakeholders involved in this study 
+and in the design of the energy technology innovation and procedures on how to factor gender 
+into this study (Petrulaityte et al., 2022). This stage also made it possible for us to understand 
+the importance of facilitation and communication between the stakeholders and other research 
+participants (Kankainen et al., 2012; Trischler et al., 2018; Greene et al., 2020). 
+2.3.2 
+Descriptive study 1 (DS-1) 
+This stage can also be referred to as the ‘empirical data analysis’. The semi-structured 
+interviews were with the informal settlements used as case study, the end-users, especially the 
+women, the staff of the private companies and government officials. We also realised that the 
+gender aspect in energy and Living Lab concepts is lacking in private companies, and the 
+implementation of energy designs relating to gender is also limited (Ceschin et al., 2023). 
+According to Raymond (1992:22), “The interview is a discussion between two people where 
+one of the people tries to conduct the discussion to acquire information for a particular reason”. 
+Various types of interviews could be used, which are structured interviews, unstructured 
+interviews and semi-structured interviews (Gill, Stewart, Treasure and Chadwick, 2008). 
+Therefore, the semi-structured process is an interview process with various substantial 
+questions that characterise the sections to be considered while allowing the researchers the 
+possibility to provide effective insights as feedback (Gill et al. 2008). The semi-structured 
+interview process is a link between the unstructured interview process and the structured 
+interview process; thus, this interview process is suitable and chosen for this research study. 
+Furthermore, the ethnographic fieldwork also adopted for this study was conducted in 50 
+households across informal settlements in Umuahia, Nigeria, and Tzaneen, South Africa. This 
+was undertaken with the purpose of gaining a deep understanding of how residents in the 
+SETILL case study areas handle the energy-related challenges identified through the literature 
+review and semi-structured interviews (Petrulaityte et al., 2022). Also, the importance of the 
+ethnographic study was to collect data on how human factors affect technology and also to 
+identify the energy behaviours of the informal settlements. This ethnographic research 
+approach was conducted by the researchers and co-researchers in the communities used as case 
+studies and the researchers spent 10 hours a day per household to examine the end-users 
+(women) energy cultures, cognitive norms and material cultures and also interview them on 
+the types of energy sources used and their benefits, then obtain opinions and knowledge on 
+how to mitigate energy poverty and design the energy technology innovation. The ethnographic 
+
+########## PDF PAGE 160 ##########
+Page | 154 
+ 
+approach used in this research study was instrumental in informing the design and development 
+of the energy technology innovation in the case study and the involvement of the communities 
+and civil societies improved the successful development of the SETILL. 
+2.3.3 
+Prescriptive study (PS) 
+This stage can also be referred to as the ‘assumption experience synthesis’. This stage also 
+involves the theory-building approach (Meredith, 1993) which can be used for the synthesis of 
+the data gathered and combined to develop the energy technology innovation and identify the 
+energy technology innovation testing processes (Petrulaityte et al., 2022). This implies that the 
+various data collected will be used to develop different models or frameworks that will be 
+combined in the SETILL to develop energy technology innovation. Therefore, this is a stage 
+where the data collection from the RC and DS-1 were applied to develop the energy technology 
+innovation (biogas technology) with gender design using systems thinking approaches. 
+This stage and the basic means were influenced by the grounded theory methodology (GT), 
+which can be defined as a research approach for the construction of theoretical interpretation 
+of social phenomena, grounded in empirical observations by different data gathering conducted 
+and uninterrupted comparative analysis and cycles from occurring subjects (Kennedy & 
+Lingard, 2006). Furthermore, there is no hypothesis in grounded theory but there are open-
+ended research questions only and a theory result that is extensively verified, and this can be 
+referred to as an emergent grounded theory (Tavakol et al. 2006). The major constraint of the 
+grounded theory is that the results may be exposed to ‘research bias because of the processes 
+of the approaches involved (Charmaz, 2014), however, this constraint was controlled by efforts 
+used to analyse research bias in the validity section below. 
+Additionally, the grounded theory approach includes data gathering, coding, and data 
+categorizations which can be used to develop a theory (Strauss & Corbin, 1990). A complete 
+grounded theory approach includes some of the following steps; ‘formulation of questions’, 
+‘theoretical sampling’, ‘transcribing’, ‘coding’, ‘development of conceptual category’, 
+‘constant comparison’ and ‘analytical memo’. However, the researchers can conduct the study 
+simultaneously at times without following a specific step. The figure 4.4 below explains 
+further; 
+
+########## PDF PAGE 161 ##########
+Page | 155 
+ 
+Figure 4.4: The processes of the grounded theory for this research study. 
+The figure above explains in detail the grounded theory process to be used in this study. This 
+process includes; data gathering (interviews, literature, participant observation in the SETILL, 
+fieldwork, documents and journals) and continues the data analysis and development of 
+concepts. The features of the key elements of the grounded theory according to Charmaz (1990) 
+used for this study are explained below according to the researchers: 
+Collection and analysis of data: This key element is very important as it directs the 
+researchers on the data and extra data to collect, and also to understand the questions and 
+headings that are unravelled (Charmaz, 2015). This key element was conducted through 
+participatory observations and interviews. Participatory observations in the SETILL were 
+conducted over one year for once a month, as a procedure of data collection through extensive 
+stakeholders’ involvement and display of routine tasks at the informal settlements. Community 
+meetings were done with 25 community members (men, women, boys and girls) who were 
+already aware of the challenges of lack of energy security. The interviews were done each for 
+20-30 minutes. 
+Systematically, non-probability or purposive sampling was adopted because it allows for the 
+use of small sample sizes concerning ‘credibility’ and not ‘representativeness’ (Nastasi et al. 
+2004). The sampling approach was used to identify the times, settings and participants to be 
+interviewed. The ethical conflict during the information gathered was aimed at confidentiality, 
+which means that all data obtained from the people were confidential. Sample size influences 
+the research questions appropriately until there is no more development of new categories and 
+
+########## PDF PAGE 162 ##########
+Page | 156 
+ 
+analysis found in the data collected (Bonnie, 2016). The sample size used for this research 
+study was predicted to be established by the methodology or data collection approach used in 
+this study. The sample size rules for different research approaches are explained below: 
+       Based-rules approach 
+Research Approach 
+                                     Rule 
+Case Study Approach 
+The researchers in this case should select one case 
+study or one person (however, when required, the 
+researchers are allowed to choose an extra case 
+study). 
+Phenomenology 
+The researchers should estimate 20 people. However, 
+if there is saturation, fewer than 20 people could be 
+selected. 
+Grounded 
+theory/ethnography 
+The researchers should estimate 40-50 people, which 
+could be sufficient to reach saturation. 
+The size of the exceptional database was also considered, which would provide sufficient data 
+of quantity and quality. This implies that the quantity of the data is also important as it 
+influences the arrangement of the interview processes. For example, about 10 or 20 hours of 
+database gave sufficient data to assist a trustworthy research study when the interview 
+arrangements were properly developed (Bonnie, 2016). 
+Therefore, during the data collection steps, there were key sampling points considered and 
+which the researchers were aware of during this research study, and they are; 1) Audio virtual 
+recording – this approach secured the illustrative validity of the examinations done, quickens 
+remembrance and ideas as an element of the objectives with the stakeholders. 2) Fieldwork and 
+testing – this approach is where the researcher visits the case study to observe and thoroughly 
+investigate the activities in the case study and collect samples which will assist in raising 
+reports about the research findings to add to the data collection process. 3) Bias - when 
+conducting sampling in research, it's crucial to give careful consideration to research bias as it 
+constitutes a fundamental component of the sampling process. If the sampling methods are 
+influenced by personal judgments or if individuals with a favourable bias are involved in 
+selecting the sample, it can result in a biassed sample (Bell et al. 2018). 4) Structured 
+observation sampling - in the research study, the use of structured observations required careful 
+decisions regarding the sampling process. This involved not only selecting multiple individuals 
+for the sample but also addressing all the pertinent issues related to the sampling process, as 
+emphasised by Bell et al. in their 2018 work. 5) Qualitative interview sampling - transparency 
+
+########## PDF PAGE 163 ##########
+Page | 157 
+ 
+gaps can occasionally be inherent in qualitative research, particularly concerning the sampling 
+process. The most challenging aspects often revolve around determining the criteria for 
+selecting interviewees and ascertaining the number of individuals interviewed and qualitative 
+researchers acknowledge that their sampling methods are often rooted in convenience or 
+opportunistic choices, as noted by Bell, Bryman and Harley (2018). 
+The data ordering was also done in this research study to ensure a straightforward and 
+accessible evaluation of the process and data analysis, the data was organised sequentially, a 
+step undertaken during the third phase of the research. 
+The data analysis encompasses the crucial task of converting gathered data into coherent and 
+meaningful insights. In this study, data analysis was conducted concurrently with data 
+collection, with a specific focus on ongoing interviews and observations, allowing for the 
+development of emerging conclusions. Various strategies were employed, including 
+categorization techniques such as coding and thematic analysis, as well as connection strategies 
+like narrative analysis, individual case studies, and the use of memos and displays. 
+Data coding plays a pivotal role in category generation, especially since the initial data at the 
+outset of the analysis is predominantly descriptive. According to Shaw (2013:55), “…the 
+analysis is a process of sense-making of the data concerning research questions and concerns, 
+the sense-making occurs as a process of ascribing codes to the verbatim transcriptions and other 
+data”. The various coding methods (appendix -) that assisted with facilitating the generation of 
+questions and potential answers regarding their causal relationships are: 1) Open coding - open 
+coding is often described as the initial conceptualization of abstract concepts or entities. The 
+process of open coding commences with a constant comparison approach, wherein the 
+researcher identifies categories based on the phenomena observed within the derived data. 2) 
+Axial coding - This is the stage where results and interactions are thoroughly examined. During 
+axial coding, the process of sample reduction takes place, involving the consolidation of 
+categories by merging them into broader ones. 3) Categorization and Proposition - At this stage, 
+the synthesis of relevance and impacts culminates in the formulation of a proposition regarding 
+the phenomenon under study. This is achieved by taking into account the observed results and 
+the ongoing developments. Hence, a category is established based on the proposition, and it 
+can be employed to advance the research process. 4) Memo - These represent the insights 
+gained during the categorization processes. They also empower the researcher to create a 
+checklist for the categories, aiding in the ongoing comprehension of the data collection process 
+
+########## PDF PAGE 164 ##########
+Page | 158 
+ 
+(Charmaz, 2008). 5) Selective Coding – This serves as a method for promptly narrowing down 
+categories, thereby pinpointing the primary core variables. It is also the juncture at which the 
+research trajectory shifts, with the categories guiding the research process. As Douglas (2003) 
+articulates, "The selective coding process aids in reducing the categories distinguished by the 
+researcher to a smaller sample size, within which propositions are assigned codes for the 
+categories". 6) Theoretical sampling – This is a method wherein the refined categories are 
+redefined, and additional data is gathered to align with these categories. It is a process through 
+which data collection is systematically conducted to formulate a theory (theory description). 
+Furthermore, other coding methods can be adopted for this stage, and this is the following: 1) 
+Mini literature search - This is the phase where the research process involves the creation of 
+memos and mini literature reviews following the collection and analysis of data in each stage. 
+The researcher maintains this ongoing process as a collection of notes throughout the research 
+journey, enabling them to stay informed and generate insights by reflecting on the collected 
+data and making informal notes. This pivotal aspect of the research process serves as an 
+intermediary step for drafting papers and gathering additional data (Charmaz, 2006). 2) 
+Documentary research - As indicated by Bailey (1994), documentary research encompasses 
+both primary and secondary documents. Primary documents entail firsthand accounts and 
+"eyewitness" experiences relevant to the research study, while secondary documents provide 
+insights from individuals who were not present but have knowledge of the event or research 
+subject. The documentary research process involves the analysis of documents containing 
+information about the studied phenomenon, as highlighted by Ahmed (2010). To ensure the 
+authenticity of the documentary research, it is imperative to conceptualise, evaluate, analyse, 
+and implement quality control measures on the documents. 
+Therefore, the summary of this research process which is the dependability was utilised with 
+the grounded theory, as it has the potential to yield both empirical findings (core variables) and 
+a theoretical model (causal loop diagram). This process led to the development of concepts and 
+the creation of a causal loop diagram which was used to further develop the SETILL model, 
+demonstrating the reliability and credibility of the research study. The appendix --- provides a 
+summary of the steps undertaken and illustrates the thorough application of the grounded 
+theory process leading to the SETILL model development. 
+Establishment of the categories and analytic codes from data: In this procedure, the 
+researcher constructs categories through ongoing comparison and analysis of the collected data. 
+
+########## PDF PAGE 165 ##########
+Page | 159 
+ 
+What sets this process apart is the presence of a preconceived or predetermined theory that 
+emerges during the research journey. 
+Acknowledgement of the underlying collective process within the data: Following the 
+creation of categories and analytical codes, the essential collective process is subsequently 
+formulated around the core categories. 
+Inductive creation of conceptual categories: Inductive reasoning is a fundamental 
+characteristic of grounded theory, as outlined by Leboea (2017). It represents the qualitative 
+approach employed by researchers to uncover a phenomenon by setting aside any preconceived 
+notions and constructing a theory based on the phenomenon itself. In grounded theory, the 
+theory is developed and often not subjected to testing. In This study, the theory will be tested. 
+Enhancing categories through the process of theoretical sampling: In grounded theory, the 
+primary objective for the researcher is to construct categories and subsequently transform these 
+categories into a conceptual theory, representing the core purpose of grounded theory 
+methodology. The method of theoretical sampling involves selecting data that align with 
+theoretical considerations. This concept is reinforced by Breckenridge and Jones (2009), who 
+emphasise that theoretical sampling is a fundamental hallmark of grounded theory and a critical 
+component in the development of any theory grounded in data. 
+Theory saturation: Saturation occurs when the researcher consistently encounters identical 
+findings. It typically happens when, after multiple rounds of qualitative data collection and 
+analysis, no fresh insights, inputs, directions, or data contribute to the established categories. 
+Challenges in Grounded Theory: One significant concern regarding the challenges in 
+grounded theory is that it often concludes with the theory itself, rather than delving into the 
+elucidation of themes. Numerous studies offer comprehensive thematic illustrations without a 
+substantive underlying theory (Kennedy and Lingard, 2006). This absence of theoretical 
+abstractions makes it difficult to discern meaningful relationships and interconnections among 
+the themes. Thus, it becomes imperative to develop and validate the theory before proceeding 
+with the second phase of the research study. Another risk highlighted in this context is the 
+misconception that researchers employing the grounded theory approach can initiate their study 
+without any research questions or prior exploration of existing literature, potentially resulting 
+in disorganised research manuscripts that impede the research process (Suddaby, 2006). In this 
+particular study, this risk was mitigated by adopting a more controlled approach—beginning 
+
+########## PDF PAGE 166 ##########
+Page | 160 
+ 
+with research questions that evolved. The research questions played a pivotal role in guiding 
+the researcher's decisions regarding sampling, data collection, and research methods. 
+2.3.4 
+Descriptive study II (DS-II) 
+This is where the co-designed energy technology innovation (biogas technology) with gender 
+design was tested during a workshop that took place in Limpopo South Africa. The testing of 
+the biogas technology and other activities were done by the researchers, the University of 
+Pretoria and other stakeholders involved in the SETILL. The objective of the testing was to 
+assess the performance of the biogas technology in conjunction with its intended users and to 
+observe the evolving dynamics of the proposed co-design process (Petrulaityte et al., 2022). 
+A mixed-method approach was employed to collect feedback on the biogas technology and 
+SETILL performance at the time of the workshop. This included qualitative data from 
+researchers' observations, both quantitative and qualitative data from participants' assessment 
+questionnaires, and quantitative and qualitative data encompassing ideas generated and 
+elaborated upon at the time of the workshop (Petrulaityte et al., 2022). Therefore, the analysis 
+of the qualitative data was conducted with the coding methods already explained above 
+(Creswell, 2013), while the analysis of the quantitative data was done using some inferential 
+statistics implementations (Creswell, 2009) in order to establish the percentage of individuals 
+who provided a particular assessment. 
+Therefore, regarding the Design Research Methodology used to propagate the methods used to 
+conduct this research study, an assessment questionnaire was used to assess the following; 1) 
+Integrity - The degree to which the content within the biogas technology innovation and 
+SETILL is comprehensive and well-structured concerning gender mainstreaming, energy 
+security, and poor informal settlements. 2) Practicability - The degree of ease with which the 
+biogas technology innovation and SETILL can be comprehended and put into practice. 3) 
+Validity - The degree to which biogas technology innovation and SETILL empower end-users 
+to grasp contemporary energy-related challenges and foster gender-specific energy concepts 
+for impoverished informal settlements. 
+Furthermore, The Design Research Methodology (DRM) necessitates the visualisation of the 
+current state of affairs to facilitate a thorough analysis of the situation and the development of 
+a proposed support ‘model’ aimed at enhancing the situation (Calderon, 2010) at the informal 
+settlement. Therefore, the research questions that originally ignited interest in this research 
+
+########## PDF PAGE 167 ##########
+Page | 161 
+ 
+study are displayed in Figure 4.5 below and linking them to the DRM stages of Figure 4.3 as 
+they pertain to the issues raised by potential participants or stakeholders during the Systems 
+Living Lab activities and also during the preliminary exploratory discussions conducted before 
+the commencement of the research study. This can also be called the ‘consistency matrix’ for 
+research studies with more than one research question (Walwyn and Chan, 2019). This implies 
+that in numerous instances, the researchers may employ various methods of data collection and 
+analysis for each research question, which in such scenarios, and indeed for all research studies 
+comprising multiple research questions, it proves beneficial to create a ‘consistency matrix’ to 
+visually outline for each question, the pertinent literature and the designated data 
+collection/analysis approach to be employed (Walwyn and Chan, 2019). 
+Figure 4.5: A ‘consistency matrix’ comprising the research questions against the impacted 
+stages of the DRM. Adapted from: (Calderon, 2010; Walwyn and Chan, 2019:15). 
+On the right side of Figure 4.5 above, the research questions that this study seeks to address 
+are observed. These questions serve as a means to assess the suitability of the proposed solution 
+for addressing the identified research problem. It's evident that each phase of the DRM 
+comprises distinct studies and deliverables, and not all of them may apply to every research 
+question. For instance, the research questions are specifically addressed in the stages of the 
+
+########## PDF PAGE 168 ##########
+Page | 162 
+ 
+DRM which was also illustrated in Figure 4.3 above. Once these research questions have been 
+comprehensively explored and documented, the findings will be utilised in the development of 
+energy technology innovation with gender design (Blessing and Chakrabarti, 2009; Calderon, 
+2010). 
+2.4 Additional essential information pertaining to data collection and 
+analysis in this study 
+This section explains the other data collection and analysis tools used for this research study to 
+address the research questions. It also includes a brief explanation of the case study used for 
+this research study. 
+2.4.1 
+Application of system dynamics 
+System dynamics, which is a part of the systems thinking approach, was used in this study. 
+Systems approaches are primarily characterised as a comprehensible cause-and-effect 
+framework involving interconnected variables within a system. It necessitates the independent 
+assessment and refinement of mental models aligned with a particular mode of thinking 
+(Cabrera, Colosi and Lobdell, 2008). Furthermore, this approach can be viewed as a crucial 
+means of scrutinising intricate interrelationships, which inherently entail complexity. 
+Consequently, it has been recognized as a central approach in this research study and was 
+discussed in detail in Chapter 2 of this study. Moreover, System dynamics is acknowledged as 
+a suitable methodology for examining complex social and economic systems within the context 
+of systems Living Lag, energy studies and gender inequality in informal settlements against 
+energy poverty. 
+This systems approach, in particular, proves valuable in simulating intricate problems and 
+policy frameworks through experimental approaches (Forrester, 1994). It centres on control 
+theory (Kirkwood, 1998) and modern nonlinear dynamics theory (Amigun, Musango and 
+Stafford, 2011). Often, the interrelationship diagram takes the form of stock and flow diagrams. 
+Notably, systems approach equips policymakers with ready-made tools to address significant 
+complex challenges (Sterman, 1991) such as energy poverty and gender inequality. 
+Significantly, this approach finds application in modelling the connections and 
+interdependencies among variables that influence the contribution of women as end-users in 
+the informal settlements in energy-challenged areas and contribute to energy poverty reduction 
+efforts in the Western Cape, South Africa, and beyond. The approach is also characterised by 
+
+########## PDF PAGE 169 ##########
+Page | 163 
+ 
+its utilisation of causal loop diagrams to depict causal relationships among seemingly unrelated 
+elements within a system (Forrester, 1973; Forrester, 1987, 1991). Likewise, causal loop 
+diagrams have proven effective in illustrating intricate relationships and feedback mechanisms 
+across various sectors, including agriculture (Vennix, 1999) and the energy sector (Amigun, 
+Musango and Stafford, 2011; Okoye, 2020). 
+Therefore, to answer research questions 3 and 4 respectively: the “system dynamics 
+(community-based system dynamics)” modelling which is a part of the “systems thinking 
+approach” was used to improve understanding of the issues and behaviours of the stakeholders. 
+The case study, comparative analysis and stakeholder mapping were also used as the researcher 
+mapped the stakeholders in Chapter 3 to understand the level of influence in the decision-
+making process and compare the case study with the Living Lab concept. Therefore, the system 
+thinking gives an insight into who links to whom during the stakeholder mapping and allows 
+for mapping the decision-making which can be the high-level points for gender innovation 
+decision-making. It also helped to understand or determine the extent of women's decision-
+making in that part.  
+Community-based system dynamics modelling 
+Community-based system dynamics which is a part of the system dynamics originated from 
+the study of Hovmand (2014). According to Hovmand (2014), community-based system 
+dynamics is the engagement of communities to participate in the creation of models that 
+produce recommendations and insights to the system, empowerment of women, and encourage 
+the community members to implement changes relating to the insights. According to Suzanne 
+Smit (2019), “Community-based system dynamics is an adaptation of mainstream system 
+dynamics and group model building, which emerged because of the need to engage with less 
+sophisticated audiences to improve learning and understanding of the systems that they are part 
+of”. 
+The community-based system dynamics were relevant to understanding behaviours expected 
+of stakeholders influencing the energy technology innovation developed through the systems 
+Living Lab. It has also been used for several issues like the study of the abuse of alcohol in 
+college students (Apostolopoulos et al., 2018), the issues of “mental health in Afghanistan” 
+(Trani et al., 2016) and many more in the natural management like “water and forestry 
+planning” (Rosenthal et al., 2017). 
+
+########## PDF PAGE 170 ##########
+Page | 164 
+ 
+Therefore, this systems thinking method was adapted to build a model that helped map the 
+interrelationships to show the stakeholder contributions, the level of gender innovations 
+decision-making, and the extent of women's decision-making in the systems Living Lab 
+(research questions 2 and 3). 
+Causal loop diagram 
+As a result of this application, an interrelationship diagram is generated, consisting of 
+interconnected loops with visual representations and dynamics employed to elucidate the 
+theory underpinning the system. The connections to various variables serve as the foundation 
+for constructing the causal loop diagram, with feedback loops providing insights into the 
+behaviour of the phenomenon. This research has led to the modelling of the SETILL with 
+gender design as a systemic behaviour. 
+2.4.2 
+Internet research on websites 
+The internet has evolved into a prevalent tool in daily life for conducting management, 
+engineering and technology research. It has significantly enhanced data transmission and 
+storage in research endeavours, simplifying the tracking of social processes compared to 
+traditional face-to-face interactions (Easterby-Smith, Thorpe & Jackson, 2012). 
+Utilising internet resources like university databases, journals, and books has been proposed as 
+a modest but significant advancement in data collection for research. Additionally, the 
+proliferation of individual-owned computers has introduced new opportunities for researchers 
+to gather, store, and manage data (Lee, 2000). Williams (2007) suggests that researchers 
+leveraging internet resources as a delivery tool have numerous possibilities to enhance and 
+streamline their data collection processes. A more comprehensive examination of the 
+credibility of internet-based research data will be presented in Chapter Six of this study. 
+2.4.3 
+Case study areas 
+This study was conducted in Tzaneen, found in the Limpopo Province (situated in the far 
+northern part) of South Africa and in Umuahia, found in the Abia State (situated in the northern 
+part of Abia State) of Nigeria. 
+According to Vacant and Particulars (2009); and Statistics South Africa (SSA), (2012), 
+Tzaneen (figure 4.6) is a spacious tropical garden town located within the Mopani District 
+Municipality of South Africa's Limpopo province. Nestled in a region blessed with abundant 
+rainfall and fertile soil, it encompasses approximately 20,000 square kilometres (7,700 square 
+
+########## PDF PAGE 171 ##########
+Page | 165 
+ 
+miles) dedicated to tropical and subtropical agriculture. Tzaneen ranks as the second-largest 
+town in Limpopo, trailing only Polokwane in size. The town, with a population of 14,571 
+residents according to the 2011 census, serves as a focal point for the approximately 475,000 
+people residing within a 30-kilometre (19-mile) radius. Below is the drawn map representing 
+Tzaneen, South Africa, case study. 
+ 
+Figure 4.6: Drawn map of the case study 1, Lephepane community of Tzaneen in Limpopo 
+province, South Africa (SAV South Africa, 2023). 
+Umuahia, with its local pronunciation [ʊmʊaːhiaː], serves as the administrative centre of Abia 
+State, nestled in the southeastern region of Nigeria. Positioned along a railway line that links 
+Port Harcourt to the south and Enugu city to the north. Umuahia (figure 4.7) boasts a population 
+of 359,230 as recorded in the 2006 Nigerian census. The city is deeply rooted in Igbo culture 
+and encompasses two local government areas, Umuahia North and Umuahia South, each 
+comprising various clans such as Umugbalu, Umuopara, Ibeku, Olokoro, Ubakala, and Ohuhu 
+communities (Asiegbu Johnson, 1985). Umuahia is celebrated as a pivotal hub for both railway 
+transport and agricultural commerce, drawing traders and farmers from neighbouring towns 
+who come to vend their harvests, including yams, cassava, maize, taro, citrus fruits, palm oil, 
+and kernels. Below is the drawn map representing Umuahia, Nigeria, case study. 
+
+########## PDF PAGE 172 ##########
+Page | 166 
+ 
+ 
+Figure 4.7: Drawn map of the case study 2, Umuahia Town in Abia State, Nigeria. Adapted 
+from: (Onyekwere and Nwakanma, 2022:127). 
+Therefore, as discussed above, the research was conducted within the Lephepane community 
+of Tzaneen, situated in South Africa's Limpopo Province and the Umuahia community situated 
+in Nigeria's Abia State. These communities face vulnerabilities to various challenges, including 
+gender inequality, energy poverty, and lack of access to clean cooking sources. Therefore, to 
+address the research questions, two case studies were used to provide empirical evidence. This 
+is because the data were collected in the two case studies and from there showed how that can 
+be promoted within the SETI Living Lab to ensure the gendered innovations in the Living Lab. 
+Furthermore, it was found during the problem exploratory phase (Petrulaityte et al., 2022) that 
+these two case studies were very alike and similar and possess 98% of the same energy 
+behaviours and energy challenges, which implies that the same methods could work for both 
+case studies. 
+The Tzaneen case study was the focal point and was instrumental to the design or development 
+and testing of the energy technology innovation with gender design. This means that, the 
+development of gender-inclusive biogas technology, a key innovation resulting from this 
+research study, was accomplished and tested at the Tzaneen case study alone. The primary 
+
+########## PDF PAGE 173 ##########
+Page | 167 
+ 
+rationale behind this approach lies in the financial constraints associated with implementing 
+biogas technology in one of the case studies, as well as the limited time available to complete 
+the project. 
+Consequently, only one of the case studies was selected for comprehensive testing of the energy 
+technology innovation developed. However, the data obtained from the initial case study 
+indicates the feasibility of developing biogas technology in the second case study (Umuahia, 
+Nigeria). This opens the door for further research and study in this location, which could be 
+done as a published article. In light of these findings, it becomes evident that the SETILL model 
+can be effectively applied to address issues of energy poverty and gender inequality in both 
+case studies. However, it has the potential to stimulate the generation of gendered energy 
+technology innovations in the regions. 
+In addition, there were several grounds or rationale emerging from this research when we 
+designed and implemented this research study in two case study sites and then decided to use 
+only one site for nurturing the theoretical model by developing the biogas technology. Here are 
+some of the common justifications: 
+Resource Limitations: Carrying out research in different case studies is time-consuming and 
+costly as it consumes more time and resources in terms of personnel. Choosing to only test the 
+biogas technology in one case very much made sense because of concerns of resources 
+available for the study (Creswell, 2014; Denscombe, 2014; Yin, 2014). 
+Cost Constraints: The use of the biogas technology of this research study in different areas 
+was very costly to actualize. Hence, in an effort to manage costs, we concentrated only on the 
+testing phase of the SETILL theoretical model on one research case.  
+Time Constraints: This research study had set timelines or time barriers from the institute of 
+study. Thus, it supported the overall propositions of the theoretical model in testing the same 
+where development of the biogas technology in one case study helped in timely and focused 
+study (Gerring, 2007; Creswell, 2014; Yin, 2014). 
+Feasibility: The case was more difficult to conduct research for this study than the other 
+because of some logistical, political or environmental circumstance in Umuahia, Nigeria. It 
+was more practical to direct the attention at validating the theoretical model by advancing the 
+biogas technology in one, yet more reachable center (Tzaneen, South Africa) (Stake, 1995; 
+George, A. L., & Bennett, 2005; Creswell, 2014; Yin, 2014). 
+
+########## PDF PAGE 174 ##########
+Page | 168 
+ 
+Initial Exploration: Another valid justification was that we intended to explore the potential 
+of this particular Living Lab concept or technology in multiple settings to gather initial data 
+and insights. Subsequent testing of the theoretical model by developing the biogas technology 
+was focused on the most promising or relevant case study (Tzaneen, South Africa) (K. M. 
+Eisenhardt, 1989). 
+Pilot Study: Also, we intended to use one case study that will serve as a pilot or preliminary 
+investigation to refine research methods and gather initial data, which informed a more 
+comprehensive study in the selected case (Creswell, 2014; Denscombe, 2014; Yin, 2014). 
+Comparative Analysis: Also, we intended to compare and contrast the results between the 
+case studies to draw meaningful conclusions. Therefore, in these cases, we carried out a more 
+extensive analysis in one case (Tzaneen, South Africa), while the other (Umuahia, Nigeria) 
+served as a reference or contrast point (Gerring, 2007; Rihoux, B., & Ragin, 2009; Yin, 2014). 
+Resource Allocation: We choose to allocate more resources to in-depth analysis and testing in 
+one case to maximise the quality of the results and the depth of understanding (Kathleen M. 
+Eisenhardt, 1989; Gerring, 2007; Baxter, P., & Jack, 2008; Creswell, 2014; Yin, 2014; Patton, 
+2015). 
+Research Focus: This research study aims to address specific research questions that were best 
+examined in both of the case studies. However, to fully achieve research question 4, testing the 
+results of the research study in one case study was most relevant at the moment of this research 
+study (Kathleen M. Eisenhardt, 1989; Baxter, P., & Jack, 2008; Creswell, 2014; Miles, M.B., 
+Huberman, A.M., & Saldana, 2014; Yin, 2014). 
+Ethical or Regulatory Considerations: At the time of the research study, the case study in 
+Umuahia, Nigeria involved ethical or regulatory challenges that needed to be addressed before 
+extensive testing can occur. Therefore, focusing on a single case that was not challenging 
+initially was a necessary step (Elliott, R., Fischer, C.T., & Rennie, 1999; Morrow, 2005; 
+Creswell, 2014; Bryman, 2016; Norman K. Densin., 2018; Silverman, 2019). 
+Ultimately, the decision to conduct this research in two case studies and test the theoretical 
+model by developing a gendered energy technology innovation (biogas technology) in one case 
+study alone was based on the research objectives, available resources, and the specific context 
+of the study. It was important that we clearly communicated and justified this choice in the 
+
+########## PDF PAGE 175 ##########
+Page | 169 
+ 
+research methodology chapter and in this section. This will be reported again at the conclusion 
+chapter of this thesis. 
+2.4.4 
+SETILL codesign workshop 
+The workshops and meetings focusing on gendered energy technology, biogas technology and 
+Living Lab were held in the case studies to determine the phenomenon being studied, how to 
+engage the gender innovations and for the feedback. 
+However, the energy technology innovation codesign workshop extended invitations to the 
+community members of the Lephepane informal settlement Tzaneen, South Africa, alongside 
+representatives from both private and public sectors. The purpose was to collaboratively design 
+gender-inclusive energy technology innovation (biogas technology) tailored to meet the unique 
+needs of the end-users or the Tzaneen residents. The participants were a true reflection of the 
+energy technology innovation target audience, encompassing a diverse group of stakeholders 
+deeply invested in addressing energy challenges within informal settlements. 
+In total, the workshop drew 42 participants, comprising 31 women and 11 men including the 
+facilitator, who were selected through the platform of the Mater Pluviam Holdings recruitment. 
+Notably, over half of the attendees had previously participated in stakeholder engagement 
+initiatives organised by the researcher and the technology developers, establishing a preexisting 
+familiarity with both one another and the research study. Furthermore, all participants 
+possessed proficiency in the English language. 
+Furthermore, during the workshops, only 5 people out of the 42 participants have heard about 
+the biogas technology, it uses and how it can benefit South Africa and only 2 people know how 
+it works. This means that only about 5% in the case study knows about biogas technology. This 
+shows that the biogas technology is lacking behind in South Africa (Mukumba, Makaka and 
+Mamphweli, 2016). All the schools and majority of the women were still cooking with 
+firewood, thus; biogas as a clean energy which does not stain pots like the firewood, was 
+accepted by the residents and everyone was excited to have the biogas developed in the case 
+study. 
+At the onset of the workshop, the participants were divided into six multi-stakeholder groups, 
+each comprising seven members. These groups were intentionally composed to include 
+representatives from local and private companies, members of the Lephepane Tzaneen 
+
+########## PDF PAGE 176 ##########
+Page | 170 
+ 
+community, the researcher, the government and other stakeholders as represented in the figure 
+3.3 and illustrated in Table 4.1 below. 
+Table 4.1: Participants in the SETILL codesign workshop. 
+Code for Stakeholder 
+Assignment of Group 
+Industry Segment 
+Function 
+Gender 
+RS1 
+Group 1 
+Research / Institution 
+Facilitator / Researcher 
+Male 
+TR1 
+Group 2 
+Government 
+Policy maker 
+Female 
+TR2 
+Group 3 
+Government  
+Policy maker 
+Female 
+TR3 
+Group 4 
+Government  
+Policy maker 
+Male 
+WC1 
+Group 5 
+Government  
+Policy maker 
+Female 
+WC2 
+Group 6 
+Government  
+Policy maker 
+Male 
+CR1 
+Group 1 
+Tzaneen community 
+Community Leader 
+Male 
+CR2 
+Group 2 
+Tzaneen community 
+Community end-user 
+Female 
+CR3 
+Group 3 
+Tzaneen community 
+Community end-user 
+Female 
+LCC1 
+Group 4 
+Local government 
+Legal observer 
+Male 
+DARD1 
+Group 5 
+Government 
+Investor observer 
+Female 
+MPH1 
+Group 6 
+Private company  
+Developer 
+Female 
+MPH2 
+Group 1 
+Private company  
+Developer 
+Female 
+MPH3 
+Group 2 
+Private company  
+Developer 
+Female 
+MPH4 
+Group 3 
+Private company  
+Energy end-user 
+Female 
+MPH5 
+Group 4 
+Private company  
+Community supporter 
+Male 
+MPH6 
+Group 5 
+Private company  
+Community leader 
+Male 
+MPH7 
+Group 6 
+Private company  
+Energy end-user 
+Female 
+RCW1 
+Group 1 
+Tzaneen community 
+Women in caterer / Energy 
+user 
+Female 
+RCW2 
+Group 2 
+Tzaneen community 
+Women in caterer / Energy 
+user 
+Female 
+RCW3 
+Group 3 
+Tzaneen community 
+Women in caterer / Energy 
+user 
+Female 
+RCW4 
+Group 4 
+Tzaneen community 
+Women in caterer / Energy 
+user 
+Female 
+RCW5 
+Group 5 
+Tzaneen community 
+Women in caterer / Energy 
+user 
+Female 
+KSM1 
+Group 6 
+Tzaneen community 
+School head 
+Female 
+MS1 
+Group 1 
+Tzaneen community (a) 
+School energy end user 
+Female 
+MS2 
+Group 2 
+Tzaneen community (a) 
+School energy end user 
+Female 
+MS3 
+Group 3 
+Tzaneen community (a) 
+School Head 
+Male 
+MS1 
+Group 4 
+Tzaneen community (b) 
+School energy end user 
+Female 
+MS2 
+Group 5 
+Tzaneen community (b) 
+School energy end user 
+Female 
+MS3 
+Group 6 
+Tzaneen community (b) 
+School energy end user 
+Female 
+
+########## PDF PAGE 177 ##########
+Page | 171 
+ 
+LSI 
+Group 1 
+Tzaneen community (a) 
+School energy end user 
+Female 
+LS2 
+Group 2 
+Tzaneen community (a) 
+School energy end user 
+Female 
+LS3 
+Group 3 
+Tzaneen community (a) 
+School technologist 
+Male 
+MS1 
+Group 4 
+Tzaneen community (c) 
+School energy end user 
+Male 
+MS2 
+Group 5 
+Tzaneen community (c) 
+School admin 
+Female 
+MS3 
+Group 6 
+Tzaneen community (c) 
+School energy end user 
+Female 
+MS1 
+Group 1 
+Tzaneen community (d) 
+School energy end user 
+Female 
+MS2 
+Group 2 
+Tzaneen community (d) 
+School energy end user 
+Female 
+MS3 
+Group 3 
+Tzaneen community (d) 
+School energy end user 
+Female 
+LS1 
+Group 4 
+Tzaneen community (b) 
+School IT personnel 
+Male 
+LS2 
+Group 5 
+Tzaneen community (b) 
+School energy end user 
+Female 
+LS3 
+Group 6 
+Tzaneen community (b) 
+School energy end user 
+Female 
+The workshop, lasting 6 hours and 10 minutes, not including breaks, adhered to the 
+organisational structure presented in Table 4.2, which followed the gendered energy 
+technology innovation codesign process detailed in this research study. To commence the 
+workshop, the facilitator from the Mater Pluviam Holdings, South Africa and the researcher 
+from the University of Pretoria, South Africa provided an introduction to the biogas digester, 
+the Living Lab concept and systems thinking, including energy (current household energy 
+issues), gender (optimal approaches and foundational principles for promoting gender 
+inclusivity in the energy industry), and informal rural settlements (a brief introduction to 
+Tzaneen and Umuahia). 
+Table 4.2: The SETILL codesign workshop agenda. 
+Phase 
+Activity 
+Facilitator 
+Opening / Welcoming 
+Overview by the researcher/facilitator 
+● 
+Introduction of stakeholders 
+● 
+Briefing on household energy challenges in 
+informal settlements. 
+● 
+Overview of best practices for gender 
+incorporation in the energy sector. 
+● 
+Comparative analysis of Tzaneen and 
+Umuahia informal settlements. 
+● 
+Introduction to the SETILL and the 
+importance for codesign. 
+● 
+Introduction to the reasons for women as the 
+target end-users 
+
+########## PDF PAGE 178 ##########
+Page | 172 
+ 
+Facilitator/Researcher 
+● 
+Overview of the research study 
+● 
+Introduction to the biogas technology 
+● 
+Introduction systems thinking 
+Problem exploration and energy innovation canvas 
+phase (Petrulaityte et al., 2022) 
+● 
+Participants' choice of gendered energy 
+technology innovation design objectives 
+● 
+Choosing specific household energy 
+challenges to tackle based on the problem 
+exploration illustrations and analysis. 
+● 
+Supplementary data collection through 
+responses to the energy innovation canvas 
+Facilitators and researcher 
+● 
+Engagement and input via assessment 
+questionnaires. 
+Researcher 
+Additional data collection and analysis 
+Facilitator  
+Closing and announcements 
+ 
+Subsequently, the gendered energy technology innovation codesign canvas (appendix - ) was 
+presented and distributed among the participants. Subsequent to this, each participating group 
+was tasked with choosing a specific design segment to concentrate on throughout the workshop 
+(mostly the women since the design would benefit them the most as initially explained in this 
+research study). 
+The researcher proposed three design objectives aligned with the focus areas of participating 
+stakeholders and the energy end users featured in the design process, which include cooking, 
+lighting, and self and household care (Petrulaityte et al., 2022). These are: 
+❖ Develop a clean cooking solution that utilises waste as a resource 
+❖ Create a lighting system to enhance safety in the settlement from the technology. 
+❖ Design a proper self and house care plan for the informal settlements 
+After selecting the design objectives, stakeholders embarked on a structured codesign process 
+guided by the facilitator/researcher. The process unfolded as follows: 
+⮚ Each group had the task of pinpointing which of the three household design 
+objectives, as indicated on the problem chart 
+⮚ Stakeholders engaged in detailed discussions about the information presented on the 
+chart and energy innovation canvas, subsequently delving deeper into these chosen 
+
+########## PDF PAGE 179 ##########
+Page | 173 
+ 
+issues within the context of Tzaneen informal settlement. They accomplished this by 
+questioning group members and recording responses using additional data collection 
+techniques. 
+⮚ Following the problem exploration phase, groups initiated the generation of 
+innovative ideas centred around the three selected design objectives or challenges. 
+Each group generated their own ideas towards the development of the energy 
+technology innovation with gender designs 
+⮚ In the subsequent stage, stakeholders were required to pick the most promising ideas 
+from their collective brainstorming and integrate them into a single energy innovation 
+canvas for their respective groups. This enabled the development of the energy 
+technology innovation with gender designs 
+⮚ The workshop's culmination involved group presentations showcasing their final, 
+detailed ideas and opinions. This was followed by a comprehensive group discussion 
+on energy technology innovation, culminating in the collection of assessment 
+questionnaires. 
+Figure 4.8: Some pictorial view of the SETILL codesign workshop, the PED and EIC 
+Figure 4.8 above is the illustration of the problem exploration diagram and energy innovation 
+canvas (Petrulaityte et al., 2022) adapted in this study for the codesign processes and some 
+pictures of the workshop participants and activities towards data collections and the 
+development of the energy technology innovation with gender design.  
+
+########## PDF PAGE 180 ##########
+Page | 174 
+ 
+In general, secondary data was also collected from the second case study to show credibility, 
+and further address the research questions. However, the ultimate objective of this project is to 
+establish a Systemic Energy Technology Innovation Living Lab (SETILL) in the designated 
+case study areas specifically in the informal settlements of Tzaneen, South Africa, and 
+Umuahia, Nigeria. The outcomes of the SETILL workshop will be showcased in the fifth 
+chapter of this thesis. 
+2.4.5 
+Literature review approach 
+This approach involved a literature search and successive analysis. This approach was used to 
+address research question 1, leading to the theoretical model. This is a very vital approach as 
+each chapter of this study went through the review approach to understand the phenomenon 
+being studied. This emerged from the intention to attain a sustainable energy technology to 
+meet the energy products by featuring women in the design process always, which was always 
+done through the help of the systems Living Lab. 
+Therefore, conceptualizing the Living Lab concept and looking at literature that informed the 
+data collection to derive a new emerging theory helped to answer the research questions. This 
+was also done by conceptualizing the Living Lab and giving a critical analysis of the terms 
+defined and how the research study reconceptualized it for context-specific application in the 
+case studies. A systematic literature review was used to further address research question 1 (see 
+Chapter 2). The approach to the literature review was based on the following objectives: to 
+develop the phenomenon of the SETI Living Lab in a poor informal settlement, as well as to 
+provide a relevant and informed understanding of the gendered energy Living Lab and its core 
+theories. 
+The approach used for the literature review was to consider the topic at three levels of recursion 
+(see Figure 2.1). The literature review was also conducted to understand the topic, the 
+attributes, the antecedents, and the consequences, which helped to initiate chapter 3 of this 
+study and finalize the result chapter of the study (theory building). The antecedents are the 
+events that must be present before the development of the topic; the attributes are the 
+characteristics that repeatedly appear in the topic, and the consequences are the events that 
+happened because of the development of the topic. 
+Literature review search 
+
+########## PDF PAGE 181 ##########
+Page | 175 
+ 
+The literature review was performed in the following archives of academics: Science Direct, 
+University of Pretoria database, Scopus, Springer, “IEEE (Institute of Electrical and 
+Electronics Engineers)”, “ACM (Association for Computing Machinery)” and related search 
+terms to ‘ISI web of knowledge. The additional search terms used are; Living Lab, Living 
+Laboratory, Living Laboratories, energy, energy security, energy studies, energy poverty, 
+urban and rural Living Lab, urban and rural environment, gender, gender studies, gender 
+equality, gendered energy security, gender mainstreaming, systems thinking and informal 
+settlement. 
+In addition, the searches of the terms above were done with scholarly search engines like 
+Google and Google Scholar in areas of ICT, education, health, gender, energy and other Living 
+Lab research areas and methodologies. 
+Literature review analysis 
+The following analyses were done during this research study: 
+1. Analysis of what Living Lab is and where it has been applied 
+2. Analysis of the typology of the Living Labs 
+3. Identification of the theoretical basis of the Living Lab 
+4. Analysis of the concepts of operational Living Labs 
+5. Analysis of the processes and methodologies for the Living Lab concepts 
+6. Analysis of gender innovations in the Living Lab 
+7. Identification of the context of energy Living Lab 
+8. Investigation of Living Lab with systems thinking concepts. 
+ 
+2.5 The research plans 
+This section outlines the key phases of the research process, spanning from data collection to 
+theory development. It elucidates the pivotal checkpoints employed to continuously evaluate 
+and oversee the research study, allowing for adjustments when deemed necessary. 
+Furthermore, this section provides an in-depth depiction of the iterative data collection cycles 
+utilized. This section was mostly involved in completely addressing research questions 2 and 
+3 leading to the theoretical model (research question 4). The processes can be seen in the 
+appendix - 
+
+########## PDF PAGE 182 ##########
+Page | 176 
+ 
+2.5.1 
+Research cycle one 
+The initial data cycle encompasses multiple data sources subjected to rigorous analysis and 
+scrutiny, enabling the researcher to extract pertinent information germane to the research study. 
+These data were meticulously catalogued within the proposition log, facilitating the systematic 
+tracking of each data point. This log also provided a means to describe the significance and 
+influence of the study concerning the focal variable or research focus. It served as the repository 
+for findings resulting from the synthesis of the concern variable's relevance and its impact, 
+subsequently leading to the creation of pertinent categories. 
+2.5.2 
+Research cycle two 
+In the second cycle, the researcher expanded upon and developed additional propositions and 
+categories, building upon the foundation established in the first cycle. It is imperative during 
+this phase to avoid duplicating data already gathered or represented in the initial cycle. The 
+same methodology employed in the first cycle was replicated for data collection, with the newly 
+generated propositions seamlessly integrated into the proposition log to advance the research 
+study. In cycle two, these propositions can be assimilated into pre-existing categories or serve 
+as a basis for the creation of entirely new categories to enrich the dataset. 
+2.5.3 
+Research cycle three 
+Cycle three places a heightened emphasis on refining the sampling process while concurrently 
+necessitating the generation of additional propositions. This phase is characterized by the 
+construction of an interrelationship diagram aimed at uncovering the connections among 
+various categories. When the categories are streamlined into more fundamental core categories 
+to facilitate the development of a research study's theory, this process is referred to as reduction 
+sampling. The initial interrelationship diagram is constructed by discerning whether a given 
+category is a subtype, variation, or integral component of another category. 
+Subsequently, a succinct literature review is conducted, serving as a valuable resource for 
+enhancing the researcher's understanding of each category or concept and providing deeper 
+insights into the research. 
+2.5.4 
+Research cycle four 
+Cycle four marks the culmination of this research study, with a primary focus on achieving 
+saturation. In this final phase, the ultimate interrelationship diagram is developed. Saturation 
+occurs when the researcher begins encountering repetitive information regarding the studied 
+
+########## PDF PAGE 183 ##########
+Page | 177 
+ 
+phenomenon or when the researcher incorporates information into the categories established in 
+the previous cycles to the extent that no fresh, pivotal details or data can be incorporated. 
+Additionally, propositions were generated in this phase, which played a pivotal role in 
+constructing the ultimate theory. 
+ 
+2.6 The trustworthiness of this research study 
+This section of the study serves a critical purpose in addressing several key questions: How 
+might the results and conclusions be susceptible to inaccuracies? How can the data potentially 
+acquired enhance our understanding within the context of the conceptual framework? 
+Furthermore, why should the readers or stakeholders involved in the research study have 
+confidence in the results? To ensure productivity and mitigate the risk of ineffectiveness, it is 
+essential to remain vigilant about potential threats, understand them, and proactively seek 
+strategies to address them within the research study. As emphasised by (Maxwell, 1996), the 
+significance of this section lies in the researchers' ongoing efforts to minimise validity threats 
+through the collection of supporting evidence throughout the research process. 
+Trustworthiness holds particular relevance in this research study, as it serves as a means to 
+establish credibility in the study. It emphasises the reliance on evidence rather than methods, 
+ensuring that the research continually verifies the methodological processes employed." 
+2.6.1 
+Trustworthiness considerations in the context of a constructionist design 
+While discussions surrounding the assurance and demonstration of the quality of 
+constructionist design are prevalent, it is noteworthy that the term 'validity' is seldom used by 
+authors (Easterby-Smith, Thorpe, & Jackson, 2012). Golden-Biddle and Locke, (1993) have 
+identified three essential components for establishing trustworthiness within a constructionist 
+framework, which are elaborated below: 
+i. Authenticity: This pertains to convincing individuals that the researcher possesses a 
+profound understanding of the insights derived from the institution. 
+ii. Plausibility: This involves considering the presence of reviews or interest among fellow 
+researchers. 
+iii. Criticality: This encompasses persuading readers to question unexamined assumptions, 
+thereby contributing genuinely innovative insights. 
+
+########## PDF PAGE 184 ##########
+Page | 178 
+ 
+Easterby-Smith et al. (2012:96) noted that David Silverman (2000) advocates for a more 
+objectivist stance due to concerns that researchers may selectively choose evidence to support 
+their preconceived biases. Silverman (2000) also offers guidance to researchers on methods 
+that can safeguard against anecdotal charges, as detailed below: 
+i. Constant comparison: This employs grounded theory concepts to identify new contexts that 
+extend the existing theory. 
+ii. Comprehensive data treatment: This involves analysing all primary data before 
+concluding. 
+iii. Refutability: This entails actively seeking instances that could potentially challenge or 
+disprove current beliefs. 
+iv. Tabulations: This emphasises thorough organisation of data, which can prove useful in 
+elucidating the occurrence of phenomena. 
+Easterby-Smith et al. (2012:97) emphasised that constructionist research outcomes should be 
+credible and reached through transparent methods. Therefore, the researcher must elucidate 
+how they gained access to the organisation, describe the informant selection process, document 
+data creation and recording, delineate processes for data summarization and synthesis, expound 
+on how data evolved into tentative ideas and explanations, and convey their personal feelings 
+about the research. Many of these aspects were duly considered and implemented in this 
+research and chapter. Below, we will delve into elements of trustworthiness before addressing 
+concerns related to external and internal validity, validity procedures, and validity threats." 
+2.6.2 
+Components of trustworthiness 
+In this research study, a comprehensive evaluation of all aspects of the research study is 
+challenging, and a researcher cannot provide a universal measure of the study's trustworthiness. 
+Instead, the responsibility lies with the researchers to demonstrate the evidence of 
+trustworthiness in the research (Maxwell, 1992). Similarly, just as quantitative research 
+requires reliability for validity, qualitative research requires dependability for transferability. 
+This means that judgments or inferences cannot be made directly from one perspective to 
+another. 
+In establishing the worth of research, the concepts of validity and trustworthiness are 
+paramount (Lincoln & Guba 1985). A crucial question in assessing trustworthiness is, 'How 
+
+########## PDF PAGE 185 ##########
+Page | 179 
+ 
+can a researcher convince the audience, or even oneself, that the research findings merit 
+attention?' This was achieved, assessed, or addressed through four key elements, briefly 
+explained below, to aid in evaluating the trustworthiness of this study: 
+i. Credibility: This pertains to the extent to which the researchers believe in the truthfulness 
+of the research results, prompting the question of whether they appear genuine. 
+ii. Confirmability: This measures the level of objectivity, determined by whether the research 
+findings are shaped by the respondents rather than influenced by researcher bias, ensuring that 
+the findings genuinely reflect the research focus. 
+iii. Dependability: This signifies that the research results can be replicated or repeated and 
+maintain consistency within the same or similar context. 
+iv. Transferability: This denotes that the research findings can be applied to some extent in 
+another context." 
+2.6.3 
+Alternatives to internal and external validity 
+In the context of enhancing the credibility of research findings and addressing potential threats 
+to validity, nine procedures can contribute to trustworthiness. These procedures include 
+triangulation, the incorporation of disconfirming evidence, fostering reflexivity in the research 
+process, employing member checking, engaging in prolonged fieldwork, fostering 
+collaboration, maintaining an audit trail, providing rich and detailed descriptions, and seeking 
+peer feedback and debriefing (Creswell & Miller, 2000:126). 
+In this study, the term 'credibility' may be used interchangeably with 'internal validity.' This 
+substitution aligns with established validity procedures, where 'internal validity' can be 
+replaced with 'credibility' (Lincoln & Guba, 1985). However, when it comes to 'external 
+validity,' which is beyond the researcher's control, it may be replaced with 'transferability.' As 
+Shaw (2013:58) notes, this redefinition signifies a notable shift in the concept's meaning, as the 
+responsibility for demonstrating transferability lies with those seeking to apply the findings in 
+different contexts when the findings are context-specific. 
+Moreover, regarding the considerations for constructing valid and trustworthy research within 
+a constructionist framework, the selection of validity procedures should be informed by the 
+paradigmatic positions of this study. Three paradigms were examined for comparison in 
+selecting validity procedures. Please refer to Table 4.3 below." 
+
+########## PDF PAGE 186 ##########
+Page | 180 
+ 
+Table 4.3: Assessment of validity procedures across paradigm positions
+(Source from Creswell and Miller, 2000:126). 
+2.6.4 
+Categories of validity (trustworthiness) and their associated challenges 
+The categories of validity encompass descriptive, interpretative, theoretical, and 
+generalizability validity. 
+Descriptive validity: In the process of depicting the researcher's observations and auditory 
+experiences, the primary threat to description validity pertains to potential gaps or inaccuracies 
+in the data. To mitigate this concern, the researchers employed audio or video recordings during 
+observations and interviews, along with subsequent verbatim transcriptions of these recordings, 
+effectively averting a significant validity risk within the study. This precaution is essential 
+because any inferences or conclusions drawn by the researcher based on the descriptive data 
+can be called into question if the initial description of the observed events or conducted 
+interviews lacks validity. Consequently, interviews are routinely recorded and transcribed, 
+unless compelling reasons exist to deviate from this practice (Maxwell, 1996). 
+Interpretive validity: As Maxwell (1996) suggests, a key challenge to achieving valid 
+interpretation is the temptation to superimpose one's framework or meaning onto the 
+perspectives of the individuals under study, rather than authentically representing their 
+viewpoints and the meanings they ascribe to their words and actions. This potential pitfall can 
+manifest in several ways: 
+1. When the researchers fail to attentively discern the intended meanings of the 
+participants. 
+
+########## PDF PAGE 187 ##########
+Page | 181 
+ 
+2. When the researchers are unaware of the frameworks and assumptions of the 
+participants. 
+3. When the researchers do not allow the participants to give their views in full and often 
+when the researchers use leading and brief questions. 
+In order to counteract this threat to validity, it was not a random way of re-categorizing 
+participant expressions based on certain prerequisites (Maxwell, 1996), but incorporated a 
+systematic method of tracing how the participants interpreted the research situation, and a 
+member-checking technique to conquer this threat of invalidity. 
+Theory and generalisation validity: Strauss and Corbin (1990) identified another cardinal 
+issue: lack of concern for other, perhaps competing or even conflicting interpretations of the 
+phenomena in study or other ways of making sense of collected data. To avoid this threat the 
+researchers adopted the practice of reviewing reasearch theories dealing with concepts not 
+captured in this study. 
+Maxwell (1996) posited that there are two forms of generalisation: internal and external 
+generalizability. Internal generalizability pertains to the extent to which conclusions can be 
+applied within the specific settings or groups studied, whereas external generalizability 
+concerns the broader applicability of conclusions beyond the studied settings or groups. In the 
+realm of this research study, internal generalizability assumes particular significance. 
+2.6.5 
+Threats to validity 
+In this research study, two primary categories of validity threats exist, although Maxwell (1996) 
+noted that it is not feasible to enumerate all potential validity threats to the conclusions drawn 
+in this research. These categories encompass researcher bias and reactivity (about the 
+researcher's influence on the settings or individuals being studied). 
+Researcher Bias: These instances refer to situations where a researcher's theories, values, or 
+preconceptions inadvertently shape the collection and analysis of data. In this research, the 
+primary concern is to understand how an individual researcher's values and perspectives might 
+influence the study's approach and findings, rather than erasing the diversity in researchers' 
+values and viewpoints they bring to the study (Hammersley & Atkinson, 1995). 
+The potential biases in this research might include researcher bias and participant bias. The 
+researchers addressed these concerns by meticulously recording responses during interviews 
+to mitigate researcher bias. Additionally, personal, face-to-face interviews were conducted to 
+
+########## PDF PAGE 188 ##########
+Page | 182 
+ 
+promote transparency, and participant identities were kept confidential to minimise participant 
+bias. 
+Reactivity: Reactivity refers to the impact of the researchers on the settings or individuals 
+under study. In this research, the objective is not to eliminate the researcher's influence but 
+rather to comprehend and harness it effectively, as entirely eradicating the researcher's impact 
+is not feasible (Hammersley & Atkinson, 1995). 
+Maxwell (1996) elucidated that in participant observation studies, reactivity is not considered 
+a significant validity threat, contrary to common belief. However, in the case of interviews, 
+reactivity poses a substantial validity threat that cannot be completely avoided. For instance, 
+the information provided by participants is influenced by both the interviewer and the 
+interview's context. 
+It is argued that incorporating credibility and originality can enhance the resonance and utility 
+of this research (Charmaz, 2006). This notion has prompted several questions, as outlined 
+below: 
+i. Credibility: Can readers independently evaluate the researcher's claims? Does the argument 
+draw strong connections to the collected data? Are there sufficient empirical observations 
+presented for each category? Has enough data been provided to support the claims? 
+ii. Originality: Can novel ideas be derived from the established categories? What is the 
+significance of the research study? Can the methodologies contribute to the modification of 
+existing ideas and practices? 
+iii. Resonance: Do participants recognize the essence of the methodologies? Does their lived 
+experience align with the identified categories? Can participants see that the analysis provides 
+insights into their communities and lives? 
+iv. Usefulness: Can the researchers propose additional areas for research? Does the research 
+contribute to expanding knowledge? Can individuals or communities apply the results in their 
+daily lives and environments? 
+2.6.6 
+ Considerations of validity 
+In the event of validity concerns, the following suggested approaches are provided. While these 
+issues should be addressed within the sampling section, they are discussed here because the 
+researcher also perceives them as potential threats to validity. 
+
+########## PDF PAGE 189 ##########
+Page | 183 
+ 
+Energy poverty system selection 
+The researcher examined various energy poverty systems, such as the Lephepane community 
+system, Umugbalu community system and Mater Pluvian Holdings training systems, which 
+had been actively responding to energy poverty and mitigating associated gender inequality at 
+the time of this research. These system studies were instrumental in gaining insights into 
+current activities and informed the researcher's decision on which systems to engage with 
+during fieldwork. The researchers primarily focused on energy poverty and gender inequality 
+systems in South Africa, except in cases where additional relevant studies were identified in 
+different locations, which had not been initially considered. The unique characteristics and 
+distinctions of South Africa and Nigeria were among the factors that influenced the decision to 
+concentrate on energy poverty and gender inequality systems in these nations and not explore 
+systems elsewhere. 
+Energy poverty and gender inequality victims’ selections 
+Several concerns and questions arose regarding the interviews conducted in this study, which 
+include: 
+1. Did the researcher interview a sufficient number of energy poverty and gender 
+inequality victims? 
+2. Did the researcher inadvertently introduce bias into the data through participant 
+selection? 
+3. Did the researcher intentionally seek out victims with diverse perspectives and 
+opinions regarding the situation? 
+4. Did the researcher engage with victims who were outspoken and critical of the energy 
+poverty response teams? 
+5. Did the researcher interview individuals who were well-known or relatively 
+unknown? 
+6. Did the researcher exclusively interview participants who were referred to them? 
+7. Did the researcher make efforts to gather both positive and negative feedback? 
+The interviews were conducted following the previously described methodologies, and the 
+researcher concluded the interview process when no new information or insights were 
+forthcoming, a point commonly referred to as reaching saturation." 
+ 
+
+########## PDF PAGE 190 ##########
+Page | 184 
+ 
+ 
+How can we ascertain the accuracy of the acquired information? 
+To accomplish this, the researcher took measures to create a comfortable environment for 
+participants, ensuring that the researcher-participant relationship would not pose a threat to 
+validity. Additionally, interviews with participants were conducted in settings separate from 
+the initial location to encourage open and candid feedback. The researcher also provided 
+assurances of confidentiality to maintain the trust and privacy of the participants' identities. 
+2.6.7 
+Ethical considerations 
+Could the research pose any harm to any of the stakeholders, members of energy poverty 
+systems, the communities, or energy poverty victims? 
+There was no harm inflicted upon the stakeholders, members of energy poverty systems, the 
+communities, energy poverty victims, or individuals who took part in this research study, as 
+their identities remained confidential. However, it is worth noting that the researchers could 
+not eliminate the potential risk that those who interacted with the energy poverty and gender 
+inequality victims might express opinions about them based on the information obtained during 
+the interviews. As a result, some victims or concerned individuals chose to abstain from 
+participation. These ethical considerations are further elaborated upon below: 
+Confidentiality  
+The primary ethical concern in this report or research study revolved around the principle of 
+confidentiality, which entailed safeguarding the confidentiality of energy poverty data gathered 
+from various sources, including informal settlements, Mater Pluviam Holdings, Umuahia 
+community and the Tzaneen municipality. 
+Selection of participants  
+The researchers conducted interviews with various stakeholders, including members of energy 
+poverty and gender inequality systems, the local government, and energy poverty victims who 
+were participants in this research study. During these interviews, audio and video recordings 
+were made to capture the dialogues and interactions among the parties involved. These 
+recordings were subsequently transcribed for analysis. Additionally, the researcher conducted 
+fieldwork to collect samples, perform tests, and create analytical memos. 
+Willing participants  
+
+########## PDF PAGE 191 ##########
+Page | 185 
+ 
+Individuals who had reservations or concerns regarding the potential risks associated with the 
+research chose not to participate. The researcher recognized that the absence of refusals to 
+participate when invited could constitute a notable threat to the research's validity. 
+Plagiarism  
+This study is built upon prior research in engineering, technology and innovation management, 
+social studies, energy studies, gender equality, etc., conducted by both members of the research 
+group and external researchers. The researcher diligently and accurately referenced these 
+sources. 
+2.6.8 
+Assessment of trustworthiness 
+The crux of the matter is that any valid concept should contain an element of truth, demonstrate 
+how the research study can be practically applied or utilised, and enable others to evaluate the 
+consistency of the procedures employed to attain the research findings. The researcher should 
+be capable of convincing readers that the results of the research study warrant attention. To 
+assess validity or trustworthiness, the following aspects are also taken into consideration and 
+documented in the appendix sections: 
+i. Truth Value: Do the findings presented accurately reflect the underlying data? (Credibility) 
+ii. Consistency: Is there evidence of completeness, comprehensiveness, and coherence in the 
+process employed? (Dependability) 
+iii. Neutrality: Is there a thorough and coherent audit trail leading to the final interpretations 
+and conclusions? (Confirmability) 
+iv. Applicability: To what extent can the results be extrapolated to another context or with 
+different participants? (Transferability) 
+ 
+2.7 Conclusion 
+This chapter has laid the groundwork for this research study by outlining philosophical 
+assumptions, paradigms, research design, and methodologies used to address the research 
+questions. We provided explanations for the types of data collection methods and detailed 
+discussions on trustworthiness and potential threats to validity/trustworthiness. These 
+discussions aim to make the researcher aware of research biases and other steps integral to the 
+model's explanation and conclusion. 
+
+########## PDF PAGE 192 ##########
+Page | 186 
+ 
+Therefore, the development of gender-inclusive biogas technology, a key innovation resulting 
+from this research study, was accomplished through the application of Design Research 
+Methodology. This approach was informed by insights gleaned from grounded theory 
+techniques, literature reviews, semi-structured interviews, and ethnographic fieldwork 
+conducted in two informal settlements. The System Energy Technology Innovation Living Lab 
+(SETILL) played a vital role in aiding the design and development of the gender-inclusive 
+energy technology innovation (the Biogas digester). The Biogas digester served as a practical 
+test case for SETILL, offering users insights into the gender dynamics of energy in informal 
+settlements and fostering creative idea generation for gender-inclusive energy technology 
+innovations. The evaluation of this co-designed gender-inclusive energy technology innovation 
+took place during a one-day, multi-stakeholder co-design workshop held in Tzaneen, South 
+Africa. 
+Imperatively, the ultimate objective of this project is to establish a Systemic Energy 
+Technology Innovation Living Lab in the designated case study areas, specifically in the 
+informal settlements of Tzaneen, South Africa, and Umuahia, Nigeria. The subsequent chapter 
+delves deeper into the research findings.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+########## PDF PAGE 193 ##########
+Page | 187 
+ 
+3.8   Expected contributions 
+This research would be of significance to a broad audience and is anticipated to have 
+methodological, theoretical, and practical relevance. The study is expected to contribute to a 
+body of knowledge on Living Lab studies, gender inequality and energy studies, technology 
+and innovation, developmental policy, and planning, and systems thinking. The study is also 
+expected to contribute to the theoretical and empirical understanding of the processes of 
+developing gender innovation in the Living Lab context. 
+Relating to practical adequacy, the research could also encourage researchers to use Africa as 
+a research context, and understand the potentials of generating new theories in energy, 
+engineering, gender and management research which could be related to the phenomena being 
+studied (George et al., 2016). 
+Furthermore, most of the studies on energy-poverty are done in rural context because most of 
+Africa is still made of rural areas (Azimoh et al., 2015; Eder, Mutsaerts & Sriwannawit, 2015; 
+Pedersen, 2016; UNDP, 2011; Zavratnik, Superina & Duh, 2019). To remedy this gap, this 
+study will analyse and contribute to SETI Living Lab in an Informal Settlement context, to 
+reduce energy poverty. 
+Furthermore, most of the typologies of the Living Labs identified, lack the aspect of gender 
+or are gender-neutral, which means they focus on users without incorporating the gender 
+aspect. Therefore, this research study would contribute by developing the SETI Living Lab 
+typology, which focuses on users incorporating the gender aspect. 
+This study is also expected to contribute to the idea of gender inequality/equality, poverty 
+alleviation, urban livelihood, and well-being recognised in the UN Agenda 2030 as a 
+sustainable development goal. Therefore, the study will conceptualise and contribute to the 
+understanding of energy inequality, energy security, and the Living Lab, and to understand 
+how the management of the energy technology in Africa is relevant to the phenomena which 
+could allow for the generation of new theories. 
+The research is expected to provide an increased understanding and reduction of energy 
+poverty and energy distribution dynamics and a way of judging the effectiveness of various 
+energy intervention strategies. The purpose will be to support the government of South Africa, 
+the energy sectors, and the poor urban informal settlements and policymakers in their 
+endeavours to slow down energy poverty. 
+
+########## PDF PAGE 194 ##########
+Page | 188 
+ 
+Finally, the research is expected to develop a systems model or framework for the 
+understanding of the behaviours expected of stakeholders influencing energy technology 
+innovation in the Living Lab focusing on energy poverty and how women contribute their 
+knowledge in the decision-making process of the design of the technologies. The research 
+will attempt to cover all these gaps. 
+3.9   Limitations of the research study 
+There could be few limitations for this research study during data collection and analysis and 
+other issues, which few of them are mentioned below: 
+I. 
+Response bias could arise from the participants in the informal settlement during 
+interviews, questionnaires, and focus groups. This means that the participants might 
+say what they want to say and not what they mean to say. This kind of threat could be 
+reduced using content analysis and coding. 
+II. 
+There might be difficulty in obtaining some vital information during this study, which 
+could have a huge impact on the theory to be generated. 
+III. 
+The informal settlements might be complicated to monitor because they 
+metamorphose quicker than the system which is supposed to be used to monitor them 
+(HAD, 2012). 
+IV. 
+The cost of research resources, like Laptops, internet facilities, and funding might limit 
+extensive research relating to energy poverty and gender inequality. 
+V. 
+The focus would be on urban and energy Living Lab around Europe and Africa. 
+Therefore, it can serve as a framework that will allow for further study to be developed. 
+This means that the research study might only be conducted in one context. The 
+researcher might require that more than one site or context should be used to confirm 
+and further develop the theory. The research result could be applied in another context, 
+but the audience of the research study are to make judgments of the transferability. 
+4.  Proposed project plans 
+Table 4.1 illustrates the timeline for the thesis or the work plan. After submission of the 
+research proposal. The first step might entail writing a literature review. Living Labs will then 
+be developed, or any other computer software required, and the results will be analysed, and 
+so on. 
+Table 5.2: Gantt chart for the proposed project plan 
+
+########## PDF PAGE 195 ##########
+Page | 189 
+ 
+Year 1 
+2027 
+Jan 
+Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 
+Upgrading the Research 
+Proposal 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Introductions write up and 
+gathering of articles, research 
+materials, and ethical clearance 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Gathering Data / Survey 
+Literatures/workshops and 
+interviews 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Building Model (Living Lab) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Year 2 
+ 
+2028 
+Jan 
+Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 
+Gathering Data / Survey 
+Literatures/workshops, 
+interviews, and data analysis 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Building Models (theoretical 
+model) 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Tests/Data 
+Collection 
+and 
+analysis 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Literature Review and research 
+writing 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Year 3 
+ 
+2029 
+Jan 
+Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec 
+Tests / Data Collection / 
+Literature Review/ workshop 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Economic Analysis / Building 
+theoretical models 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Conclusions/Recommendations   
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Submission of the draft thesis 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Final writes up 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+Final submission of thesis 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+Therefore, there could be changes that would affect the research schedule in table 5.1. 
+However, the research is proposed to last for 2-3 years. If the research starts this year, then it 
+would be before 2028. 
+5.  Ethical considerations 
+Ethics is based on justifiable standards of right and wrong that specifies what people should do 
+mostly in terms of rights, responsibilities, and benefits to society, fairness, or virtues, which 
+could be right to life, freedom, injury, and privacy. Such standards are suitable standards of 
+ethics because they support dependable and justifiable grounds. Ethics in this research would 
+
+########## PDF PAGE 196 ##########
+Page | 190 
+ 
+be a study and formulation of one’s ethical standards. It is essential to always check one’s 
+standards to ensure that they are reasonable and justifiable. 
+In this research, no harm is predicted or expected; therefore, the research will be done ethically, 
+and there will be no discrimination against any group or persons. During the data collection 
+process, there will be no risk of ethical violations as only available public sources will be used. 
+The researcher also will participate in the fieldwork and workshops relating to Living Labs and 
+energy, will have meetings with some of the members of the urban poor informal settlement 
+and stakeholders in the energy sector (especially women and girls) with granted permission. 
+The participants will also be informed before the interview or group discussions, and consent 
+forms will be signed by the participants who would allow for the use of audio recording, group 
+discussions, and they will be informed that they could stop participating anytime if they are 
+uncomfortable. Also, the participants will have the right to choose a comfortable place for the 
+interview. 
+In summary, this research study will be conducted ethically, and it will be done with the 
+University of Pretoria’s ethics committee approval. 
+6.  Proposed table of contents of the thesis report 
+The proposed Table of Contents of the research report is as follows: 
+ 
+Chapter 1: 
+Introduction and Overview 
+1.1 
+Introduction and Definitions 
+1.2 
+The research problem and background of the research study 
+1.3 
+Introducing the concern variable 
+1.4 
+Introduction to systems thinking 
+1.5 
+Brief introduction of the grounded theory and research design 
+1.6 
+Background of the researcher 
+1.7 
+Research Objectives 
+1.8  
+Research Questions 
+1.9 
+Relevance of the Research 
+1.10 
+Conclusion 
+Chapter 2: 
+Literature Survey 
+2.1 
+Introduction  
+
+########## PDF PAGE 197 ##########
+Page | 191 
+ 
+2.2 
+Structures of the literature review 
+2.3 
+Current Theories 
+2.4 
+Current Models 
+2.5 
+Current Decision-Making Methods 
+2.6 
+Conclusion 
+Chapter 3: 
+Conceptual framework 
+3.1 
+Introduction 
+3.2 
+Building the conceptual framework 
+3.3 
+Theories (to be used in this study) 
+3.4 
+Models (to be used in this study) 
+3.5 
+Methods (to be used in this study) 
+3.6 
+Conclusion 
+Chapter 4: 
+Research Methodology and process 
+4.1 
+Introduction 
+4.2 
+The philosophical considerations for this study 
+4.3 
+The grounded theory 
+4.4 
+The system dynamics application 
+4.5 
+Research Strategy 
+4.6 
+Research Methodology 
+4.7 
+Research Instrument 
+4.8 
+Conclusions 
+Chapter 5:  
+Research results 
+5.1 
+Introduction 
+5.2 
+Data Gathering Process 
+5.3 
+Data Gathered 
+5.4 
+Data Analysis 
+5.5 
+Conclusion 
+Chapter 6:  
+Theory building 
+6.1 
+Introduction 
+6.2 
+Key concepts of the analogical process 
+6.3 
+Theory building process 
+
+########## PDF PAGE 198 ##########
+Page | 192 
+ 
+6.4 
+Applying the theory-building process 
+6.5 
+Theoretical description of the Gendered energy technology model 
+6.6 
+Practical adequacy of the theoretical model 
+6.7 
+Theoretical model validity 
+6.8 
+Conclusion 
+Chapter 7: 
+Conclusions and Evaluation 
+7.1 
+Introduction 
+7.2 
+Research results 
+7.3 
+Implications and consequences of the model 
+7.4 
+The RUVE evaluation 
+7.5 
+Contributions to Theory and Practice 
+7.6 
+Limitations of the Research 
+7.7 
+Recommendations 
+7.8 
+Further research 
+7.9 
+Conclusion 
+ 
+References 
+List of Appendices 
+7. 
+Conclusion 
+The Living Lab concept happens to be a new field in the energy or power sector and would 
+need a suitable method. The qualitative then quantitative approach that could be suitable for 
+this research is proposed for this study. The research work is proposed to be done in a poor 
+urban informal settlement in South Africa. The proposed kind of technology is the household 
+energy technologies, relating to electricity and cooking technologies. 
+The people to be involved will comprise the stakeholders and the end-users (men and women) 
+in and around the case study. The development of Living Lab relating to the urban informal 
+settlement will continue to be one of the most critical methods of reducing gender inequality 
+in the energy sector in South Africa. The SETI Living Lab will support and help to broaden 
+the understanding of the gendered energy technology innovations and their interactions with 
+the urban informal settlement in Africa. 
+In this study, the theoretical models will be developed to answer the research questions and 
+
+########## PDF PAGE 199 ##########
+Page | 193 
+ 
+the theoretical model will be sufficiently abstracted that it could be applied to different 
+communities, informal settlements, energy industries and energy poverty prone areas around 
+South Africa and African environs, and any other situation that requires the development of 
+gendered energy technology innovations. The theoretical model will also provide an 
+understanding that in focusing on security of energy services, ‘gendered energy technology 
+innovations will attempt to reduce energy poverty by focusing on using the model’s or the 
+mechanism(s) that make up the model for insights that will contribute to understanding gender 
+and energy security. 
+The theoretical models to be developed will go through checklists, especially against data to 
+indicate that the model explains the real-world outcome and that the model applies to the case 
+study. To instill the confidence that the research result would be worth paying attention to or 
+worth considering, the data confirmability, dependability, and credibility procedures will be 
+addressed, as introduced by Guba et al. (1982), to replace the terms commonly used for 
+quantitative research. 
+Finally, management, engineering, gender, and energy researchers will have the chance to 
+contribute to empirical relevance and provide the energy sector and stakeholders, institutions, 
+and policymakers with the right decisions to make. 
+8. 
+References 
+ 

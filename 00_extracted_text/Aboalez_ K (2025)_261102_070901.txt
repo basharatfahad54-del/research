@@ -1,0 +1,623 @@
+ScienceDirect
+Available online at www.sciencedirect.com
+Procedia CIRP 135 (2025) 8–13
+2212-8271 © 2025 The Authors. Published by Elsevier B.V.
+This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0)
+Peer-review under responsibility of the scientific committee of the International Academy for Production Engineering (CIRP)
+10.1016/j.procir.2025.01.042
+Keywords: Energy Transition; Renewable Energy; Engineering Education; Social Justice; Critical Post-Humanism 
+1. Introduction 
+The relationship between engineering and social justice is a 
+scholarly area gaining much attention, especially among energy 
+engineers and educators. Jen Schneider [1] mentions that 
+historians Noble and Layton have “considered how the 
+engineering profession has been constituted such that it exists 
+largely in opposition to the values and practices of social 
+justice” (p.1). Although engineers, in their design objectives, 
+always want to achieve social benefits for the well-being of 
+society, the end products do not always serve the social justice 
+values in reliable and uncontested ways. Many engineering 
+professionals adopt an ideology of depoliticisation of 
+technology, which means that cultural and social values or 
+inequality are considered “political” and thus irrelevant—
+perhaps even risky—to technical engineering work [2]. Social 
+justice in engineering education is divisive due to different 
+institutional and political contexts. According to Lucena [3], the 
+two typical perspectives of engineering educators and students 
+on social justice are to consider it to fall outside the technical 
+curriculum or to place it in a complementary social science 
+course. Lucena [3] proposes a crucial question: “How might 
+engineering educators, students and practitioners begin 
+integrating these two fields of practice in the classroom, the lab, 
+in the fieldwork, in conferences, and other spaces of scholarly 
+and other pedagogical activity, in a way that results in more just 
+technologies?” (p.3). There is an urgent need to address 
+important 
+questions 
+about 
+inequalities, 
+discrimination, 
+community engagement, and decolonisation, previously 
+invisible in the engineering curriculum.
+Researchers in 
+engineering education for social justice investigate pedagogies 
+that will assist engineering students in applying social justice 
+values in their profession by understanding the conflicts and 
+contestations between social justice and engineering to develop 
+combined values. Traditional engineering education aims at 
+graduating engineers who act unilaterally to achieve what they 
+consider to be an ideal engineering design and implementation, 
+irrespective of the socio-environmental impacts [4]. Nieusma & 
+32nd CIRP Conference on Life Cycle Engineering (LCE 2025)
+A Posthumanist Social Approach to Energy Transition
+Khaled Aboalez*
+Postgraduate School of Engineering Management, University of Johannesburg, APK Bunting Road Campus, Johannesburg, South Africa 
+* Corresponding author. E-mail address: khaleda@uj.ac.za
+1. Abstract
+The energy sector worldwide is continuously growing to provide sustainable energy solutions employing renewable energy resources. This 
+transition has benefits such as reduced emissions from traditional fossil fuel power plants and economic and technological opportunities. Low-
+carbon energy projects' financial and environmental sustainability based on resources such as wind and solar systems are carefully assessed. 
+However, these energy projects usually need more assessment of the social impacts that may lead to social energy injustice. Therefore, there is a 
+need for a social life cycle assessment to determine the potential social effects on local communities where these projects are implemented. This 
+assessment will rely on developing consciousness and concern for social justice issues related to energy engineering, starting from the engineering 
+education phase, to help build a provision for a just, sustainable, and inclusive energy transition. For this aim, this paper will review the 
+relationship between energy engineering and social justice and investigate a sustainable design approach based on critical post-humanism 
+principles that consider the conflicts and contestations between social justice and energy transition.
+© 2025 The Authors. Published by Elsevier B.V. 
+This is an open access article under the CC BY-NC-ND license (https://creativecommons.org/licenses/by-nc-nd/4.0)
+Peer-review under responsibility of the scientific committee of the International Academy for Production Engineering (CIRP)
+
+
+=== PAGE BREAK ===
+
+Khaled Aboalez  et al. / Procedia CIRP 135 (2025) 8–13
+9
+Riley [5] argue that this unilateralism impedes practical, 
+socially just development work. Herkert [6] has challenged 
+engineering ethics to grow from microethics and expand into 
+macroethics. Herkert explains that ‘microethics’ considers 
+individuals and internal relations of the engineering profession; 
+‘macroethics’ applies to the collective social responsibility of 
+the profession and societal decisions about technology” 
+(p.373).
+Life cycle engineering is increasingly used to inform 
+sustainable practices and provides an excellent way to include 
+social justice values in energy systems. Including social justice 
+values is crucial to:
+•
+Resolve inequities. 
+•
+Connecting ethics and technology. 
+•
+Inclusive energy transitions. 
+A well-defined framework can guide more inclusive 
+solutions. Therefore, the research question of this paper is:
+“How can a theoretical framework be developed to integrate 
+social justice values into energy engineering education?”. 
+Applied management theories like systems, process, and 
+resource-based theories can help integrate social justice
+theories like posthumanism into energy engineering education 
+to understand socially complex, dynamic, resource-based 
+processes. With a posthumanist framework, these theories 
+emphasise human and nonhuman actors' interconnectedness, 
+ongoing evolution, and agency. 
+This paper will discuss integrating social justice values in 
+energy engineering education through
+a
+posthumanist
+framework that considers the conflicts and contestations 
+between social justice and energy transition.
+2. Social justice in the engineering context 
+This section discusses social justice in engineering, focusing 
+on energy engineering. 
+2.1. Social justice in engineering
+Leydens, Lucena, & Schneider [7] define engineering as 
+“educational and professional practices aimed at developing, 
+implementing, and improving technologies for a specific 
+purpose” (p.63). They define social justice as “the practices 
+aimed at a more equitable distribution of societal advantages or 
+disadvantages, or what has more traditionally been called 
+rewards (or opportunities) and burdens (or harms)” (p.63). The 
+authors assume that there are intersections between engineering 
+and structural functionalism (SF), which is a theoretical
+framework that observes society as a complex network whose 
+elements are working in harmony to ensure the stability of this 
+network. This resonates with critical posthumanism theory, 
+which requires an analysis of relations and entanglements 
+between human and non-human actors. This will develop a 
+broader understanding of the relationships between technology 
+and society. In a similar description, Leydens, Lucena, & 
+Nieusma [8] describe social justice in engineering as: 
+“engineering practices that strive towards an equitable 
+distribution of opportunities and resources to enhance human 
+capabilities while reducing imposed risks and harms among 
+citizens of the society” (p.1). 
+Despite these descriptions of social justice in engineering, 
+engineering academic institutions are conservative regarding 
+social justice issues [9]. In such an environment, Riley [9]
+argues that “anyone who wasn’t a wealthy straight white, able-
+bodied male was bound to encounter obstacles” (p.42).  In 
+contracts to this humanistic view, Braidotti [10] argues that 
+critical posthumanist ethics provide an alternative view of the 
+world in contrast to that of humanism. Braidotti suggests that 
+the humanist view promotes the idea of human superiority and 
+dominion at the expense of any other. This humanist view of 
+the engineering profession shows that “the profession of 
+engineering has historically served the status quo, feeding an 
+ever-expanding materialistic and militaristic culture” [11: iv]. 
+This culture is seen as capitalist, where “capitalism, through its 
+production process, produces an awesome schizophrenic 
+accumulation of energy or charge, against which it brings all its 
+vast powers of repression to bear, but which nonetheless, 
+continues to act as capitalism's limit.” [12].
+2.2. Energy engineering and social justice 
+Looking at energy engineering projects, it is evident that 
+they helped improve energy security for increased industrial 
+production [13]. However, the growing implementation of 
+these 
+projects 
+has 
+caused 
+both 
+environmental 
+and 
+socioeconomic impacts.  Energy engineering education often 
+emphasises teaching optimum design and planning of energy 
+projects for power system reliability and security. Attention is 
+paid to such constraining factors as the social acceptance of 
+local communities [14]-[16]. Local communities often suffer 
+violent disruptions in their social, economic, and cultural 
+activities due to unequal power dynamics between them and 
+energy companies [17]. Forlano [18] argues that the outcomes 
+of engineering training are based on market approaches, which 
+often disregard the needs of specific communities in favour of 
+others. Thus, the existing social inequalities are exacerbated. 
+Lucena [3] describes the risky interventions to integrate social 
+justice into engineering education and practice. These 
+interventions can be seen as “micropolitical instances of 
+activism” [19: p.269] by educators/engineers in a profession 
+focusing primarily on the design and implementation rather 
+than the social and environmental impacts. Braidotti [19]
+explained these interventions as a challenging mission because 
+“This desire for change clashes constitutionally with the 
+guardians of the status quo: the judges and managers of truths 
+and the clarity fetishists” (p.268). 
+3. Integrating social justice in engineering education and 
+practice 
+This section discusses integrating social justice principles in 
+active learning of engineering sciences using social justice as a 
+critical lens for looking at engineering education and practices. 
+3.1. Integrating social justice principles in active learning of 
+engineering sciences
+Social justice is an under-theorized concept
+in the 
+engineering professions
+because engineering educators 
+
+
+=== PAGE BREAK ===
+
+10
+Khaled Aboalez  et al. / Procedia CIRP 135 (2025) 8–13
+marginalise or reject social justice concerns or because of an 
+uncritical, problem-solving orientation in engineering as the 
+default orientation. Therefore, a framework for engineers to 
+actively apply social justice is proposed using radical 
+pedagogies of liberation [11]. Problem-solving orientation in 
+engineering is combined with active learning approaches in 
+core engineering science courses to link technology to social 
+context [20]. The aim is to assist engineering students become 
+more competent, socially responsible professionals. In a similar 
+attempt to socially contextualise a core energy engineering 
+course, Donna Riley [9] draws on the principles of liberative 
+pedagogies, which seek to empower students’ capabilities as 
+independent learners and thinkers through critical engagement 
+with the world. In this case, the educators should be “helping 
+students better understand the underlying historical, social and 
+political causes of problems, while considering issues of power 
+that characterise technocratic problem-solving” [21]. 
+3.2. Using social justice as a critical lens for looking at 
+engineering education and practice  
+Winberg & Winberg [22] draw on Nancy Fraser’s justice 
+theory to construct a decolonised socially just engineering 
+curriculum by getting students to engage with social justice 
+principles and critique the current curriculum. Fraser’s model 
+of social justice assists students in understanding collective 
+human activity through interactions between humans and their 
+social, economic, and cultural contexts to develop innovative 
+engineering solutions for local community needs. The notion 
+of “interaction” assumes the prior existence of independent 
+entities or “relata”, whereas posthumanism presents an 
+insightful conceptual shift through the idea of “intra-action”
+[23]. Barad [23] explains that “It is through specific agential 
+intra-actions that the boundaries and properties of the 
+components of phenomena become determinate and that 
+particular concepts become meaningful.” (p.139). This intra-
+action can be observed through an adapted phenomenographic 
+framework explaining how students (from engineering and 
+social science) in cross-disciplinary courses on engineering and 
+social justice move toward a conception of social justice as a 
+lens for deconstruction and critical analysis of the injustices 
+brought by engineering practices [24]. Therefore, “the task of 
+social justice must move beyond the human and humanist 
+traditions” [25: p.145].  Ellis [25: p.140] further explains that:
+A concern for social justice, therefore, commits us to attend 
+to how the human/nonhuman binary not only functions to 
+privilege Homo sapiens above other animal species but is 
+simultaneously deployed to differentiate Homo sapiens into 
+different categories of legal and social protection. 
+One possible approach to consider social justice concerns in 
+engineering education is through an emerging model for 
+educating engineers on new literacies that target social justice 
+aspects in the engineering curriculum [26]. The aim is to 
+develop engineering students with high levels of technical 
+competency and a critical awareness of social justice through 
+reflective thinking. In this approach, the task of educators is to 
+guide their students through engagement via a range of literacy 
+activities. The approach of Cumming-Potvin& Currie is 
+anthropocentric when it addresses the social injustices related 
+to industrialisation and related engineering practices. This 
+approach assumes that humans are the cause and the effect of 
+social injustices, while other non-human factors (environment 
+and technologies) don’t play any role. In contradiction, Forlano
+[18] argues that human and non-human actors share equal 
+agency in shaping world issues such as social injustices. 
+Therefore, Forlano explains that climate change and 
+environmental sustainability have become widely recognised
+as significant, pressing concerns related to social justice in 
+communities affected by industrialisation. 
+4. Increasing 
+social 
+justice 
+awareness 
+for
+energy 
+engineering through community engagement
+As an example of the work done concerning community 
+engagement in energy engineering projects to increase the 
+social awareness of engineers, Gross [27] studied a rural 
+community where a wind farm was being built. Justice theory 
+is used as a lens to assist students in comprehending how 
+different groups of a community are affected by the project. 
+The author develops the “community fairness framework” 
+based on the analysis of different community member’s
+fairness perceptions of the development. Approaching 
+environmental justice issues by considering how they are also 
+social justice issues allows engineering students to connect 
+human actions to human impacts when discussing energy needs 
+and environmental impacts. The ecological implications for 
+social justice are unlimited, as examining nonhuman actors’ 
+impacts on humans reveals social injustice and ways to remedy 
+it [28]. For example, Coole & Frost [28] suggested that 
+examining the root cause of high school drop-out rates and high 
+crime rates in poor areas, including nonhuman agents such as 
+air pollution, might lead to better results than increasing the 
+police force or imposing harsher penalties.
+5. Critical Posthumanism framework for social justice in
+energy projects
+We can conclude from the previously discussed issues that
+the energy engineering lecturer, the energy project designer, 
+and the project manager are the agents responsible for 
+transformative actions toward a socially just energy transition 
+that considers social and environmental justice principles when 
+designing and implementing energy projects.
+Social justice concepts based on different theories see the 
+integration of social justice in engineering education and 
+practice
+as a reaction to inequalities and protests by 
+disadvantaged groups and communities, where engineering 
+education and practice are based on a neoliberal order [28]. It 
+is unsustainable since it benefits a small minority at the cost of 
+most others, both human and nonhuman. This is echoed by 
+critical posthumanism as a paradigm shift towards a necessary
+and deconstructive stance in how we view ourselves, 
+enlightened by recognising
+the past while planning a 
+comprehensive and generative standpoint to create options for 
+the present and the future [29]. This posthumanist view 
+emphasises that learning is not only limited to the learner but 
+also a relational process in human/more-than-human relations. 
+Barad’s
+agential realist ontology “does not consider 
+
+
+=== PAGE BREAK ===
+
+Khaled Aboalez  et al. / Procedia CIRP 135 (2025) 8–13
+11
+separateness an inherent feature of how the world is…. The 
+world is not populated with the same or different things [23].
+In an agential realist account, Barad explains that the world 
+comprises entanglements of “social” and “natural” agencies, 
+where the distinction between the two emerges out of specific 
+intra-actions. Barad defines Intra-activity as an inexhaustible 
+dynamism configuring and reconfiguring space-time-matter 
+relations. 
+5.1. Key theoretical principles of critical posthumanism
+Braidotti [10] Believes that critical posthumanism can assist 
+in producing socially relevant knowledge “that is attuned to 
+basic principles of social justice, the respect for human decency 
+and diversity, the rejection of false universalisms; the 
+affirmation of the positivity of difference; the principles of 
+academic freedom, anti-racism, openness to others” (p.11). to 
+explain science's role in crafting the posthuman notion, 
+Braidotti affirms that scientific achievements on digital 'second 
+life', genetically modified food, advanced prosthetics, robotics 
+and reproductive technologies are familiar facets of our 
+globally linked and technologically mediated societies. This 
+has blurred the traditional distinction between humans and 
+others, exposing the non-naturalistic structure of humans.
+The fundamentals of critical posthumanism’s new ethics of 
+engagement, as described by Radomska [30], are overcoming 
+humanist anthropocentrism, considering nonhuman others, and 
+affirming differences. Critical posthumanism tries to counter 
+dualisms between humans and nonhumans by developing a 
+new and optimistic perceptive of difference leading to justice
+[31]. Ulmer [32] suggested that “justice involves more than 
+what can be found solely within the realm of human relations. 
+Rather, justice is also material, ecological, geographical, 
+geological, geopolitical, and geo-philosophical.” (p.2). 
+Consequently, “As humans become more entangled in intricate 
+relationships with technology and science, with other animals 
+and the environment, notions of the human, along with various 
+humanisms and anthropocentric approaches, have become 
+difficult to uphold” [33: p. 11]. Braidotti [10] explains that: 
+Critical posthumanism theory can be utilised as both a 
+genealogical and navigational tool or, more specifically, it can 
+be used as a generative tool to help us re-think the basic unit of 
+reference for the human in the bio-genetic age known as the 
+‘Anthropocene’. (p.5). The fundamental theoretical principles 
+of critical posthumanism are shown in Fig.1.
+Fig.1. Key theoretical principles of critical posthumanism
+For engineering education and practice, adopting the new 
+ethics of engagement would allow engineering students to 
+prioritise issues linked to social justice, ethical accountability, 
+sustainability, and intergenerational solidarity [10] and [34]. To 
+graduate engineering students into socially responsible 
+professionals, their education should provide them with 
+knowledge and “empower them with multiple perspectives and 
+questioning habits” [35: p.102]. This helps develop a suitable 
+ethical framework, where engineering education positions 
+students to critically view their ‘engineering’ actions' impact 
+on the world.
+5.2. Posthumanism social justice principles 
+Concerning
+social
+transitions for
+energy engineering 
+projects, the two dimensions of social justice, as explained by
+Gewirtz [36], are distributional justice, referring to the 
+principle of fair distribution of different resources, and 
+relational justice, which focuses on micro and macro power 
+relations in a society. These two dimensions are related to two 
+principles of justice: the first relates to social and economic 
+inequalities, and the second addresses equal liberty, which 
+explains that all people are entitled to the same level of freedom 
+within a society irrespective of power relations [37]. These 
+dimensions and principles of anthropocentric social justice 
+seek to eliminate structural inequalities that lead to unjust 
+power imbalances, usually among people—that is, human 
+actors. 
+The 
+Posthumanist 
+worldviews 
+counter 
+these 
+anthropocentric theories based on human discourses and 
+societal structures [38]. Instead, social justice, as seen through 
+the lens of posthumanism, will consider human and nonhuman 
+actors, where the human/nonhuman hierarchy flattens, and the 
+agency of nonhuman actors and assemblages of actors can be 
+explicitly recognised and accounted for [39]. 
+In this sense, Bozalek & Carolissen [40] explain social
+justice is “the ability to participate as equals and full partners 
+in social interaction” (p.13). Besides, Posthumanism could be 
+used as a lens to “understanding techno-scientific and other 
+natural cultural practices” [23: p. 135]. Barad [23] adds that 
+“posthumanism refuses the idea of a natural division between 
+nature and culture, calling for an accounting of how this 
+boundary is actively configured and reconfigured.” (p.136). 
+hence, “posthumanism doesn't presume the separateness of 
+anything, let alone the alleged spatial, ontological, and 
+epistemological distinction that sets humans apart.” (p.136). 
+Therefore, incorporating social justice in engineering education
+and practice is a transformative and inclusive action that must 
+be located against broader ecological ethics. This is needed 
+because the same processes of abuse that harm humans and 
+promote social injustices lead to environmental degradation 
+and vice versa, especially when building large energy projects, 
+whether based on fossil fuel or renewable energy resources.
+A critical posthuman pedagogy could be helpful to change 
+this view by understanding how we teach global energy issues, 
+how we introduce the content on the design and 
+implementation of energy projects and what particular topics
+need to be discussed about the local communities and the 
+environment, and “how students interpret and integrate the 
+
+
+=== PAGE BREAK ===
+
+12
+Khaled Aboalez  et al. / Procedia CIRP 135 (2025) 8–13
+knowledge, whose voices are silenced and, more importantly, 
+what gets discussed and what is erased” [41]. This is echoed by
+[42] Bell & Russell, who remind us that there is a compatibility 
+between the principles of posthumanism and critical pedagogy, 
+where educators and professionals should pay attention to local 
+contexts and societal narratives and question the universalistic 
+narratives that shape the curriculum. Gough [43] also suggests 
+characteristics of a critical posthuman pedagogy (which he 
+calls a ‘cyborg pedagogy’), where he importantly points out 
+that students should be encouraged to situate the knowledge 
+present in the curriculum in their everyday lives. 
+5.3. Mapping power relations in energy projects through 
+Posthumanist Cartography
+Posthumanist cartography is a methodology that allows for 
+mapping power relations over time [44]. Power is explained as 
+“potestas” (hindering), such as inequalities, discrimination, 
+and colonisation,
+or as “potentia” (enabling), such as 
+community engagement, social and environmental justice, and 
+decolonisation.
+power as a circulation of complex and dynamic, albeit 
+contradictory, effects” [44]. Posthumanist cartography can be 
+implemented for energy projects on two fronts:
+•
+Analytic front: to account for the structural paradoxes of a 
+historical era with a focus on the relationships and power 
+relations contained in an assemblage under investigation, 
+such as the local communities.  
+•
+Normative front: to propose new socially enacted 
+empowering alternatives and understand how they fit or 
+contradict the established viewpoints of the engineering 
+profession concerning the design and implementation 
+aspects.  
+These two fronts will enable us to account for the future 
+positive 
+multi-layered 
+transformations 
+in 
+the 
+energy 
+engineering projects assemblage. The proposed posthumanist 
+cartography framework is shown in Fig. 2. 
+Fig.2. Posthumanist cartography framework
+6. Conclusions 
+Focusing on engineering standards and neglecting the 
+importance of social and cognitive development issues for 
+engineers is typical in engineering education and practice. Life 
+cycle engineering, which evaluates environmental and social 
+impacts from resource extraction to waste management, offers 
+a unique opportunity to address these issues in energy systems 
+by embedding social justice values into the design and 
+decision-making processes. Therefore, there is a need for a 
+social life cycle assessment to determine the potential social 
+effects on local communities where these projects are 
+implemented. This assessment will rely on a posthumanist 
+cartographic approach, which harnesses the power of 
+posthumanism to be a navigational and analytical tool needed 
+in the design, planning, and implementation stages of energy 
+engineering projects. Developing and including this approach 
+in the engineering curriculum is essential
+to build 
+consciousness and concerns about social justice issues in 
+energy engineering for a just energy transition. Posthumanist 
+cartography will be used to critique social justice's absence in 
+how we present technical knowledge for energy engineering 
+education. The critique will track the origins and development 
+of the current prevailing worldview of the engineering 
+profession. Posthumanist cartography will allow the mapping 
+of power relations and other socio-material factors. 
+
+
+=== PAGE BREAK ===
+
+Khaled Aboalez  et al. / Procedia CIRP 135 (2025) 8–13
+13
+References
+[1] Schneider, J. Engineering and the values of social justice. Engineering 
+Studies 2010; 2: 1–4. 
+[2] Florman, S. C.  The Existential Pleasures of Engineering. 2nd ed.). New 
+York: St. Martin’s Griffin; 1994.
+[3] Lucena, J. Engineering Education for Social Justice: Critical Explorations 
+and Opportunities, Philosophy of Engineering and Technology, 10; 2013.
+[4] Kouprie, M., & Visser, F. S. A framework for empathy in design: Stepping 
+into and out of the user’s life. Journal of Engineering Design, 20,5: 437–
+448; 2009. 
+[5] Nieusma, D., & Riley, D. Designs on development: Engineering, 
+globalisation, and social justice. Engineering Studies 2010, 2, 1: 29–59.
+[6] Herkert, J. R. Ways of Thinking about and Teaching Ethical Problem 
+Solving : Microethics and Macroethics in Engineering, 2005, 11, 3: 373–
+385.
+[7] Leydens, J. A., Lucena, J. C., & Schneider, J. Are Engineering and Social 
+Justice (In)commensurable? A Theoretical Exploration of Macro-
+Sociological Frameworks. International Journal of Engineering, Social 
+Justice, and Peace, 2012, 1,1: 63–82. 
+[8] Leydens, J. A., Lucena, J. C., & Nieusma, D. What is design for social 
+justice? ASEE Annual Conference and Exposition, Conference 
+Proceedings, 2014. 
+[9] Riley, D. M. Engineering Thermodynamics and 21st Century Energy 
+Problems: A Textbook Companion for Student Engagement, 2012.
+[10] Braidotti, R. The Posthuman. Cambridge: Polity Press, 2013. 
+[11] Riley, D. M. Engineering and Social Justice, Synthesis Lectures on 
+Engineers. In Technology and Society, 3, 2008. 
+[12] Deleuze, G., & Guattari, F. Anti-Oedpius: Capitalism and Schizophrenia. 
+In Anti-Oedipus: Capitalism and Schizophrenia. Minneapolis: the 
+University of Minnesota Press, 1983. 
+[13] Kravchenko, A., & Kyzymenko, I. (2019). The Fourth Industrial 
+Revolution: New Paradigm of Society Development or Posthumanist 
+Manifesto. Philosophy and Cosmology, 2019, 22: 120–128. 
+[14] Wüstenhagen, R., Wolsink, M., & Bürer, M. J. Social acceptance of 
+renewable energy innovation: An introduction to the concept. Energy 
+Policy, 2007. 
+[15] Golay, M. W. On Social Acceptance of Nuclear Power., 2001, 1–16.
+[16] Vögele, S., Kunz, P., Rübbelke, D., & Stahlke, T. Transformation 
+pathways of phasing out coal-fired power plants in Germany. Energy, 
+Sustainability and Society, 2018, 8,1.
+[17] Zárate-Toledo, E., Patiño, R., & Fraga, J. Justice, social exclusion and 
+indigenous opposition: A case study of wind energy development on the 
+Isthmus of Tehuantepec, Mexico. Energy Research & Social Science, 
+2019, 54, 1–11.
+[18] Forlano, L. Posthumanism and Design. She Ji, 2017, 3, 1: 16–29.
+[19] Braidotti, R. Nomadic Theory: The Portable Rosi Braidotti. New York: 
+Columbia University Press, 2011. 
+[20] Leydens J. A.; Lucena J. C. Engineering Justice: Transforming 
+Engineering Education and Practice(1st ed.). IEEE Press, Wiley, 2018. 
+[21] Gunckel KL, Tolbert S. The imperative to move toward a dimension of 
+care in engineering education. Journal of Research in Science Teaching. 
+2018, 55, 7:938-61.
+[22] Winberg, S., & Winberg, C. Using a social justice approach to decolonise
+an engineering curriculum BT  - 8th IEEE Global Engineering Education 
+Conference, EDUCON 2017, April 25, 2017, 248–254.
+[23] Barad K. Meeting the universe halfway: Quantum physics and the 
+entanglement of matter and meaning. Duke University Press; 2007.
+[24] Kabo J, Baillie C. Seeing through the lens of social justice: A threshold 
+for engineering. European Journal of Engineering Education. 2009; 
+34(4):317-25.
+[25] Ellis EC. Anthropocene: a concise introduction. Oxford University Press; 
+2018.
+[26] Cumming-Potvin, W. M., & Currie, J. Towards New Literacies and Social 
+Justice for Engineering Education. International Journal of Engineering, 
+Social Justice, and Peace, 2017, 2(1), 21–37.
+[27] Gross, C. Community perspectives of wind energy in Australia: The 
+application of a justice and community fairness framework to increase 
+social acceptance. Energy Policy, 2007, 35(5), 2727–2736. 
+[28] Postma D. The ethics of becoming in a pedagogy for social justice. A 
+posthumanist perspective. South African Journal of Higher Education. 
+2016 Jan 1;30(3):310-28.
+[29] Motala, S. In/between science and art : Posthumanist ruminations on 
+Geomatics education. Proceedings of the 4th Biennial Conference of the 
+South African Society for Engineering Education, 2017, 194–204.
+[30] Radomska, M. Towards a posthuman collective: ontology, epistemology 
+and ethics. Praktyka Teoretyczna, 2010, (1), 93–115.
+[31] Van der Tuin, I., & Dolphijn, R. New Materialism: Interviews & 
+Cartographies. New Metaphysics, 2012.
+[32] Ulmer, J. B. Posthumanism as research methodology: inquiry in the 
+Anthropocene. International Journal of Qualitative Studies in Education, 
+2017, 30(9), 832–848. 
+[33] Åsberg, C., Koobak, R., & Johnson, E. Beyond the humanist imagination. 
+NORA - Nordic Journal of Feminist and Gender Research, 2011, 19(4), 
+218–230.
+[34] Braidotti, R. Posthuman Knowledge (Vol. 53). Cambridge: Polity Press, 
+2019.
+[35] Wolk S. Teaching for critical literacy in social studies. The Social Studies. 
+2003 May 1;94(3):101-6.
+[36] Gewirtz S. Conceptualizing social justice in education: Mapping the 
+territory. Journal of education policy. 1998 Jul 1;13(4):469-84.
+[37] Rawls, J. A Theory of Justice: Revised edition, 1999. 
+[38] Mara, A., & Hawk, B. Posthuman rhetorics and technical communication. 
+Technical Communication Quarterly, 2010, 19(1), 1–10.
+[39] Rose EJ, Walton R. 4 Factors to Actors. Posthuman Praxis in Technical 
+Communication. 2018.
+[40] Bozalek V, Carolissen R. The potential of critical feminist citizenship 
+frameworks for citizenship and social justice in higher education. 
+Perspectives in Education. 2012;30(4):9-18.
+[41] Razack, N. Decolonizing the pedagogy and practice of international social 
+work. International Social Work, 2009, 52(1), 9–21.
+[42] Bell AC, Russell CL. Beyond human, beyond words: Anthropocentrism, 
+critical pedagogy, and the poststructuralist turn. Canadian Journal of 
+Education/Revue canadienne de l'éducation. 2000, 1:188-203.
+[43] Gough, N. rhizomantically becoming‐Cyborg: Performing posthuman 
+pedagogies. Educational Philosophy and Theory, 2004, 36(3), 253–265. 
+[44] Braidotti, R. Transpositions (1st ed.). Cambridge: Polity Press, 2006. 
