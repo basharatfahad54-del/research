@@ -1,0 +1,25 @@
+﻿pages: 15
+--- page 1 ---
+SETILL ΓÇö PhD research proposal presented in thesis format 
+1 
+UNIVERSITY OF JOHANNESBURG 
+Faculty of Engineering and the Built Environment 
+Postgraduate School of Engineering Management 
+A Systemic Living Lab for a Just Energy Transition: An End-
+User-Centred Approach to Energy Technology Innovation in 
+South African Informal Settlements 
+PhD research proposal presented in thesis format 
+Chapter 1
+--- page 2 (title/contents area) ---
+SETILL ΓÇö PhD research proposal presented in thesis format 
+2 
+ 
+Contents 
+1. Introduction ............................................................................................................................ 3 
+1.1 Background and context .......................................................
+Section 9                    -> False
+Umuahia                      -> False
+Chapter 6 states             -> True
+1.2 Historical development   -> True
+RQ1                          -> True
+SETILL                       -> True

@@ -1,0 +1,45 @@
+﻿=== Chakrabarti
+  BODY: ch Methodology  DRM was developed by Blessing and Chakrabarti (2009) for research in engineering desi
+  LIST: [REF] Blessing, L.T.M. and Chakrabarti, A. (2009) *DRM, a Design Research Methodology*. London: Springer. doi:
+=== Guba
+  BODY:  and the trustworthiness framework of Lincoln and Guba (1985), operationalised through the str
+  LIST: [REF] Lincoln, Y.S. and Guba, E.G. (1985) *Naturalistic Inquiry*. Beverly Hills, CA: Sage.
+=== Hayle
+  BODY: ng harder to draw. This condition is described by Hayles (1999) and by Braidotti (2013), althou
+  BODY: n human suffering into ontology. | | N. Katherine Hayles | Embodiment; information and material
+  LIST: [REF] Hayles, N.K. (1999) *How We Became Posthuman: Virtual Bodies in Cybernetics, Literature and Informatics*
+=== Day
+  BODY: tive justice, the repair of past harm. Walker and Day (2012) make a related argument in the c
+  BODY: ng | P5 | Sovacool and Dworkin (2015); Walker and Day (2012) | Traces who pays, in what form,
+  LIST: [REF] Walker, G. and Day, R. (2012) 'Fuel poverty as injustice: integrating distribution, recognition and proc
+=== Dworkin
+  BODY: et al., 2013; Jenkins et al., 2016). Sovacool and Dworkin (2015) add a set of principles, includi
+  BODY: ehold or community-scale technology. Sovacool and Dworkin's principles do not tell an engineer wh
+  LIST: [REF] Sovacool, B.K. and Dworkin, M.H. (2015) 'Energy justice: conceptual insights and practical applications'
+=== Hippel
+  BODY: signing for users to designing with them, and von Hippel (2005) shows that users can be importan
+  BODY: ion of knowledge (Sanders and Stappers, 2008; von Hippel, 2005). These traditions have improved 
+  LIST: [REF] von Hippel, E. (2005) *Democratizing Innovation*. Cambridge, MA: MIT Press.
+=== Kaiser
+  BODY: e can occur within twelve interviews; Hennink and Kaiser (2022) find that saturation in studies 
+  LIST: [REF] Hennink, M. and Kaiser, B.N. (2022) 'Sample sizes for saturation in qualitative research: a systematic r
+=== Osanloo
+  BODY: ven when it disagrees about the detail. Grant and Osanloo (2014) describe the theoretical framewo
+  LIST: [REF] Grant, C. and Osanloo, A. (2014) 'Understanding, selecting, and integrating a theoretical framework in d
+=== Riggan
+  BODY: ilt and the connections between them. Ravitch and Riggan (2017) go further, arguing that a conce
+  LIST: [REF] Ravitch, S.M. and Riggan, M. (2017) *Reason & Rigor: How Conceptual Frameworks Guide Research*. 2nd edn.
+=== Africa, 2023
+  BODY: olds now have a grid connection (Statistics South Africa, 2023), a substantial achievement compared wi
+  BODY: ouseholds to around nine in ten (Statistics South Africa, 2023). That achievement is real. But it has 
+  LIST: [REF] Department of Mineral Resources and Energy (2019) *Integrated Resource Plan (IRP2019)*. Pretoria: Govern
+=== Commission, 2022
+  BODY:  equity cannot be separated (Presidential Climate Commission, 2022), and the Integrated Resource Plan sets
+  BODY: ance to the coal phase-down (Presidential Climate Commission, 2022). Research on implementation has been l
+  LIST: [REF] Presidential Climate Commission (2022) *A Framework for a Just Transition in South Africa*. Johannesburg
+=== Energy, 2019
+  BODY: ty of supply (Department of Mineral Resources and Energy, 2019). The Just Energy Transition Partnershi
+  LIST: [REF] Anditi, C., Musango, J.K., Smit, S. and Ceschin, F. (2022) 'Addressing gender dimensions in energy innov
+=== Population
+  BODY: Value | Relevance to this study | |---|---|---| | Population (2022) | 478,254 | Scale of the municip
+  BODY: f the municipality within which the case sits | | Population growth, 2011ΓÇô2022 | 2.0% per annum | Pr

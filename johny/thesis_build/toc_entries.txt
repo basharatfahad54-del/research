@@ -1,0 +1,172 @@
+TOC 1<<>>1. Introduction<<>>9
+TOC 2<<>>1.1 Background and context<<>>9
+TOC 3<<>>1.1.1 A grid that is changing, unevenly<<>>9
+TOC 3<<>>1.1.2 Informal settlements as socio-material configurations<<>>10
+TOC 3<<>>1.1.3 Living Labs and decentralised energy technologies<<>>11
+TOC 3<<>>1.1.4 Why this is an Engineering Management problem<<>>12
+TOC 2<<>>1.2 Historical development and conceptual foundations of this study<<>>12
+TOC 3<<>>1.2.1 The path to this study<<>>12
+TOC 3<<>>1.2.2 The Energy Cultures framework and energy behaviour<<>>13
+TOC 3<<>>1.2.3 Sustainable energy access and the systemic Living Lab<<>>14
+TOC 2<<>>1.3 Problem statement<<>>15
+TOC 2<<>>1.4 Research aim and objectives<<>>16
+TOC 2<<>>1.5 Research questions<<>>17
+TOC 2<<>>1.6 Justification of the study<<>>18
+TOC 3<<>>1.6.1 Academic justification<<>>18
+TOC 3<<>>1.6.2 Practical justification<<>>19
+TOC 3<<>>1.6.3 Policy and sector justification<<>>19
+TOC 3<<>>1.6.4 Methodological justification<<>>19
+TOC 2<<>>1.7 Scope and delimitations<<>>19
+TOC 2<<>>1.8 Key terms<<>>20
+TOC 2<<>>1.9 Structure of the thesis<<>>21
+TOC 1<<>>2. Literature Review<<>>22
+TOC 2<<>>2.1 Review approach<<>>22
+TOC 2<<>>2.2 Energy poverty and energy security in South African informal settlements<<>>23
+TOC 2<<>>2.3 Just transition and energy justice<<>>25
+TOC 2<<>>2.4 Living Labs and systems thinking<<>>26
+TOC 2<<>>2.5 The Living Lab in depth: definitions, typologies, case experience and scaling<<>>28
+TOC 3<<>>2.5.1 Definitions across fields<<>>28
+TOC 3<<>>2.5.2 Typologies and classifications<<>>29
+TOC 3<<>>2.5.3 Case experience across sectors<<>>29
+TOC 3<<>>2.5.4 Living Labs in the energy sector<<>>30
+TOC 3<<>>2.5.5 Real-world testing, evaluation and scaling<<>>31
+TOC 2<<>>2.6 End-user participation and acceptance<<>>31
+TOC 2<<>>2.7 Decentralised energy and biogas<<>>33
+TOC 3<<>>2.7.1 Biogas technology: process and system types<<>>33
+TOC 3<<>>2.7.2 Biogas in African settlements: implementation experience and lessons<<>>34
+TOC 2<<>>2.8 Posthumanism in energy and engineering<<>>35
+TOC 2<<>>2.9 Synthesis: gaps and positioning<<>>35
+TOC 1<<>>3. Theoretical Framework<<>>38
+TOC 2<<>>3.1 Why a theoretical framework matters in doctoral research<<>>38
+TOC 2<<>>3.2 Theoretical frameworks in Engineering Management research<<>>39
+TOC 2<<>>3.3 Philosophical foundations of critical posthumanism<<>>40
+TOC 3<<>>3.3.1 Humanism and its limits<<>>40
+TOC 3<<>>3.3.2 Three formations that must not be conflated<<>>41
+TOC 3<<>>3.3.3 Relational ontology<<>>42
+TOC 3<<>>3.3.4 Distributed agency<<>>42
+TOC 3<<>>3.3.5 Materiality and technological agency<<>>43
+TOC 3<<>>3.3.6 Ecological interdependence<<>>43
+TOC 3<<>>3.3.7 Ethics and power<<>>44
+TOC 3<<>>3.3.8 What posthumanism is not<<>>44
+TOC 2<<>>3.4 The four thinkers and their contributions<<>>45
+TOC 2<<>>3.5 Posthumanism and socio-technical energy systems<<>>47
+TOC 3<<>>3.5.1 A worked illustration: the biogas digester<<>>48
+TOC 2<<>>3.6 Posthumanism, social justice and just energy transition<<>>49
+TOC 2<<>>3.7 Posthumanism and end-user participation<<>>51
+TOC 3<<>>3.7.1 The user in humanist design<<>>51
+TOC 3<<>>3.7.2 The end-user as a participant in an assemblage<<>>51
+TOC 3<<>>3.7.3 What kind of knowledge do end-users hold?<<>>52
+TOC 3<<>>3.7.4 Culture as constitutive, not as a barrier<<>>53
+TOC 3<<>>3.7.5 Participation and its failure conditions<<>>53
+TOC 3<<>>3.7.6 Acceptance re-theorised<<>>54
+TOC 2<<>>3.8 Systems approaches: systems thinking, system dynamics and systems engineering<<>>54
+TOC 3<<>>3.8.1 Systems thinking and the systems approach<<>>54
+TOC 3<<>>3.8.2 System dynamics and causal loop diagramming<<>>55
+TOC 3<<>>3.8.3 Systems engineering and the systems life cycle<<>>56
+TOC 3<<>>3.8.4 Systems approaches in informal settlements<<>>56
+TOC 2<<>>3.9 Posthumanism and the Systems Living Lab<<>>57
+TOC 2<<>>3.10 Supporting perspectives and the place of TAM<<>>59
+TOC 2<<>>3.11 Relationship between the theoretical framework and the research questions<<>>60
+TOC 2<<>>3.12 Justification for selecting posthumanism<<>>61
+TOC 2<<>>3.13 Synthesis: theoretical propositions<<>>63
+TOC 2<<>>3.14 Chapter summary<<>>65
+TOC 1<<>>4. Conceptual Framework<<>>66
+TOC 2<<>>4.1 From theory to model<<>>66
+TOC 2<<>>4.2 What the framework is and is not<<>>66
+TOC 2<<>>4.3 Overview of the framework<<>>67
+TOC 2<<>>4.4 The ten components<<>>69
+TOC 3<<>>4.4.1 C1 Boundary critique and stakeholder mapping<<>>71
+TOC 3<<>>4.4.2 C2 Situated diagnosis<<>>72
+TOC 3<<>>4.4.3 C3 Participation architecture<<>>72
+TOC 3<<>>4.4.4 C4 Configuration design<<>>73
+TOC 3<<>>4.4.5 C5 Governance and ownership<<>>73
+TOC 3<<>>4.4.6 C6 Cost incidence and financing<<>>74
+TOC 3<<>>4.4.7 C7 Capability and local enterprise<<>>75
+TOC 3<<>>4.4.8 C8 Justice evaluation<<>>75
+TOC 3<<>>4.4.9 C9 Reflexive monitoring<<>>75
+TOC 3<<>>4.4.10 C10 Exit, durability and scaling<<>>76
+TOC 2<<>>4.5 The relationships between the components<<>>76
+TOC 2<<>>4.6 Operationalising justice<<>>77
+TOC 2<<>>4.7 How the framework will be used in the analysis<<>>79
+TOC 2<<>>4.8 SETILL in practice: definition, structure, stakeholders and operations<<>>80
+TOC 3<<>>4.8.1 A working definition of SETILL<<>>80
+TOC 3<<>>4.8.2 The structure of the proposed lab<<>>80
+TOC 3<<>>4.8.3 Stakeholders and their roles<<>>82
+TOC 3<<>>4.8.4 A rich picture of the problem situation<<>>84
+TOC 3<<>>4.8.5 Reading the framework as antecedents, attributes and consequences<<>>84
+TOC 3<<>>4.8.6 Bringing the model into motion<<>>85
+TOC 2<<>>4.9 Boundaries of the framework<<>>86
+TOC 2<<>>4.10 Chapter summary<<>>86
+TOC 1<<>>5. Research Design and Methodology<<>>88
+TOC 2<<>>5.1 Research paradigm<<>>88
+TOC 2<<>>5.2 Research design<<>>88
+TOC 3<<>>5.2.1 Design Research Methodology<<>>89
+TOC 3<<>>5.2.2 Why a case study<<>>90
+TOC 2<<>>5.3 Site selection<<>>91
+TOC 2<<>>5.4 Sampling and participants<<>>92
+TOC 2<<>>5.5 Data collection<<>>93
+TOC 3<<>>5.5.1 Interviews<<>>93
+TOC 3<<>>5.5.2 Focus groups<<>>94
+TOC 3<<>>5.5.3 Transect walks<<>>94
+TOC 3<<>>5.5.4 Household energy diaries<<>>94
+TOC 3<<>>5.5.5 Photovoice<<>>94
+TOC 3<<>>5.5.6 Co-design workshops<<>>95
+TOC 3<<>>5.5.7 Documents and secondary data<<>>95
+TOC 3<<>>5.5.8 Internet research<<>>95
+TOC 2<<>>5.6 Data analysis<<>>96
+TOC 3<<>>5.6.1 Reflexive thematic analysis<<>>97
+TOC 3<<>>5.6.2 Situational mapping<<>>97
+TOC 3<<>>5.6.3 Causal loop diagramming<<>>97
+TOC 3<<>>5.6.4 Diffractive reading<<>>98
+TOC 3<<>>5.6.5 From analysis to framework revision<<>>98
+TOC 2<<>>5.7 Trustworthiness<<>>98
+TOC 2<<>>5.8 Ethical considerations<<>>100
+TOC 2<<>>5.9 Risks to the research<<>>101
+TOC 2<<>>5.10 Limitations of the design<<>>102
+TOC 2<<>>5.11 Summary of the methodology<<>>103
+TOC 2<<>>5.12 Context and case study: Tzaneen<<>>103
+TOC 3<<>>5.12.1 Why Tzaneen<<>>103
+TOC 3<<>>5.12.2 The municipality<<>>104
+TOC 3<<>>5.12.3 Energy in the municipality<<>>105
+TOC 3<<>>5.12.4 Waste and water<<>>105
+TOC 3<<>>5.12.5 The settlement<<>>106
+TOC 3<<>>5.12.6 Relevance to Engineering Management<<>>106
+TOC 3<<>>5.12.7 Access, permissions and relationships<<>>107
+TOC 3<<>>5.12.8 Summary of the case<<>>108
+TOC 1<<>>6. Expected Contributions<<>>109
+TOC 2<<>>6.1 What the study claims and what it does not<<>>109
+TOC 2<<>>6.2 Theoretical contribution<<>>110
+TOC 2<<>>6.3 Methodological contribution<<>>110
+TOC 2<<>>6.4 Practical contribution<<>>111
+TOC 2<<>>6.5 Policy contribution<<>>111
+TOC 2<<>>6.6 Contribution to the supervisor's research programme<<>>112
+TOC 2<<>>6.7 Contribution to the researcher's development<<>>112
+TOC 1<<>>7. Research Plan and Timeline<<>>114
+TOC 2<<>>7.1 Overview<<>>114
+TOC 2<<>>7.2 Phase detail<<>>115
+TOC 3<<>>7.2.1 Phase 1: Foundation and ethics (months 1–6)<<>>115
+TOC 3<<>>7.2.2 Phase 2: Descriptive study I (months 7–14)<<>>115
+TOC 3<<>>7.2.3 Phase 3: Analysis and modelling (months 15–21)<<>>116
+TOC 3<<>>7.2.4 Phase 4: Co-design and prototyping (months 22–27)<<>>116
+TOC 3<<>>7.2.5 Phase 5: Evaluation and drafting (months 28–33)<<>>116
+TOC 3<<>>7.2.6 Phase 6: Finalisation (months 34–36)<<>>117
+TOC 2<<>>7.3 Milestones and decision points<<>>117
+TOC 2<<>>7.4 Resources<<>>117
+TOC 2<<>>7.5 Supervision and progress management<<>>118
+TOC 1<<>>8. Preliminary Chapter Outline<<>>119
+TOC 2<<>>8.1 Structure of the proposed thesis<<>>119
+TOC 2<<>>8.2 Notes on the chapters<<>>120
+TOC 2<<>>8.3 Publication plan<<>>120
+TOC 1<<>>9. Conclusion<<>>121
+TOC 2<<>>9.1 What this study has argued<<>>121
+TOC 2<<>>9.2 The expected contribution, restated<<>>121
+TOC 2<<>>9.3 Limitations<<>>122
+TOC 2<<>>9.4 The work that follows<<>>122
+TOC 1<<>>References<<>>124
+TOC 1<<>>Appendices<<>>131
+TOC 2<<>>Appendix A: Reference verification record<<>>131
+TOC 2<<>>Appendix B: Draft interview guide<<>>132
+TOC 2<<>>Appendix C: Consent summary<<>>133
+TOC 2<<>>Appendix D: Household energy diary template<<>>134
+TOC 2<<>>Appendix E: Workshop protocol<<>>134
+TOC 2<<>>Appendix F: Glossary of theoretical terms<<>>135
